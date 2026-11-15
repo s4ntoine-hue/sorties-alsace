@@ -120,6 +120,7 @@ ol.prio b{font-family:var(--display);font-weight:700}
 .pill.warn{background:var(--blue-soft);color:var(--blue)}
 code{font-size:13px;background:var(--blue-soft);padding:1px 5px;border-radius:4px}
 .card .when,.card .kind{display:none}
+
 #more{display:none}
 .row.more{display:contents}
 h2.day{grid-column:1/-1;font-family:var(--display);font-size:18px;margin:14px 0 0;display:flex;align-items:center;gap:10px}
@@ -130,7 +131,6 @@ h2.day::after{content:"";flex:1;height:3px;border-radius:3px;background:var(--li
   .row.more{display:none;width:100%;flex-wrap:wrap;gap:8px}
   .row.more.open{display:flex}
   .grid{gap:10px}
-  .card{flex-direction:row;border-radius:14px;border:0;border-left:6px solid var(--c)}
   .card .band,.card .actions,.card .src{display:none}
   .card .when{display:flex;flex-direction:column;gap:6px;align-items:flex-start;flex:none;width:68px;padding:12px 0 12px 10px;font-size:13px;font-variant-numeric:tabular-nums}
   .card .when b{font-family:var(--display);font-size:13px;line-height:1.2}
@@ -154,6 +154,61 @@ h2.day::after{content:"";flex:1;height:3px;border-radius:3px;background:var(--li
   .sheet{animation:up .22s ease-out}
   @keyframes up{from{transform:translateY(24px);opacity:.6}to{transform:none;opacity:1}}
 }
+.mob,.msort,.card .tile,.card .price{display:none}
+@media (max-width:640px) and (prefers-color-scheme: light){:root:not([data-theme="dark"]){--bg:#ffffff;--surface:#ffffff;--line:#e8e6e1}}
+@media (max-width:640px){
+  :root[data-theme="light"]{--bg:#ffffff;--surface:#ffffff;--line:#e8e6e1}
+  body{font-size:16px}
+  header.top{padding-block:18px 6px;gap:12px}
+  header.top>div{width:100%}
+  h1{font-size:30px;line-height:1.05}
+  .stickers{display:none}
+  .sub{font-size:13px;margin-top:6px}
+  .views{width:100%;display:grid;grid-template-columns:repeat(4,auto);justify-content:space-between;gap:0;background:var(--line);border-radius:999px;padding:4px}
+  .views button{border:0;background:transparent;padding:9px 10px;font-size:13px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .views button[aria-pressed="true"]{background:var(--fg);color:var(--bg)}
+  .bar{border-bottom:0;padding-block:6px 0}
+  #periods,#chips,.bar>.wrap>.row:not(.range){display:none}
+  .mob{display:grid;gap:12px}
+  .msearch{display:flex;align-items:center;gap:10px;border:2.5px solid var(--fg);border-radius:999px;padding:0 18px;height:54px}
+  .msearch input{border:0;background:transparent;font:inherit;font-size:17px;color:var(--fg);flex:1;min-width:0;padding:0;outline:none}
+  .msearch:focus-within{outline:3px solid var(--blue);outline-offset:2px}
+  .qqo{display:grid;grid-template-columns:1fr 1fr 1fr;border:2.5px solid var(--fg);border-radius:20px;overflow:hidden}
+  .qqo label{position:relative;padding:10px 12px;min-width:0;display:block}
+  .qqo label+label{border-left:1.5px solid var(--line)}
+  .qqo span{display:block;font-size:11px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+  .qqo select{appearance:none;-webkit-appearance:none;border:0;background:transparent;padding:2px 0 0;font:inherit;font-weight:700;font-size:15px;color:var(--fg);width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;border-radius:0}
+  .qqo select:focus-visible{outline:none}
+  .qqo label:focus-within{background:var(--blue-soft)}
+  .sc-title{font-size:12px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);margin-top:4px}
+  .shortcuts{display:flex;flex-wrap:wrap;gap:8px}
+  .sc{font:inherit;font-weight:700;font-size:15px;border:2px solid var(--fg);background:transparent;color:var(--fg);border-radius:999px;padding:8px 16px;cursor:pointer}
+  .sc[aria-pressed="true"]{background:var(--fg);color:var(--bg)}
+  #more{display:inline-flex;align-self:flex-start}
+  .count{margin:18px 0 4px;font-size:15px;color:var(--fg);font-weight:700}
+  .count #count{font-family:var(--display);font-size:20px}
+  #share-we{display:none}
+  .msort{display:flex;gap:6px;align-items:center;font-weight:500;color:var(--muted);font-size:15px}
+  .msort select{border:0;background:transparent;font-weight:700;color:var(--fg);padding:0;font-size:15px}
+  .grid{gap:0}
+  .card{background:transparent;box-shadow:none;border:0;border-bottom:1.5px solid var(--line);border-radius:0;padding:16px 0;display:grid;grid-template-columns:62px 64px 1fr;gap:0 12px;align-items:start}
+  .card:hover{transform:none}
+  .card .tile{display:grid;place-items:center;grid-column:2;grid-row:1;width:64px;height:64px;border-radius:12px;background:var(--c);font-size:28px}
+  .card .when{grid-column:1;grid-row:1;width:auto;padding:4px 0 0;gap:4px}
+  .card .when b{font-family:var(--body);font-weight:700;font-size:15px}
+  .card .when .free-tag{display:none}
+  .card .body{grid-column:3;grid-row:1;padding:0;gap:4px;min-width:0}
+  .card .kind{background:none;color:var(--muted);padding:0;font-size:12px;letter-spacing:.14em;display:flex;align-items:center;gap:6px}
+  .card .kind::before{content:"";width:8px;height:8px;border-radius:50%;background:var(--c);flex:none}
+  .card h3{font-family:var(--body);font-weight:700;font-size:17px;line-height:1.3}
+  .card .place{font-size:15px}
+  .card .place b{font-weight:500;color:var(--muted)}
+  .card .price{display:inline-block;align-self:flex-start;border:2px solid var(--fg);border-radius:999px;padding:2px 12px;font-weight:700;font-size:14px;margin-top:4px}
+  .card .info{display:none}
+  h2.day{font-family:var(--body);font-weight:800;font-size:22px;padding:14px 0 6px;margin:8px 0 0;border-bottom:0}
+  h2.day::after{display:none}
+  details.long summary{font-size:20px}
+}
 </style>
 </head><body>
 
@@ -175,6 +230,16 @@ h2.day::after{content:"";flex:1;height:3px;border-radius:3px;background:var(--li
 
 <section id="agenda">
   <div class="bar"><div class="wrap">
+    <div class="mob" id="mob">
+      <label class="msearch"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2.4"/><path d="M16.5 16.5 21 21" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg><input type="search" id="mq" placeholder="Concert, artiste, lieu…" aria-label="Rechercher"></label>
+      <div class="qqo">
+        <label><span>Quand</span><select id="m-when"></select></label>
+        <label><span>Quoi</span><select id="m-what"></select></label>
+        <label><span>Où</span><select id="m-where"></select></label>
+      </div>
+      <div class="sc-title">Raccourcis</div>
+      <div class="shortcuts" id="shortcuts"></div>
+    </div>
     <div class="row" id="periods" role="group" aria-label="Période"></div>
     <div class="row range" id="range" hidden>
       <label class="small">Du <input type="date" id="from"></label>
@@ -202,7 +267,7 @@ h2.day::after{content:"";flex:1;height:3px;border-radius:3px;background:var(--li
     <div class="row" id="chips" role="group" aria-label="Thèmes"></div>
   </div></div>
   <div class="wrap">
-    <div class="count"><span id="count"></span><button class="btn" id="share-we">Copier le programme du week-end</button></div>
+    <div class="count"><span id="count"></span><label class="msort">Trier par <select id="m-sort"><option value="date">Horaire</option><option value="dist">Distance</option><option value="commune">Commune</option><option value="title">A → Z</option></select></label><button class="btn" id="share-we">Copier le programme du week-end</button></div>
     <div class="grid" id="list"></div>
     <details class="long" id="longwrap" open>
       <summary>Expositions en cours <small id="longn"></small></summary>
@@ -294,6 +359,9 @@ const PAYS={FR:"France",CH:"Suisse",DE:"Allemagne"};
 const HAUT_RHIN=new Set(["Mulhouse","Colmar","Ammerschwihr","Beblenheim","Breitenbach-Haut-Rhin","Durrenentzen","Gueberschwihr","Haut-Soultzbach","Kaysersberg Vignoble","Kembs","Logelheim","Metzeral","Neuf-Brisach","Oderen","Orbey","Ribeauvillé","Rixheim","Roderen","Thann","Turckheim","Ungersheim","Wattwiller","Illzach","Cernay","Guebwiller","Saint-Louis","Altkirch","Munster","Eguisheim","Rouffach","Huningue","Village-Neuf","Hégenheim","Bartenheim","Blotzheim","Buschwiller","Leymen","Ranspach-le-Bas","Sierentz"]);
 const THEME_COLOR={"Marchés de Noël & fêtes":"noel","Brocantes & marchés":"broc","Concerts & festivals":"concert","Spectacles & cinéma":"spectacle","Expos & salons":"expo","Famille & enfants":"famille","Vin & gastronomie":"vin","Sport & nature":"sport","Visites & patrimoine":"visite","Ateliers":"atelier","Culture & vie locale":"culture"};
 const tc=t=>`var(--t-${THEME_COLOR[t]||"culture"})`;
+const THEME_ICON={"Marchés de Noël & fêtes":"🎄","Brocantes & marchés":"🧺","Concerts & festivals":"🎸","Spectacles & cinéma":"🎭","Expos & salons":"🖼️","Famille & enfants":"🧸","Vin & gastronomie":"🍷","Sport & nature":"🌲","Visites & patrimoine":"🏰","Ateliers":"✂️","Culture & vie locale":"✨"};
+const MOB_CITIES=["Mulhouse","Colmar","Strasbourg","Sélestat","Saint-Louis","Bâle","Lörrach","Fribourg-en-Brisgau"];
+const SHORTCUTS=[["free","Gratuit"],["fam","En famille"],["today","Aujourd'hui"],["tomorrow","Demain"],["weekend","Ce week-end"],["week","Cette semaine"],["expo","Expositions"],["near","À 15 km"]];
 const THEMES=["Marchés de Noël & fêtes","Brocantes & marchés","Concerts & festivals","Spectacles & cinéma","Expos & salons","Famille & enfants","Vin & gastronomie","Sport & nature","Visites & patrimoine","Ateliers","Culture & vie locale"];
 const LONG_DAYS=21;
 
@@ -373,11 +441,13 @@ function card(e){
   const fav=S.favs.has(e.id);
   return `<article class="card" style="--c:${tc(e.theme)}" data-open="${e.id}" tabindex="0" aria-label="${esc(e.titre)} : voir la fiche">
     <div class="band"><span class="d">${dateLabel(e)}</span><span class="k">${esc(e.theme)}</span></div>
+    <div class="tile" aria-hidden="true">${THEME_ICON[e.theme]||"✨"}</div>
     <div class="when" aria-hidden="true"><b>${e.horaires?esc(e.horaires.split(/\s*[-–]\s*/)[0]):isLong(e)?"Expo":"Journée"}</b>${e.gratuit?'<span class="free-tag">Gratuit</span>':""}</div>
     <div class="body">
     <span class="kind">${esc(e.categorie||e.theme)}</span>
     <h3>${esc(e.titre)}</h3>
     <div class="place">${placeLine(e)}${e.dist!==null?` · ≈ ${e.dist} km`:""}</div>
+    ${e.gratuit||e.prix?`<div class="price">${e.gratuit?"Gratuit":esc(e.prix)}</div>`:""}
     ${(e.horaires||e.prix)?`<div class="info">${e.horaires?`<span class="h">🕒 ${esc(e.horaires)}</span>`:""}${e.gratuit?'<span class="free-tag">Gratuit</span>':e.prix?`<span>${esc(e.prix)}</span>`:""}</div>`:""}
     <div class="src">Vu sur ${e.sources.map(s=>esc(s.nom)).join(" · ")}</div>
     <div class="actions">
@@ -453,6 +523,20 @@ function renderBar(){
   $("chips").innerHTML=`<button class="chip free" data-free="1" aria-pressed="${S.free}"><span class="dot"></span>Gratuit</button>`+
     THEMES.filter(t=>counts[t]).map(t=>`<button class="chip" style="--c:${tc(t)}" data-t="${esc(t)}" aria-pressed="${S.themes.has(t)}"><span class="dot"></span>${esc(t)}</button>`).join("");
 }
+function renderMobile(){
+  const all=base();
+  $("m-when").innerHTML=periods().filter(p=>p.k!=="custom").map(p=>`<option value="${p.k}"${S.period===p.k?" selected":""}>${p.label}</option>`).join("")+(S.period==="custom"?`<option value="custom" selected>Dates choisies</option>`:"");
+  const counts={};DATA.events.forEach(e=>counts[e.theme]=(counts[e.theme]||0)+1);
+  const one=S.themes.size===1?[...S.themes][0]:"";
+  $("m-what").innerHTML=`<option value="">Toutes</option>`+THEMES.filter(t=>counts[t]).map(t=>`<option value="${esc(t)}"${one===t?" selected":""}>${THEME_ICON[t]} ${esc(t)}</option>`).join("")+(S.themes.size>1?`<option selected>${S.themes.size} types</option>`:"");
+  const wv=S.radius>=150?"":`${S.ref}|${S.radius}`;
+  const cities=MOB_CITIES.includes(S.ref)?MOB_CITIES:[S.ref,...MOB_CITIES];
+  $("m-where").innerHTML=`<option value="">Partout</option>`+cities.map(c=>[15,30,50].map(r=>`<option value="${esc(c)}|${r}"${wv===c+"|"+r?" selected":""}>${esc(c.replace("Fribourg-en-Brisgau","Fribourg"))} · ${r} km</option>`).join("")).join("");
+  if(wv&&!$("m-where").value) $("m-where").insertAdjacentHTML("beforeend",`<option selected>${esc(S.ref)} · ${S.radius} km</option>`);
+  const on={free:S.free,fam:S.themes.size===1&&S.themes.has("Famille & enfants"),expo:S.themes.size===1&&S.themes.has("Expos & salons"),near:S.radius<150&&S.radius<=15,today:S.period==="today",tomorrow:S.period==="tomorrow",weekend:S.period==="weekend",week:S.period==="week"};
+  $("shortcuts").innerHTML=SHORTCUTS.map(([k,l])=>`<button class="sc" data-sc="${k}" aria-pressed="${!!on[k]}">${k==="near"?"📍 ":""}${l}</button>`).join("");
+  $("m-sort").value=S.sort; if($("mq").value!==S.q) $("mq").value=S.q;
+}
 function renderSources(){
   const shown={};DATA.events.forEach(e=>e.sources.forEach(s=>shown[s.source]=(shown[s.source]||0)+1));
   $("srctable").innerHTML=DATA.sources.map(s=>`<tr><td><b>${esc(s.nom)}</b><br><span class="src">${(s.pages||[]).map(esc).join("<br>")}</span></td>
@@ -470,7 +554,7 @@ function renderAll(){
   $("sources").hidden=S.view!=="sources"; $("ideas").hidden=S.view!=="ideas";
   $("periods").hidden=S.view==="prog"; $("share-we").hidden=S.view==="prog";
   $("rlab").textContent=S.radius>=150?"toute l'Alsace":`${S.radius} km max`;
-  renderBar(); renderList(); renderSources();
+  renderBar(); renderMobile(); renderList(); renderSources();
 }
 function toast(m){const t=$("toast");t.textContent=m;t.hidden=false;clearTimeout(toast.h);toast.h=setTimeout(()=>t.hidden=true,2000)}
 function copy(text,ok){
@@ -490,6 +574,12 @@ document.addEventListener("click",ev=>{
   const b=ev.target.closest("button");
   if(!b){ if(ev.target.closest("a")) return; const c=ev.target.closest(".card[data-open]"); if(c) openDetail(c.dataset.open); return; }
   if(b.dataset.close){closeDetail();return}
+  if(b.dataset.sc){const k=b.dataset.sc;
+    if(k==="free") S.free=!S.free;
+    else if(k==="fam"||k==="expo"){const t=k==="fam"?"Famille & enfants":"Expos & salons";const was=S.themes.size===1&&S.themes.has(t);S.themes=new Set(was?[]:[t]);}
+    else if(k==="near"){S.radius=S.radius<=15?150:15;$("radius").value=S.radius;}
+    else S.period=k;
+    renderAll();return}
   if(b.id==="more"){const o=b.getAttribute("aria-expanded")!=="true";b.setAttribute("aria-expanded",o);$("morefilters").classList.toggle("open",o);return}
   if(b.dataset.open){openDetail(b.dataset.open);return}
   if(b.dataset.p){S.period=b.dataset.p;renderAll()}
@@ -505,6 +595,11 @@ document.addEventListener("keydown",ev=>{
   if((ev.key==="Enter"||ev.key===" ")&&ev.target.matches&&ev.target.matches(".card[data-open]")){ev.preventDefault();openDetail(ev.target.dataset.open)}
 });
 $("q").addEventListener("input",e=>{S.q=e.target.value;renderBar();renderList()});
+$("mq").addEventListener("input",e=>{S.q=e.target.value;$("q").value=S.q;renderBar();renderList()});
+$("m-when").addEventListener("change",e=>{S.period=e.target.value;renderAll()});
+$("m-what").addEventListener("change",e=>{S.themes=new Set(e.target.value&&THEMES.includes(e.target.value)?[e.target.value]:[]);renderAll()});
+$("m-where").addEventListener("change",e=>{const v=e.target.value;if(!v){S.radius=150}else{const [c,r]=v.split("|");if(!r)return;S.ref=c;S.radius=+r;store.set("ref",S.ref);if(![...$("ref").options].some(o=>o.value===c))$("ref").insertAdjacentHTML("beforeend",`<option>${esc(c)}</option>`);$("ref").value=c}$("radius").value=S.radius;renderAll()});
+$("m-sort").addEventListener("change",e=>{S.sort=e.target.value;$("sort").value=S.sort;renderList()});
 $("ref").addEventListener("change",e=>{S.ref=e.target.value;store.set("ref",S.ref);renderAll()});
 $("radius").addEventListener("input",e=>{S.radius=+e.target.value;renderAll()});
 $("sort").addEventListener("change",e=>{S.sort=e.target.value;renderList()});
