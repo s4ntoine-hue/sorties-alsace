@@ -1,0 +1,78 @@
+{
+ "source": "baselland-tourismus",
+ "nom": "Baselland Tourismus",
+ "pays": "CH",
+ "lu_le": "2026-11-15",
+ "pages": [
+  "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements (page 1 sur 5, 2713 manifestations)"
+ ],
+ "note": "Format des pages suivantes inconnu : seule la page 1 est lue.",
+ "events": [
+  {
+   "titre": "Ausstellung Väter & Töchter",
+   "date_debut": "2026-11-15",
+   "date_fin": "2026-11-19",
+   "horaires": null,
+   "lieu": "Alterszentrum Am Bachgraben",
+   "commune": "Allschwil",
+   "categorie": "Exposition",
+   "prix": null,
+   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/ausstellung-väter-töchter-eve_wt1_bdaadehfcd"
+  },
+  {
+   "titre": "MYSTIK",
+   "date_debut": "2026-11-15",
+   "date_fin": "2026-11-20",
+   "horaires": null,
+   "lieu": "Röm.-kath. Kirche St. Theresia",
+   "commune": "Allschwil",
+   "categorie": "Exposition",
+   "prix": null,
+   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/mystik-eve_wt1_bdbiafgced"
+  },
+  {
+   "titre": "Harry P.Otter und die Zauberprüfung (jeu de piste)",
+   "date_debut": "2026-11-15",
+   "date_fin": "2026-12-31",
+   "horaires": null,
+   "lieu": "St. Johanns-Park",
+   "commune": "Bâle",
+   "categorie": "Famille & enfants",
+   "prix": null,
+   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/harry-p.otter-und-die-zauberprüfung-eve_uv7_heibdghgidcbiddacei-hbabjbhfhdejbefgdcg"
+  },
+  {
+   "titre": "Zmorgeland – Sonntagsbrunch in der Markthalle",
+   "date_debut": "2026-11-15",
+   "date_fin": "2026-12-27",
+   "horaires": null,
+   "lieu": "Alte Markthalle",
+   "commune": "Bâle",
+   "categorie": "Gastronomie",
+   "prix": null,
+   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/zmorgeland---sonntagsbrunch-in-der-markthalle-eve_wt1_bcahdcacjg"
+  },
+  {
+   "titre": "Zmorgeinsle – Vegetarischer Sonntagsbrunch am Rhein",
+   "date_debut": "2026-11-15",
+   "date_fin": "2026-12-27",
+   "horaires": null,
+   "lieu": "BASSO Basel",
+   "commune": "Bâle",
+   "categorie": "Gastronomie",
+   "prix": null,
+   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/zmorgeinsle---vegetarischer-sonntagsbrunch-am-rhein-eve_wt1_bcbdedhecd"
+  },
+  {
+   "titre": "Young Celebration",
+   "date_debut": "2026-11-15",
+   "date_fin": "2026-11-15",
+   "horaires": null,
+   "lieu": "Fondation Beyeler",
+   "commune": "Riehen",
+   "categorie": "Famille & enfants",
+   "prix": null,
+   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/kinder-celebration-eve_wt1_bdcgighdgj"
+  }
+ ]
+}

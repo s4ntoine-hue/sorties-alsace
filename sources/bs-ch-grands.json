@@ -1,0 +1,55 @@
+{
+ "source": "bs-ch-grands",
+ "nom": "Bâle – grands événements",
+ "pays": "CH",
+ "lu_le": "2026-11-15",
+ "pages": [
+  "https://www.bs.ch/fr/schwerpunkte/portrait/evenements-bale"
+ ],
+ "events": [
+  {
+   "titre": "Festival de littérature BuchBasel",
+   "date_debut": "2026-11-13",
+   "date_fin": "2026-11-15",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": "Festival littéraire",
+   "prix": null,
+   "url": "https://www.bs.ch/fr/evenements/festival-de-litterature-buchbasel"
+  },
+  {
+   "titre": "Noël à Bâle (marché de Noël du Münsterplatz)",
+   "date_debut": "2026-11-26",
+   "date_fin": "2026-12-23",
+   "horaires": null,
+   "lieu": "Münsterplatz",
+   "commune": "Bâle",
+   "categorie": "Marché de Noël",
+   "prix": null,
+   "url": "https://www.bs.ch/fr/evenements/noel-bale"
+  },
+  {
+   "titre": "Palazzo Colombino et Cirque Noël de Bâle",
+   "date_debut": "2026-11-20",
+   "date_fin": "2027-01-10",
+   "horaires": null,
+   "lieu": "Rosentalanlage",
+   "commune": "Bâle",
+   "categorie": "Cirque",
+   "prix": null,
+   "url": "https://www.bs.ch/fr/evenements/palazzo-colombino-und-cirque-noel-de-bale"
+  },
+  {
+   "titre": "Exposition « Van Gogh, Hodler et un cabriolet »",
+   "date_debut": "2026-09-19",
+   "date_fin": "2027-02-07",
+   "horaires": null,
+   "lieu": "Kunstmuseum Basel",
+   "commune": "Bâle",
+   "categorie": "Exposition",
+   "prix": null,
+   "url": "https://www.bs.ch/fr/evenements/exposition-van-gogh-hodler-et-un-cabriolet"
+  }
+ ]
+}

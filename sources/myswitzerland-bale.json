@@ -1,0 +1,122 @@
+{
+ "source": "myswitzerland-bale",
+ "nom": "MySwitzerland (Bâle)",
+ "pays": "CH",
+ "lu_le": "2026-11-15",
+ "pages": [
+  "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/manifestations-rechercher/-/bale/ (page 1 sur 12, puis ?p=N)"
+ ],
+ "note": "Expositions permanentes des musées écartées.",
+ "events": [
+  {
+   "titre": "Vitrinenausstellung – Basler Papiermühle",
+   "date_debut": "2026-08-28",
+   "date_fin": "2026-12-18",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": "Exposition",
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/vitrinenausstellung-basler-papiermuehle/"
+  },
+  {
+   "titre": "Vitrinenausstellung – Historisches Museum",
+   "date_debut": "2026-10-19",
+   "date_fin": "2027-04-18",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": "Exposition",
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/vitrinenausstellung-historisches-museum/"
+  },
+  {
+   "titre": "Verner Panton: Form, Colour, Space",
+   "date_debut": "2026-05-23",
+   "date_fin": "2027-05-09",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": "Exposition",
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/verner-panton-form-colour-space/"
+  },
+  {
+   "titre": "Nicolas Darrot. Fuzzy Logic – Museum Tinguely",
+   "date_debut": "2026-03-05",
+   "date_fin": "2027-03-07",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": "Exposition",
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/nicolas-darrot-fuzzy-logic-museum-tinguely/"
+  },
+  {
+   "titre": "Fotoausstellung MOVING-PICTURES",
+   "date_debut": "2026-11-07",
+   "date_fin": "2026-11-21",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": "Exposition photo",
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/fotoausstellung-moving-pictures/"
+  },
+  {
+   "titre": "À la maison – en voyage – la vie à bord",
+   "date_debut": "2026-10-22",
+   "date_fin": "2027-02-21",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": "Exposition",
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/a-la-maison-en-voyage-la-vie-a-bord/"
+  },
+  {
+   "titre": "Frank Stella et les synagogues en bois détruites",
+   "date_debut": "2025-11-30",
+   "date_fin": "2027-01-31",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": "Exposition",
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/frank-stella-et-les-synagogues-en-bois-detruites-exposition-temporaire/"
+  },
+  {
+   "titre": "Basel auf dem Teller – Kulinarische Stadtgeschichte(n)",
+   "date_debut": "2026-05-23",
+   "date_fin": "2027-03-21",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": "Exposition",
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/basel-auf-dem-teller-kulinarische-stadtgeschichten/"
+  },
+  {
+   "titre": "Sing & Jam Session (pop/rock)",
+   "date_debut": "2026-01-18",
+   "date_fin": "2026-12-20",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": "Concert",
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/sing-jam-session-zusammen-singen-und-musizieren-poprock-cover-songs/"
+  },
+  {
+   "titre": "Festival international de littérature BuchBasel 2026",
+   "date_debut": "2026-11-13",
+   "date_fin": "2026-11-15",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": "Festival littéraire",
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/festival-international-de-litterature-buchbasel-2026/"
+  }
+ ]
+}

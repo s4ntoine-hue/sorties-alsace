@@ -1,0 +1,265 @@
+{
+ "source": "oazis-freiburg",
+ "nom": "Oazis (Fribourg-en-Brisgau)",
+ "pays": "DE",
+ "lu_le": "2026-11-15",
+ "pages": [
+  "https://oazis.app/sorties/freiburg-im-breisgau (2 817 à venir ; seuls les premiers sont lus)"
+ ],
+ "note": "Pas de lien par événement : le lien mène à la liste.",
+ "events": [
+  {
+   "titre": "Schatzsuche Freiburg: Rätsel-Tour durch die Altstadt",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": "Altstadt",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Balade",
+   "prix": "15 €",
+   "url": "https://oazis.app/sorties/freiburg-im-breisgau"
+  },
+  {
+   "titre": "B.ARBIE in Not (jeu de piste)",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": "Départ libre en ville",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Balade",
+   "prix": "9,90–14,90 €",
+   "url": "https://oazis.app/sorties/freiburg-im-breisgau"
+  },
+  {
+   "titre": "Murder party Escape the City: Der verdächtige Fund am Wasser",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "10h",
+   "lieu": "Seebühne",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Jeu de piste",
+   "prix": "79,90 €",
+   "url": "https://oazis.app/sorties/freiburg-im-breisgau"
+  },
+  {
+   "titre": "Sonntagswerkstatt: Buchbinden mit Recyclingmaterialien",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "14h",
+   "lieu": "WaldHaus Freiburg",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Atelier",
+   "prix": "25 €",
+   "url": "https://oazis.app/sorties/freiburg-im-breisgau"
+  },
+  {
+   "titre": "NFL Watchparty: Patriots vs. Lions",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "15h",
+   "lieu": "Carl-Schurz-Haus",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Sport",
+   "prix": "gratuit",
+   "url": "https://oazis.app/sorties/freiburg-im-breisgau"
+  },
+  {
+   "titre": "Sebastian Reich & Amanda – Purer Zufall",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "18h",
+   "lieu": "Paulussaal",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Spectacle humour",
+   "prix": "42,90 €",
+   "url": "https://oazis.app/sorties/freiburg-im-breisgau"
+  },
+  {
+   "titre": "Das CelloDuo – Das Beste aus Rock und Pop",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "18h",
+   "lieu": "Historisches Kaufhaus",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Concert",
+   "prix": "14–46 €",
+   "url": "https://oazis.app/sorties/freiburg-im-breisgau"
+  },
+  {
+   "titre": "Die Jane-Austen-Methode",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "18h",
+   "lieu": "Theater Freiburg",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Théâtre",
+   "prix": "15 €",
+   "url": "https://oazis.app/sorties/freiburg-im-breisgau"
+  },
+  {
+   "titre": "Historix-Tours: Vampire, Blut und böse Buben",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "18h",
+   "lieu": "Am Predigertor",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Visite guidée",
+   "prix": null,
+   "url": "https://oazis.app/sorties/freiburg-im-breisgau"
+  },
+  {
+   "titre": "EHC Freiburg – ECDC Indians Memmingen (hockey)",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "19h",
+   "lieu": "Echte Helden Arena",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Sport",
+   "prix": "20–35 €",
+   "url": "https://oazis.app/sorties/freiburg-im-breisgau"
+  },
+  {
+   "titre": "Mozart, Requiem KV 626 – Evgeni Orkin",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "19h",
+   "lieu": "St. Martinskirche",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Concert classique",
+   "prix": "20 €",
+   "url": "https://oazis.app/sorties/freiburg-im-breisgau"
+  },
+  {
+   "titre": "Mateusz Kowalski – Gitarrenrezital",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "19h",
+   "lieu": "Kloster St. Lioba (Günterstal)",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Concert classique",
+   "prix": "20 €",
+   "url": "https://oazis.app/sorties/freiburg-im-breisgau"
+  },
+  {
+   "titre": "ImproComedyShow – Freiburg trifft Berlin",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "19h",
+   "lieu": "Gewölbekeller im Hotel Schiff",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Spectacle humour",
+   "prix": "gratuit",
+   "url": "https://oazis.app/sorties/freiburg-im-breisgau"
+  },
+  {
+   "titre": "Viktoria Tolstoy & Jacob Karlzon – Who We Are",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "20h",
+   "lieu": "Jazzhaus",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Concert jazz",
+   "prix": "30,70 €",
+   "url": "https://oazis.app/sorties/freiburg-im-breisgau"
+  },
+  {
+   "titre": "LEAP – Entropy World Tour",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "20h",
+   "lieu": "E-Werk",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Concert rock",
+   "prix": "35,20 €",
+   "url": "https://oazis.app/sorties/freiburg-im-breisgau"
+  },
+  {
+   "titre": "A Migrant Cartography",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "20h",
+   "lieu": "Cargo-Theater in der H15",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Théâtre",
+   "prix": "25 €",
+   "url": "https://oazis.app/sorties/freiburg-im-breisgau"
+  },
+  {
+   "titre": "Tape Art Convention 2026 – Ausstellung",
+   "date_debut": "2026-11-16",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": "Kulturaggregat",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Exposition",
+   "prix": "gratuit",
+   "url": "https://oazis.app/sorties/freiburg-im-breisgau"
+  },
+  {
+   "titre": "Märchen schreit die Zeit – Album Release Tour",
+   "date_debut": "2026-11-16",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": "Jazzhaus",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Concert rock",
+   "prix": null,
+   "url": "https://oazis.app/sorties/freiburg-im-breisgau"
+  },
+  {
+   "titre": "Freiburg für Einsteiger – öffentliche Stadtführung",
+   "date_debut": "2026-11-16",
+   "date_fin": null,
+   "horaires": "10h30",
+   "lieu": "Rathausplatz",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Visite guidée",
+   "prix": "12 €",
+   "url": "https://oazis.app/sorties/freiburg-im-breisgau"
+  },
+  {
+   "titre": "Peter Pan und Wendy",
+   "date_debut": "2026-11-16",
+   "date_fin": null,
+   "horaires": "11h",
+   "lieu": "Theater Freiburg",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Spectacle jeunesse",
+   "prix": "13–20 €",
+   "url": "https://oazis.app/sorties/freiburg-im-breisgau"
+  },
+  {
+   "titre": "Freiburg erleben: Altstadt und Münster",
+   "date_debut": "2026-11-16",
+   "date_fin": null,
+   "horaires": "14h",
+   "lieu": "Altes Rathaus",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Visite guidée",
+   "prix": "18 €",
+   "url": "https://oazis.app/sorties/freiburg-im-breisgau"
+  },
+  {
+   "titre": "Bächle-Tour mit Stocky, dem Bächleputzer",
+   "date_debut": "2026-11-16",
+   "date_fin": null,
+   "horaires": "16h",
+   "lieu": "Platz der Alten Synagoge",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Visite guidée famille",
+   "prix": "17 €",
+   "url": "https://oazis.app/sorties/freiburg-im-breisgau"
+  },
+  {
+   "titre": "Historix-Tours: Hexen, Folter, Scheiterhaufen",
+   "date_debut": "2026-11-16",
+   "date_fin": null,
+   "horaires": "19h",
+   "lieu": "Rathausplatz",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Visite guidée",
+   "prix": "15 €",
+   "url": "https://oazis.app/sorties/freiburg-im-breisgau"
+  }
+ ]
+}

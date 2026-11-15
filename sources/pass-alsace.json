@@ -1,0 +1,297 @@
+{
+ "source": "pass-alsace",
+ "nom": "Pass'Alsace",
+ "lu_le": "2026-11-15",
+ "pages": [
+  "https://www.pass-alsace.com/agenda-des-evenements (pages 1 à 4)"
+ ],
+ "note": "12 événements Halloween déjà terminés (fin au 01/11/2026) écartés.",
+ "events": [
+  {
+   "titre": "Atelier continu : Modélise ton jouet ancien",
+   "date_debut": "2026-11-18",
+   "date_fin": null,
+   "horaires": "08:00",
+   "lieu": "Musée du Jouet",
+   "commune": "Colmar",
+   "categorie": "Animation ponctuelle",
+   "prix": null,
+   "url": "https://www.pass-alsace.com/fr/evenement/1268-atelier-continu-modelise-ton-jouet-ancien"
+  },
+  {
+   "titre": "Construire une tour de centrale nucléaire en LEGO®",
+   "date_debut": "2026-11-18",
+   "date_fin": null,
+   "horaires": "14:30",
+   "lieu": "Musée Electropolis",
+   "commune": "Mulhouse",
+   "categorie": "En famille",
+   "prix": null,
+   "url": "https://www.pass-alsace.com/fr/evenement/1316-construire-une-tour-de-centrale-nucleaire-en-lego-r"
+  },
+  {
+   "titre": "Week-end Retrogaming",
+   "date_debut": "2026-11-21",
+   "date_fin": "2026-11-22",
+   "horaires": null,
+   "lieu": "Musée Electropolis",
+   "commune": "Mulhouse",
+   "categorie": "Événement exceptionnel",
+   "prix": null,
+   "url": "https://www.pass-alsace.com/fr/evenement/1317-week-end-retrogaming"
+  },
+  {
+   "titre": "Exposition « Ceci n'est pas une tuile »",
+   "date_debut": "2026-11-01",
+   "date_fin": "2026-11-22",
+   "horaires": null,
+   "lieu": "Maison Rurale de l'Outre-Forêt",
+   "commune": "Kutzenhausen",
+   "categorie": "Exposition temporaire",
+   "prix": null,
+   "url": "https://www.pass-alsace.com/fr/evenement/1276-exposition-ceci-n-est-pas-une-tuile"
+  },
+  {
+   "titre": "Atelier main à la pâte adulte : Spécialités de Noël",
+   "date_debut": "2026-11-26",
+   "date_fin": null,
+   "horaires": "14:00",
+   "lieu": "La Maison du Pain d'Alsace",
+   "commune": "Sélestat",
+   "categorie": "Festivités de Noël",
+   "prix": null,
+   "url": "https://www.pass-alsace.com/fr/evenement/1298-atelier-main-a-la-pate-adulte-specialites-de-noel"
+  },
+  {
+   "titre": "Démonstration de façonnage et dégustation commentée de bredele",
+   "date_debut": "2026-12-04",
+   "date_fin": null,
+   "horaires": "15:30",
+   "lieu": "La Maison du Pain d'Alsace",
+   "commune": "Sélestat",
+   "categorie": "Festivités de Noël",
+   "prix": null,
+   "url": "https://www.pass-alsace.com/fr/evenement/1300-demonstration-de-faconnage-et-degustation-commentee-de-bredele"
+  },
+  {
+   "titre": "Les insectes",
+   "date_debut": "2026-12-05",
+   "date_fin": null,
+   "horaires": "15:00",
+   "lieu": "Musée d'Histoire naturelle et d'Ethnographie",
+   "commune": "Colmar",
+   "categorie": "Pour les enfants",
+   "prix": null,
+   "url": "https://www.pass-alsace.com/fr/evenement/1308-les-insectes"
+  },
+  {
+   "titre": "Atelier dissection de pelotes de réjection",
+   "date_debut": "2026-12-05",
+   "date_fin": null,
+   "horaires": "14:00",
+   "lieu": "Musée d'Histoire naturelle et d'Ethnographie",
+   "commune": "Colmar",
+   "categorie": "Pour les enfants",
+   "prix": null,
+   "url": "https://www.pass-alsace.com/fr/evenement/1305-atelier-dissection-de-pelotes-de-rejection"
+  },
+  {
+   "titre": "Saint-Nicolas au Zoo",
+   "date_debut": "2026-12-05",
+   "date_fin": "2026-12-06",
+   "horaires": null,
+   "lieu": "Parc Zoologique et Botanique",
+   "commune": "Mulhouse",
+   "categorie": "Saint-Nicolas",
+   "prix": null,
+   "url": "https://www.pass-alsace.com/fr/evenement/1318-saint-nicolas"
+  },
+  {
+   "titre": "L'arrivée de saint Nicolas",
+   "date_debut": "2026-12-06",
+   "date_fin": null,
+   "horaires": "16:30",
+   "lieu": "Écomusée d'Alsace",
+   "commune": "Ungersheim",
+   "categorie": "Saint-Nicolas",
+   "prix": null,
+   "url": "https://www.pass-alsace.com/fr/evenement/1320-l-arrivee-de-saint-nicolas"
+  },
+  {
+   "titre": "Bébés lecteurs",
+   "date_debut": "2026-12-09",
+   "date_fin": null,
+   "horaires": "10:45",
+   "lieu": "Musée d'Histoire naturelle et d'Ethnographie",
+   "commune": "Colmar",
+   "categorie": "Pour les enfants",
+   "prix": null,
+   "url": "https://www.pass-alsace.com/fr/evenement/1309-bebes-lecteurs"
+  },
+  {
+   "titre": "Visite guidée : Mission 4026 !",
+   "date_debut": "2026-10-21",
+   "date_fin": "2026-12-16",
+   "horaires": null,
+   "lieu": "Musée du Jouet",
+   "commune": "Colmar",
+   "categorie": "Visite guidée",
+   "prix": null,
+   "url": "https://www.pass-alsace.com/fr/evenement/1219-visite-guidee-mission-4026"
+  },
+  {
+   "titre": "Devenir médecin en Afrique équatoriale",
+   "date_debut": "2026-02-01",
+   "date_fin": "2026-12-31",
+   "horaires": null,
+   "lieu": "Centre Schweitzer",
+   "commune": "Kaysersberg Vignoble",
+   "categorie": "Exposition temporaire",
+   "prix": null,
+   "url": "https://www.pass-alsace.com/fr/evenement/1153-devenir-medecin-en-afrique-equatoriale"
+  },
+  {
+   "titre": "Les boules de Noël de Meisenthal : Pôle Nord Express",
+   "date_debut": "2026-11-21",
+   "date_fin": "2026-12-31",
+   "horaires": null,
+   "lieu": "Bibliothèque Humaniste",
+   "commune": "Sélestat",
+   "categorie": "Festivités de Noël",
+   "prix": null,
+   "url": "https://www.pass-alsace.com/fr/evenement/1302-les-boules-de-noel-de-meisenthal-pole-nord-express"
+  },
+  {
+   "titre": "1521, la plus ancienne mention écrite de l'arbre de Noël",
+   "date_debut": "2026-11-21",
+   "date_fin": "2026-12-31",
+   "horaires": null,
+   "lieu": "Bibliothèque Humaniste",
+   "commune": "Sélestat",
+   "categorie": "Festivités de Noël",
+   "prix": null,
+   "url": "https://www.pass-alsace.com/fr/evenement/1303-1521-la-plus-ancienne-mention-ecrite-de-l-arbre-de-noel"
+  },
+  {
+   "titre": "L'Écomusée d'Alsace fête Noël",
+   "date_debut": "2026-12-04",
+   "date_fin": "2027-01-03",
+   "horaires": null,
+   "lieu": "Écomusée d'Alsace",
+   "commune": "Ungersheim",
+   "categorie": "Festivités de Noël",
+   "prix": null,
+   "url": "https://www.pass-alsace.com/fr/evenement/1319-l-ecomusee-d-alsace-fete-noel"
+  },
+  {
+   "titre": "L'arrivée des Rois mages",
+   "date_debut": "2027-01-03",
+   "date_fin": null,
+   "horaires": "10:00",
+   "lieu": "Écomusée d'Alsace",
+   "commune": "Ungersheim",
+   "categorie": "Festivités de Noël",
+   "prix": null,
+   "url": "https://www.pass-alsace.com/fr/evenement/1321-l-arrivee-des-rois-mages"
+  },
+  {
+   "titre": "Spectacle son et lumière « Once Upon a Night » au Musée Unterlinden",
+   "date_debut": "2026-11-25",
+   "date_fin": "2027-01-03",
+   "horaires": null,
+   "lieu": "Musée Unterlinden",
+   "commune": "Colmar",
+   "categorie": "Spectacle",
+   "prix": null,
+   "url": "https://www.pass-alsace.com/fr/evenement/1310-spectacle-son-et-lumiere-once-upon-a-night-dans-le-cloitre-du-musee-unterlinden"
+  },
+  {
+   "titre": "4026 Des jouets éternels ?",
+   "date_debut": "2026-02-01",
+   "date_fin": "2027-01-04",
+   "horaires": null,
+   "lieu": "Musée du Jouet",
+   "commune": "Colmar",
+   "categorie": "Exposition temporaire",
+   "prix": null,
+   "url": "https://www.pass-alsace.com/fr/evenement/1117-4026-des-jouets-eternels"
+  },
+  {
+   "titre": "Talents Contemporains 14e édition – Traversées",
+   "date_debut": "2027-01-16",
+   "date_fin": "2027-05-02",
+   "horaires": null,
+   "lieu": "Fondation François Schneider",
+   "commune": "Wattwiller",
+   "categorie": "Exposition temporaire",
+   "prix": null,
+   "url": "https://www.pass-alsace.com/fr/evenement/1314-talents-contemporains-14e-edition-traversees"
+  },
+  {
+   "titre": "Biodivercité. Les animaux de la ville",
+   "date_debut": "2025-09-19",
+   "date_fin": "2027-05-23",
+   "horaires": null,
+   "lieu": "Musée zoologique",
+   "commune": "Strasbourg",
+   "categorie": "Exposition temporaire",
+   "prix": null,
+   "url": "https://www.pass-alsace.com/fr/evenement/1251-biodivercite-les-animaux-de-la-ville"
+  },
+  {
+   "titre": "L'électricité s'affiche, 150 ans de créations publicitaires",
+   "date_debut": "2026-06-25",
+   "date_fin": "2027-05-30",
+   "horaires": null,
+   "lieu": "Musée Electropolis",
+   "commune": "Mulhouse",
+   "categorie": "Exposition temporaire",
+   "prix": null,
+   "url": "https://www.pass-alsace.com/fr/evenement/1236-l-electricite-s-affiche-150-ans-de-creations-publicitaires"
+  },
+  {
+   "titre": "Exposition : Avant l'horreur, un autre Struthof",
+   "date_debut": "2026-09-18",
+   "date_fin": "2027-08-27",
+   "horaires": null,
+   "lieu": "Mémorial du Struthof",
+   "commune": "Natzwiller",
+   "categorie": "Mémoire",
+   "prix": null,
+   "url": "https://www.pass-alsace.com/fr/evenement/1265-exposition-avant-l-horreur-un-autre-struthof"
+  },
+  {
+   "titre": "Exposition « Dans l'ombre des salles annexées. Cinéma et propagande 1940-1945 »",
+   "date_debut": "2026-09-19",
+   "date_fin": "2027-09-04",
+   "horaires": null,
+   "lieu": "Mémorial Alsace-Moselle",
+   "commune": "Schirmeck",
+   "categorie": "Mémoire",
+   "prix": null,
+   "url": "https://www.pass-alsace.com/fr/evenement/1264-exposition-dans-l-ombre-des-salles-annexees-cinema-et-propagande-en-alsace-et-en-moselle-1940-1945"
+  },
+  {
+   "titre": "Sauver l'Orgue de Notre-Dame de Paris",
+   "date_debut": "2026-06-13",
+   "date_fin": "2027-12-31",
+   "horaires": null,
+   "lieu": "L'Atelier de l'Orgue",
+   "commune": "Marmoutier",
+   "categorie": "Exposition temporaire",
+   "prix": null,
+   "url": "https://www.pass-alsace.com/fr/evenement/1253-sauver-l-orgue-de-notre-dame-de-paris"
+  },
+  {
+   "titre": "Une collection, trois points de vue",
+   "date_debut": "2026-07-16",
+   "date_fin": "2028-01-01",
+   "horaires": null,
+   "lieu": "Le Musée du Papier Peint",
+   "commune": "Rixheim",
+   "categorie": "Exposition temporaire",
+   "prix": null,
+   "url": "https://www.pass-alsace.com/fr/evenement/1315-une-collection-trois-points-de-vue"
+  }
+ ]
+}

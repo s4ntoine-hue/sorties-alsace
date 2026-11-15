@@ -1,0 +1,528 @@
+<!doctype html><html lang="fr"><head>
+<meta charset="utf-8">
+<title>Sorties en Alsace</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Unbounded:wght@500;700;800&family=Figtree:wght@400;500;600;700&display=swap">
+<style>
+/* Layout : en-tête "affiche" avec stickers de villes, barre de filtres en pastilles, cartes "billets" avec bandeau couleur par type, fiche détaillée en panneau. */
+:root{
+  --bg:#f6f4ff; --surface:#ffffff; --fg:#1a1035; --muted:#5f5a7a; --line:#e3def5;
+  --accent:#ff2e88; --accent-ink:#ffffff; --accent-soft:#ffe1ef;
+  --blue:#3a4bff; --blue-soft:#e4e7ff;
+  --sun:#ffd23f; --ink-on-color:#16102b;
+  --free:#0f8a5f; --free-soft:#d8f6e9;
+  --shadow:0 2px 0 var(--line), 0 10px 24px -14px rgba(40,20,90,.35);
+  --display:"Unbounded","Arial Black",system-ui,sans-serif;
+  --body:"Figtree","Segoe UI",system-ui,sans-serif;
+  /* couleurs par type d'événement : fond vif, texte foncé lisible dans les deux thèmes */
+  --t-noel:#ff7a7a; --t-broc:#f2c98a; --t-concert:#ff8fc7; --t-spectacle:#c9a2ff; --t-expo:#7cc8ff; --t-famille:#ffe066;
+  --t-vin:#ffb35c; --t-sport:#b8f06a; --t-visite:#6ee7c8; --t-atelier:#5fd4e0; --t-culture:#a5b4ff;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#110b22; --surface:#1c1535; --fg:#f1edff; --muted:#a79fc8; --line:#2f2652;
+  --accent:#ff4f9c; --accent-soft:#3b1630; --blue:#8c97ff; --blue-soft:#232050; --free:#5fe0ad; --free-soft:#123a2c;
+  --shadow:0 2px 0 #241c45, 0 10px 24px -14px rgba(0,0,0,.7); color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#110b22; --surface:#1c1535; --fg:#f1edff; --muted:#a79fc8; --line:#2f2652;
+  --accent:#ff4f9c; --accent-soft:#3b1630; --blue:#8c97ff; --blue-soft:#232050; --free:#5fe0ad; --free-soft:#123a2c;
+  --shadow:0 2px 0 #241c45, 0 10px 24px -14px rgba(0,0,0,.7); color-scheme:dark}
+*{box-sizing:border-box}
+[hidden]{display:none !important}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:15px;line-height:1.5}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
+.wrap{max-width:1140px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+header.top{padding-block:28px 14px;display:flex;flex-wrap:wrap;gap:16px 24px;align-items:end;justify-content:space-between}
+h1{font-family:var(--display);font-weight:800;font-size:clamp(30px,6vw,54px);line-height:.95;margin:0;letter-spacing:-.02em;text-wrap:balance}
+h1 .hl{background:var(--sun);color:var(--ink-on-color);padding:0 .18em;border-radius:.2em;display:inline-block;transform:rotate(-2deg)}
+.stickers{display:flex;flex-wrap:wrap;gap:6px;margin-top:12px}
+.sticker{font-family:var(--display);font-size:11px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;padding:4px 10px;border-radius:999px;color:var(--ink-on-color)}
+.sticker:nth-child(1){background:var(--t-concert);transform:rotate(-3deg)}
+.sticker:nth-child(2){background:var(--t-expo);transform:rotate(2deg)}
+.sticker:nth-child(3){background:var(--t-sport);transform:rotate(-1deg)}
+.sticker:nth-child(4){background:var(--t-vin);transform:rotate(3deg)}
+.sub{color:var(--muted);margin:10px 0 0;max-width:60ch}
+.views{display:flex;flex-wrap:wrap;gap:6px}
+.views button,.tab,.chip,.btn{font:inherit;font-weight:600;cursor:pointer;border:2px solid var(--line);background:var(--surface);color:var(--fg);border-radius:999px;padding:6px 14px}
+.views button[aria-pressed="true"]{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+button:focus-visible,input:focus-visible,select:focus-visible,a:focus-visible,summary:focus-visible,.card:focus-visible{outline:3px solid var(--blue);outline-offset:2px}
+.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);border-bottom:2px solid var(--line);padding-block:10px}
+.row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.row+.row{margin-top:8px}
+.tab[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.tab small{opacity:.8;font-variant-numeric:tabular-nums}
+.chip{display:inline-flex;align-items:center;gap:6px}
+.chip .dot{width:10px;height:10px;border-radius:50%;background:var(--c,var(--muted));flex:none}
+.chip[aria-pressed="true"]{background:var(--c);border-color:var(--c);color:var(--ink-on-color)}
+.chip[aria-pressed="true"] .dot{background:var(--ink-on-color)}
+.chip.free{--c:var(--free)}
+.chip.free[aria-pressed="true"]{color:#fff}
+input[type=search],input[type=date],select{font:inherit;color:var(--fg);background:var(--surface);border:2px solid var(--line);border-radius:12px;padding:6px 10px}
+input[type=search]{flex:1 1 220px;min-width:0}
+label.small{font-size:13px;color:var(--muted);display:flex;gap:6px;align-items:center;font-weight:500}
+input[type=range]{accent-color:var(--accent);width:110px}
+.count{font-size:13px;color:var(--muted);margin:16px 0 10px;display:flex;flex-wrap:wrap;gap:8px 16px;align-items:center;justify-content:space-between;font-weight:500}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:14px}
+.card{background:var(--surface);border-radius:18px;display:flex;flex-direction:column;min-width:0;box-shadow:var(--shadow);overflow:hidden;cursor:pointer;border:2px solid transparent}
+.card .band{background:var(--c);color:var(--ink-on-color);padding:8px 14px;display:flex;justify-content:space-between;gap:8px;align-items:center;font-size:12px;font-weight:700}
+.card .band .d{font-family:var(--display);font-size:12px;letter-spacing:.02em;text-transform:uppercase;font-variant-numeric:tabular-nums}
+.card .band .k{background:rgba(255,255,255,.55);border-radius:999px;padding:1px 8px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:60%}
+.card .body{padding:12px 14px 12px;display:flex;flex-direction:column;gap:6px;flex:1}
+.card h3{font-family:var(--display);font-weight:700;font-size:16px;line-height:1.25;margin:0;overflow-wrap:anywhere}
+.place{color:var(--muted);font-size:13px}
+.place b{color:var(--fg);font-weight:600}
+.info{font-size:13px;display:flex;flex-wrap:wrap;gap:4px 10px;align-items:center}
+.free-tag{background:var(--free-soft);color:var(--free);font-weight:700;border-radius:6px;padding:1px 8px;font-size:12px}
+.src{font-size:12px;color:var(--muted)}
+.actions{margin-top:auto;display:flex;flex-wrap:wrap;gap:6px;padding-top:6px}
+.btn{font-size:13px;padding:5px 11px;text-decoration:none;display:inline-flex;align-items:center;gap:4px}
+.btn.primary{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.btn.fav[aria-pressed="true"]{background:var(--accent-soft);border-color:var(--accent);color:var(--accent)}
+.empty{grid-column:1/-1;background:var(--surface);border:2px dashed var(--line);border-radius:18px;padding:28px;text-align:center;color:var(--muted)}
+details.long{margin:26px 0 48px}
+details.long summary{cursor:pointer;font-family:var(--display);font-size:20px;font-weight:700;margin-bottom:14px}
+details.long summary small{font-family:var(--body);font-size:13px;color:var(--muted);font-weight:500}
+.toast{position:fixed;left:50%;bottom:calc(20px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:var(--fg);color:var(--bg);padding:8px 16px;border-radius:999px;font-size:14px;z-index:40;font-weight:600}
+/* fiche détaillée */
+.overlay{position:fixed;inset:0;z-index:30;background:rgba(17,11,34,.55);display:flex;align-items:flex-end;justify-content:center;padding:max(16px,env(safe-area-inset-top,0px)) max(0px,env(safe-area-inset-right,0px)) 0 max(0px,env(safe-area-inset-left,0px))}
+@media (min-width:700px){.overlay{align-items:center;padding:24px}}
+.overlay[hidden]{display:none}
+.sheet{background:var(--surface);color:var(--fg);width:100%;max-width:560px;max-height:100%;overflow:auto;border-radius:22px 22px 0 0;box-shadow:0 20px 60px rgba(0,0,0,.35);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (min-width:700px){.sheet{border-radius:22px;max-height:88vh}}
+.sheet .head{background:var(--c);color:var(--ink-on-color);padding:18px 20px 20px;position:relative}
+.sheet .head .k{font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.06em}
+.sheet .head h2{font-family:var(--display);font-size:clamp(20px,4vw,26px);line-height:1.15;margin:8px 44px 0 0;overflow-wrap:anywhere}
+.sheet .orig{font-size:13px;margin-top:6px;opacity:.8}
+.sheet .close{position:absolute;top:12px;right:12px;width:36px;height:36px;border-radius:50%;border:0;background:rgba(255,255,255,.7);color:var(--ink-on-color);font-size:20px;line-height:1;cursor:pointer}
+.sheet .content{padding:18px 20px 22px;display:grid;gap:14px}
+.facts{display:grid;grid-template-columns:auto 1fr;gap:6px 14px;margin:0;font-size:14px}
+.facts dt{color:var(--muted);font-weight:600}
+.facts dd{margin:0;min-width:0;overflow-wrap:anywhere}
+.desc{margin:0;font-size:15px;max-width:60ch}
+.desc-note{font-size:12px;color:var(--muted);margin:4px 0 0}
+.links{display:flex;flex-wrap:wrap;gap:8px}
+.panel{padding-block:8px 48px;display:grid;gap:22px;max-width:880px}
+.panel h2{font-family:var(--display);font-size:22px;margin:0 0 6px}
+.panel p{margin:0;max-width:65ch}
+table{border-collapse:collapse;width:100%;font-size:14px}
+.tbl{overflow-x:auto;background:var(--surface);border-radius:16px;box-shadow:var(--shadow)}
+th,td{text-align:left;padding:8px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);white-space:nowrap}
+td.num{font-variant-numeric:tabular-nums;text-align:right}
+tr:last-child td{border-bottom:0}
+.y{color:var(--free);font-weight:700}.n{color:var(--accent);font-weight:700}
+ol.prio{margin:0;padding-left:22px;display:grid;gap:10px}
+ol.prio li{max-width:65ch}
+ol.prio b{font-family:var(--display);font-weight:700}
+.pill{display:inline-block;font-size:11px;border-radius:6px;padding:1px 7px;margin-left:6px;background:var(--accent-soft);color:var(--accent);font-weight:700;vertical-align:1px}
+.pill.ok{background:var(--free-soft);color:var(--free)}
+.pill.warn{background:var(--blue-soft);color:var(--blue)}
+code{font-size:13px;background:var(--blue-soft);padding:1px 5px;border-radius:4px}
+.card .when,.card .kind{display:none}
+#more{display:none}
+.row.more{display:contents}
+h2.day{grid-column:1/-1;font-family:var(--display);font-size:18px;margin:14px 0 0;display:flex;align-items:center;gap:10px}
+h2.day:first-child{margin-top:0}
+h2.day::after{content:"";flex:1;height:3px;border-radius:3px;background:var(--line)}
+@media (max-width:640px){
+  #more{display:inline-flex}
+  .row.more{display:none;width:100%;flex-wrap:wrap;gap:8px}
+  .row.more.open{display:flex}
+  .grid{gap:10px}
+  .card{flex-direction:row;border-radius:14px;border:0;border-left:6px solid var(--c)}
+  .card .band,.card .actions,.card .src{display:none}
+  .card .when{display:flex;flex-direction:column;gap:6px;align-items:flex-start;flex:none;width:68px;padding:12px 0 12px 10px;font-size:13px;font-variant-numeric:tabular-nums}
+  .card .when b{font-family:var(--display);font-size:13px;line-height:1.2}
+  .card .when .free-tag{font-size:10px;padding:1px 5px}
+  .card .body{padding:10px 12px 12px 6px;gap:3px}
+  .card .kind{display:inline-block;align-self:flex-start;background:var(--c);color:var(--ink-on-color);font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.04em;border-radius:5px;padding:1px 7px}
+  .card h3{font-size:15px}
+  .card .info .free-tag,.card .info .h{display:none}
+  .card .info:not(:has(span:not(.h):not(.free-tag))){display:none}
+  h2.day{font-size:16px;position:sticky;top:0;z-index:2;background:var(--bg);padding:8px 0;margin:6px 0 0}
+}
+@media (max-width:640px){
+  .bar{position:static}
+  .views button{padding:5px 12px;font-size:14px}
+  #chips,#periods{flex-wrap:nowrap;overflow-x:auto;padding-bottom:4px;scrollbar-width:none}
+  #chips .chip,#periods .tab{flex:none}
+}
+@media (prefers-reduced-motion:no-preference){
+  .card{transition:transform .15s ease, border-color .15s}
+  .card:hover{transform:translateY(-3px) rotate(-.4deg);border-color:var(--c)}
+  .sheet{animation:up .22s ease-out}
+  @keyframes up{from{transform:translateY(24px);opacity:.6}to{transform:none;opacity:1}}
+}
+</style>
+</head><body>
+
+<div class="wrap">
+  <header class="top">
+    <div>
+      <h1>Sorties en <span class="hl">Alsace</span></h1>
+      <div class="stickers" aria-hidden="true"><span class="sticker">Alsace</span><span class="sticker">Bâle</span><span class="sticker">Fribourg</span><span class="sticker">Lörrach</span></div>
+      <p class="sub" id="sub">Les agendas d'Alsace et des villes frontalières réunis au même endroit, pour ne plus rien rater.</p>
+    </div>
+    <nav class="views" aria-label="Vues">
+      <button id="v-agenda" aria-pressed="true">Agenda</button>
+      <button id="v-prog" aria-pressed="false">Mon programme <span id="favn"></span></button>
+      <button id="v-sources" aria-pressed="false">Sources</button>
+      <button id="v-ideas" aria-pressed="false">Pistes</button>
+    </nav>
+  </header>
+</div>
+
+<section id="agenda">
+  <div class="bar"><div class="wrap">
+    <div class="row" id="periods" role="group" aria-label="Période"></div>
+    <div class="row range" id="range" hidden>
+      <label class="small">Du <input type="date" id="from"></label>
+      <label class="small">au <input type="date" id="to"></label>
+    </div>
+    <div class="row">
+      <input type="search" id="q" placeholder="Rechercher un titre, une ville, un lieu…" aria-label="Rechercher">
+      <button class="btn" id="more" aria-expanded="false" aria-controls="morefilters">Filtres</button>
+      <div class="row more" id="morefilters">
+      <label class="small">Autour de
+        <select id="ref"><option>Mulhouse</option><option>Colmar</option><option>Strasbourg</option><option>Sélestat</option><option>Haguenau</option><option>Saint-Louis</option></select>
+      </label>
+      <label class="small"><input type="range" id="radius" min="10" max="150" step="10" value="150"> <span id="rlab">toute l'Alsace</span></label>
+      <label class="small">Tri
+        <select id="sort"><option value="date">Date</option><option value="dist">Plus proche</option><option value="commune">Commune</option><option value="title">A → Z</option></select>
+      </label>
+      <label class="small">Source
+        <select id="srcsel"><option value="">Toutes</option></select>
+      </label>
+      <label class="small">Pays
+        <select id="pays"><option value="">Tous</option><option value="FR">France</option><option value="CH">Suisse</option><option value="DE">Allemagne</option></select>
+      </label>
+      </div>
+    </div>
+    <div class="row" id="chips" role="group" aria-label="Thèmes"></div>
+  </div></div>
+  <div class="wrap">
+    <div class="count"><span id="count"></span><button class="btn" id="share-we">Copier le programme du week-end</button></div>
+    <div class="grid" id="list"></div>
+    <details class="long" id="longwrap" open>
+      <summary>Expositions en cours <small id="longn"></small></summary>
+      <div class="grid" id="longlist"></div>
+    </details>
+  </div>
+</section>
+
+<section id="sources" hidden>
+  <div class="wrap panel">
+    <div>
+      <h2>D'où viennent les événements</h2>
+      <p id="srcintro">Chaque événement garde la trace des sites où il a été trouvé. Quand un même événement apparaît sur plusieurs sites, il n'est affiché qu'une fois, avec toutes ses sources.</p>
+    </div>
+    <div class="tbl"><table>
+      <thead><tr><th>Source</th><th>Dernier import</th><th class="num">Lus</th><th class="num">Affichés</th><th>Remarque</th></tr></thead>
+      <tbody id="srctable"></tbody>
+    </table></div>
+    <div>
+      <h2>Mise à jour automatique</h2>
+      <p>Une tâche planifiée relit chaque matin les agendas, enregistre un fichier par source, fusionne les doublons puis republie cette page. La date du dernier import est indiquée ci-dessus pour chaque source.</p>
+    </div>
+  </div>
+</section>
+
+<section id="ideas" hidden>
+  <div class="wrap panel">
+    <div>
+      <h2>Ce que font les autres agendas</h2>
+      <p>Comparaison faite le 15 novembre 2026 avec JDS Mulhouse, Visit Alsace, Coze, Made in Alsace, Pass'Alsace et l'office de tourisme de Colmar.</p>
+    </div>
+    <div class="tbl"><table>
+      <thead><tr><th>Fonction</th><th>JDS</th><th>Visit Alsace</th><th>Coze</th><th>Made in Alsace</th><th>Pass'Alsace</th><th>Colmar</th><th>Cette appli</th></tr></thead>
+      <tbody>
+        <tr><td>Aujourd'hui, demain, week-end, semaine</td><td class="y">Oui</td><td class="y">Oui</td><td class="y">Oui</td><td class="y">Oui</td><td class="n">Non</td><td class="n">Non</td><td class="y">Oui</td></tr>
+        <tr><td>Dates libres Du / Au</td><td class="n">Non</td><td class="y">Oui</td><td class="y">Oui</td><td class="y">Oui</td><td class="y">Oui</td><td class="y">Oui</td><td class="y">Oui</td></tr>
+        <tr><td>Filtre gratuit</td><td class="n">Non</td><td class="y">Oui</td><td class="y">Oui</td><td class="y">Oui</td><td class="n">Non</td><td class="y">Oui</td><td class="y">Oui</td></tr>
+        <tr><td>Famille / enfants</td><td class="y">Rubrique</td><td class="n">Non</td><td class="y">Oui</td><td class="n">Non</td><td class="y">Oui</td><td class="n">Non</td><td class="y">Oui</td></tr>
+        <tr><td>Marchés de Noël, brocantes</td><td class="y">Oui</td><td>Types</td><td class="y">Oui</td><td class="y">Oui</td><td class="y">Noël</td><td class="y">Oui</td><td class="y">Oui</td></tr>
+        <tr><td>Rayon / distance</td><td class="n">Non</td><td class="y">Oui</td><td class="n">Non</td><td class="n">Non</td><td class="n">Non</td><td class="y">Tri</td><td class="y">Oui</td></tr>
+        <tr><td>Tri date / distance / commune</td><td class="n">Non</td><td class="n">Non</td><td>Horaire, prix</td><td class="n">Non</td><td class="n">Non</td><td class="y">Oui</td><td class="y">Oui</td></tr>
+        <tr><td>Expositions longues à part</td><td class="n">Non</td><td class="n">Non</td><td class="y">Oui</td><td class="n">Non</td><td class="n">Non</td><td class="n">Non</td><td class="y">Oui</td></tr>
+        <tr><td>Horaire et prix sur la liste</td><td>Extrait</td><td class="n">Non</td><td class="y">Oui</td><td>?</td><td>Horaire</td><td class="n">Non</td><td>Si une source les donne</td></tr>
+        <tr><td>Carte</td><td class="n">Non</td><td class="y">Oui</td><td class="y">Oui</td><td class="y">Oui</td><td class="n">Non</td><td class="y">Oui</td><td class="n">Non</td></tr>
+        <tr><td>Programme imprimable / à partager</td><td>Newsletter</td><td class="n">Non</td><td>Newsletter</td><td>Newsletter</td><td>Newsletter</td><td class="y">PDF 7 jours</td><td class="y">Week-end à copier</td></tr>
+        <tr><td>Plusieurs sources réunies</td><td class="n">Non</td><td class="n">Non</td><td class="n">Non</td><td class="n">Non</td><td class="n">Non</td><td class="n">Non</td><td class="y">20 sites, 3 pays</td></tr>
+        <tr><td>Favoris et ajout à l'agenda</td><td class="n">Non</td><td class="n">Non</td><td class="n">Non</td><td class="n">Non</td><td class="n">Non</td><td class="n">Non</td><td class="y">Oui</td></tr>
+      </tbody>
+    </table></div>
+    <div>
+      <h2>Ajouté dans cette version</h2>
+      <ol class="prio">
+        <li><b>Cinq sources fusionnées</b><span class="pill ok">ajouté</span><br>Visit Alsace, Coze, Pass'Alsace et l'office de tourisme de Colmar. Les doublons sont regroupés et chaque carte indique où l'événement a été vu.</li>
+        <li><b>Filtre gratuit, dates libres, tri par commune</b><span class="pill ok">ajouté</span><br>Repris de Coze, Visit Alsace et Colmar.</li>
+        <li><b>Thèmes du quotidien</b><span class="pill ok">ajouté</span><br>Marchés de Noël et fêtes, brocantes, famille et enfants, sport et nature, comme JDS et Coze.</li>
+        <li><b>Expositions en cours à part</b><span class="pill ok">ajouté</span><br>Comme le bloc « Les expositions du moment » de Coze, pour que les expos de plusieurs mois ne noient pas les sorties du jour.</li>
+        <li><b>Programme du week-end à copier</b><span class="pill ok">ajouté</span><br>L'équivalent du PDF 7 jours de Colmar ou d'une newsletter, à coller dans un message.</li>
+      </ol>
+    </div>
+    <div>
+      <h2>Encore à faire</h2>
+      <ol class="prio">
+        <li><b>Made in Alsace</b><span class="pill warn">bloqué</span><br>Sa liste est chargée en JavaScript : impossible à lire sans navigateur. Il faudra trouver son flux de données ou passer par un navigateur automatisé.</li>
+        <li><b>Lörrach et Breisach</b><span class="pill warn">bloqué</span><br>Le calendrier de Lörrach s'affiche en JavaScript et son site touristique interdit la lecture automatique ; aucune page d'agenda lisible trouvée pour Breisach. Fribourg ne montre que ses grands événements sans accord cookies.</li>
+        <li><b>JDS Mulhouse comme source</b><span class="pill">à faire</span><br>C'est l'agenda le plus complet pour le Sud Alsace.</li>
+        <li><b>Plus de pages par source</b><span class="pill">à faire</span><br>Seules les premières pages sont lues : Colmar annonce 889 événements, Visit Alsace plus de 30 000.</li>
+        <li><b>Horaires et prix depuis les fiches</b><span class="pill">à faire</span><br>Visit Alsace et Colmar ne les montrent pas dans leur liste.</li>
+        <li><b>Carte</b><span class="pill">à faire</span><br>Les fonds de carte en ligne ne sont pas autorisés dans cette page ; il faudrait une version hébergée ailleurs.</li>
+      </ol>
+    </div>
+  </div>
+</section>
+
+<div class="overlay" id="overlay" hidden><div class="sheet" id="sheet" role="dialog" aria-modal="true" aria-labelledby="d-title"></div></div>
+<div class="toast" id="toast" hidden></div>
+
+<script>
+const GEO={"Mulhouse":[47.750,7.336],"Colmar":[48.079,7.358],"Strasbourg":[48.573,7.752],"Sélestat":[48.259,7.454],"Haguenau":[48.816,7.790],
+"Ammerschwihr":[48.125,7.283],"Andlau":[48.388,7.417],"Beblenheim":[48.161,7.327],"Breitenbach-Haut-Rhin":[48.019,7.105],"Durrenentzen":[48.156,7.476],
+"Erstein":[48.422,7.663],"Gueberschwihr":[47.988,7.278],"Haut-Soultzbach":[47.805,7.060],"Illkirch-Graffenstaden":[48.530,7.716],"Kaysersberg Vignoble":[48.139,7.264],
+"Kembs":[47.689,7.502],"Kutzenhausen":[48.933,7.850],"La Petite Pierre":[48.859,7.318],"Logelheim":[48.022,7.415],"Marmoutier":[48.690,7.382],"Metzeral":[47.997,7.067],
+"Mittelbergheim":[48.398,7.443],"Molsheim":[48.542,7.492],"Mutzig":[48.539,7.454],"Natzwiller":[48.430,7.237],"Neuf-Brisach":[48.018,7.528],"Oderen":[47.913,6.977],
+"Orbey":[48.126,7.163],"Ostwald":[48.542,7.711],"Pfaffenhoffen":[48.843,7.607],"Ribeauvillé":[48.195,7.319],"Rixheim":[47.749,7.406],"Roderen":[47.784,7.090],
+"Schiltigheim":[48.606,7.750],"Schirmeck":[48.483,7.220],"Schweighouse-sur-Moder":[48.820,7.730],"Thann":[47.807,7.103],"Turckheim":[48.087,7.278],
+"Ungersheim":[47.879,7.307],"Wattwiller":[47.837,7.177],"Wissembourg":[49.037,7.946],"Illzach":[47.783,7.347],"Cernay":[47.807,7.176],"Guebwiller":[47.909,7.211],
+"Saint-Louis":[47.590,7.560],"Altkirch":[47.624,7.239],"Saverne":[48.741,7.362],"Obernai":[48.462,7.482],"Munster":[48.041,7.135],"Eguisheim":[48.043,7.306],"Rouffach":[47.958,7.300],
+"Bâle":[47.559,7.588],"Riehen":[47.588,7.652],"Lörrach":[47.615,7.661],"Weil am Rhein":[47.594,7.621],"Fribourg-en-Brisgau":[47.999,7.842],"Titisee-Neustadt":[47.912,8.215],"Bad Dürrheim":[48.022,8.533],"Breisach":[48.029,7.580],"Huningue":[47.592,7.583],"Village-Neuf":[47.606,7.569],"Hégenheim":[47.562,7.523],"Bartenheim":[47.634,7.477],"Blotzheim":[47.603,7.497],"Buschwiller":[47.561,7.506],"Leymen":[47.497,7.484],"Ranspach-le-Bas":[47.588,7.454],"Sierentz":[47.658,7.454],"Allschwil":[47.551,7.536],"Birsfelden":[47.553,7.623]};
+const PAYS={FR:"France",CH:"Suisse",DE:"Allemagne"};
+const HAUT_RHIN=new Set(["Mulhouse","Colmar","Ammerschwihr","Beblenheim","Breitenbach-Haut-Rhin","Durrenentzen","Gueberschwihr","Haut-Soultzbach","Kaysersberg Vignoble","Kembs","Logelheim","Metzeral","Neuf-Brisach","Oderen","Orbey","Ribeauvillé","Rixheim","Roderen","Thann","Turckheim","Ungersheim","Wattwiller","Illzach","Cernay","Guebwiller","Saint-Louis","Altkirch","Munster","Eguisheim","Rouffach","Huningue","Village-Neuf","Hégenheim","Bartenheim","Blotzheim","Buschwiller","Leymen","Ranspach-le-Bas","Sierentz"]);
+const THEME_COLOR={"Marchés de Noël & fêtes":"noel","Brocantes & marchés":"broc","Concerts & festivals":"concert","Spectacles & cinéma":"spectacle","Expos & salons":"expo","Famille & enfants":"famille","Vin & gastronomie":"vin","Sport & nature":"sport","Visites & patrimoine":"visite","Ateliers":"atelier","Culture & vie locale":"culture"};
+const tc=t=>`var(--t-${THEME_COLOR[t]||"culture"})`;
+const THEMES=["Marchés de Noël & fêtes","Brocantes & marchés","Concerts & festivals","Spectacles & cinéma","Expos & salons","Famille & enfants","Vin & gastronomie","Sport & nature","Visites & patrimoine","Ateliers","Culture & vie locale"];
+const LONG_DAYS=21;
+
+let DATA={genere_le:null,sources:[],events:[]};
+let TODAY=new Date().toISOString().slice(0,10);
+const store={get(k,d){try{const v=localStorage.getItem(k);return v?JSON.parse(v):d}catch(e){return d}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
+const S={view:"agenda",period:"today",from:"",to:"",q:"",themes:new Set(),free:false,ref:store.get("ref","Mulhouse"),radius:150,sort:"date",src:"",pays:"",favs:new Set(store.get("favs",[]))};
+const $=id=>document.getElementById(id);
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const norm=s=>String(s||"").normalize("NFD").replace(/[̀-ͯ]/g,"").toLowerCase();
+function addDays(iso,n){const d=new Date(iso+"T12:00:00");d.setDate(d.getDate()+n);return d.toISOString().slice(0,10)}
+const fmt=iso=>new Date(iso+"T12:00:00").toLocaleDateString("fr-FR",{weekday:"short",day:"numeric",month:"short"});
+const fmtLong=iso=>new Date(iso+"T12:00:00").toLocaleDateString("fr-FR",{day:"numeric",month:"long",year:"numeric"});
+function km(a,b){const R=6371,t=x=>x*Math.PI/180;const h=Math.sin(t(b[0]-a[0])/2)**2+Math.cos(t(a[0]))*Math.cos(t(b[0]))*Math.sin(t(b[1]-a[1])/2)**2;return Math.round(2*R*Math.asin(Math.sqrt(h)))}
+const days=(a,b)=>Math.round((new Date(b)-new Date(a))/864e5);
+
+function periods(){
+  const dow=new Date(TODAY+"T12:00:00").getDay();
+  const sat=dow===0?addDays(TODAY,-1):addDays(TODAY,6-dow), sun=addDays(sat,1);
+  const nextMon=addDays(TODAY,dow===0?1:8-dow);
+  return [
+    {k:"today",label:"Aujourd'hui",from:TODAY,to:TODAY},
+    {k:"tomorrow",label:"Demain",from:addDays(TODAY,1),to:addDays(TODAY,1)},
+    {k:"weekend",label:dow===0?"Ce week-end":"Ce week-end",from:dow===0?TODAY:sat,to:sun},
+    {k:"week",label:"7 prochains jours",from:TODAY,to:addDays(TODAY,6)},
+    {k:"nextweek",label:"Semaine prochaine",from:nextMon,to:addDays(nextMon,6)},
+    {k:"all",label:"Tout",from:TODAY,to:"9999-12-31"},
+    {k:"custom",label:"Choisir des dates",from:S.from||TODAY,to:S.to||S.from||TODAY}
+  ];
+}
+const cur=()=>periods().find(p=>p.k===S.period);
+const endOf=e=>e.date_fin||e.date_debut;
+const inP=(e,p)=>e.date_debut<=p.to && endOf(e)>=p.from;
+const isLong=e=>e.date_fin && days(e.date_debut,e.date_fin)>=LONG_DAYS;
+
+function enrich(e){
+  const g=GEO[e.commune]; const r=GEO[S.ref];
+  return {...e,dist:g&&r?km(r,g):null};
+}
+function base(){
+  const q=norm(S.q);
+  return DATA.events.map(enrich).filter(e=>{
+    if(S.themes.size && !S.themes.has(e.theme)) return false;
+    if(S.free && !e.gratuit) return false;
+    if(S.src && !e.sources.some(s=>s.source===S.src)) return false;
+    if(S.pays && (e.pays||"FR")!==S.pays) return false;
+    if(q && !norm([e.titre,e.titre_original,e.commune,e.lieu,e.categorie,e.theme].join(" ")).includes(q)) return false;
+    if(S.radius<150 && (e.dist===null||e.dist>S.radius)) return false;
+    return true;
+  });
+}
+function sorter(a,b){
+  if(S.sort==="dist") return (a.dist??999)-(b.dist??999)||a.date_debut.localeCompare(b.date_debut);
+  if(S.sort==="commune") return (a.commune||"~").localeCompare(b.commune||"~","fr")||a.titre.localeCompare(b.titre,"fr");
+  if(S.sort==="title") return a.titre.localeCompare(b.titre,"fr");
+  const da=a.date_debut<TODAY?TODAY:a.date_debut, db=b.date_debut<TODAY?TODAY:b.date_debut;
+  return da.localeCompare(db)||(a.horaires||"99").localeCompare(b.horaires||"99")||a.titre.localeCompare(b.titre,"fr");
+}
+function dateLabel(e){
+  if(!e.date_fin||e.date_fin===e.date_debut) return fmt(e.date_debut);
+  if(e.date_debut<=TODAY) return "Jusqu'au "+fmt(e.date_fin);
+  return fmt(e.date_debut)+" → "+fmt(e.date_fin);
+}
+function gcal(e){
+  const u=new URL("https://calendar.google.com/calendar/render");
+  u.searchParams.set("action","TEMPLATE");u.searchParams.set("text",e.titre);
+  const start=e.date_debut<TODAY?TODAY:e.date_debut;
+  u.searchParams.set("dates",start.replace(/-/g,"")+"/"+addDays(isLong(e)?start:endOf(e),1).replace(/-/g,""));
+  u.searchParams.set("location",[e.lieu,e.commune].filter(Boolean).join(", "));
+  u.searchParams.set("details",(e.horaires?"Horaire : "+e.horaires+"\n":"")+"Fiche : "+e.sources[0].url);
+  return u.toString();
+}
+function placeLine(e){
+  return `${e.lieu?esc(e.lieu)+" · ":""}<b>${esc(e.commune||"Commune non précisée")}</b>${e.commune?` (${(e.pays||"FR")!=="FR"?PAYS[e.pays]:HAUT_RHIN.has(e.commune)?"68":"67"})`:""}`;
+}
+function card(e){
+  const fav=S.favs.has(e.id);
+  return `<article class="card" style="--c:${tc(e.theme)}" data-open="${e.id}" tabindex="0" aria-label="${esc(e.titre)} : voir la fiche">
+    <div class="band"><span class="d">${dateLabel(e)}</span><span class="k">${esc(e.theme)}</span></div>
+    <div class="when" aria-hidden="true"><b>${e.horaires?esc(e.horaires.split(/\s*[-–]\s*/)[0]):isLong(e)?"Expo":"Journée"}</b>${e.gratuit?'<span class="free-tag">Gratuit</span>':""}</div>
+    <div class="body">
+    <span class="kind">${esc(e.categorie||e.theme)}</span>
+    <h3>${esc(e.titre)}</h3>
+    <div class="place">${placeLine(e)}${e.dist!==null?` · ≈ ${e.dist} km`:""}</div>
+    ${(e.horaires||e.prix)?`<div class="info">${e.horaires?`<span class="h">🕒 ${esc(e.horaires)}</span>`:""}${e.gratuit?'<span class="free-tag">Gratuit</span>':e.prix?`<span>${esc(e.prix)}</span>`:""}</div>`:""}
+    <div class="src">Vu sur ${e.sources.map(s=>esc(s.nom)).join(" · ")}</div>
+    <div class="actions">
+      <button class="btn primary" data-open="${e.id}">Voir la fiche</button>
+      <button class="btn fav" data-fav="${e.id}" aria-pressed="${fav}">${fav?"★ Gardé":"☆ Garder"}</button>
+    </div></div>
+  </article>`;
+}
+function autoDesc(e){
+  const what=e.categorie&&!/^null$/.test(e.categorie)?e.categorie:e.theme;
+  const where=[e.lieu,e.commune].filter(Boolean).join(", ");
+  const when=(!e.date_fin||e.date_fin===e.date_debut)?`le ${fmtLong(e.date_debut)}`:(e.date_debut<=TODAY?`jusqu'au ${fmtLong(e.date_fin)}`:`du ${fmtLong(e.date_debut)} au ${fmtLong(e.date_fin)}`);
+  return `${what.charAt(0).toUpperCase()+what.slice(1)}${where?` à ${where}`:""}, ${when}${e.horaires?` (${e.horaires})`:""}.`;
+}
+function openDetail(id){
+  const e=enrich(DATA.events.find(x=>x.id===id)); if(!e) return;
+  const fav=S.favs.has(e.id);
+  const desc=e.description||e.description_courte;
+  const maps="https://www.google.com/maps/search/?api=1&query="+encodeURIComponent([e.lieu,e.commune].filter(Boolean).join(", "));
+  $("sheet").style.setProperty("--c",tc(e.theme));
+  $("sheet").innerHTML=`<div class="head"><div class="k">${esc(e.theme)}${e.gratuit?" · Gratuit":""}</div><h2 id="d-title">${esc(e.titre)}</h2>${e.titre_original?`<div class="orig">Titre original : <span lang="${e.pays==="FR"?"fr":"de"}">${esc(e.titre_original)}</span></div>`:""}
+      <button class="close" data-close="1" aria-label="Fermer">×</button></div>
+    <div class="content">
+      <div><p class="desc">${esc(desc||autoDesc(e))}</p>${desc?"":`<p class="desc-note">Résumé automatique : le programme complet, les tarifs et la réservation sont sur le site de l'événement.</p>`}</div>
+      <dl class="facts">
+        <dt>Quand</dt><dd>${dateLabel(e)}${e.horaires?` · ${esc(e.horaires)}`:""}</dd>
+        <dt>Où</dt><dd>${placeLine(e)}${e.dist!==null?` · ≈ ${e.dist} km de ${esc(S.ref)}`:""}</dd>
+        <dt>Prix</dt><dd>${e.gratuit?"Gratuit":e.prix?esc(e.prix):"Non indiqué"}</dd>
+        <dt>Type</dt><dd>${esc(e.categorie||e.theme)}</dd>
+        <dt>Sources</dt><dd>${e.sources.map(s=>esc(s.nom)).join(", ")}</dd>
+      </dl>
+      <div class="links">
+        ${e.sources.map((s,i)=>`<a class="btn ${i?"":"primary"}" href="${esc(s.url)}" target="_blank" rel="noopener">Site de l'événement${e.sources.length>1?` (${esc(s.nom)})`:""} ↗</a>`).join("")}
+      </div>
+      <div class="links">
+        <button class="btn fav" data-fav="${e.id}" aria-pressed="${fav}">${fav?"★ Gardé":"☆ Garder"}</button>
+        <a class="btn" href="${gcal(e)}" target="_blank" rel="noopener">+ Agenda</a>
+        <a class="btn" href="${maps}" target="_blank" rel="noopener">Itinéraire</a>
+        <button class="btn" data-copy="${esc(e.sources[0].url)}">Copier le lien</button>
+      </div>
+    </div>`;
+  $("overlay").hidden=false; document.body.style.overflow="hidden";
+  S.openId=e.id; $("sheet").querySelector(".close").focus();
+}
+function closeDetail(){ $("overlay").hidden=true; document.body.style.overflow=""; const id=S.openId; S.openId=null; const c=id&&document.querySelector(`.card[data-open="${id}"]`); if(c) c.focus(); }
+function renderList(){
+  let all=base();
+  let main,long=[];
+  if(S.view==="prog"){ main=all.filter(e=>S.favs.has(e.id)); }
+  else { const p=cur(); const inPer=all.filter(e=>inP(e,p)); main=inPer.filter(e=>!isLong(e)); long=inPer.filter(isLong); }
+  main.sort(sorter); long.sort(sorter);
+  const p=cur();
+  $("count").textContent=S.view==="prog"
+    ? `${main.length} événement${main.length>1?"s":""} dans mon programme`
+    : `${main.length} sortie${main.length>1?"s":""} · ${p.k==="custom"?`du ${fmt(p.from)} au ${fmt(p.to)}`:p.label.toLowerCase()}`;
+  const dayKey=e=>e.date_debut<TODAY?TODAY:e.date_debut;
+  const dayHead=d=>{const t=new Date(d+"T12:00:00").toLocaleDateString("fr-FR",{weekday:"long",day:"numeric",month:"long"});return `<h2 class="day">${d===TODAY?"Aujourd'hui · ":d===addDays(TODAY,1)?"Demain · ":""}${t.charAt(0).toUpperCase()+t.slice(1)}</h2>`};
+  const withDays=list=>S.sort!=="date"?list.map(card).join(""):list.map((e,i)=>(i===0||dayKey(e)!==dayKey(list[i-1])?dayHead(dayKey(e)):"")+card(e)).join("");
+  $("list").innerHTML=main.length?withDays(main):`<div class="empty">${S.view==="prog"
+    ?"Aucun favori pour l'instant. Touchez « Garder » sur un événement pour l'ajouter à votre programme."
+    :DATA.events.length?"Rien ne correspond à ces filtres. Élargissez le rayon, la période ou retirez un thème.":"Les événements se chargent…"}</div>`;
+  $("longwrap").hidden=S.view==="prog"||!long.length;
+  $("longn").textContent=`${long.length} en cours sur la période`;
+  $("longlist").innerHTML=long.map(card).join("");
+}
+function renderBar(){
+  const all=base();
+  $("periods").innerHTML=periods().map(p=>{
+    const n=p.k==="custom"?"":`<small>${all.filter(e=>inP(e,p)&&!isLong(e)).length}</small>`;
+    return `<button class="tab" data-p="${p.k}" aria-pressed="${S.period===p.k}">${p.label} ${n}</button>`}).join("");
+  $("range").hidden=S.period!=="custom";
+  const counts={};DATA.events.forEach(e=>counts[e.theme]=(counts[e.theme]||0)+1);
+  $("chips").innerHTML=`<button class="chip free" data-free="1" aria-pressed="${S.free}"><span class="dot"></span>Gratuit</button>`+
+    THEMES.filter(t=>counts[t]).map(t=>`<button class="chip" style="--c:${tc(t)}" data-t="${esc(t)}" aria-pressed="${S.themes.has(t)}"><span class="dot"></span>${esc(t)}</button>`).join("");
+}
+function renderSources(){
+  const shown={};DATA.events.forEach(e=>e.sources.forEach(s=>shown[s.source]=(shown[s.source]||0)+1));
+  $("srctable").innerHTML=DATA.sources.map(s=>`<tr><td><b>${esc(s.nom)}</b><br><span class="src">${(s.pages||[]).map(esc).join("<br>")}</span></td>
+    <td>${s.lu_le?fmtLong(s.lu_le):"—"}</td><td class="num">${s.nb}</td><td class="num">${shown[s.source]||0}</td><td>${esc(s.note||"")}</td></tr>`).join("");
+  const multi=DATA.events.filter(e=>e.sources.length>1).length;
+  $("srcintro").textContent=`${DATA.events.length} événements à venir, dont ${multi} trouvés sur plusieurs sites et regroupés. Chaque carte indique où l'événement a été vu.`;
+  const sel=$("srcsel"), v=sel.value;
+  sel.innerHTML='<option value="">Toutes</option>'+DATA.sources.filter(s=>s.nb).map(s=>`<option value="${esc(s.source)}">${esc(s.nom)}</option>`).join("");
+  sel.value=v;
+}
+function renderAll(){
+  $("favn").textContent=S.favs.size?`(${S.favs.size})`:"";
+  ["agenda","prog","sources","ideas"].forEach(v=>$("v-"+v).setAttribute("aria-pressed",S.view===v));
+  $("agenda").hidden=!(S.view==="agenda"||S.view==="prog");
+  $("sources").hidden=S.view!=="sources"; $("ideas").hidden=S.view!=="ideas";
+  $("periods").hidden=S.view==="prog"; $("share-we").hidden=S.view==="prog";
+  $("rlab").textContent=S.radius>=150?"toute l'Alsace":`${S.radius} km max`;
+  renderBar(); renderList(); renderSources();
+}
+function toast(m){const t=$("toast");t.textContent=m;t.hidden=false;clearTimeout(toast.h);toast.h=setTimeout(()=>t.hidden=true,2000)}
+function copy(text,ok){
+  if(navigator.clipboard) navigator.clipboard.writeText(text).then(()=>toast(ok),()=>toast("Copie refusée par le navigateur"));
+  else toast("Copie indisponible ici");
+}
+function weekendText(){
+  const p=periods().find(x=>x.k==="weekend");
+  const ev=base().filter(e=>inP(e,p)&&!isLong(e)).sort(sorter);
+  const lines=[`Sorties du week-end (${fmt(p.from)} – ${fmt(p.to)})${S.radius<150?` à moins de ${S.radius} km de ${S.ref}`:""}`,""];
+  ev.forEach(e=>lines.push(`• ${dateLabel(e)} – ${e.titre} – ${e.commune||""}${e.horaires?" – "+e.horaires:""}${e.gratuit?" – gratuit":""}\n  ${e.sources[0].url}`));
+  return lines.join("\n");
+}
+
+document.addEventListener("click",ev=>{
+  if(ev.target.id==="overlay"){closeDetail();return}
+  const b=ev.target.closest("button");
+  if(!b){ if(ev.target.closest("a")) return; const c=ev.target.closest(".card[data-open]"); if(c) openDetail(c.dataset.open); return; }
+  if(b.dataset.close){closeDetail();return}
+  if(b.id==="more"){const o=b.getAttribute("aria-expanded")!=="true";b.setAttribute("aria-expanded",o);$("morefilters").classList.toggle("open",o);return}
+  if(b.dataset.open){openDetail(b.dataset.open);return}
+  if(b.dataset.p){S.period=b.dataset.p;renderAll()}
+  else if(b.dataset.free){S.free=!S.free;renderAll()}
+  else if(b.dataset.t){S.themes.has(b.dataset.t)?S.themes.delete(b.dataset.t):S.themes.add(b.dataset.t);renderAll()}
+  else if(b.dataset.fav){const id=b.dataset.fav;S.favs.has(id)?(S.favs.delete(id),toast("Retiré du programme")):(S.favs.add(id),toast("Ajouté à mon programme"));store.set("favs",[...S.favs]);renderAll();if(S.openId)openDetail(S.openId)}
+  else if(b.dataset.copy){copy(b.dataset.copy,"Lien copié")}
+  else if(b.id==="share-we"){copy(weekendText(),"Programme du week-end copié")}
+  else if(b.id&&b.id.startsWith("v-")){S.view=b.id.slice(2);location.hash=S.view==="agenda"?"":S.view;renderAll();window.scrollTo(0,0)}
+});
+document.addEventListener("keydown",ev=>{
+  if(ev.key==="Escape"&&S.openId){closeDetail();return}
+  if((ev.key==="Enter"||ev.key===" ")&&ev.target.matches&&ev.target.matches(".card[data-open]")){ev.preventDefault();openDetail(ev.target.dataset.open)}
+});
+$("q").addEventListener("input",e=>{S.q=e.target.value;renderBar();renderList()});
+$("ref").addEventListener("change",e=>{S.ref=e.target.value;store.set("ref",S.ref);renderAll()});
+$("radius").addEventListener("input",e=>{S.radius=+e.target.value;renderAll()});
+$("sort").addEventListener("change",e=>{S.sort=e.target.value;renderList()});
+$("srcsel").addEventListener("change",e=>{S.src=e.target.value;renderAll()});
+$("pays").addEventListener("change",e=>{S.pays=e.target.value;renderAll()});
+$("from").addEventListener("change",e=>{S.from=e.target.value;if(!S.to||S.to<S.from){S.to=S.from;$("to").value=S.to}renderAll()});
+$("to").addEventListener("change",e=>{S.to=e.target.value;renderAll()});
+$("ref").value=S.ref;
+const h=location.hash.slice(1); if(["prog","sources","ideas"].includes(h)) S.view=h;
+renderAll();
+
+fetch("events.json").then(r=>{if(!r.ok)throw new Error(r.status);return r.json()}).then(d=>{
+  DATA=d;
+  // La date de référence est celle du jour, sauf si le dernier import est plus récent (fuseau)
+  if(d.genere_le && d.genere_le>TODAY) TODAY=d.genere_le;
+  $("from").value=TODAY;$("to").value=TODAY;
+  $("sub").textContent=`${d.events.length} sorties réunies depuis ${d.sources.filter(s=>s.nb).length} agendas d'Alsace et des villes frontalières · mis à jour le ${fmtLong(d.genere_le)}`;
+  renderAll();
+}).catch(()=>{$("list").innerHTML='<div class="empty">Impossible de charger les événements. Rechargez la page.</div>'});
+</script>
+</body></html>

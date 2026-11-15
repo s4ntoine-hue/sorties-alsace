@@ -1,0 +1,34 @@
+{
+ "source": "songkick-lorrach",
+ "nom": "Songkick (Marktplatz Lörrach)",
+ "pays": "DE",
+ "lu_le": "2026-11-15",
+ "pages": [
+  "https://www.songkick.com/fr/venues/886706-marktplatz-lorrach"
+ ],
+ "note": "Concerts en plein air du Marktplatz uniquement.",
+ "events": [
+  {
+   "titre": "Clueso",
+   "date_debut": "2027-07-02",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": "Marktplatz",
+   "commune": "Lörrach",
+   "categorie": "Concert",
+   "prix": null,
+   "url": "https://www.songkick.com/fr/concerts/43491879-clueso-at-marktplatz-lorrach"
+  },
+  {
+   "titre": "Jan Delay & Disko No. 1",
+   "date_debut": "2027-07-04",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": "Marktplatz",
+   "commune": "Lörrach",
+   "categorie": "Concert",
+   "prix": null,
+   "url": "https://www.songkick.com/fr/concerts/43502849-jan-delay-and-disko-no-1-at-marktplatz-lorrach"
+  }
+ ]
+}

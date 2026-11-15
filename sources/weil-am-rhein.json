@@ -1,0 +1,45 @@
+{
+ "source": "weil-am-rhein",
+ "nom": "Ville de Weil am Rhein",
+ "pays": "DE",
+ "lu_le": "2026-11-15",
+ "pages": [
+  "https://www.weil-am-rhein.de/start/kultur/veranstaltungskalender"
+ ],
+ "note": "Lörrach : le calendrier de loerrach.de s'affiche en JavaScript et loerrach-erleben.de interdit la lecture automatique.",
+ "events": [
+  {
+   "titre": "Bilderbuchkino « Pia Plappermaul »",
+   "date_debut": "2026-11-16",
+   "date_fin": null,
+   "horaires": "15h et 16h",
+   "lieu": "Mediathek",
+   "commune": "Weil am Rhein",
+   "categorie": "Famille & enfants",
+   "prix": null,
+   "url": "https://www.weil-am-rhein.de/site/weil-am-rhein-2026/node/2413340/zmdetail_672213072/index.html?nodeID=672213072"
+  },
+  {
+   "titre": "1, 2, 3 – Read with M. E.",
+   "date_debut": "2026-11-21",
+   "date_fin": null,
+   "horaires": "10h30",
+   "lieu": "Mediathek",
+   "commune": "Weil am Rhein",
+   "categorie": "Famille & enfants",
+   "prix": null,
+   "url": "https://www.weil-am-rhein.de/site/weil-am-rhein-2026/node/2413340/zmdetail_672213073/index.html?nodeID=672213073"
+  },
+  {
+   "titre": "Kindertheater « Hase und Holunderbär: Die verlorene Weihnachtspost »",
+   "date_debut": "2026-12-14",
+   "date_fin": null,
+   "horaires": "15h30",
+   "lieu": "Mediathek",
+   "commune": "Weil am Rhein",
+   "categorie": "Famille & enfants",
+   "prix": null,
+   "url": "https://www.weil-am-rhein.de/site/weil-am-rhein-2026/node/2413340/zmdetail_672245604/index.html?nodeID=672245604"
+  }
+ ]
+}

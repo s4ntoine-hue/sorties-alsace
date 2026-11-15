@@ -1,0 +1,210 @@
+{
+ "source": "swissactivities-bale",
+ "nom": "Swiss Activities (Bâle)",
+ "pays": "CH",
+ "lu_le": "2026-11-15",
+ "pages": [
+  "https://www.swissactivities.com/fr-fr/ville-de-b-le/evenements/ (20 premiers sur 939, bouton « Afficher plus » non lisible)"
+ ],
+ "note": "Dates de début lues comme « dim15 » sans mois : à vérifier.",
+ "events": [
+  {
+   "titre": "Ausstellung Väter & Töchter",
+   "date_debut": "2026-11-15",
+   "date_fin": "2026-11-19",
+   "horaires": "08:00–19:00",
+   "lieu": "Alterszentrum Am Bachgraben",
+   "commune": "Allschwil",
+   "categorie": "Exposition",
+   "prix": null,
+   "url": "https://www.swissactivities.com/fr-ch/events/allschwil/ausstellung-vater-tochter/"
+  },
+  {
+   "titre": "MYSTIK",
+   "date_debut": "2026-11-15",
+   "date_fin": "2026-11-20",
+   "horaires": "08:00–18:00",
+   "lieu": "Röm.-kath. Kirche St. Theresia",
+   "commune": "Allschwil",
+   "categorie": "Exposition",
+   "prix": "gratuit",
+   "url": "https://www.swissactivities.com/fr-ch/events/allschwil/mystik/"
+  },
+  {
+   "titre": "Zmorgeland – Sonntagsbrunch in der Markthalle",
+   "date_debut": "2026-11-15",
+   "date_fin": "2026-12-27",
+   "horaires": "09:00–15:00",
+   "lieu": "Alte Markthalle",
+   "commune": "Bâle",
+   "categorie": "Gastronomie",
+   "prix": "CHF 42 (enfants CHF 8)",
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/zmorgeland-sonntagsbrunch-in-der-markthalle/"
+  },
+  {
+   "titre": "Harry P.Otter und die Zauberprüfung (jeu de piste)",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "09:00–23:00",
+   "lieu": "Départ libre en ville",
+   "commune": "Bâle",
+   "categorie": "Famille & enfants",
+   "prix": "dès CHF 4.90",
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/harry-p-otter-und-die-zauberprufung/"
+  },
+  {
+   "titre": "Kitchen Angel Flohmarkt (marché aux puces)",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "10:00–16:00",
+   "lieu": "Kitchen Angel",
+   "commune": "Bâle",
+   "categorie": "Brocante",
+   "prix": null,
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/kitchen-angel-flohmarkt-dein-stand/"
+  },
+  {
+   "titre": "Zuhause – Unterwegs – Schifferleben",
+   "date_debut": "2026-11-15",
+   "date_fin": "2027-02-22",
+   "horaires": "10:00–17:00",
+   "lieu": "Hafenmuseum",
+   "commune": "Bâle",
+   "categorie": "Exposition",
+   "prix": "CHF 14",
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/zuhause-unterwegs-schifferleben/"
+  },
+  {
+   "titre": "Fragile Masterpieces",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "10:00–17:00",
+   "lieu": "Pharmaziemuseum",
+   "commune": "Bâle",
+   "categorie": "Exposition",
+   "prix": null,
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/fragile-masterpieces/"
+  },
+  {
+   "titre": "Vitrinenausstellung – Historisches Museum",
+   "date_debut": "2026-11-15",
+   "date_fin": "2027-04-19",
+   "horaires": "10:00–17:00",
+   "lieu": "Historisches Museum (Barfüsserkirche)",
+   "commune": "Bâle",
+   "categorie": "Exposition",
+   "prix": null,
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/vitrinenausstellung-historisches-museum/"
+  },
+  {
+   "titre": "Yours truly – New Adult am BuchBasel",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "11:00–18:00",
+   "lieu": "BaselKHaus",
+   "commune": "Bâle",
+   "categorie": "Salon du livre",
+   "prix": null,
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/yours-truly-new-adult-am-buchbasel/"
+  },
+  {
+   "titre": "OHG! It's Drag Brunch – Fall Fever",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "11:00–14:00",
+   "lieu": "Hotel Essential by Dorint",
+   "commune": "Bâle",
+   "categorie": "Spectacle",
+   "prix": "CHF 35",
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/ohg-it-s-drag-brunch-fall-fever/"
+  },
+  {
+   "titre": "JUMP IN ART !",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "11:00–17:00",
+   "lieu": "mitte.gold",
+   "commune": "Bâle",
+   "categorie": "Atelier",
+   "prix": null,
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/jump-in-art/"
+  },
+  {
+   "titre": "ECHT JETZT!? Wir spielen euch nichts vor – ausser Theater",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "11:00",
+   "lieu": "Druckereihalle, Ackermannshof",
+   "commune": "Bâle",
+   "categorie": "Théâtre",
+   "prix": "dès CHF 12",
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/echt-jetzt-wir-spielen-euch-nichts-vor-ausser-theater/"
+  },
+  {
+   "titre": "Exposition « Emil Ferris. Between Selves »",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "11:00–17:00",
+   "lieu": "Cartoonmuseum Basel",
+   "commune": "Bâle",
+   "categorie": "Exposition",
+   "prix": "CHF 14",
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/ausstellung-emil-ferris-between-selves/"
+  },
+  {
+   "titre": "Frank Stella et les synagogues en bois détruites",
+   "date_debut": "2026-11-15",
+   "date_fin": "2027-01-31",
+   "horaires": "11:00–17:00",
+   "lieu": "Musée juif de Suisse",
+   "commune": "Bâle",
+   "categorie": "Exposition",
+   "prix": null,
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/frank-stella-und-die-zerstorten-holzsynagogen/"
+  },
+  {
+   "titre": "Vitrinenausstellung – Basler Papiermühle",
+   "date_debut": "2026-11-15",
+   "date_fin": "2026-12-18",
+   "horaires": "11:00–17:00",
+   "lieu": "Basler Papiermühle",
+   "commune": "Bâle",
+   "categorie": "Exposition",
+   "prix": null,
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/vitrinenausstellung-basler-papiermuhle/"
+  },
+  {
+   "titre": "RÉCIPROQUE",
+   "date_debut": "2026-11-15",
+   "date_fin": "2026-12-06",
+   "horaires": "11:00–17:00",
+   "lieu": "Birsfelder Museum",
+   "commune": "Birsfelden",
+   "categorie": "Exposition",
+   "prix": null,
+   "url": "https://www.swissactivities.com/fr-ch/events/birsfelden/gegenseitig/"
+  },
+  {
+   "titre": "Visite de la collection Jean Tinguely",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "11:30",
+   "lieu": "Museum Tinguely",
+   "commune": "Bâle",
+   "categorie": "Visite guidée",
+   "prix": null,
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/fuhrung-sammlung-jean-tinguely/"
+  },
+  {
+   "titre": "Journée de l'inclusion au Musée Tinguely",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "11:30",
+   "lieu": "Museum Tinguely",
+   "commune": "Bâle",
+   "categorie": "Visite guidée",
+   "prix": null,
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/inklusionstag-zum-thema-lernen/"
+  }
+ ]
+}

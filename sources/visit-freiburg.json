@@ -1,0 +1,78 @@
+{
+ "source": "visit-freiburg",
+ "nom": "Visit Freiburg",
+ "pays": "DE",
+ "lu_le": "2026-11-15",
+ "pages": [
+  "https://visit.freiburg.de/fr/evenements/top-10-des-evenements"
+ ],
+ "note": "Le calendrier complet est masqué derrière l'accord cookies : seuls les grands événements sont lus.",
+ "events": [
+  {
+   "titre": "Varieté am Seepark",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "15:00",
+   "lieu": "Centre communautaire Seepark",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Spectacle",
+   "prix": null,
+   "url": "https://visit.freiburg.de/fr/variete-am-seepark-2026"
+  },
+  {
+   "titre": "Greenmotions Filmfestival",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": "Cinéma municipal",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Festival de cinéma",
+   "prix": null,
+   "url": "https://visit.freiburg.de/fr/greenmotions-filmfestival-2025"
+  },
+  {
+   "titre": "Kreativ Freiburg",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "10:00",
+   "lieu": "Messe Freiburg",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Salon",
+   "prix": null,
+   "url": "https://visit.freiburg.de/fr/kreativ-freiburg-4"
+  },
+  {
+   "titre": "Weihnachtsmarkt Freiburg (marché de Noël)",
+   "date_debut": "2026-11-19",
+   "date_fin": null,
+   "horaires": "14:00",
+   "lieu": "Vieille ville",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Marché de Noël",
+   "prix": null,
+   "url": "https://visit.freiburg.de/fr/weihnachtsmarkt-freiburg"
+  },
+  {
+   "titre": "Circolo 2026 – Freiburgs Weihnachts-Circus",
+   "date_debut": "2026-12-18",
+   "date_fin": null,
+   "horaires": "19:00",
+   "lieu": "Messe Freiburg",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Cirque",
+   "prix": null,
+   "url": "https://visit.freiburg.de/fr/circolo-2026-freiburgs-weihnachts-circus"
+  },
+  {
+   "titre": "caravan live",
+   "date_debut": "2027-09-30",
+   "date_fin": null,
+   "horaires": "10:00",
+   "lieu": "Messe Freiburg",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Salon",
+   "prix": null,
+   "url": "https://visit.freiburg.de/fr/caravan-live"
+  }
+ ]
+}

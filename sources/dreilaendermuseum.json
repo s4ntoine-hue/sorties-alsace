@@ -1,0 +1,132 @@
+{
+ "source": "dreilaendermuseum",
+ "nom": "Dreiländermuseum Lörrach",
+ "pays": "DE",
+ "lu_le": "2026-11-15",
+ "pages": [
+  "https://www.dreilaendermuseum.eu/de/anschauen/veranstaltungen/"
+ ],
+ "events": [
+  {
+   "titre": "Vortrag: Wie Erinnerung versöhnen kann – les « Siedler » badois en Alsace 1940-45",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": "18:00",
+   "lieu": "Dreiländermuseum",
+   "commune": "Lörrach",
+   "categorie": "Conférence",
+   "prix": null,
+   "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/vortrag-wie-erinnerung-versoehnen-kann-die-geschichte-der-badischen-siedler-im-elsass-1940-45-und-ihre-aufarbeitung/"
+  },
+  {
+   "titre": "VHS-Kurs « Zuhause – unterwegs »",
+   "date_debut": "2026-11-25",
+   "date_fin": null,
+   "horaires": "18:15",
+   "lieu": "Dreiländermuseum",
+   "commune": "Lörrach",
+   "categorie": "Cours",
+   "prix": null,
+   "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/vhs-kurs-zuhause-unterwegs/"
+  },
+  {
+   "titre": "Öffentliche Führung « Zuhause – unterwegs »",
+   "date_debut": "2026-11-29",
+   "date_fin": null,
+   "horaires": "11:00",
+   "lieu": "Dreiländermuseum",
+   "commune": "Lörrach",
+   "categorie": "Visite guidée",
+   "prix": null,
+   "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/oeffentliche-fuehrung-durch-die-sonderausstellung-zuhause-unterwegs-2/"
+  },
+  {
+   "titre": "Aktionstag Lörracher Orange Days",
+   "date_debut": "2026-11-29",
+   "date_fin": null,
+   "horaires": "11:00 - 18:00",
+   "lieu": "Dreiländermuseum",
+   "commune": "Lörrach",
+   "categorie": "Visite guidée",
+   "prix": null,
+   "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/aktionstag-im-rahmen-der-loerracher-orange-days/"
+  },
+  {
+   "titre": "Erzählcafé: Winter-Kindheitserinnerungen",
+   "date_debut": "2026-12-09",
+   "date_fin": null,
+   "horaires": "15:00",
+   "lieu": "Dreiländermuseum",
+   "commune": "Lörrach",
+   "categorie": "Rencontre",
+   "prix": null,
+   "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/erzaehlcafe-geschichten-in-gemuetlicher-runde-winter-kindheitserinnerungen/"
+  },
+  {
+   "titre": "Bildvortrag: Auf den Spuren der Wandermönche",
+   "date_debut": "2026-12-11",
+   "date_fin": null,
+   "horaires": "18:00",
+   "lieu": "Dreiländermuseum",
+   "commune": "Lörrach",
+   "categorie": "Conférence",
+   "prix": null,
+   "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/bildvortrag-auf-den-spuren-der-wandermoenche/"
+  },
+  {
+   "titre": "Literarische Matinee: « Hebel Wirkungen »",
+   "date_debut": "2026-12-13",
+   "date_fin": null,
+   "horaires": "11:00",
+   "lieu": "Dreiländermuseum",
+   "commune": "Lörrach",
+   "categorie": "Lecture",
+   "prix": null,
+   "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/literarische-matinee-hebel-wirkungen/"
+  },
+  {
+   "titre": "Kinderprogramm im Museum: Schokolade",
+   "date_debut": "2026-12-19",
+   "date_fin": null,
+   "horaires": "15:00 - 16:30",
+   "lieu": "Dreiländermuseum",
+   "commune": "Lörrach",
+   "categorie": "Atelier enfants",
+   "prix": null,
+   "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/kinderprogramm-im-museum-schokolade/"
+  },
+  {
+   "titre": "Lesung mit Lukas Bärfuss",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "17:00",
+   "lieu": "Dreiländermuseum",
+   "commune": "Lörrach",
+   "categorie": "Littérature",
+   "prix": null,
+   "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/lesung-mit-lukas-baerfuss/"
+  },
+  {
+   "titre": "Einweihungszeremonie der historischen Thora-Rolle",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "14:00",
+   "lieu": "Dreiländermuseum",
+   "commune": "Lörrach",
+   "categorie": "Patrimoine",
+   "prix": null,
+   "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/einweihungszeremonie-der-historischen-thora-rolle/"
+  },
+  {
+   "titre": "Mittwoch-Matinee « Zuhause – Unterwegs »",
+   "date_debut": "2026-11-18",
+   "date_fin": null,
+   "horaires": "10:00 - 18:00",
+   "lieu": "Dreiländermuseum",
+   "commune": "Lörrach",
+   "categorie": "Visite guidée",
+   "prix": null,
+   "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/mittwoch-matinee-zuhause-unterwegs/"
+  }
+ ]
+}

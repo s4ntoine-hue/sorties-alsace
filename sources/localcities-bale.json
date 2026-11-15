@@ -1,0 +1,198 @@
+{
+ "source": "localcities-bale",
+ "nom": "Localcities (Bâle)",
+ "pays": "CH",
+ "lu_le": "2026-11-15",
+ "pages": [
+  "https://www.localcities.ch/de/veranstaltungen/basel/3681 (jour même uniquement)"
+ ],
+ "events": [
+  {
+   "titre": "Zmorgeland – Sonntagsbrunch in der Markthalle",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "9h - 15h",
+   "lieu": "Alte Markthalle",
+   "commune": "Bâle",
+   "categorie": "Gastronomie",
+   "prix": null,
+   "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4594909"
+  },
+  {
+   "titre": "Zmorgeinsle – Vegetarischer Sonntagsbrunch am Rhein",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "9h30 - 14h",
+   "lieu": "BASSO Basel",
+   "commune": "Bâle",
+   "categorie": "Gastronomie",
+   "prix": null,
+   "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4711153"
+  },
+  {
+   "titre": "Kreativbox",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "10h - 17h",
+   "lieu": "Museum der Kulturen",
+   "commune": "Bâle",
+   "categorie": "Atelier famille",
+   "prix": null,
+   "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4839651"
+  },
+  {
+   "titre": "Tie-dye: gefaltet, genäht, gefärbt",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "10h - 17h",
+   "lieu": "Museum der Kulturen",
+   "commune": "Bâle",
+   "categorie": "Atelier famille",
+   "prix": null,
+   "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4839733"
+  },
+  {
+   "titre": "Die Eule ist pink – farbige Geschichten",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "10h - 17h",
+   "lieu": "Museum der Kulturen",
+   "commune": "Bâle",
+   "categorie": "Exposition",
+   "prix": null,
+   "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4764657"
+  },
+  {
+   "titre": "Alles lebt – mehr als menschliche Welten",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "10h - 17h",
+   "lieu": "Museum der Kulturen",
+   "commune": "Bâle",
+   "categorie": "Exposition",
+   "prix": null,
+   "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/3075470"
+  },
+  {
+   "titre": "Zuhause – Unterwegs – Schifferleben",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "10h - 17h",
+   "lieu": "Hafenmuseum",
+   "commune": "Bâle",
+   "categorie": "Exposition",
+   "prix": null,
+   "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4892941"
+  },
+  {
+   "titre": "Workshop: Wir dichten mit Bildern und malen Gedichte",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "10h - 15h",
+   "lieu": "Literaturhaus Basel",
+   "commune": "Bâle",
+   "categorie": "Atelier",
+   "prix": null,
+   "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4889917"
+  },
+  {
+   "titre": "Dino & Saurier – Lebendige Bilder vergangener Tage",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "10h - 17h",
+   "lieu": "Naturhistorisches Museum",
+   "commune": "Bâle",
+   "categorie": "Exposition",
+   "prix": null,
+   "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/3033938"
+  },
+  {
+   "titre": "Freundschaft, Sammeln, Kunstsinn",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "10h - 18h",
+   "lieu": "Kunstmuseum Basel",
+   "commune": "Bâle",
+   "categorie": "Exposition",
+   "prix": null,
+   "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4840497"
+  },
+  {
+   "titre": "Grafik grenzenlos",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "10h - 18h",
+   "lieu": "Kunstmuseum Basel",
+   "commune": "Bâle",
+   "categorie": "Exposition",
+   "prix": null,
+   "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4828585"
+  },
+  {
+   "titre": "Van Gogh, Hodler und ein Cabriolet",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "10h - 18h",
+   "lieu": "Kunstmuseum Basel",
+   "commune": "Bâle",
+   "categorie": "Exposition",
+   "prix": null,
+   "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4594871"
+  },
+  {
+   "titre": "Roy Lichtenstein",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "10h - 18h",
+   "lieu": "Kunstmuseum Basel",
+   "commune": "Bâle",
+   "categorie": "Exposition",
+   "prix": null,
+   "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4594869"
+  },
+  {
+   "titre": "Neue Konstellationen",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "10h - 18h",
+   "lieu": "Kunstmuseum Basel",
+   "commune": "Bâle",
+   "categorie": "Exposition",
+   "prix": null,
+   "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4546801"
+  },
+  {
+   "titre": "Fragile Masterpieces: Keramik in der Renaissance-Apotheke",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "10h - 17h",
+   "lieu": "Pharmazie-Historisches Museum",
+   "commune": "Bâle",
+   "categorie": "Exposition",
+   "prix": null,
+   "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4825577"
+  },
+  {
+   "titre": "Holly Berry",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "10h - 18h",
+   "lieu": "Spielzeug Welten Museum",
+   "commune": "Bâle",
+   "categorie": "Exposition",
+   "prix": null,
+   "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4764755"
+  },
+  {
+   "titre": "Zeitsprünge – Basler Geschichte in Kürze",
+   "date_debut": "2026-11-15",
+   "date_fin": null,
+   "horaires": "10h - 17h",
+   "lieu": "Historisches Museum (Barfüsserkirche)",
+   "commune": "Bâle",
+   "categorie": "Exposition",
+   "prix": null,
+   "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4760385"
+  }
+ ]
+}
