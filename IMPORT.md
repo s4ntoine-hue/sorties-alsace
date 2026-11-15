@@ -50,7 +50,8 @@ Ne rien inventer : un champ absent de la page reste `null`. Si une source ne ré
 3. Traduire : pour chaque nouveau titre qui n'est pas en français (sources CH et DE surtout), ajouter dans `traductions.json` → `titres` la ligne « titre original exact » : « titre en français ». Garder tels quels les noms propres (groupes, artistes, lieux). Pour les mots de catégorie, compléter `mots`. La page affiche le titre français et garde le titre original dans la fiche (et dans la recherche).
 4. `python3 merge.py` : écarte les événements terminés, fusionne les doublons (même commune, titres proches, dates qui se recouvrent), garde toutes les sources de chaque événement, écrit `events.json`.
 5. Copier `events.json` dans le dossier de publication et republier `agenda-alsace.html` avec `events.json` (même URL : https://claude.ai/artifact/25j8WAnKKJosAPWqn4cfZn).
-6. Ajouter dans la table `GEO` de la page les coordonnées des nouvelles communes, sinon le rayon les ignore.
+6. Publier aussi sur GitHub Pages (https://s4ntoine-hue.github.io/sorties-alsace/) : dans un clone de `s4ntoine-hue/sorties-alsace`, régénérer `index.html` (doctype + `<head>` jusqu'à `</style>`, puis le reste dans `<body>`, voir `site/index.html`), copier `events.json`, `sources/`, `merge.py`, `traductions.json`, `IMPORT.md`, puis commit et push sur `main`.
+7. Ajouter dans la table `GEO` de la page les coordonnées des nouvelles communes, sinon le rayon les ignore.
 
 Testés et non retenus (15/11/2026) : basel.com et tempslibre.ch (refusés), infomaniak.events (le lien du 15/11 vise Fribourg en Suisse) et visit-bw.com et le calendrier de visit.freiburg.de (liste chargée en JavaScript ou derrière les cookies), basellife.com (vérification anti-robot), bandsintown (interdit aux robots), infoconcert (refusé), eventbrite (pas de dates, villes mélangées), loerrach.de (JavaScript). Breisach : aucun agenda trouvé.
 Piste : oazis.app a aussi des pages /sorties/<ville> pour d'autres villes.
