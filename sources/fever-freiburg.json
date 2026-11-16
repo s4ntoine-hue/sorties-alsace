@@ -2,24 +2,12 @@
  "source": "fever-freiburg",
  "nom": "Fever (Fribourg)",
  "pays": "DE",
- "lu_le": "2026-11-15",
+ "lu_le": "2026-11-16",
  "pages": [
   "https://feverup.com/fr/freiburg-im-breisgau"
  ],
  "note": "Gardés : concerts à Fribourg et Colmar, Titanic à Strasbourg. Écartés : excursions, billets de musée, jeux de piste permanents, villes lointaines.",
  "events": [
-  {
-   "titre": "CelloDuo - Le meilleur du rock et de la pop",
-   "date_debut": "2026-11-15",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": "Historisches Kaufhaus",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Concert",
-   "prix": "À partir de 36,90 €",
-   "url": "https://feverup.com/m/631856/fr",
-   "pays": "DE"
-  },
   {
    "titre": "Candlelight : Queen vs. ABBA",
    "date_debut": "2027-03-12",
@@ -150,6 +138,42 @@
    "categorie": "Exposition immersive",
    "prix": "À partir de 16,90 €",
    "url": "https://feverup.com/m/677503",
+   "pays": "FR"
+  },
+  {
+   "titre": "The Jury Experience – Une sortie en mer fatale",
+   "date_debut": "2026-12-05",
+   "date_fin": "2027-03-06",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Colmar",
+   "categorie": "Théâtre immersif",
+   "prix": "À partir de 25,00 €",
+   "url": "https://feverup.com/m/667315",
+   "pays": "FR"
+  },
+  {
+   "titre": "The Jury Experience – Meurtre au large",
+   "date_debut": "2026-11-22",
+   "date_fin": "2027-01-30",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Strasbourg",
+   "categorie": "Théâtre immersif",
+   "prix": "À partir de 22,80 €",
+   "url": "https://feverup.com/m/667316",
+   "pays": "FR"
+  },
+  {
+   "titre": "The Jury Experience – L'IA meurtrière",
+   "date_debut": "2027-01-09",
+   "date_fin": "2027-02-13",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Strasbourg",
+   "categorie": "Théâtre immersif",
+   "prix": "À partir de 28,00 €",
+   "url": "https://feverup.com/m/461078",
    "pays": "FR"
   }
  ]

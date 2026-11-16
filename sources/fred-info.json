@@ -2,7 +2,7 @@
  "source": "fred-info",
  "nom": "FRED (transfrontalier)",
  "pays": "DE",
- "lu_le": "2026-11-15",
+ "lu_le": "2026-11-16",
  "pages": [
   "https://fred.info/fr/evenements/"
  ],
@@ -29,6 +29,17 @@
    "categorie": "Animation",
    "prix": null,
    "url": "https://fred.info/fr/events/mois-daction-ensemble-dans-la-bibliotheque/"
+  },
+  {
+   "titre": "Ciné-Club | Spécial",
+   "date_debut": "2026-11-19",
+   "date_fin": null,
+   "horaires": "19:00 - 21:00",
+   "lieu": "Kommunales Kino Freiburg",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Cinéma",
+   "prix": null,
+   "url": "https://fred.info/fr/events/cine-club-special/"
   }
  ]
 }

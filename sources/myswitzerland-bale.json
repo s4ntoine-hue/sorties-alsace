@@ -2,7 +2,7 @@
  "source": "myswitzerland-bale",
  "nom": "MySwitzerland (Bâle)",
  "pays": "CH",
- "lu_le": "2026-11-15",
+ "lu_le": "2026-11-16",
  "pages": [
   "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/manifestations-rechercher/-/bale/ (page 1 sur 12, puis ?p=N)"
  ],
@@ -117,6 +117,174 @@
    "categorie": "Festival littéraire",
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/festival-international-de-litterature-buchbasel-2026/"
+  },
+  {
+   "titre": "Patti Basler & Philippe Kuhn : « Postmodern Talking »",
+   "date_debut": "2026-11-19",
+   "date_fin": "2026-11-21",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": "Spectacle cabaret",
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/patti-basler-philippe-kuhn-postmodern-talking-1/",
+   "description": "Cabaret plein d'esprit, en musique."
+  },
+  {
+   "titre": "Cesar Rodriguez présente FRAGMENTOS",
+   "date_debut": "2026-11-20",
+   "date_fin": "2026-11-22",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": "Exposition",
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/cesar-rodriguez-praesentiert-fragmentos/",
+   "description": "Pièces uniques faites de bois récupéré et d'objets trouvés."
+  },
+  {
+   "titre": "Wildlife Photographer of the Year",
+   "date_debut": "2026-11-20",
+   "date_fin": "2027-06-27",
+   "horaires": null,
+   "lieu": "Naturhistorisches Museum",
+   "commune": "Bâle",
+   "categorie": "Exposition photo",
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/wildlife-photographer-of-the-year/",
+   "description": "100 photos de nature primées, au Musée d'histoire naturelle de Bâle."
+  },
+  {
+   "titre": "Durst! Basler Bierführung",
+   "date_debut": "2026-10-23",
+   "date_fin": "2026-12-18",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": "Visite guidée",
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/durst-basler-bierfuehrung-stadtrundgang-zu-biergeschichte-und-kneipen/",
+   "description": "Balade dans l'histoire de la bière et des bistrots de Bâle."
+  },
+  {
+   "titre": "Rhypark Dinner Show",
+   "date_debut": "2026-11-20",
+   "date_fin": "2027-01-10",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": "Spectacle",
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/rhypark-dinner-show/",
+   "description": "Dîner-spectacle avec numéros de cirque, au bord du Rhin."
+  },
+  {
+   "titre": "Keep Cool – Comedy Musical",
+   "date_debut": "2026-11-20",
+   "date_fin": "2026-12-06",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": "Spectacle humour",
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/keep-cool-comedy-musical-1/",
+   "description": null
+  },
+  {
+   "titre": "BMT - Dr Zauberer vo Oz",
+   "date_debut": "2026-11-21",
+   "date_fin": "2026-12-13",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": "Spectacle jeunesse",
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/bmt-dr-zauberer-vo-oz/",
+   "description": "Le Magicien d'Oz pour enfants, en bâlois."
+  },
+  {
+   "titre": "« Nächstes Jahr in Krakau! » – Vernissage",
+   "date_debut": "2026-11-21",
+   "date_fin": "2027-01-31",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": "Exposition photo",
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/naechstes-jahr-in-krakau-vernissage/",
+   "description": "Exposition de photos de Paul Schneller, avec présentation du livre."
+  },
+  {
+   "titre": "Stellwerkfest 2026",
+   "date_debut": "2026-11-21",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": "Kreativhaus",
+   "commune": "Bâle",
+   "categorie": "Festival",
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/stellwerkfest-2026/",
+   "description": "Fête avec ateliers, conférences, spectacles et musique."
+  },
+  {
+   "titre": "Schneewittchen",
+   "date_debut": "2026-11-21",
+   "date_fin": "2027-02-28",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": "Spectacle jeunesse",
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/schneewittchen/",
+   "description": "Blanche-Neige en dialecte suisse, dès 4 ans."
+  },
+  {
+   "titre": "Fauteuil-Märchenbühne - Dschungelbuch",
+   "date_debut": "2026-10-24",
+   "date_fin": "2027-02-06",
+   "horaires": null,
+   "lieu": "Theater Fauteuil",
+   "commune": "Bâle",
+   "categorie": "Spectacle jeunesse",
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/fauteuil-maerchenbuehne-dschungelbuch/",
+   "description": "Le Livre de la jungle en dialecte, dès 4 ans."
+  },
+  {
+   "titre": "Kriminelles Basel – Stadtrundgang zu historischen Verbrechen",
+   "date_debut": "2026-11-12",
+   "date_fin": "2026-12-31",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": "Visite guidée",
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/kriminelles-basel-stadtrundgang-zu-historischen-verbrechen/",
+   "description": "Balade guidée sur les crimes historiques de Bâle."
+  },
+  {
+   "titre": "Marcel Schaffner. Ein Querschnitt. Arbeiten von 1950 - 2009",
+   "date_debut": "2026-10-08",
+   "date_fin": "2027-01-14",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": "Exposition",
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/marcel-schaffner-ein-querschnitt-arbeiten-von-1950-2009/",
+   "description": "Peintures, sculptures, installations et vidéos."
+  },
+  {
+   "titre": "Gin Workshop: eigenen Gin entwickeln in der Brennerei",
+   "date_debut": "2026-10-08",
+   "date_fin": "2026-12-17",
+   "horaires": null,
+   "lieu": "Brennerei Aktienmühle",
+   "commune": "Bâle",
+   "categorie": "Atelier dégustation",
+   "prix": "CHF 180",
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/gin-workshop-eigenen-gin-entwickeln-in-der-brennerei/",
+   "description": "Atelier de 3 heures pour créer sa propre recette de gin."
   }
  ]
 }

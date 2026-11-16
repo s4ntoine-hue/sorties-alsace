@@ -1,7 +1,7 @@
 {
  "source": "pass-alsace",
  "nom": "Pass'Alsace",
- "lu_le": "2026-11-15",
+ "lu_le": "2026-11-16",
  "pages": [
   "https://www.pass-alsace.com/agenda-des-evenements (pages 1 à 4)"
  ],
@@ -292,6 +292,138 @@
    "categorie": "Exposition temporaire",
    "prix": null,
    "url": "https://www.pass-alsace.com/fr/evenement/1315-une-collection-trois-points-de-vue"
+  },
+  {
+   "titre": "Un froid de canard",
+   "date_debut": "2026-12-02",
+   "date_fin": "2026-12-23",
+   "horaires": null,
+   "lieu": "Musée d'Histoire naturelle et d'Ethnographie de Colmar",
+   "commune": "Colmar",
+   "categorie": "Autour des animaux, Pour les enfants",
+   "prix": null,
+   "url": "https://www.pass-alsace.com/fr/evenement/1306-un-froid-de-canard"
+  },
+  {
+   "titre": "La légende du sapin",
+   "date_debut": "2026-12-02",
+   "date_fin": "2026-12-23",
+   "horaires": null,
+   "lieu": "Musée d'Histoire naturelle et d'Ethnographie de Colmar",
+   "commune": "Colmar",
+   "categorie": "En famille, Festivités de Noël",
+   "prix": null,
+   "url": "https://www.pass-alsace.com/fr/evenement/1307-la-legende-du-sapin"
+  },
+  {
+   "titre": "Visite guidée | Retable d'Issenheim",
+   "date_debut": "2026-12-21",
+   "date_fin": null,
+   "horaires": "14:00",
+   "lieu": "Musée Unterlinden",
+   "commune": "Colmar",
+   "categorie": "Visite guidée",
+   "prix": null,
+   "url": "https://www.pass-alsace.com/fr/evenement/1311-visite-guidee-retable-d-issenheim"
+  },
+  {
+   "titre": "Célébration de la mention du sapin et des 25 ans de la Maison du Pain d'Alsace",
+   "date_debut": "2026-12-21",
+   "date_fin": null,
+   "horaires": "15:21",
+   "lieu": "La Maison du Pain d'Alsace",
+   "commune": "Sélestat",
+   "categorie": "Festivités de Noël",
+   "prix": null,
+   "url": "https://www.pass-alsace.com/fr/evenement/1301-celebration-de-la-mention-du-sapin-et-des-25-ans-de-la-maison-du-pain-d-alsace"
+  },
+  {
+   "titre": "Visite guidée : Des jouets sous le sapin",
+   "date_debut": "2026-12-22",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": "Musée du Jouet",
+   "commune": "Colmar",
+   "categorie": "Visite guidée",
+   "prix": null,
+   "url": "https://www.pass-alsace.com/fr/evenement/1269-visite-guidee-des-jouets-sous-le-sapin"
+  },
+  {
+   "titre": "25 ans de gourmandises – 25 nuances de spécialités alsaciennes",
+   "date_debut": "2026-12-01",
+   "date_fin": "2026-12-24",
+   "horaires": null,
+   "lieu": "La Maison du Pain d'Alsace",
+   "commune": "Sélestat",
+   "categorie": "Festivités de Noël",
+   "prix": null,
+   "url": "https://www.pass-alsace.com/fr/evenement/1299-25-ans-de-gourmandises-25-nuances-de-specialites-alsaciennes"
+  },
+  {
+   "titre": "Visite tout-petits | Le voyage de Platypus",
+   "date_debut": "2026-12-27",
+   "date_fin": null,
+   "horaires": "10:00",
+   "lieu": "Musée Unterlinden",
+   "commune": "Colmar",
+   "categorie": "Pour les enfants",
+   "prix": null,
+   "url": "https://www.pass-alsace.com/fr/evenement/1312-visite-tout-petits-le-voyage-de-platypus"
+  },
+  {
+   "titre": "Visite guidée | Chefs-d'œuvre",
+   "date_debut": "2026-12-27",
+   "date_fin": null,
+   "horaires": "11:00",
+   "lieu": "Musée Unterlinden",
+   "commune": "Colmar",
+   "categorie": "Visite guidée",
+   "prix": null,
+   "url": "https://www.pass-alsace.com/fr/evenement/1313-visite-guidee-chefs-d-oeuvre"
+  },
+  {
+   "titre": "Légendes et contes d'Alsace en musique avec le Trio Jumble",
+   "date_debut": "2026-12-27",
+   "date_fin": null,
+   "horaires": "18:00",
+   "lieu": "Mémorial Alsace-Moselle",
+   "commune": "Schirmeck",
+   "categorie": "Festivités de Noël, concert",
+   "prix": null,
+   "url": "https://www.pass-alsace.com/fr/evenement/1297-decouverte-des-legendes-et-contes-d-alsace-en-musique-avec-le-trio-jumble"
+  },
+  {
+   "titre": "Visite guidée « L'Histoire à la lampe torche »",
+   "date_debut": "2026-12-29",
+   "date_fin": null,
+   "horaires": "19:00",
+   "lieu": "Mémorial Alsace-Moselle",
+   "commune": "Schirmeck",
+   "categorie": "Mémoire, Visite guidée",
+   "prix": null,
+   "url": "https://www.pass-alsace.com/fr/evenement/1261-visite-guidee-l-histoire-a-la-lampe-torche"
+  },
+  {
+   "titre": "Atelier - Un photophore de la paix",
+   "date_debut": "2026-12-23",
+   "date_fin": "2026-12-30",
+   "horaires": null,
+   "lieu": "Centre Schweitzer",
+   "commune": "Kaysersberg Vignoble",
+   "categorie": "Atelier enfants",
+   "prix": null,
+   "url": "https://www.pass-alsace.com/fr/evenement/1304-atelier-un-photophore-de-la-paix"
+  },
+  {
+   "titre": "Toute l'Alsace aime la musique",
+   "date_debut": "2026-10-01",
+   "date_fin": "2026-12-30",
+   "horaires": null,
+   "lieu": "La Seigneurie",
+   "commune": "Andlau",
+   "categorie": "Exposition temporaire",
+   "prix": null,
+   "url": "https://www.pass-alsace.com/fr/evenement/1289-toute-l-alsace-aime-la-musique"
   }
  ]
 }

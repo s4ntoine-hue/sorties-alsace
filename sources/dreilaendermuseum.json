@@ -2,131 +2,118 @@
  "source": "dreilaendermuseum",
  "nom": "Dreiländermuseum Lörrach",
  "pays": "DE",
- "lu_le": "2026-11-15",
+ "lu_le": "2026-11-16",
  "pages": [
   "https://www.dreilaendermuseum.eu/de/anschauen/veranstaltungen/"
  ],
  "events": [
   {
-   "titre": "Vortrag: Wie Erinnerung versöhnen kann – les « Siedler » badois en Alsace 1940-45",
+   "titre": "Mittwoch-Matinee „Zuhause – Unterwegs“",
+   "date_debut": "2026-11-18",
+   "date_fin": null,
+   "horaires": "10:00 - 18:00",
+   "lieu": "Dreiländermuseum Lörrach, Basler Straße 143",
+   "commune": "Lörrach",
+   "categorie": "Dreiländerausstellung, Führung, Sonderausstellung",
+   "prix": null,
+   "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/mittwoch-matinee-zuhause-unterwegs/",
+   "description": "Eine besondere Führung durch die Sonderausstellung „Zuhause – Unterwegs“ beleuchtet ..."
+  },
+  {
+   "titre": "Vortrag: Wie Erinnerung versöhnen kann – Die Geschichte der badischen „Siedler“ im Elsass 1940–45 und ihre Aufarbeitung",
    "date_debut": "2026-11-20",
    "date_fin": null,
    "horaires": "18:00",
-   "lieu": "Dreiländermuseum",
+   "lieu": "Dreiländermuseum Lörrach, Basler Straße 143",
    "commune": "Lörrach",
-   "categorie": "Conférence",
+   "categorie": "Dreiländerausstellung, Sonderausstellung, Vortrag/Diskussion",
    "prix": null,
-   "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/vortrag-wie-erinnerung-versoehnen-kann-die-geschichte-der-badischen-siedler-im-elsass-1940-45-und-ihre-aufarbeitung/"
+   "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/vortrag-wie-erinnerung-versoehnen-kann-die-geschichte-der-badischen-siedler-im-elsass-1940-45-und-ihre-aufarbeitung/",
+   "description": "Während des Zweiten Weltkriegs wurden zahlreiche badische Bauernfamilien als sogenannte ..."
   },
   {
-   "titre": "VHS-Kurs « Zuhause – unterwegs »",
+   "titre": "VHS-Kurs „Zuhause – unterwegs“",
    "date_debut": "2026-11-25",
    "date_fin": null,
    "horaires": "18:15",
-   "lieu": "Dreiländermuseum",
+   "lieu": "Dreiländermuseum Lörrach, Basler Straße 143",
    "commune": "Lörrach",
-   "categorie": "Cours",
+   "categorie": "Dreiländerausstellung, Sonderausstellung, Sonstiges/Spezial",
    "prix": null,
-   "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/vhs-kurs-zuhause-unterwegs/"
+   "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/vhs-kurs-zuhause-unterwegs/",
+   "description": "Der vierteilige Kurs der Volkshochschule beider Basel mit Historiker Markus ..."
   },
   {
-   "titre": "Öffentliche Führung « Zuhause – unterwegs »",
+   "titre": "Öffentliche Führung durch die Sonderausstellung ‚Zuhause – unterwegs‘",
    "date_debut": "2026-11-29",
    "date_fin": null,
    "horaires": "11:00",
-   "lieu": "Dreiländermuseum",
+   "lieu": "Dreiländermuseum Lörrach, Basler Straße 143",
    "commune": "Lörrach",
-   "categorie": "Visite guidée",
+   "categorie": "Dreiländerausstellung, Führung, Sonderausstellung",
    "prix": null,
-   "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/oeffentliche-fuehrung-durch-die-sonderausstellung-zuhause-unterwegs-2/"
+   "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/oeffentliche-fuehrung-durch-die-sonderausstellung-zuhause-unterwegs-2/",
+   "description": "Mit Kunsthistorikerin Jeanette Gutmann Ohne Anmeldung, maximal 20 Personen."
   },
   {
-   "titre": "Aktionstag Lörracher Orange Days",
+   "titre": "Aktionstag im Rahmen der Lörracher Orange Days",
    "date_debut": "2026-11-29",
    "date_fin": null,
    "horaires": "11:00 - 18:00",
-   "lieu": "Dreiländermuseum",
+   "lieu": "Dreiländermuseum Lörrach, Basler Straße 143",
    "commune": "Lörrach",
-   "categorie": "Visite guidée",
+   "categorie": "Dreiländerausstellung, Führung, Lesung/Konzert/Aufführung, Sonderausstellung",
    "prix": null,
-   "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/aktionstag-im-rahmen-der-loerracher-orange-days/"
+   "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/aktionstag-im-rahmen-der-loerracher-orange-days/",
+   "description": "Programm 11 Uhr: Führung ‚Weibliche Migrationsgeschichten‘ durch die Sonderausstellung Zuhause – ..."
   },
   {
-   "titre": "Erzählcafé: Winter-Kindheitserinnerungen",
+   "titre": "Erzählcafé, Geschichte(n) in gemütlicher Runde: Winter-Kindheitserinnerungen",
    "date_debut": "2026-12-09",
    "date_fin": null,
    "horaires": "15:00",
-   "lieu": "Dreiländermuseum",
+   "lieu": "Dreiländermuseum Lörrach, Basler Straße 143",
    "commune": "Lörrach",
-   "categorie": "Rencontre",
+   "categorie": "Dreiländerausstellung, Sonstiges/Spezial",
    "prix": null,
-   "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/erzaehlcafe-geschichten-in-gemuetlicher-runde-winter-kindheitserinnerungen/"
+   "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/erzaehlcafe-geschichten-in-gemuetlicher-runde-winter-kindheitserinnerungen/",
+   "description": "Es regnet, stürmt oder schneit? Dann wird es im Hebelsaal ..."
   },
   {
    "titre": "Bildvortrag: Auf den Spuren der Wandermönche",
    "date_debut": "2026-12-11",
    "date_fin": null,
    "horaires": "18:00",
-   "lieu": "Dreiländermuseum",
+   "lieu": "Dreiländermuseum Lörrach, Basler Straße 143",
    "commune": "Lörrach",
-   "categorie": "Conférence",
+   "categorie": "Dreiländerausstellung, Sonderausstellung, Sonstiges/Spezial, Vortrag/Diskussion",
    "prix": null,
-   "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/bildvortrag-auf-den-spuren-der-wandermoenche/"
+   "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/bildvortrag-auf-den-spuren-der-wandermoenche/",
+   "description": "Der Fotograf Martin Schulte-Kellinghaus folgt den Spuren des irischen Wandermönchs ..."
   },
   {
-   "titre": "Literarische Matinee: « Hebel Wirkungen »",
+   "titre": "Literarische Matinee: „Hebel Wirkungen“",
    "date_debut": "2026-12-13",
    "date_fin": null,
    "horaires": "11:00",
-   "lieu": "Dreiländermuseum",
+   "lieu": "Dreiländermuseum Lörrach, Basler Straße 143",
    "commune": "Lörrach",
-   "categorie": "Lecture",
+   "categorie": "Dreiländerausstellung, Lesung/Konzert/Aufführung, Sonderausstellung",
    "prix": null,
-   "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/literarische-matinee-hebel-wirkungen/"
+   "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/literarische-matinee-hebel-wirkungen/",
+   "description": "Urs Faes, Markus Manfred Jung und Pierre Kretz (Hebelpreis 2024) ..."
   },
   {
    "titre": "Kinderprogramm im Museum: Schokolade",
    "date_debut": "2026-12-19",
    "date_fin": null,
    "horaires": "15:00 - 16:30",
-   "lieu": "Dreiländermuseum",
+   "lieu": "Dreiländermuseum Lörrach, Basler Straße 143",
    "commune": "Lörrach",
-   "categorie": "Atelier enfants",
+   "categorie": "Dreiländerausstellung, Kinderprogramm",
    "prix": null,
-   "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/kinderprogramm-im-museum-schokolade/"
-  },
-  {
-   "titre": "Lesung mit Lukas Bärfuss",
-   "date_debut": "2026-11-15",
-   "date_fin": null,
-   "horaires": "17:00",
-   "lieu": "Dreiländermuseum",
-   "commune": "Lörrach",
-   "categorie": "Littérature",
-   "prix": null,
-   "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/lesung-mit-lukas-baerfuss/"
-  },
-  {
-   "titre": "Einweihungszeremonie der historischen Thora-Rolle",
-   "date_debut": "2026-11-15",
-   "date_fin": null,
-   "horaires": "14:00",
-   "lieu": "Dreiländermuseum",
-   "commune": "Lörrach",
-   "categorie": "Patrimoine",
-   "prix": null,
-   "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/einweihungszeremonie-der-historischen-thora-rolle/"
-  },
-  {
-   "titre": "Mittwoch-Matinee « Zuhause – Unterwegs »",
-   "date_debut": "2026-11-18",
-   "date_fin": null,
-   "horaires": "10:00 - 18:00",
-   "lieu": "Dreiländermuseum",
-   "commune": "Lörrach",
-   "categorie": "Visite guidée",
-   "prix": null,
-   "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/mittwoch-matinee-zuhause-unterwegs/"
+   "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/kinderprogramm-im-museum-schokolade/",
+   "description": "Führung mit Museumspädagogin Silke Schwarz in der Dreiländerausstellung für Kinder ..."
   }
  ]
 }

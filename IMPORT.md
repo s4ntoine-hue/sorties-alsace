@@ -21,10 +21,10 @@ Procédure suivie chaque matin par la tâche planifiée « Import agenda Alsace 
 | `baselland-tourismus` | Baselland Tourismus | https://www.baselland-tourismus.ch/fr/calendrier-des-evenements | Page 1 seulement. Pays CH. |
 | `meer-bale` | Meer (expositions à Bâle) | https://www.meer.com/fr/calendar?country_id=50&locality_id=365660 | Expositions en cours. Pays CH. |
 | `denkmal-bale` | Denkmal (concerts et soirées) | https://denkmal.org/fr/basel/AAAA-MM-JJ, aujourd'hui + 6 jours | Pays CH, sauf le lieu « Burghof » qui est à Lörrach (commune Lörrach, pays DE). |
-| `oazis-lorrach` | Oazis (Lörrach) | https://oazis.app/sorties/lorrach | Garder seulement Lörrach et ses quartiers. Pays DE. |
+| `oazis-lorrach` | Oazis (Lörrach) | https://oazis.app/sorties/lorrach | Garder seulement Lörrach et ses quartiers. Pays DE. Écarter les rendez-vous de club et cours réguliers (échecs, jeux, poker, cours de danse ou de cuisine, permanences, bourses de stands). |
 | `dreilaendermuseum` | Dreiländermuseum Lörrach | https://www.dreilaendermuseum.eu/de/anschauen/veranstaltungen/ | Pays DE. |
 | `songkick-lorrach` | Songkick (Marktplatz Lörrach) | https://www.songkick.com/fr/venues/886706-marktplatz-lorrach | Pays DE. |
-| `oazis-freiburg` | Oazis (Fribourg) | https://oazis.app/sorties/freiburg-im-breisgau | Pas de lien par événement. Pays DE. Écarter les cours de langue. |
+| `oazis-freiburg` | Oazis (Fribourg) | https://oazis.app/sorties/freiburg-im-breisgau | Pas de lien par événement. Pays DE. Écarter les cours de langue et les mêmes rendez-vous réguliers que pour Oazis Lörrach (filtre `bad` à reprendre). |
 | `foretnoire-magique` | Forêt-Noire magique | https://www.foretnoire-magique.fr/lexperience/evenements | Pays DE. Garder le sud de la Forêt-Noire (Fribourg, Hochschwarzwald, Bad Dürrheim). Années parfois absentes. |
 | `fever-freiburg` | Fever (Fribourg) | https://feverup.com/fr/freiburg-im-breisgau | Garder les concerts (Fribourg, Colmar) et spectacles proches ; écarter excursions, billets de musée, jeux de piste. `pays` par événement. |
 | `fred-info` | FRED (transfrontalier) | https://fred.info/fr/evenements/ | Premier bloc seulement. Écarter permanences, webinaires et réunions administratives. |

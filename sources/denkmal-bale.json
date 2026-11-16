@@ -2,66 +2,11 @@
  "source": "denkmal-bale",
  "nom": "Denkmal (concerts et soirées à Bâle)",
  "pays": "CH",
- "lu_le": "2026-11-15",
+ "lu_le": "2026-11-16",
  "pages": [
   "https://denkmal.org/fr/basel/<AAAA-MM-JJ> (une page par jour : lire aujourd'hui + 6 jours)"
  ],
  "events": [
-  {
-   "titre": "Top-Secret: Golden Eye – Aventurin Quartett",
-   "date_debut": "2026-11-15",
-   "date_fin": null,
-   "horaires": "11:00",
-   "lieu": "Allgemeine Lesegesellschaft",
-   "commune": "Bâle",
-   "categorie": "Concert classique",
-   "prix": null,
-   "url": "https://denkmal.org/fr/basel/2026-11-15/c6489365-c051-43ce-8182-71b022258a61"
-  },
-  {
-   "titre": "Fabio Gouvea, Ryuji Uchida, Yosuke Doki",
-   "date_debut": "2026-11-15",
-   "date_fin": null,
-   "horaires": "19:00",
-   "lieu": "Blaupause Bar",
-   "commune": "Bâle",
-   "categorie": "Concert jazz",
-   "prix": null,
-   "url": "https://denkmal.org/fr/basel/2026-11-15/42773257-e714-4550-a39e-7df2487ac85c"
-  },
-  {
-   "titre": "Kinderdisco mit Flavah Nice",
-   "date_debut": "2026-11-15",
-   "date_fin": null,
-   "horaires": "14:00-17:00",
-   "lieu": "Kuppel",
-   "commune": "Bâle",
-   "categorie": "Concert / soirée – Disco enfants",
-   "prix": null,
-   "url": "https://denkmal.org/fr/basel/2026-11-15/b06d11a0-a38c-47b2-9697-1f76af2523f1"
-  },
-  {
-   "titre": "Ensemble arco d'oro",
-   "date_debut": "2026-11-15",
-   "date_fin": null,
-   "horaires": "19:00",
-   "lieu": "Museum Kleines Klingental",
-   "commune": "Bâle",
-   "categorie": "Concert classique",
-   "prix": null,
-   "url": "https://denkmal.org/fr/basel/2026-11-15/9dcd2688-f364-4b35-85b2-cd9020e1ddb9"
-  },
-  {
-   "titre": "Gloryhammer, Majestica, Arion",
-   "date_debut": "2026-11-15",
-   "date_fin": null,
-   "horaires": "19:00",
-   "lieu": "Z7",
-   "commune": "Bâle",
-   "categorie": "Concert power metal",
-   "prix": null,
-   "url": "https://denkmal.org/fr/basel/2026-11-15/c47011cf-a23f-462e-be0a-f441da2b8bf3"
-  },
   {
    "titre": "Cis Cembalomusik",
    "date_debut": "2026-11-16",
@@ -912,6 +857,17 @@
    "url": "https://denkmal.org/fr/basel/2026-11-21/3563de90-88f8-4eab-8408-8775e50416c3"
   },
   {
+   "titre": "Klassik.kino: Manon",
+   "date_debut": "2026-11-22",
+   "date_fin": null,
+   "horaires": "11 h",
+   "lieu": "Kult.Kino Atelier",
+   "commune": "Bâle",
+   "categorie": "Concert / soirée – opéra au cinéma",
+   "prix": null,
+   "url": "https://denkmal.org/fr/basel/2026-11-22"
+  },
+  {
    "titre": "10 Jahre Fortuna Ehrenfeld",
    "date_debut": "2026-11-22",
    "date_fin": null,
@@ -920,7 +876,7 @@
    "commune": "Lörrach",
    "categorie": "Concert / soirée – indie pop",
    "prix": null,
-   "url": "https://denkmal.org/fr/basel/2026-11-22/1ceac435-2b99-4e17-9190-c7aa4321c1ff",
+   "url": "https://denkmal.org/fr/basel/2026-11-22",
    "pays": "DE"
   },
   {
@@ -930,9 +886,9 @@
    "horaires": "16 h - 22 h",
    "lieu": "Heimat",
    "commune": "Bâle",
-   "categorie": "Concert / soirée – house",
+   "categorie": "Concert / soirée – balearic, house",
    "prix": null,
-   "url": "https://denkmal.org/fr/basel/2026-11-22/62406bf8-7259-49d2-b3dc-82fb4b381292"
+   "url": "https://denkmal.org/fr/basel/2026-11-22"
   },
   {
    "titre": "Conquering Basilea: Fleshcrawl, Avulsed, Violentor",
@@ -943,18 +899,7 @@
    "commune": "Bâle",
    "categorie": "Concert / soirée – death metal",
    "prix": null,
-   "url": "https://denkmal.org/fr/basel/2026-11-22/e41051e3-1900-4b43-9e14-0d5a0a5e818d"
-  },
-  {
-   "titre": "Klassik.kino: Manon",
-   "date_debut": "2026-11-22",
-   "date_fin": null,
-   "horaires": "11 h",
-   "lieu": "Kult.Kino Atelier",
-   "commune": "Bâle",
-   "categorie": "Concert / soirée – opéra au cinéma",
-   "prix": null,
-   "url": "https://denkmal.org/fr/basel/2026-11-22/1aec26f8-a6e2-472a-a627-4e134125dae4"
+   "url": "https://denkmal.org/fr/basel/2026-11-22"
   },
   {
    "titre": "Hidden Floor x LovaLova",
@@ -963,9 +908,9 @@
    "horaires": "15 h - 19 h",
    "lieu": "Kuppel",
    "commune": "Bâle",
-   "categorie": "Concert / soirée – afrobeat",
+   "categorie": "Concert / soirée – afrobeat, amapiano",
    "prix": null,
-   "url": "https://denkmal.org/fr/basel/2026-11-22/90af29e2-f81e-4b3e-8a9d-f8ac04170e22"
+   "url": "https://denkmal.org/fr/basel/2026-11-22"
   },
   {
    "titre": "Kammermusiktage monuments musicaux",
@@ -974,20 +919,20 @@
    "horaires": "18 h",
    "lieu": "Museum Kleines Klingental",
    "commune": "Bâle",
-   "categorie": "Concert / soirée – klassik",
+   "categorie": "Concert / soirée – classique",
    "prix": null,
-   "url": "https://denkmal.org/fr/basel/2026-11-22/c1c3e6d4-6628-4049-9be6-b6096eeb3fe3"
+   "url": "https://denkmal.org/fr/basel/2026-11-22"
   },
   {
    "titre": "Sonntags:tanzen",
    "date_debut": "2026-11-22",
    "date_fin": null,
    "horaires": "11 h - 13 h",
-   "lieu": "ROXY Birsfelden",
+   "lieu": "ROXY",
    "commune": "Birsfelden",
    "categorie": "Concert / soirée – disco",
    "prix": null,
-   "url": "https://denkmal.org/fr/basel/2026-11-22/82c75fcd-07f9-40b8-80a7-059254728343"
+   "url": "https://denkmal.org/fr/basel/2026-11-22"
   },
   {
    "titre": "Vokalensemble kor",
@@ -996,9 +941,9 @@
    "horaires": "17 h",
    "lieu": "Zentrum Johannes",
    "commune": "Bâle",
-   "categorie": "Concert / soirée – klassik",
+   "categorie": "Concert / soirée – classique",
    "prix": null,
-   "url": "https://denkmal.org/fr/basel/2026-11-22/688b8b63-616e-443b-bad5-2a8dbe8f4304"
+   "url": "https://denkmal.org/fr/basel/2026-11-22"
   }
  ]
 }
