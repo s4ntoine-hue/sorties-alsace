@@ -2,36 +2,38 @@
  "source": "meer-bale",
  "nom": "Meer (expositions à Bâle)",
  "pays": "CH",
- "lu_le": "2026-11-16",
+ "lu_le": "2026-11-17",
  "pages": [
   "https://www.meer.com/fr/calendar?country_id=50&locality_id=365660"
  ],
  "note": "Expositions de galeries et musées uniquement.",
  "events": [
   {
-   "titre": "Landon Metz",
+   "titre": "Landon Metz' exhibition",
    "date_debut": "2026-11-05",
    "date_fin": "2027-01-08",
    "horaires": null,
-   "lieu": "Galerie Von Bartha",
+   "lieu": "Von Bartha",
    "commune": "Bâle",
    "categorie": "Exposition",
    "prix": null,
-   "url": "https://www.meer.com/en/114262-landon-metz-exhibition"
+   "url": "https://www.meer.com/en/114262-landon-metz-exhibition",
+   "description": null
   },
   {
    "titre": "Headroom",
    "date_debut": "2026-11-05",
    "date_fin": "2027-01-08",
    "horaires": null,
-   "lieu": "Galerie Von Bartha",
+   "lieu": "Von Bartha",
    "commune": "Bâle",
    "categorie": "Exposition",
    "prix": null,
-   "url": "https://www.meer.com/en/114261-headroom"
+   "url": "https://www.meer.com/en/114261-headroom",
+   "description": null
   },
   {
-   "titre": "Der Erfinder der Tricolore",
+   "titre": "Der erfinder der tricolore (The inventor of the tricolore)",
    "date_debut": "2026-10-31",
    "date_fin": "2026-12-19",
    "horaires": null,
@@ -39,7 +41,8 @@
    "commune": "Bâle",
    "categorie": "Exposition",
    "prix": null,
-   "url": "https://www.meer.com/en/114085-der-erfinder-der-tricolore-the-inventor-of-the-tricolore"
+   "url": "https://www.meer.com/en/114085-der-erfinder-der-tricolore-the-inventor-of-the-tricolore",
+   "description": null
   },
   {
    "titre": "Zwischenraum. Hindurchzuschaun",
@@ -50,7 +53,8 @@
    "commune": "Bâle",
    "categorie": "Exposition",
    "prix": null,
-   "url": "https://www.meer.com/fr/112457-zwischenraum-hindurchzuschaun"
+   "url": "https://www.meer.com/fr/112457-zwischenraum-hindurchzuschaun",
+   "description": null
   },
   {
    "titre": "Tony Fretton: practice",
@@ -61,10 +65,11 @@
    "commune": "Bâle",
    "categorie": "Exposition",
    "prix": null,
-   "url": "https://www.meer.com/en/112377-tony-fretton-practice"
+   "url": "https://www.meer.com/en/112377-tony-fretton-practice",
+   "description": null
   },
   {
-   "titre": "Irène Zurkinden",
+   "titre": "Irene Zurkinden's exhibition",
    "date_debut": "2026-08-27",
    "date_fin": "2026-12-19",
    "horaires": null,
@@ -72,7 +77,8 @@
    "commune": "Bâle",
    "categorie": "Exposition",
    "prix": null,
-   "url": "https://www.meer.com/en/114018-irene-zurkindens-exhibition"
+   "url": "https://www.meer.com/en/114018-irene-zurkindens-exhibition",
+   "description": null
   }
  ]
 }

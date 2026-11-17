@@ -2,132 +2,131 @@
  "source": "bs-ch",
  "nom": "Canton de Bâle-Ville",
  "pays": "CH",
- "lu_le": "2026-11-16",
+ "lu_le": "2026-11-17",
  "pages": [
   "https://www.bs.ch/veranstaltungen (pages 1 et 2 sur 46)"
  ],
  "note": "Pour les événements « en continu », la date affichée est celle de la lecture.",
  "events": [
   {
-   "titre": "Internationales Literaturfestival BuchBasel",
-   "date_debut": "2026-11-15",
-   "date_fin": null,
-   "horaires": "Toute la journée",
-   "lieu": "Bâle",
-   "commune": "Bâle",
-   "categorie": "Festival littéraire",
-   "prix": null,
-   "url": "https://www.bs.ch/veranstaltungen/internationales-literaturfestival-buchbasel"
-  },
-  {
    "titre": "Sonderausstellung « Van Gogh, Hodler und ein Cabriolet »",
-   "date_debut": "2026-11-15",
-   "date_fin": null,
-   "horaires": "Toute la journée",
+   "date_debut": "2026-11-17",
+   "date_fin": "2026-11-21",
+   "horaires": "Ganztags",
    "lieu": "Kunstmuseum",
    "commune": "Bâle",
-   "categorie": "Exposition",
+   "categorie": null,
    "prix": null,
-   "url": "https://www.bs.ch/veranstaltungen/sonderausstellung-van-gogh-hodler-und-ein-cabriolet"
+   "url": "https://www.bs.ch/veranstaltungen/sonderausstellung-van-gogh-hodler-und-ein-cabriolet",
+   "description": null
   },
   {
    "titre": "Ausstellung « Auf immer und ewig »",
-   "date_debut": "2026-11-15",
-   "date_fin": "2026-11-30",
-   "horaires": "7h30 - 17h30",
+   "date_debut": "2026-11-16",
+   "date_fin": "2026-11-21",
+   "horaires": "07:30-17:30",
    "lieu": "Wolfgottesacker",
    "commune": "Bâle",
-   "categorie": "Exposition",
+   "categorie": null,
    "prix": null,
-   "url": "https://www.bs.ch/veranstaltungen/httpswwwbschbvdstadtgaertnerei-7"
+   "url": "https://www.bs.ch/veranstaltungen/httpswwwbschbvdstadtgaertnerei-7",
+   "description": null
   },
   {
    "titre": "Basler Stadtmarkt",
-   "date_debut": "2026-11-15",
-   "date_fin": null,
-   "horaires": "Sam. 8h-17h, mar.-jeu. 8h-14h",
+   "date_debut": "2026-11-17",
+   "date_fin": "2026-11-21",
+   "horaires": "08:00-14:00 (20-21/11: 08:00-17:00)",
    "lieu": "Marktplatz",
    "commune": "Bâle",
-   "categorie": "Marché",
+   "categorie": null,
    "prix": null,
-   "url": "https://www.bs.ch/veranstaltungen/basler-stadtmarkt"
-  },
-  {
-   "titre": "Woche der Religionen 2026",
-   "date_debut": "2026-11-15",
-   "date_fin": null,
-   "horaires": "9h - 23h",
-   "lieu": "Bâle",
-   "commune": "Bâle",
-   "categorie": "Rencontre",
-   "prix": null,
-   "url": "https://www.bs.ch/veranstaltungen/woche-der-religionen-2026-1"
+   "url": "https://www.bs.ch/veranstaltungen/basler-stadtmarkt",
+   "description": null
   },
   {
    "titre": "Fantasy Basel",
-   "date_debut": "2026-11-15",
-   "date_fin": null,
-   "horaires": "10h - 19h",
+   "date_debut": "2026-11-16",
+   "date_fin": "2026-11-19",
+   "horaires": "10:00-19:00",
    "lieu": "Messe Basel",
    "commune": "Bâle",
-   "categorie": "Salon",
+   "categorie": null,
    "prix": null,
-   "url": "https://www.bs.ch/veranstaltungen/fantasy-basel"
+   "url": "https://www.bs.ch/veranstaltungen/fantasy-basel",
+   "description": null
   },
   {
-   "titre": "Gratis uffs Glattyys (patinoire gratuite)",
-   "date_debut": "2026-11-15",
-   "date_fin": null,
-   "horaires": "10h - 19h",
-   "lieu": "Kunsteisbahn Margarethen et Eglisee",
-   "commune": "Bâle",
-   "categorie": "Sport",
-   "prix": "gratuit",
-   "url": "https://www.bs.ch/veranstaltungen/gratis-uffs-glattyys"
-  },
-  {
-   "titre": "Schlemmer-Markt",
-   "date_debut": "2026-11-16",
-   "date_fin": null,
-   "horaires": "8h - 14h",
-   "lieu": "Marktplatz",
-   "commune": "Bâle",
-   "categorie": "Marché gourmand",
-   "prix": null,
-   "url": "https://www.bs.ch/veranstaltungen/schlemmer-markt"
-  },
-  {
-   "titre": "Führung: Leuchtturmprojekt für nachhaltiges Bauen",
-   "date_debut": "2026-11-16",
-   "date_fin": null,
-   "horaires": "17h30 - 18h30",
-   "lieu": "Amt für Umwelt und Energie",
-   "commune": "Bâle",
-   "categorie": "Visite guidée",
-   "prix": null,
-   "url": "https://www.bs.ch/veranstaltungen/amt-fuer-umwelt-und-energie-fuehrung-leuchtturmprojekt-fuer-nachhaltiges-bauen-2"
-  },
-  {
-   "titre": "Künstliche Intelligenz im Cyber-Sicherheitskontext",
+   "titre": "Von Bedrohung zu Verteidigung: Künstliche Intelligenz im Cyber-Sicherheitskontext",
    "date_debut": "2026-11-17",
-   "date_fin": null,
-   "horaires": "16h15 - 17h15",
-   "lieu": "Institut für Rechtsmedizin",
+   "date_fin": "2026-11-17",
+   "horaires": "16:15-17:15",
+   "lieu": "Institut für Rechtsmedizin der Universität Basel",
    "commune": "Bâle",
-   "categorie": "Conférence",
+   "categorie": null,
    "prix": null,
-   "url": "https://www.bs.ch/veranstaltungen/von-bedrohung-zu-verteidigung-kuenstliche-intelligenz-im-cyber-sicherheitskontext"
+   "url": "https://www.bs.ch/veranstaltungen/von-bedrohung-zu-verteidigung-kuenstliche-intelligenz-im-cyber-sicherheitskontext",
+   "description": null
   },
   {
-   "titre": "Café Dialogue",
+   "titre": "Café Dialogue - Gemeinsam nachdenken und diskutieren",
    "date_debut": "2026-11-18",
-   "date_fin": null,
-   "horaires": "14h - 15h30",
+   "date_fin": "2026-11-18",
+   "horaires": "14:00-15:30",
    "lieu": "Quartierzentrum Union",
    "commune": "Bâle",
-   "categorie": "Rencontre",
+   "categorie": null,
    "prix": null,
-   "url": "https://www.bs.ch/veranstaltungen/cafe-dialogue-gemeinsam-nachdenken-und-diskutieren-38"
+   "url": "https://www.bs.ch/veranstaltungen/cafe-dialogue-gemeinsam-nachdenken-und-diskutieren-38",
+   "description": null
+  },
+  {
+   "titre": "Palazzo Colombino und Cirque Noël de Bâle",
+   "date_debut": "2026-11-20",
+   "date_fin": "2026-11-21",
+   "horaires": "Ganztags",
+   "lieu": "Rosentalanlage",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.bs.ch/veranstaltungen/palazzo-colombino-und-cirque-noel-de-bale",
+   "description": null
+  },
+  {
+   "titre": "Ystimme – feierliche Eröffnung der Basler Weihnacht",
+   "date_debut": "2026-11-20",
+   "date_fin": "2026-11-20",
+   "horaires": "17:30-20:00",
+   "lieu": "Marktplatz",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.bs.ch/veranstaltungen/ystimme-feierliche-eroeffnung-der-basler-weihnacht",
+   "description": null
+  },
+  {
+   "titre": "20./21. November: Grenzüberschreitende Archäologietage",
+   "date_debut": "2026-11-20",
+   "date_fin": "2026-11-21",
+   "horaires": "09:30-18:00",
+   "lieu": "Colmar",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.bs.ch/veranstaltungen/2021-november-grenzueberschreitende-archaeologietage",
+   "description": null
+  },
+  {
+   "titre": "Flohmarkt Petersplatz",
+   "date_debut": "2026-11-21",
+   "date_fin": "2026-11-21",
+   "horaires": "07:30-16:00",
+   "lieu": "Petersplatz",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.bs.ch/veranstaltungen/flohmarkt-petersplatz",
+   "description": null
   }
  ]
 }

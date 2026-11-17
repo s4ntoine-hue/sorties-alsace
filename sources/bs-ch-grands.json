@@ -2,43 +2,34 @@
  "source": "bs-ch-grands",
  "nom": "Bâle – grands événements",
  "pays": "CH",
- "lu_le": "2026-11-16",
+ "lu_le": "2026-11-17",
  "pages": [
   "https://www.bs.ch/fr/schwerpunkte/portrait/evenements-bale"
  ],
  "events": [
   {
-   "titre": "Festival de littérature BuchBasel",
-   "date_debut": "2026-11-13",
-   "date_fin": "2026-11-15",
-   "horaires": null,
-   "lieu": null,
-   "commune": "Bâle",
-   "categorie": "Festival littéraire",
-   "prix": null,
-   "url": "https://www.bs.ch/fr/evenements/festival-de-litterature-buchbasel"
-  },
-  {
-   "titre": "Noël à Bâle (marché de Noël du Münsterplatz)",
+   "titre": "Noël à Bâle (marché de Noël, Münsterplatz)",
    "date_debut": "2026-11-26",
    "date_fin": "2026-12-23",
    "horaires": null,
    "lieu": "Münsterplatz",
    "commune": "Bâle",
-   "categorie": "Marché de Noël",
+   "categorie": null,
    "prix": null,
-   "url": "https://www.bs.ch/fr/evenements/noel-bale"
+   "url": "https://www.bs.ch/fr/evenements/noel-bale",
+   "description": "Marchés de Noël animés et nombreux événements festifs dans la ville."
   },
   {
-   "titre": "Palazzo Colombino et Cirque Noël de Bâle",
+   "titre": "Palazzo Colombino und Cirque Noël de Bâle",
    "date_debut": "2026-11-20",
    "date_fin": "2027-01-10",
    "horaires": null,
    "lieu": "Rosentalanlage",
    "commune": "Bâle",
-   "categorie": "Cirque",
+   "categorie": "Spectacle de cirque et variétés",
    "prix": null,
-   "url": "https://www.bs.ch/fr/evenements/palazzo-colombino-und-cirque-noel-de-bale"
+   "url": "https://www.bs.ch/fr/evenements/palazzo-colombino-und-cirque-noel-de-bale",
+   "description": "Théâtre de variétés et cirque de Noël sous chapiteau, sur la Rosentalanlage."
   },
   {
    "titre": "Exposition « Van Gogh, Hodler et un cabriolet »",
@@ -49,7 +40,8 @@
    "commune": "Bâle",
    "categorie": "Exposition",
    "prix": null,
-   "url": "https://www.bs.ch/fr/evenements/exposition-van-gogh-hodler-et-un-cabriolet"
+   "url": "https://www.bs.ch/fr/evenements/exposition-van-gogh-hodler-et-un-cabriolet",
+   "description": "Première exposition temporaire complète consacrée à la collectionneuse suisse Gertrud Dübi-Müller."
   }
  ]
 }

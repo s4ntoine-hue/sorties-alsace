@@ -2,12 +2,72 @@
  "source": "baselland-tourismus",
  "nom": "Baselland Tourismus",
  "pays": "CH",
- "lu_le": "2026-11-16",
+ "lu_le": "2026-11-17",
  "pages": [
   "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements (page 1 sur 5, 2713 manifestations)"
  ],
  "note": "Format des pages suivantes inconnu : seule la page 1 est lue.",
  "events": [
+  {
+   "titre": "Sonderausstellung: Badekuren im Entdeckerland",
+   "date_debut": "2026-11-17",
+   "date_fin": "2027-01-03",
+   "horaires": null,
+   "lieu": "DISTL Dichter:innen- und Stadtmuseum Liestal",
+   "commune": "Liestal",
+   "categorie": "Exposition",
+   "prix": null,
+   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/badekuren-im-entdeckerland-eve_uv7_heciagjgcgicjjahdic",
+   "description": null
+  },
+  {
+   "titre": "Basler Stadtmarkt",
+   "date_debut": "2026-11-17",
+   "date_fin": "2026-12-31",
+   "horaires": null,
+   "lieu": "Marktplatz, Basel",
+   "commune": "Bâle",
+   "categorie": "Marché",
+   "prix": null,
+   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/stadtmarkt-eve_wt1_jgdjffggb",
+   "description": null
+  },
+  {
+   "titre": "Ein Entwurf macht Schule",
+   "date_debut": "2026-11-17",
+   "date_fin": "2026-11-18",
+   "horaires": null,
+   "lieu": "Universitätsbibliothek Basel",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/ein-entwurf-macht-schule-eve_uv7_hehddghgfhgeageadbg-gidieaedfjggeebhdah",
+   "description": null
+  },
+  {
+   "titre": "Vitrinenausstellung - Universitätsbibliothek",
+   "date_debut": "2026-11-17",
+   "date_fin": "2027-03-16",
+   "horaires": null,
+   "lieu": "Universitätsbibliothek (UB), Basel",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/vitrinenausstellung---universitätsbibliothek-eve_wt1_bdcciebegd",
+   "description": null
+  },
+  {
+   "titre": "City Walk Basel by blindekuh Basel",
+   "date_debut": "2026-11-17",
+   "date_fin": "2026-12-23",
+   "horaires": null,
+   "lieu": "Restaurant Blindekuh, Basel",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": "Billets en ligne (montant non indiqué)",
+   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/city-walk-basel-by-blindekuh-basel-eve_uv7_hefieffgbjgffcbijgi-ggcfjbeaabbbjchhdih",
+   "description": null
+  },
   {
    "titre": "Ausstellung Väter & Töchter",
    "date_debut": "2026-11-15",
@@ -62,17 +122,6 @@
    "categorie": "Gastronomie",
    "prix": null,
    "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/zmorgeinsle---vegetarischer-sonntagsbrunch-am-rhein-eve_wt1_bcbdedhecd"
-  },
-  {
-   "titre": "Young Celebration",
-   "date_debut": "2026-11-15",
-   "date_fin": "2026-11-15",
-   "horaires": null,
-   "lieu": "Fondation Beyeler",
-   "commune": "Riehen",
-   "categorie": "Famille & enfants",
-   "prix": null,
-   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/kinder-celebration-eve_wt1_bdcgighdgj"
   }
  ]
 }

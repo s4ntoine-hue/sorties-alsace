@@ -2,7 +2,7 @@
  "source": "visit-freiburg",
  "nom": "Visit Freiburg",
  "pays": "DE",
- "lu_le": "2026-11-16",
+ "lu_le": "2026-11-17",
  "pages": [
   "https://visit.freiburg.de/fr/evenements/top-10-des-evenements"
  ],
@@ -21,7 +21,7 @@
    "description": null
   },
   {
-   "titre": "Circolo",
+   "titre": "Circolo (Freiburgs Weihnachts-Circus)",
    "date_debut": "2026-12-18",
    "date_fin": null,
    "horaires": "19:00",

@@ -2,48 +2,12 @@
  "source": "fever-freiburg",
  "nom": "Fever (Fribourg)",
  "pays": "DE",
- "lu_le": "2026-11-16",
+ "lu_le": "2026-11-17",
  "pages": [
   "https://feverup.com/fr/freiburg-im-breisgau"
  ],
  "note": "Gardés : concerts à Fribourg et Colmar, Titanic à Strasbourg. Écartés : excursions, billets de musée, jeux de piste permanents, villes lointaines.",
  "events": [
-  {
-   "titre": "Candlelight : Queen vs. ABBA",
-   "date_debut": "2027-03-12",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": "Historisches Kaufhaus",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Concert",
-   "prix": "À partir de 31,00 €",
-   "url": "https://feverup.com/m/413626/fr",
-   "pays": "DE"
-  },
-  {
-   "titre": "Candlelight : hommage à Phil Collins",
-   "date_debut": "2027-03-19",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": "Historisches Kaufhaus",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Concert",
-   "prix": "À partir de 22,50 €",
-   "url": "https://feverup.com/m/413627/fr",
-   "pays": "DE"
-  },
-  {
-   "titre": "Candlelight : le meilleur des années 80",
-   "date_debut": "2027-03-19",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": "Historisches Kaufhaus",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Concert",
-   "prix": "À partir de 33,00 €",
-   "url": "https://feverup.com/m/458310/fr",
-   "pays": "DE"
-  },
   {
    "titre": "Candlelight : hommage à Hans Zimmer",
    "date_debut": "2026-11-26",
@@ -51,10 +15,10 @@
    "horaires": null,
    "lieu": null,
    "commune": "Colmar",
-   "categorie": "Concert",
-   "prix": "À partir de 20,00 €",
+   "categorie": "Concert Candlelight",
+   "prix": "à partir de 20,00 €",
    "url": "https://feverup.com/m/145123",
-   "pays": "FR"
+   "description": null
   },
   {
    "titre": "Candlelight : Coldplay et Imagine Dragons",
@@ -63,10 +27,10 @@
    "horaires": null,
    "lieu": null,
    "commune": "Colmar",
-   "categorie": "Concert",
-   "prix": "À partir de 19,00 €",
+   "categorie": "Concert Candlelight",
+   "prix": "à partir de 19,00 €",
    "url": "https://feverup.com/m/156247",
-   "pays": "FR"
+   "description": null
   },
   {
    "titre": "Candlelight : Les Quatre Saisons de Vivaldi",
@@ -75,10 +39,10 @@
    "horaires": null,
    "lieu": null,
    "commune": "Colmar",
-   "categorie": "Concert",
-   "prix": "À partir de 22,00 €",
+   "categorie": "Concert Candlelight",
+   "prix": "à partir de 22,00 €",
    "url": "https://feverup.com/m/145127",
-   "pays": "FR"
+   "description": null
   },
   {
    "titre": "Candlelight : hommage à Queen",
@@ -87,10 +51,10 @@
    "horaires": null,
    "lieu": null,
    "commune": "Colmar",
-   "categorie": "Concert",
-   "prix": "À partir de 21,00 €",
+   "categorie": "Concert Candlelight",
+   "prix": "à partir de 21,00 €",
    "url": "https://feverup.com/m/147554",
-   "pays": "FR"
+   "description": null
   },
   {
    "titre": "Candlelight : hommage à Michael Jackson",
@@ -99,10 +63,10 @@
    "horaires": null,
    "lieu": null,
    "commune": "Colmar",
-   "categorie": "Concert",
-   "prix": "À partir de 20,00 €",
+   "categorie": "Concert Candlelight",
+   "prix": "à partir de 20,00 €",
    "url": "https://feverup.com/m/733452",
-   "pays": "FR"
+   "description": null
   },
   {
    "titre": "Candlelight : musiques de Noël",
@@ -111,10 +75,10 @@
    "horaires": null,
    "lieu": null,
    "commune": "Colmar",
-   "categorie": "Concert",
-   "prix": "À partir de 19,50 €",
+   "categorie": "Concert Candlelight",
+   "prix": "à partir de 19,50 €",
    "url": "https://feverup.com/m/198763",
-   "pays": "FR"
+   "description": null
   },
   {
    "titre": "Candlelight : Disney Chansons d'amour",
@@ -123,10 +87,94 @@
    "horaires": null,
    "lieu": null,
    "commune": "Colmar",
-   "categorie": "Concert",
-   "prix": "À partir de 26,50 €",
+   "categorie": "Concert Candlelight",
+   "prix": "à partir de 26,50 €",
    "url": "https://feverup.com/m/765333",
-   "pays": "FR"
+   "description": null
+  },
+  {
+   "titre": "The Jazz Room : un voyage au cœur de La Nouvelle-Orléans",
+   "date_debut": "2027-01-16",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": null,
+   "commune": "Colmar",
+   "categorie": "Concert",
+   "prix": "à partir de 23,50 €",
+   "url": "https://feverup.com/m/573215",
+   "description": null
+  },
+  {
+   "titre": "The Jury Experience – Une sortie en mer fatale",
+   "date_debut": "2026-12-05",
+   "date_fin": "2027-03-06",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Colmar",
+   "categorie": "Théâtre immersif",
+   "prix": "à partir de 25,00 €",
+   "url": "https://feverup.com/m/667315",
+   "description": null
+  },
+  {
+   "titre": "The Jury Experience – Meurtre au large",
+   "date_debut": "2026-11-22",
+   "date_fin": "2027-01-30",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Strasbourg",
+   "categorie": "Théâtre immersif",
+   "prix": "à partir de 28,00 €",
+   "url": "https://feverup.com/m/667316",
+   "description": null
+  },
+  {
+   "titre": "The Jury Experience – L'IA meurtrière",
+   "date_debut": "2027-01-09",
+   "date_fin": "2027-02-13",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Strasbourg",
+   "categorie": "Théâtre immersif",
+   "prix": "à partir de 28,00 €",
+   "url": "https://feverup.com/m/461078",
+   "description": null
+  },
+  {
+   "titre": "Candlelight : le meilleur des années 80",
+   "date_debut": "2027-03-19",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": "Historisches Kaufhaus",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Concert Candlelight",
+   "prix": "à partir de 33,00 €",
+   "url": "https://feverup.com/m/458310/fr",
+   "description": null
+  },
+  {
+   "titre": "Candlelight : hommage à Phil Collins",
+   "date_debut": "2027-03-19",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": "Historisches Kaufhaus",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Concert Candlelight",
+   "prix": "à partir de 22,50 €",
+   "url": "https://feverup.com/m/413627/fr",
+   "description": null
+  },
+  {
+   "titre": "Candlelight : Queen vs. ABBA",
+   "date_debut": "2027-03-12",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": "Historisches Kaufhaus",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Concert Candlelight",
+   "prix": "à partir de 31,00 €",
+   "url": "https://feverup.com/m/413626/fr",
+   "description": null
   },
   {
    "titre": "Titanic : un voyage immersif",
@@ -138,42 +186,6 @@
    "categorie": "Exposition immersive",
    "prix": "À partir de 16,90 €",
    "url": "https://feverup.com/m/677503",
-   "pays": "FR"
-  },
-  {
-   "titre": "The Jury Experience – Une sortie en mer fatale",
-   "date_debut": "2026-12-05",
-   "date_fin": "2027-03-06",
-   "horaires": null,
-   "lieu": null,
-   "commune": "Colmar",
-   "categorie": "Théâtre immersif",
-   "prix": "À partir de 25,00 €",
-   "url": "https://feverup.com/m/667315",
-   "pays": "FR"
-  },
-  {
-   "titre": "The Jury Experience – Meurtre au large",
-   "date_debut": "2026-11-22",
-   "date_fin": "2027-01-30",
-   "horaires": null,
-   "lieu": null,
-   "commune": "Strasbourg",
-   "categorie": "Théâtre immersif",
-   "prix": "À partir de 22,80 €",
-   "url": "https://feverup.com/m/667316",
-   "pays": "FR"
-  },
-  {
-   "titre": "The Jury Experience – L'IA meurtrière",
-   "date_debut": "2027-01-09",
-   "date_fin": "2027-02-13",
-   "horaires": null,
-   "lieu": null,
-   "commune": "Strasbourg",
-   "categorie": "Théâtre immersif",
-   "prix": "À partir de 28,00 €",
-   "url": "https://feverup.com/m/461078",
    "pays": "FR"
   }
  ]
