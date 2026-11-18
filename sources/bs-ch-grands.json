@@ -2,13 +2,13 @@
  "source": "bs-ch-grands",
  "nom": "Bâle – grands événements",
  "pays": "CH",
- "lu_le": "2026-11-17",
+ "lu_le": "2026-11-18",
  "pages": [
   "https://www.bs.ch/fr/schwerpunkte/portrait/evenements-bale"
  ],
  "events": [
   {
-   "titre": "Noël à Bâle (marché de Noël, Münsterplatz)",
+   "titre": "Noël à Bâle",
    "date_debut": "2026-11-26",
    "date_fin": "2026-12-23",
    "horaires": null,
@@ -17,7 +17,7 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.bs.ch/fr/evenements/noel-bale",
-   "description": "Marchés de Noël animés et nombreux événements festifs dans la ville."
+   "description": "Découvrez Bâle dans l'atmosphère magique de Noël, avec des marchés de Noël animés et de nombreux évènements de Noël."
   },
   {
    "titre": "Palazzo Colombino und Cirque Noël de Bâle",
@@ -26,10 +26,10 @@
    "horaires": null,
    "lieu": "Rosentalanlage",
    "commune": "Bâle",
-   "categorie": "Spectacle de cirque et variétés",
+   "categorie": null,
    "prix": null,
    "url": "https://www.bs.ch/fr/evenements/palazzo-colombino-und-cirque-noel-de-bale",
-   "description": "Théâtre de variétés et cirque de Noël sous chapiteau, sur la Rosentalanlage."
+   "description": "Le théâtre de variétés et le cirque de Noël offrent un divertissement de premier ordre sur la Rosentalanlage."
   },
   {
    "titre": "Exposition « Van Gogh, Hodler et un cabriolet »",
@@ -38,10 +38,10 @@
    "horaires": null,
    "lieu": "Kunstmuseum Basel",
    "commune": "Bâle",
-   "categorie": "Exposition",
+   "categorie": null,
    "prix": null,
    "url": "https://www.bs.ch/fr/evenements/exposition-van-gogh-hodler-et-un-cabriolet",
-   "description": "Première exposition temporaire complète consacrée à la collectionneuse suisse Gertrud Dübi-Müller."
+   "description": "Le Kunstmuseum Basel consacre pour la première fois une exposition temporaire complète à l'éminente collectionneuse suisse"
   }
  ]
 }

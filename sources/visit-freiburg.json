@@ -2,7 +2,7 @@
  "source": "visit-freiburg",
  "nom": "Visit Freiburg",
  "pays": "DE",
- "lu_le": "2026-11-17",
+ "lu_le": "2026-11-18",
  "pages": [
   "https://visit.freiburg.de/fr/evenements/top-10-des-evenements"
  ],
@@ -18,10 +18,11 @@
    "categorie": null,
    "prix": null,
    "url": "https://visit.freiburg.de/fr/weihnachtsmarkt-freiburg",
-   "description": null
+   "description": null,
+   "pays": "DE"
   },
   {
-   "titre": "Circolo (Freiburgs Weihnachts-Circus)",
+   "titre": "Circolo",
    "date_debut": "2026-12-18",
    "date_fin": null,
    "horaires": "19:00",
@@ -30,7 +31,8 @@
    "categorie": null,
    "prix": null,
    "url": "https://visit.freiburg.de/fr/circolo-2026-freiburgs-weihnachts-circus",
-   "description": null
+   "description": null,
+   "pays": "DE"
   },
   {
    "titre": "caravan live",
@@ -42,7 +44,8 @@
    "categorie": null,
    "prix": null,
    "url": "https://visit.freiburg.de/fr/caravan-live",
-   "description": null
+   "description": null,
+   "pays": "DE"
   }
  ]
 }

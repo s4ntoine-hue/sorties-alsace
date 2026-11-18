@@ -2,12 +2,72 @@
  "source": "bs-ch",
  "nom": "Canton de Bâle-Ville",
  "pays": "CH",
- "lu_le": "2026-11-17",
+ "lu_le": "2026-11-18",
  "pages": [
   "https://www.bs.ch/veranstaltungen (pages 1 et 2 sur 46)"
  ],
  "note": "Pour les événements « en continu », la date affichée est celle de la lecture.",
  "events": [
+  {
+   "titre": "Café Dialogue - Gemeinsam nachdenken und diskutieren",
+   "date_debut": "2026-11-18",
+   "date_fin": null,
+   "horaires": "14:00 - 15:30 Uhr",
+   "lieu": "Quartierzentrum Union",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.bs.ch/veranstaltungen/cafe-dialogue-gemeinsam-nachdenken-und-diskutieren-38",
+   "description": null
+  },
+  {
+   "titre": "Palazzo Colombino und Cirque Noël de Bâle",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": "Ganztags",
+   "lieu": "Rosentalanlage",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.bs.ch/veranstaltungen/palazzo-colombino-und-cirque-noel-de-bale",
+   "description": null
+  },
+  {
+   "titre": "Ystimme – feierliche Eröffnung der Basler Weihnacht",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": "17:30 - 20:00 Uhr",
+   "lieu": "Marktplatz",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.bs.ch/veranstaltungen/ystimme-feierliche-eroeffnung-der-basler-weihnacht",
+   "description": null
+  },
+  {
+   "titre": "20./21. November: Grenzüberschreitende Archäologietage",
+   "date_debut": "2026-11-20",
+   "date_fin": "2026-11-21",
+   "horaires": "Fr. 9:30 - Sa. 18:00 Uhr",
+   "lieu": "Colmar",
+   "commune": "Colmar",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.bs.ch/veranstaltungen/2021-november-grenzueberschreitende-archaeologietage",
+   "description": null
+  },
+  {
+   "titre": "Flohmarkt Petersplatz",
+   "date_debut": "2026-11-21",
+   "date_fin": null,
+   "horaires": "Sa. 7:30 - Fr. 16:00 Uhr (Eintrag 21. Nov.)",
+   "lieu": "Petersplatz",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.bs.ch/veranstaltungen/flohmarkt-petersplatz",
+   "description": null
+  },
   {
    "titre": "Sonderausstellung « Van Gogh, Hodler und ein Cabriolet »",
    "date_debut": "2026-11-17",
@@ -54,78 +114,6 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.bs.ch/veranstaltungen/fantasy-basel",
-   "description": null
-  },
-  {
-   "titre": "Von Bedrohung zu Verteidigung: Künstliche Intelligenz im Cyber-Sicherheitskontext",
-   "date_debut": "2026-11-17",
-   "date_fin": "2026-11-17",
-   "horaires": "16:15-17:15",
-   "lieu": "Institut für Rechtsmedizin der Universität Basel",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.bs.ch/veranstaltungen/von-bedrohung-zu-verteidigung-kuenstliche-intelligenz-im-cyber-sicherheitskontext",
-   "description": null
-  },
-  {
-   "titre": "Café Dialogue - Gemeinsam nachdenken und diskutieren",
-   "date_debut": "2026-11-18",
-   "date_fin": "2026-11-18",
-   "horaires": "14:00-15:30",
-   "lieu": "Quartierzentrum Union",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.bs.ch/veranstaltungen/cafe-dialogue-gemeinsam-nachdenken-und-diskutieren-38",
-   "description": null
-  },
-  {
-   "titre": "Palazzo Colombino und Cirque Noël de Bâle",
-   "date_debut": "2026-11-20",
-   "date_fin": "2026-11-21",
-   "horaires": "Ganztags",
-   "lieu": "Rosentalanlage",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.bs.ch/veranstaltungen/palazzo-colombino-und-cirque-noel-de-bale",
-   "description": null
-  },
-  {
-   "titre": "Ystimme – feierliche Eröffnung der Basler Weihnacht",
-   "date_debut": "2026-11-20",
-   "date_fin": "2026-11-20",
-   "horaires": "17:30-20:00",
-   "lieu": "Marktplatz",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.bs.ch/veranstaltungen/ystimme-feierliche-eroeffnung-der-basler-weihnacht",
-   "description": null
-  },
-  {
-   "titre": "20./21. November: Grenzüberschreitende Archäologietage",
-   "date_debut": "2026-11-20",
-   "date_fin": "2026-11-21",
-   "horaires": "09:30-18:00",
-   "lieu": "Colmar",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.bs.ch/veranstaltungen/2021-november-grenzueberschreitende-archaeologietage",
-   "description": null
-  },
-  {
-   "titre": "Flohmarkt Petersplatz",
-   "date_debut": "2026-11-21",
-   "date_fin": "2026-11-21",
-   "horaires": "07:30-16:00",
-   "lieu": "Petersplatz",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.bs.ch/veranstaltungen/flohmarkt-petersplatz",
    "description": null
   }
  ]

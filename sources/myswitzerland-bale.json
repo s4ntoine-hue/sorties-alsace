@@ -2,12 +2,36 @@
  "source": "myswitzerland-bale",
  "nom": "MySwitzerland (Bâle)",
  "pays": "CH",
- "lu_le": "2026-11-17",
+ "lu_le": "2026-11-18",
  "pages": [
   "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/manifestations-rechercher/-/bale/ (page 1 sur 12, puis ?p=N)"
  ],
  "note": "Expositions permanentes des musées écartées.",
  "events": [
+  {
+   "titre": "La naissance d’un chef-d’œuvre",
+   "date_debut": "2024-09-14",
+   "date_fin": "2028-03-31",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/la-naissance-dun-chef-doeuvre/",
+   "description": "Exposition didactique avec des stations participatives pour petits et grands sur la création et l'utilisation"
+  },
+  {
+   "titre": "Geschichte der Pharmazie",
+   "date_debut": "2024-02-06",
+   "date_fin": "2028-03-31",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/geschichte-der-pharmazie/",
+   "description": "L'une des plus grandes collections au monde sur l'histoire de la pharmacie."
+  },
   {
    "titre": "À LA MAISON - EN VOYAGE - LA VIE À BORD",
    "date_debut": "2026-10-22",
@@ -18,7 +42,31 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/a-la-maison-en-voyage-la-vie-a-bord/",
-   "description": "Récits personnels de sept personnes ayant vécu à bord, avec maquettes et film."
+   "description": "Le bateau est à la fois un lieu de travail, un foyer et un espace de vie."
+  },
+  {
+   "titre": "XIXe siècle",
+   "date_debut": "2021-01-01",
+   "date_fin": "2028-03-31",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/xixe-siecle/",
+   "description": "Le premier étage du Hauptbau dont les salles donnent sur la St. Alban-Graben est consacré au XIXe siècle."
+  },
+  {
+   "titre": "Alles lebt – mehr als menschliche Welten",
+   "date_debut": "2023-09-08",
+   "date_fin": "2028-03-31",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/alles-lebt-mehr-als-menschliche-welten/",
+   "description": "Comment les êtres humains perçoivent-ils le monde qui les entoure ?"
   },
   {
    "titre": "Magrée: Magic Moments - Geheimnisse",
@@ -30,7 +78,19 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/magree-magic-moments-geheimnisse/",
-   "description": "8e production-spectacle du magicien Magrée, en direct autour d'une grande table ronde."
+   "description": "Die 8. Show-Produktion von Star-Magier «Magrée» live und hautnah am grossen runden Tisch."
+  },
+  {
+   "titre": "Sauts dans le temps – L'histoire de Bâle en bref",
+   "date_debut": "2019-06-22",
+   "date_fin": "2028-03-31",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/sauts-dans-le-temps-lhistoire-de-bale-en-bref/",
+   "description": "Près de 200 000 personnes originaires de 200 pays vivent à Bâle."
   },
   {
    "titre": "Verner Panton: Form, Colour, Space",
@@ -42,7 +102,7 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/verner-panton-form-colour-space/",
-   "description": "Exposition sur l'œuvre de Verner Panton en design, architecture et installations spatiales."
+   "description": "L'exposition présente l'œuvre visionnaire de Verner Panton en matière de design, d'architecture et d'installations spatiales."
   },
   {
    "titre": "Vitrinenausstellung - Basler Papiermühle",
@@ -54,7 +114,7 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/vitrinenausstellung-basler-papiermuehle/",
-   "description": "Vitrine d'exposition dans le cadre de la série « Freiheit des Denkens. Castellio in Basel »."
+   "description": "Eine Ausstellung im Rahmen der Veranstaltungsreihe «Freiheit des Denkens. Castellio in Basel»."
   },
   {
    "titre": "Vitrinenausstellung - Universitätsbibliothek",
@@ -66,7 +126,7 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/vitrinenausstellung-universitaetsbibliothek/",
-   "description": "Vitrine d'exposition dans le cadre de la série « Freiheit des Denkens. Castellio in Basel »."
+   "description": "Eine Ausstellung im Rahmen der Veranstaltungsreihe «Freiheit des Denkens. Castellio in Basel»."
   },
   {
    "titre": "Vitrinenausstellung - Historisches Museum",
@@ -78,7 +138,31 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/vitrinenausstellung-historisches-museum/",
-   "description": "Vitrine d'exposition dans le cadre de la série « Freiheit des Denkens. Castellio in Basel »."
+   "description": "Eine Ausstellung im Rahmen der Veranstaltungsreihe «Freiheit des Denkens. Castellio in Basel»."
+  },
+  {
+   "titre": "Dino & dinosaures - Images vivantes des temps passés",
+   "date_debut": "2024-02-06",
+   "date_fin": "2028-03-31",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/dino-dinosaures-images-vivantes-des-temps-passes/",
+   "description": "Comment vivaient les dinosaures ?"
+  },
+  {
+   "titre": "Die Sammlung: europaweit einzigartig",
+   "date_debut": "2024-02-06",
+   "date_fin": "2028-03-31",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/die-sammlung-europaweit-einzigartig/",
+   "description": "Ce que les vitrines, situées en plein centre de Bâle, annoncent déjà, se confirme à chaque pas"
   },
   {
    "titre": "Ein Entwurf macht Schule",
@@ -90,19 +174,31 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/ein-entwurf-macht-schule/",
-   "description": "Contribution de Hannes Meyer et Hans Wittwer à un concours d'architecture, centenaire cette année."
+   "description": "Hannes Meyers und Hans Wittwers Beitrag zum Architekturwettbewerb für die Petersschule wird 100 Jahre alt."
   },
   {
-   "titre": "Workshop – Adventskranz stecken",
-   "date_debut": "2026-11-17",
-   "date_fin": "2026-11-17",
+   "titre": "Les mondes médiévaux de la foi",
+   "date_debut": "2018-03-23",
+   "date_fin": "2028-03-31",
    "horaires": null,
    "lieu": null,
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
-   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/workshop-adventskranz-stecken/",
-   "description": "Atelier de confection de sa propre couronne de l'Avent."
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/les-mondes-medievaux-de-la-foi/",
+   "description": "Des œuvres d'art médiévales provenant d'églises de Suisse et du Rhin supérieur y seront présentées."
+  },
+  {
+   "titre": "Égypte : 3000 ans de haute culture au bord du Nil",
+   "date_debut": "2021-03-01",
+   "date_fin": "2028-03-31",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/aegypten-3000-jahre-hochkultur-am-nil/",
+   "description": "Plonger dans l'Égypte d'autrefois et vivre la culture égyptienne ancienne avec tous ses sens."
   },
   {
    "titre": "Fotoausstellung MOVING-PICTURES",
@@ -114,7 +210,7 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/fotoausstellung-moving-pictures/",
-   "description": "Dernière étape de l'exposition de 150 photographies sélectionnées."
+   "description": "En tant que dernière étape de l'exposition, cela vous offre une occasion unique de découvrir pour la dernière fois"
   },
   {
    "titre": "Fauteuil-Komödie - Heimspiel",
@@ -126,43 +222,55 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/fauteuil-komoedie-heimspiel/",
-   "description": "Nouvelle comédie en dialecte de l'auteur suisse Charles Lewinsky."
+   "description": "Die neue Fauteuil-Dialektkomödie aus der Feder des Schweizer Erfolgsautors Charles Lewinsky."
   },
   {
-   "titre": "Frank Stella et les synagogues en bois détruites (exposition temporaire)",
+   "titre": "Frank Stella et les synagogues en bois détruites Exposition temporaire",
    "date_debut": "2025-11-30",
    "date_fin": "2027-01-31",
    "horaires": null,
    "lieu": null,
    "commune": "Bâle",
-   "categorie": "Exposition temporaire",
+   "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/frank-stella-et-les-synagogues-en-bois-detruites-exposition-temporaire/",
-   "description": null
+   "description": "Frank Stella et les synagogues en bois détruites. Exposition spéciale"
   },
   {
    "titre": "Nicolas Darrot. Fuzzy Logic Museum Tinguely",
    "date_debut": "2026-03-05",
    "date_fin": "2027-03-07",
    "horaires": null,
-   "lieu": "Museum Tinguely",
+   "lieu": null,
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/nicolas-darrot-fuzzy-logic-museum-tinguely/",
-   "description": "Exposition sur la logique floue et les personnages de Darrot."
+   "description": "La logique floue et les personnages de Darrot représentent une pensée humaine floue, pleine de spontanéité et d'imperfections."
   },
   {
-   "titre": "Toleranz und ihre Grenzen - Vortrag Prof. Dr. Johanna Pink",
-   "date_debut": "2026-11-17",
-   "date_fin": "2026-11-17",
+   "titre": "Culte, culture, art. Expériences juives",
+   "date_debut": "2026-01-28",
+   "date_fin": "2028-03-31",
    "horaires": null,
    "lieu": null,
    "commune": "Bâle",
-   "categorie": "Conférence",
+   "categorie": null,
    "prix": null,
-   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/toleranz-und-ihre-grenzen-vortrag-prof-dr-johanna-pink/",
-   "description": null
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/culte-culture-art-experiences-juives/",
+   "description": "Culte, culture, art. Expériences juives"
+  },
+  {
+   "titre": "Ammonit & Donnerkeil – Grenzenlose Welt der Versteinerungen",
+   "date_debut": "2024-02-06",
+   "date_fin": "2028-03-31",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/ammonit-donnerkeil-grenzenlose-welt-der-versteinerungen/",
+   "description": "L'exposition Ammonite & Coin du tonnerre abrite des roches du nord-ouest de la Suisse (S)"
   },
   {
    "titre": "Basel auf dem Teller – Kulinarische Stadtgeschichte(n)",
@@ -174,7 +282,7 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/basel-auf-dem-teller-kulinarische-stadtgeschichten/",
-   "description": "Parcours découverte de la culture culinaire de Bâle."
+   "description": "Eine Entdeckungsreise durch die Basler Esskultur (S)"
   },
   {
    "titre": "Marcel Dogor & Peter von Kron - Solo fir Zwai",
@@ -186,43 +294,43 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/marcel-dogor-peter-von-kron-solo-fir-zwai/",
-   "description": "Soirée colorée avec Marcel Dogor et Peter von Kron."
+   "description": "Ein bunter Abend mit Marcel Dogor und Peter von Kron. (S)"
   },
   {
    "titre": "Vortrag Dr. Christine Christ-von Wedel",
    "date_debut": "2026-11-18",
-   "date_fin": "2026-11-18",
+   "date_fin": null,
    "horaires": null,
    "lieu": null,
    "commune": "Bâle",
-   "categorie": "Conférence",
+   "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/vortrag-dr-christine-christvon-wedel/",
-   "description": "Conférence dans le cadre de la série « Freiheit des Denkens. Castellio in Basel »."
+   "description": null
   },
   {
-   "titre": "Christoph Voy « My Degeneration »",
+   "titre": "Christoph Voy \"My Degeneration\"",
    "date_debut": "2026-11-14",
    "date_fin": "2027-01-09",
    "horaires": null,
    "lieu": null,
    "commune": "Bâle",
-   "categorie": "Photographie",
+   "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/christoph-voy-my-degeneration/",
-   "description": "Projet photographique de portraits de personnes en très gros plan."
+   "description": "Christoph Voy fotografiert nicht einfach Menschen. (S)"
   },
   {
-   "titre": "Ein Entwurf macht Schule (finissage)",
+   "titre": "Ein Entwurf macht Schule.",
    "date_debut": "2026-11-18",
-   "date_fin": "2026-11-18",
+   "date_fin": null,
    "horaires": null,
    "lieu": null,
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/ein-entwurf-macht-schule-2/",
-   "description": "Finissage de l'exposition, avec une conférence."
+   "description": "Ausstellungsfinissage mit einem Vortrag von Martin Viehhauser, Universität Freiburg. (S)"
   },
   {
    "titre": "Bier Tour Basel",
@@ -234,31 +342,31 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/bier-tour-basel/",
-   "description": "Visite guidée de bistrots pour découvrir la variété des bières bâloises."
+   "description": "Une 'tournée des bistrots' accompagnée à travers la diversité des bières bâloises. (S)"
   },
   {
    "titre": "Les Madrigalistes de Bâle – Soirée « Plaisirs d'automne »",
    "date_debut": "2026-11-19",
-   "date_fin": "2026-11-19",
+   "date_fin": null,
    "horaires": null,
    "lieu": null,
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/les-madrigalistes-de-bale-soiree-plaisirs-dautomne/",
-   "description": "Échanges entre les Madrigalistes et un expert de la gastronomie bâloise."
+   "description": "Les Madrigalistes de Bâle s'entretiennent avec Raphael Wyniger (S)"
   },
   {
-   "titre": "Patti Basler & Philippe Kuhn: « Postmodern Talking »",
+   "titre": "Patti Basler & Philippe Kuhn: «Postmodern Talking»",
    "date_debut": "2026-11-19",
    "date_fin": "2026-11-21",
    "horaires": null,
    "lieu": null,
    "commune": "Bâle",
-   "categorie": "Cabaret",
+   "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/patti-basler-philippe-kuhn-postmodern-talking-1/",
-   "description": "Cabaret mêlant slam et musique."
+   "description": "Wortgewaltiges und musikalisches Kabarett mit Haken und Ösen. (S)"
   },
   {
    "titre": "Marcel Schaffner. Ein Querschnitt. Arbeiten von 1950 - 2009",
@@ -267,82 +375,82 @@
    "horaires": null,
    "lieu": null,
    "commune": "Bâle",
-   "categorie": "Exposition",
+   "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/marcel-schaffner-ein-querschnitt-arbeiten-von-1950-2009/",
-   "description": "Rétrospective d'art moderne et contemporain couvrant 1950 à 2009."
+   "description": "Modern and Contemporary Art. Paintings, Sculptures, Installations, Performance, Video Art. (S)"
   },
   {
    "titre": "Open Mic at L'Unique Basel | House of Rock",
    "date_debut": "2026-11-19",
-   "date_fin": "2026-11-19",
+   "date_fin": null,
    "horaires": null,
-   "lieu": "L'Unique Basel",
+   "lieu": null,
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/open-mic-at-lunique-basel-house-of-rock/",
-   "description": "Scène ouverte pour les musiciens débutants."
+   "description": "Tout le monde doit bien commencer quelque part ! Pourquoi ne pas commencer ici ?"
   },
   {
-   "titre": "Schauraum B: Small in Japan",
+   "titre": "Schauraum B: Small in Japan.",
    "date_debut": "2026-11-19",
-   "date_fin": "2026-11-19",
+   "date_fin": null,
    "horaires": null,
    "lieu": null,
    "commune": "Bâle",
-   "categorie": "Conférence",
+   "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/schauraum-b-small-in-japan/",
-   "description": "Cycle de conférences et débats sur la mutualisation des espaces."
+   "description": "Mit dem Titel «Mehr Raum. Weniger Bauen. Sharing Space als architektonische Haltung» beleuchtet der Schauraum B"
   },
   {
    "titre": "Sven Ivanic - Luegemer sponti",
    "date_debut": "2026-11-19",
-   "date_fin": "2026-11-19",
+   "date_fin": null,
    "horaires": null,
    "lieu": null,
    "commune": "Bâle",
-   "categorie": "Concert",
+   "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/sven-ivanic-luegemer-sponti/",
-   "description": "Spectacle musical spontané."
+   "description": "Authentisch. Musikalisch. Spontan."
   },
   {
    "titre": "Festanlass - 555 Jahre UB Basel",
    "date_debut": "2026-11-19",
-   "date_fin": "2026-11-19",
+   "date_fin": null,
    "horaires": null,
    "lieu": null,
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/festanlass-555-jahre-ub-basel/",
-   "description": "Fête pour les 555 ans de l'Université de Bâle."
+   "description": "Mit Andrea Schenker-Wicki (Rektorin der Universität Basel), Conradin Cramer (Regierungspräsident), Eva Herzog"
   },
   {
    "titre": "TRÜFFELABEND IM CHEZ JEANNOT BASEL",
    "date_debut": "2026-11-19",
-   "date_fin": "2026-11-19",
+   "date_fin": null,
    "horaires": null,
-   "lieu": "Chez Jeannot",
+   "lieu": null,
    "commune": "Bâle",
-   "categorie": "Gastronomie",
+   "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/trueffelabend-im-chez-jeannot-basel/",
-   "description": "Soirée à la truffe chez Jeannot."
+   "description": "Trüffelabend im Chez Jeannot"
   },
   {
    "titre": "Gin Workshop: eigenen Gin entwickeln in der Brennerei",
    "date_debut": "2026-10-08",
    "date_fin": "2026-12-17",
    "horaires": null,
-   "lieu": "Brennerei Aktienmühle",
+   "lieu": "Brennerei Aktienmühle Basel",
    "commune": "Bâle",
-   "categorie": "Atelier",
+   "categorie": null,
    "prix": "CHF 180",
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/gin-workshop-eigenen-gin-entwickeln-in-der-brennerei/",
-   "description": "Atelier de trois heures pour créer son propre gin."
+   "description": "In drei Stunden zur eigenen Gin-Rezeptur: Tasting, über zwanzig Botanical-Destillate zum Blenden"
   },
   {
    "titre": "GIN LAB. Basel – Brennerei Aktienmühle",
@@ -354,7 +462,7 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/gin-lab-basel-brennerei-aktienmuehle/",
-   "description": "Distillerie de gin dans le Kleinbasel, avec ateliers et production."
+   "description": "Brennerei in der Aktienmühle im Kleinbasel."
   },
   {
    "titre": "Le Beau Bernard",
@@ -363,10 +471,10 @@
    "horaires": null,
    "lieu": null,
    "commune": "Bâle",
-   "categorie": "Théâtre",
+   "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/le-beau-bernard/",
-   "description": "Ancien artiste de variété tente un coup de cambriolage avec sa nièce."
+   "description": "Ein pensionierter Varieté-Star versucht, seine Pension als Juwelendieb aufzubessern, und plant einen Coup"
   },
   {
    "titre": "Palazzo Colombino Basel",
@@ -375,25 +483,25 @@
    "horaires": null,
    "lieu": null,
    "commune": "Bâle",
-   "categorie": "Spectacle",
+   "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/palazzo-colombino-basel/",
-   "description": "Spectacle de variétés et menu à quatre plats sous chapiteau."
+   "description": "Découvrez au Palazzo Colombino de Bâle un spectacle de variétés fascinant et un menu raffiné à quatre plats"
   },
   {
-   "titre": "Concert « arte frizzante »",
+   "titre": "Concert « arte frizzante » : vous en avez déjà entendu parler ?!",
    "date_debut": "2026-11-20",
-   "date_fin": "2026-11-20",
+   "date_fin": null,
    "horaires": null,
    "lieu": null,
    "commune": "Bâle",
-   "categorie": "Concert",
+   "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/concert-arte-frizzante-vous-en-avez-deja-entendu-parler/",
-   "description": "Concert d'orchestre à cordes avec le soliste Flurin Cuonz."
+   "description": "Concert d'orchestre à cordes avec le soliste Flurin Cuonz"
   },
   {
-   "titre": "Durst! Basler Bierführung",
+   "titre": "Durst! Basler Bierführung – Stadtrundgang zu Biergeschichte und Kneipen",
    "date_debut": "2026-10-23",
    "date_fin": "2026-12-18",
    "horaires": null,
@@ -402,7 +510,7 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/durst-basler-bierfuehrung-stadtrundgang-zu-biergeschichte-und-kneipen/",
-   "description": "Visite historique de la ville consacrée à la bière et aux bistrots."
+   "description": "Historischer Stadtrundgang durch Basel zu Brauereien, Bierlokalen und Trinkkultur: von der ersten belegten Brauerei 1488"
   },
   {
    "titre": "Simon Enzler - zmetztinne",
@@ -411,10 +519,10 @@
    "horaires": null,
    "lieu": null,
    "commune": "Bâle",
-   "categorie": "Cabaret",
+   "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/simon-enzler-zmetztinne-2/",
-   "description": "Spectacle de l'humoriste Simon Enzler."
+   "description": "Simon Enzler ist «zmetztinne»."
   },
   {
    "titre": "Wildlife Photographer of the Year",
@@ -423,22 +531,22 @@
    "horaires": null,
    "lieu": "Musée d'histoire naturelle de Bâle",
    "commune": "Bâle",
-   "categorie": "Exposition",
+   "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/wildlife-photographer-of-the-year/",
-   "description": "100 photographies naturalistes primées."
+   "description": "Découvrez 100 photographies naturalistes primées au Musée d'histoire naturelle de Bâle"
   },
   {
-   "titre": "Cesar Rodriguez présente FRAGMENTOS",
+   "titre": "Cesar Rodriguez präsentiert FRAGMENTOS",
    "date_debut": "2026-11-20",
    "date_fin": "2026-11-22",
    "horaires": null,
    "lieu": null,
    "commune": "Bâle",
-   "categorie": "Art",
+   "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/cesar-rodriguez-praesentiert-fragmentos/",
-   "description": "Œuvres d'art de rue en bois recyclé et objets trouvés."
+   "description": "Cesar Rodriguez presents «Fragmentos»: Art from the Streets of Basel."
   },
   {
    "titre": "Rhypark Dinner Show",
@@ -447,10 +555,10 @@
    "horaires": null,
    "lieu": null,
    "commune": "Bâle",
-   "categorie": "Spectacle",
+   "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/rhypark-dinner-show/",
-   "description": "Dîner-spectacle avec cuisine gastronomique et artistes internationaux, au bord du Rhin."
+   "description": "Die Rhypark Dinner Show möchte einen Abend schaffen, bei dem Spitzenküche, internationale Artistik und die Lage direkt"
   },
   {
    "titre": "Keep Cool – Comedy Musical",
@@ -459,58 +567,70 @@
    "horaires": null,
    "lieu": null,
    "commune": "Bâle",
-   "categorie": "Comédie musicale",
+   "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/keep-cool-comedy-musical-1/",
-   "description": null
+   "description": "Mitwirkende: Keep Cool - Das Comedymusical"
   },
   {
    "titre": "Journées de musique de chambre « monuments musicaux » : « ES(S)-DUR »",
    "date_debut": "2026-11-20",
-   "date_fin": "2026-11-20",
+   "date_fin": null,
    "horaires": null,
    "lieu": null,
    "commune": "Bâle",
-   "categorie": "Musique de chambre",
+   "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/kammermusiktage-monuments-musicaux-essdur/",
-   "description": "Concert itinérant en cinq temps, avec petites bouchées musicales et culinaires."
+   "description": "Concert itinérant. Un programme en cinq temps, riche en petites bouchées musicales et culinaires."
   },
   {
    "titre": "Balz Aliesch & I Tempi - Die Abenteuer des Don Quichotte",
    "date_debut": "2026-11-21",
-   "date_fin": "2026-11-21",
+   "date_fin": null,
    "horaires": null,
    "lieu": null,
    "commune": "Bâle",
-   "categorie": "Spectacle musical",
+   "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/balz-aliesch-i-tempi-die-abenteuer-des-don-quichotte/",
-   "description": "Aventure musicale inspirée de Don Quichotte."
+   "description": "Auf in ein musikalisches Abenteuer voller Fantasie, Witz und überraschender Begegnungen!"
   },
   {
    "titre": "BACK TO THE ROOTS - Oldies & Goldies au Papa Joe's Basel BAR",
    "date_debut": "2026-06-13",
    "date_fin": "2026-12-26",
    "horaires": null,
-   "lieu": "Papa Joe's Basel BAR",
+   "lieu": null,
    "commune": "Bâle",
-   "categorie": "Fête",
+   "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/back-to-the-roots-oldies-goldies-au-papa-joes-basel-bar/",
-   "description": "Soirée oldies funk, soul, pop, house et hits radio."
+   "description": "BACK TO THE ROOTS au Papa Joe's Bâle - Oldies & Goldies de Funk, Soul, Pop, House & Radio Hits"
   },
   {
    "titre": "Akademisches Orchester Basel: Dvořák & Salieri",
    "date_debut": "2026-11-21",
-   "date_fin": "2026-11-21",
+   "date_fin": null,
    "horaires": null,
    "lieu": null,
    "commune": "Bâle",
-   "categorie": "Concert",
+   "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/akademisches-orchester-basel-dvoak-salieri/",
-   "description": "Concert d'automne avec des œuvres de Dvořák et Salieri."
+   "description": "Das Akademische Orchester Basel (aob) lädt zu seinem Herbstkonzert mit Werken von Dvořák und Salieri ein."
+  },
+  {
+   "titre": "Ü30-Party",
+   "date_debut": "2026-10-24",
+   "date_fin": "2028-01-15",
+   "horaires": null,
+   "lieu": "Elisabethenkirche",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/ue30-party-basel/",
+   "description": "La fête des plus de 30 ans avec des tubes d'hier à aujourd'hui à l'église Elisabethenkirche !"
   },
   {
    "titre": "BMT - Dr Zauberer vo Oz",
@@ -519,22 +639,22 @@
    "horaires": null,
    "lieu": null,
    "commune": "Bâle",
-   "categorie": "Théâtre jeune public",
+   "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/bmt-dr-zauberer-vo-oz/",
-   "description": "Le Magicien d'Oz, adapté en dialecte bâlois."
+   "description": "Nach dem Kinderbuch von L. Frank Baum auf Baseldeutsch."
   },
   {
    "titre": "Dvořák und Salieri",
    "date_debut": "2026-11-21",
-   "date_fin": "2026-11-21",
+   "date_fin": null,
    "horaires": null,
    "lieu": null,
    "commune": "Bâle",
-   "categorie": "Concert",
+   "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/dvoak-und-salieri/",
-   "description": "Concert avec un concerto de Salieri et la 8e Symphonie de Dvořák."
+   "description": "Das Akademische Orchester Basel lädt zu Salieris wenig bekanntem Konzert für Flöte und Oboe sowie zu Dvořáks 8. Sinfonie"
   },
   {
    "titre": "Schneewittchen",
@@ -543,46 +663,46 @@
    "horaires": null,
    "lieu": null,
    "commune": "Bâle",
-   "categorie": "Spectacle jeune public",
+   "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/schneewittchen/",
-   "description": "Conte classique revisité en dialecte suisse, pour enfants à partir de 4 ans."
+   "description": null
   },
   {
    "titre": "Stellwerkfest 2026",
    "date_debut": "2026-11-21",
-   "date_fin": "2026-11-21",
+   "date_fin": null,
    "horaires": null,
-   "lieu": "Kreativhaus",
+   "lieu": "La Kreativhaus",
    "commune": "Bâle",
-   "categorie": "Festival",
+   "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/stellwerkfest-2026/",
-   "description": "Festival avec ateliers, conférences, performances et concerts."
+   "description": "La Kreativhaus ouvre ses portes : ateliers, workshops, lectures, spectacles, music avec Two & The Sun (S)"
   },
   {
    "titre": "42. Basler Stadtlauf",
    "date_debut": "2026-11-21",
-   "date_fin": "2026-11-21",
+   "date_fin": null,
    "horaires": null,
    "lieu": null,
    "commune": "Bâle",
-   "categorie": "Sport",
+   "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/42-basler-stadtlauf/",
-   "description": "Course à pied illuminée dans le centre-ville, avec plusieurs catégories."
+   "description": "Fin novembre, Bâle se transforme en un parcours de course illuminé (S)"
   },
   {
    "titre": "EINSTEIN'S MUSIC - Light. A Trio Concert.",
    "date_debut": "2026-11-21",
-   "date_fin": "2026-11-21",
+   "date_fin": null,
    "horaires": null,
    "lieu": null,
    "commune": "Bâle",
-   "categorie": "Concert",
+   "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/einsteins-musik-licht-ein-trio-konzert/",
-   "description": "Trios avec piano, de Chostakovitch à Clarke."
+   "description": "Two Collages of Piano Trios from Shostakovich to Clarke - featuring Rita Nakad, Ekachai Maskulrat, and Federico Bosco. (S)"
   },
   {
    "titre": "Flohmarkt Petersplatz",
@@ -591,10 +711,10 @@
    "horaires": null,
    "lieu": "Petersplatz",
    "commune": "Bâle",
-   "categorie": "Marché aux puces",
+   "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/flohmarkt-petersplatz/",
-   "description": "Plus grand marché aux puces de la ville."
+   "description": "Le plus grand marché aux puces de la ville invite à la découverte et au marchandage. (S)"
   },
   {
    "titre": "Fauteuil-Märchenbühne - Dschungelbuch",
@@ -603,22 +723,22 @@
    "horaires": null,
    "lieu": null,
    "commune": "Bâle",
-   "categorie": "Théâtre jeune public",
+   "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/fauteuil-maerchenbuehne-dschungelbuch/",
-   "description": "Le Livre de la jungle en dialecte suisse, pour enfants à partir de 4 ans."
+   "description": "Das Ensemble der Fauteuil-Märchenbühne spielt in der Saison 2026/27 erstmals «Dschungelbuech». (S)"
   },
   {
    "titre": "NOCTURNE - Ein Konzert im Dunkeln",
    "date_debut": "2026-11-21",
-   "date_fin": "2026-11-21",
+   "date_fin": null,
    "horaires": null,
    "lieu": null,
    "commune": "Bâle",
-   "categorie": "Concert",
+   "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/nocturne-ein-konzert-im-dunkeln-1/",
-   "description": "Concert choral donné dans l'obscurité, avec Ravel et Fauré."
+   "description": "Der Zauber eines Konzerts in Dunkelheit Chorwerke und Lieder von Maurice Ravel und Gabriel Fauré (S)"
   },
   {
    "titre": "Kriminelles Basel – Stadtrundgang zu historischen Verbrechen",
@@ -627,46 +747,46 @@
    "horaires": null,
    "lieu": null,
    "commune": "Bâle",
-   "categorie": "Visite guidée",
+   "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/kriminelles-basel-stadtrundgang-zu-historischen-verbrechen/",
-   "description": "Balade historique sur les crimes bâlois, du XVe au XXe siècle."
+   "description": "Visite guidée historique de Bâle sur le thème des affaires criminelles du XVe au XXe siècle (S)"
   },
   {
-   "titre": "« Nächstes Jahr in Krakau! » – Vernissage",
+   "titre": "«Nächstes Jahr in Krakau!» – Vernissage",
    "date_debut": "2026-11-21",
    "date_fin": "2027-01-31",
    "horaires": null,
    "lieu": null,
    "commune": "Bâle",
-   "categorie": "Vernissage",
+   "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/naechstes-jahr-in-krakau-vernissage/",
-   "description": "Vernissage de photographies de Paul Schneller, avec présentation de ses livres."
+   "description": "Paul Schneller : exposition de photographies et présentation de livres (S)"
   },
   {
    "titre": "Journées de musique de chambre « monuments musicaux » : « SPIELE »",
    "date_debut": "2026-11-21",
-   "date_fin": "2026-11-21",
-   "horaires": "Concert tardif",
+   "date_fin": null,
+   "horaires": null,
    "lieu": null,
    "commune": "Bâle",
-   "categorie": "Musique de chambre",
+   "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/kammermusiktage-monuments-musicaux-spiele/",
-   "description": "Pièce pour percussions et électronique sur la notion d'écoute."
+   "description": "Concert « Latenight » : Du grain au pain, du son à l'écoute. (S)"
   },
   {
    "titre": "Journées de musique de chambre « monuments musicaux » : « BROT »",
    "date_debut": "2026-11-21",
-   "date_fin": "2026-11-21",
+   "date_fin": null,
    "horaires": null,
    "lieu": null,
    "commune": "Bâle",
-   "categorie": "Musique de chambre",
+   "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/kammermusiktage-monuments-musicaux-brot/",
-   "description": "Œuvres de Amy Beach, Lili Boulanger et Émilie Mayer."
+   "description": "Une musique entre élan et révolte – Œuvres d'Amy Beach, Lili Boulanger et Émilie Mayer (S)"
   },
   {
    "titre": "Sing & Jam Session (pop/rock)",

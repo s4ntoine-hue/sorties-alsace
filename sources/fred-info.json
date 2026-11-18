@@ -2,35 +2,37 @@
  "source": "fred-info",
  "nom": "FRED (transfrontalier)",
  "pays": "DE",
- "lu_le": "2026-11-17",
+ "lu_le": "2026-11-18",
  "pages": [
   "https://fred.info/fr/evenements/"
  ],
  "note": "Agenda franco-allemand ; premier bloc seulement. Écarter réunions administratives, permanences et webinaires.",
  "events": [
   {
-   "titre": "Mois d'action: Ensemble dans la bibliothèque",
+   "titre": "Mois d’action: Ensemble dans la bibliothèque",
    "date_debut": "2026-11-02",
    "date_fin": "2026-11-27",
-   "horaires": "10:00 - 16:00",
+   "horaires": "10:00 (02-11) - 16:00 (27-11)",
    "lieu": "Centre Culturel Français Freiburg e.V.",
-   "commune": "Fribourg-en-Brisgau",
+   "commune": null,
    "categorie": null,
    "prix": null,
    "url": "https://fred.info/fr/events/mois-daction-ensemble-dans-la-bibliotheque/",
-   "description": null
+   "description": null,
+   "pays": "DE"
   },
   {
    "titre": "RegioCOP31 à Karlsruhe",
    "date_debut": "2026-11-09",
    "date_fin": "2026-11-20",
    "horaires": null,
-   "lieu": null,
+   "lieu": "Karlsruhe",
    "commune": "Karlsruhe",
    "categorie": null,
    "prix": null,
    "url": "https://fred.info/fr/events/regiocop31-a-karlsruhe/",
-   "description": null
+   "description": null,
+   "pays": "DE"
   },
   {
    "titre": "Ciné-Club | SPÉCIAL",
@@ -42,19 +44,21 @@
    "categorie": null,
    "prix": null,
    "url": "https://fred.info/fr/events/cine-club-special/",
-   "description": null
+   "description": null,
+   "pays": "DE"
   },
   {
-   "titre": "mo'gro - bouger et danser",
+   "titre": "mo’gro - bouger et danser",
    "date_debut": "2026-11-19",
    "date_fin": null,
    "horaires": "20:00",
-   "lieu": "klag-Bühne Gaggenau",
+   "lieu": "klag-Bühne",
    "commune": "Gaggenau",
-   "categorie": "Dance",
+   "categorie": null,
    "prix": null,
    "url": "https://fred.info/fr/events/mogro-bouger-et-danser-2/",
-   "description": null
+   "description": null,
+   "pays": "DE"
   },
   {
    "titre": "Forum Franco-Allemand",
@@ -66,7 +70,21 @@
    "categorie": null,
    "prix": null,
    "url": "https://fred.info/fr/events/forum-franco-allemand/",
-   "description": null
+   "description": null,
+   "pays": "FR"
+  },
+  {
+   "titre": "Inter.ART Strasbourg – 3e édition | Salon international d’art contemporain",
+   "date_debut": "2026-11-20",
+   "date_fin": "2026-11-22",
+   "horaires": "10:00 - 19:00",
+   "lieu": "Münsterhof, 9 rue des Juifs",
+   "commune": "Strasbourg",
+   "categorie": null,
+   "prix": null,
+   "url": "https://fred.info/fr/events/inter-art-strasbourg-3e-edition-salon-international-dart-contemporain/",
+   "description": null,
+   "pays": "FR"
   }
  ]
 }

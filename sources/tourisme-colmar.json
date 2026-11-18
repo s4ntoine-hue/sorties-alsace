@@ -1,60 +1,12 @@
 {
  "source": "tourisme-colmar",
  "nom": "Office de tourisme de Colmar",
- "lu_le": "2026-11-17",
+ "lu_le": "2026-11-18",
  "pages": [
   "https://www.tourisme-colmar.com/fr/loisirs-fr/evenements/agenda (pages 1 et 2 sur 45)"
  ],
  "note": "Occurrences multiples d'une même fiche fusionnées en une plage de dates.",
  "events": [
-  {
-   "titre": "Ciné-thème",
-   "date_debut": "2026-11-17",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Colmar",
-   "categorie": "Cinéma",
-   "prix": null,
-   "url": "https://www.tourisme-colmar.com/loisirs-fr/evenements/agenda/F235018566_cine-theme-colmar",
-   "description": null
-  },
-  {
-   "titre": "Théâtre alsacien - D'Wunderbittel, la boîte à merveilles",
-   "date_debut": "2026-11-17",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Colmar",
-   "categorie": "Concert",
-   "prix": null,
-   "url": "https://www.tourisme-colmar.com/loisirs-fr/evenements/agenda/F235018832_theatre-alsacien-dwunderbittel-la-boite-a-merveilles-colmar",
-   "description": null
-  },
-  {
-   "titre": "George Michael : The Faith Tour",
-   "date_debut": "2026-11-17",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Colmar",
-   "categorie": "Cinéma",
-   "prix": null,
-   "url": "https://www.tourisme-colmar.com/loisirs-fr/evenements/agenda/F235018935_george-michael-the-faith-tour-colmar",
-   "description": null
-  },
-  {
-   "titre": "Film - Les misérables",
-   "date_debut": "2026-11-17",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Orbey",
-   "categorie": "Cinéma",
-   "prix": null,
-   "url": "https://www.tourisme-colmar.com/loisirs-fr/evenements/agenda/F230115285_film-les-miserables-orbey",
-   "description": null
-  },
   {
    "titre": "AJAM - Gabriel Pidoux & Jorge González Buajasán",
    "date_debut": "2026-11-18",
@@ -209,6 +161,90 @@
    "categorie": "Spectacle",
    "prix": null,
    "url": "https://www.tourisme-colmar.com/loisirs-fr/evenements/agenda/F235018530_spectacle-panique-au-ministere-2-la-candidate-colmar",
+   "description": null
+  },
+  {
+   "titre": "Escape Game - Le cabinet du botaniste",
+   "date_debut": "2027-04-30",
+   "date_fin": "2027-06-21",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Colmar",
+   "categorie": "Escape game",
+   "prix": null,
+   "url": "https://www.tourisme-colmar.com/loisirs-fr/evenements/agenda/F507000007_escape-game-le-cabinet-du-botaniste-colmar",
+   "description": null
+  },
+  {
+   "titre": "4026 Des jouets éternels ?",
+   "date_debut": "2027-05-03",
+   "date_fin": "2027-06-30",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Colmar",
+   "categorie": "Exposition",
+   "prix": null,
+   "url": "https://www.tourisme-colmar.com/loisirs-fr/evenements/agenda/F537000065_4026-des-jouets-eternels-colmar",
+   "description": null
+  },
+  {
+   "titre": "Les Jeudis de la Rotonde - Apéro concert",
+   "date_debut": "2027-05-07",
+   "date_fin": "2027-07-02",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Ribeauvillé",
+   "categorie": "Concert",
+   "prix": null,
+   "url": "https://www.tourisme-colmar.com/loisirs-fr/evenements/agenda/F229009050_les-jeudis-de-la-rotonde-apero-concert-ribeauville",
+   "description": null
+  },
+  {
+   "titre": "Dégustation de 5 vins au Domaine Greiner-Schleret",
+   "date_debut": "2027-05-07",
+   "date_fin": "2027-07-13",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Mittelwihr",
+   "categorie": "Dégustation de produits du terroir",
+   "prix": null,
+   "url": "https://www.tourisme-colmar.com/loisirs-fr/evenements/agenda/F229009980_degustation-de-5-vins-au-domaine-greiner-schleret-mittelwihr",
+   "description": null
+  },
+  {
+   "titre": "Visite et dégustation de 5 vins avec Kougelhopf au Domaine Greiner-Schleret",
+   "date_debut": "2027-05-07",
+   "date_fin": "2027-07-13",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Mittelwihr",
+   "categorie": "Visite de cave",
+   "prix": null,
+   "url": "https://www.tourisme-colmar.com/loisirs-fr/evenements/agenda/F229009985_visite-et-degustation-de-5-vins-avec-kougelhopf-au-domaine-greiner-schleret-mittelwihr",
+   "description": null
+  },
+  {
+   "titre": "Choco'sens : éveil des sens à travers différentes dégustations",
+   "date_debut": "2027-05-16",
+   "date_fin": "2027-08-08",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Ribeauvillé",
+   "categorie": "Dégustation de produits du terroir",
+   "prix": null,
+   "url": "https://www.tourisme-colmar.com/loisirs-fr/evenements/agenda/F229008619_chocosens-ribeauville",
+   "description": null
+  },
+  {
+   "titre": "Concert Choeur d'Hommes de Riquewihr",
+   "date_debut": "2027-06-20",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": null,
+   "commune": "Riquewihr",
+   "categorie": "Concert",
+   "prix": null,
+   "url": "https://www.tourisme-colmar.com/loisirs-fr/evenements/agenda/F229003120_concert-du-choeur-dhommes-de-riquewihr-riquewihr",
    "description": null
   },
   {

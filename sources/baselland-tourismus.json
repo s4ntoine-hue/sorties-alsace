@@ -2,12 +2,72 @@
  "source": "baselland-tourismus",
  "nom": "Baselland Tourismus",
  "pays": "CH",
- "lu_le": "2026-11-17",
+ "lu_le": "2026-11-18",
  "pages": [
   "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements (page 1 sur 5, 2713 manifestations)"
  ],
  "note": "Format des pages suivantes inconnu : seule la page 1 est lue.",
  "events": [
+  {
+   "titre": "Noé Tavelli Double Drums Quartet",
+   "date_debut": "2026-11-18",
+   "date_fin": "2026-11-18",
+   "horaires": null,
+   "lieu": "the bird's eye jazz club, Basel",
+   "commune": "Bâle",
+   "categorie": "Musik",
+   "prix": null,
+   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/noé-tavelli-double-drums-quartet-eve_wt1_bdcgedcfdc",
+   "description": null
+  },
+  {
+   "titre": "Ausstellung Väter & Töchter",
+   "date_debut": "2026-11-18",
+   "date_fin": "2026-11-19",
+   "horaires": null,
+   "lieu": "Alterszentrum Am Bachgraben",
+   "commune": "Allschwil",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/ausstellung-väter-töchter-eve_wt1_bdaadehfcd",
+   "description": null
+  },
+  {
+   "titre": "Basler Stadtmarkt",
+   "date_debut": "2026-11-18",
+   "date_fin": "2026-12-31",
+   "horaires": null,
+   "lieu": "Marktplatz",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/stadtmarkt-eve_wt1_jgdjffggb",
+   "description": null
+  },
+  {
+   "titre": "Ein Entwurf macht Schule",
+   "date_debut": "2026-11-18",
+   "date_fin": "2026-11-18",
+   "horaires": null,
+   "lieu": "Universitätsbibliothek Basel",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/ein-entwurf-macht-schule-eve_uv7_hehddghgfhgeageadbg-gidieaedfjggeebhdah",
+   "description": null
+  },
+  {
+   "titre": "MYSTIK",
+   "date_debut": "2026-11-18",
+   "date_fin": "2026-11-20",
+   "horaires": null,
+   "lieu": "Röm.-kath. Kirche St. Theresia",
+   "commune": "Allschwil",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/mystik-eve_wt1_bdbiafgced",
+   "description": null
+  },
   {
    "titre": "Sonderausstellung: Badekuren im Entdeckerland",
    "date_debut": "2026-11-17",
@@ -18,30 +78,6 @@
    "categorie": "Exposition",
    "prix": null,
    "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/badekuren-im-entdeckerland-eve_uv7_heciagjgcgicjjahdic",
-   "description": null
-  },
-  {
-   "titre": "Basler Stadtmarkt",
-   "date_debut": "2026-11-17",
-   "date_fin": "2026-12-31",
-   "horaires": null,
-   "lieu": "Marktplatz, Basel",
-   "commune": "Bâle",
-   "categorie": "Marché",
-   "prix": null,
-   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/stadtmarkt-eve_wt1_jgdjffggb",
-   "description": null
-  },
-  {
-   "titre": "Ein Entwurf macht Schule",
-   "date_debut": "2026-11-17",
-   "date_fin": "2026-11-18",
-   "horaires": null,
-   "lieu": "Universitätsbibliothek Basel",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/ein-entwurf-macht-schule-eve_uv7_hehddghgfhgeageadbg-gidieaedfjggeebhdah",
    "description": null
   },
   {
@@ -67,28 +103,6 @@
    "prix": "Billets en ligne (montant non indiqué)",
    "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/city-walk-basel-by-blindekuh-basel-eve_uv7_hefieffgbjgffcbijgi-ggcfjbeaabbbjchhdih",
    "description": null
-  },
-  {
-   "titre": "Ausstellung Väter & Töchter",
-   "date_debut": "2026-11-15",
-   "date_fin": "2026-11-19",
-   "horaires": null,
-   "lieu": "Alterszentrum Am Bachgraben",
-   "commune": "Allschwil",
-   "categorie": "Exposition",
-   "prix": null,
-   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/ausstellung-väter-töchter-eve_wt1_bdaadehfcd"
-  },
-  {
-   "titre": "MYSTIK",
-   "date_debut": "2026-11-15",
-   "date_fin": "2026-11-20",
-   "horaires": null,
-   "lieu": "Röm.-kath. Kirche St. Theresia",
-   "commune": "Allschwil",
-   "categorie": "Exposition",
-   "prix": null,
-   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/mystik-eve_wt1_bdbiafgced"
   },
   {
    "titre": "Harry P.Otter und die Zauberprüfung (jeu de piste)",

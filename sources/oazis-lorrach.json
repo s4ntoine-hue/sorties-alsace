@@ -2,60 +2,12 @@
  "source": "oazis-lorrach",
  "nom": "Oazis (Lörrach)",
  "pays": "DE",
- "lu_le": "2026-11-17",
+ "lu_le": "2026-11-18",
  "pages": [
   "https://oazis.app/sorties/lorrach (330 à venir ; aussi /sorties/lorrach/<mois-annee>)"
  ],
  "note": "Les 25 premières entrées lues ; doublons internes regroupés.",
  "events": [
-  {
-   "titre": "Starke Frauen – Kunstausstellung im Rahmen der Lörracher Orange Days",
-   "date_debut": "2026-11-17",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": "Dreiländermuseum Lörrach",
-   "commune": "Lörrach",
-   "categorie": "Expo",
-   "prix": null,
-   "url": "https://oazis.app/evenements/starke-frauen-kunstausstellung-im-rahmen-der-lorracher",
-   "description": null
-  },
-  {
-   "titre": "Rebekka Bakken solo",
-   "date_debut": "2026-11-17",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": "Burghof",
-   "commune": "Lörrach",
-   "categorie": "JazzConcert",
-   "prix": null,
-   "url": "https://oazis.app/evenements/rebekka-bakken-solo-lorrach-2026-11-17",
-   "description": null
-  },
-  {
-   "titre": "Rebekka Bakken",
-   "date_debut": "2026-11-17",
-   "date_fin": null,
-   "horaires": "20:00",
-   "lieu": "Burghof",
-   "commune": "Lörrach",
-   "categorie": "Folk / Acoustique",
-   "prix": "35 €",
-   "url": "https://oazis.app/evenements/rebekka-bakken-lorrach",
-   "description": null
-  },
-  {
-   "titre": "Besuch der Basler Münsterbauhütte",
-   "date_debut": "2026-11-17",
-   "date_fin": null,
-   "horaires": "12:00",
-   "lieu": "Lörrach Hauptbahnhof",
-   "commune": "Lörrach",
-   "categorie": "Visite guidée",
-   "prix": "25 €",
-   "url": "https://oazis.app/evenements/besuch-der-basler-munsterbauhutte",
-   "description": null
-  },
   {
    "titre": "Mittwoch-Matinee „Zuhause – Unterwegs“",
    "date_debut": "2026-11-18",
@@ -63,70 +15,115 @@
    "horaires": null,
    "lieu": "Dreiländermuseum - Musée des Trois Pays, Bibliothek",
    "commune": "Lörrach",
-   "categorie": "Visite guidée",
+   "categorie": "Visite guidée, Migration",
    "prix": "10 €",
    "url": "https://oazis.app/evenements/mittwoch-matinee-zuhause-unterwegs",
-   "description": null
+   "description": null,
+   "pays": "DE"
   },
   {
    "titre": "Mittwoch-Matinee „Zuhause – Unterwegs. Was Menschen bewegt“",
    "date_debut": "2026-11-18",
    "date_fin": null,
-   "horaires": "10:00",
+   "horaires": "10h",
    "lieu": "Dreiländermuseum Lörrach",
    "commune": "Lörrach",
-   "categorie": "Visite guidée",
+   "categorie": "Visite guidée, Conférence",
    "prix": null,
    "url": "https://oazis.app/evenements/mittwoch-matinee-zuhause-unterwegs-was-menschen-bewegt",
-   "description": null
+   "description": null,
+   "pays": "DE"
+  },
+  {
+   "titre": "»Come together« … im Werkraum Schöpflin!",
+   "date_debut": "2026-11-18",
+   "date_fin": null,
+   "horaires": "14h",
+   "lieu": "Werkraum Schöpflin",
+   "commune": "Lörrach",
+   "categorie": "Autre",
+   "prix": null,
+   "url": "https://oazis.app/evenements/come-together-im-werkraum-schopflin-lorrach-2026-11-18",
+   "description": null,
+   "pays": "DE"
+  },
+  {
+   "titre": "Russisch-Deutsche Kinderbuchlesung",
+   "date_debut": "2026-11-18",
+   "date_fin": null,
+   "horaires": "16h",
+   "lieu": "Stadtbibliothek Lörrach",
+   "commune": "Lörrach",
+   "categorie": "Heure du conte, 0–8 ans",
+   "prix": null,
+   "url": "https://oazis.app/evenements/russisch-deutsche-kinderbuchlesung-lorrach",
+   "description": null,
+   "pays": "DE"
   },
   {
    "titre": "Letz Zep",
    "date_debut": "2026-11-18",
    "date_fin": null,
-   "horaires": "20:00",
+   "horaires": "20h",
    "lieu": "Burghof",
    "commune": "Lörrach",
-   "categorie": "Rock / Concert",
+   "categorie": "Rock",
    "prix": "41 €",
    "url": "https://oazis.app/evenements/letz-zep-lorrach",
-   "description": null
+   "description": null,
+   "pays": "DE"
+  },
+  {
+   "titre": "Kreativwerkstatt Atelier Kunterbunt",
+   "date_debut": "2026-11-19",
+   "date_fin": null,
+   "horaires": "16h",
+   "lieu": "Werkraum Schöpflin",
+   "commune": "Lörrach",
+   "categorie": "Atelier créatif, jusqu'à 15 ans",
+   "prix": null,
+   "url": "https://oazis.app/evenements/kreativwerkstatt-atelier-kunterbunt-lorrach-2026-11-19",
+   "description": null,
+   "pays": "DE"
   },
   {
    "titre": "Matilde Keizer – Lasagne im Bett",
    "date_debut": "2026-11-19",
    "date_fin": null,
-   "horaires": "20:00",
+   "horaires": "20h",
    "lieu": "Burghof",
    "commune": "Lörrach",
    "categorie": "Stand-up",
    "prix": "25 €",
    "url": "https://oazis.app/evenements/matilde-keizer-lorrach",
-   "description": null
+   "description": null,
+   "pays": "DE"
   },
   {
    "titre": "Peter Piek & Chris Heron Alois Live",
    "date_debut": "2026-11-19",
    "date_fin": null,
-   "horaires": "21:00",
+   "horaires": "21h",
    "lieu": "Altes Wasserwerk gGmbH",
    "commune": "Lörrach",
-   "categorie": "Folk / Acoustique",
+   "categorie": "Folk / Acoustique, Indie",
    "prix": "10–12 €",
    "url": "https://oazis.app/evenements/peter-piek-live",
-   "description": null
+   "description": null,
+   "pays": "DE"
   },
   {
-   "titre": "Vortrag: Wie Erinnerung versöhnen kann",
+   "titre": "Vortrag: Wie Erinnerung versöhnen kann – Die Geschichte der badischen „Siedler“ im Elsass 1940–45 und ihre Aufarbeitung",
    "date_debut": "2026-11-20",
    "date_fin": null,
-   "horaires": "18:00",
-   "lieu": "Dreiländermuseum Lörrach",
+   "horaires": null,
+   "lieu": "Dreiländermuseum - Musée des Trois Pays, Bibliothek",
    "commune": "Lörrach",
-   "categorie": "Conférence",
+   "categorie": "Conférence, Patrimoine",
    "prix": "Gratuit",
-   "url": "https://oazis.app/evenements/vortrag-wie-erinnerung-versohnen-kann",
-   "description": null
+   "url": "https://oazis.app/evenements/vortrag-wie-erinnerung-versohnen-kann-die-geschichte-der",
+   "description": null,
+   "pays": "DE"
   },
   {
    "titre": "Free Cinema: Nürnberg",
@@ -138,19 +135,60 @@
    "categorie": "Cinéma",
    "prix": null,
    "url": "https://oazis.app/evenements/free-cinema-nurnberg",
-   "description": null
+   "description": null,
+   "pays": "DE"
   },
   {
    "titre": "Slow Leaves",
    "date_debut": "2026-11-20",
    "date_fin": null,
-   "horaires": "20:00",
+   "horaires": null,
+   "lieu": "Nellie Nashorn",
+   "commune": "Lörrach",
+   "categorie": "Concert",
+   "prix": null,
+   "url": "https://oazis.app/evenements/slow-leaves-lorrach",
+   "description": null,
+   "pays": "DE"
+  },
+  {
+   "titre": "Tanztee mit Tina & Jo im Quartierscafé",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": "14h30",
+   "lieu": "Gemeindehaus St. Fridolin",
+   "commune": "Lörrach",
+   "categorie": "Bal populaire, Danses de salon",
+   "prix": null,
+   "url": "https://oazis.app/evenements/tanztee-mit-tina-jo-im-quartierscafe",
+   "description": null,
+   "pays": "DE"
+  },
+  {
+   "titre": "Vortrag: Wie Erinnerung versöhnen kann",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": "18h",
+   "lieu": "Dreiländermuseum Lörrach",
+   "commune": "Lörrach",
+   "categorie": "Conférence, Patrimoine",
+   "prix": null,
+   "url": "https://oazis.app/evenements/vortrag-wie-erinnerung-versohnen-kann",
+   "description": null,
+   "pays": "DE"
+  },
+  {
+   "titre": "Slow Leaves",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": "20h",
    "lieu": "Kulturzentrum Nellie Nashorn",
    "commune": "Lörrach",
-   "categorie": "Chanson / Folk",
+   "categorie": "Chanson, Folk / Acoustique",
    "prix": null,
    "url": "https://oazis.app/evenements/slow-leaves-2026-11-20",
-   "description": null
+   "description": null,
+   "pays": "DE"
   },
   {
    "titre": "Free Cinema: Nürnberg",
@@ -162,7 +200,8 @@
    "categorie": "Cinéma",
    "prix": null,
    "url": "https://oazis.app/evenements/free-cinema-nurnberg-lorrach",
-   "description": null
+   "description": null,
+   "pays": "DE"
   },
   {
    "titre": "Volkmar Staub",
@@ -171,154 +210,180 @@
    "horaires": null,
    "lieu": "Nellie Nashorn",
    "commune": "Lörrach",
-   "categorie": "JazzConcert",
+   "categorie": "Jazz, Concert",
    "prix": null,
    "url": "https://oazis.app/evenements/volkmar-staub-lorrach",
-   "description": null
+   "description": null,
+   "pays": "DE"
   },
   {
    "titre": "Flohmarkt in Lörrach",
    "date_debut": "2026-11-21",
    "date_fin": null,
-   "horaires": "07:00",
+   "horaires": "07h",
    "lieu": "Bahnhofsplatz & Egon-Hugenschmidt-Platz, Rathausplatz",
    "commune": "Lörrach",
-   "categorie": "Brocante",
+   "categorie": "Brocante, Plein air",
    "prix": null,
    "url": "https://oazis.app/evenements/flohmarkt-in-lorrach-lorrach",
-   "description": null
+   "description": null,
+   "pays": "DE"
   },
   {
    "titre": "Flohmarkt Lörrach auf dem Bahnhofsplatz",
    "date_debut": "2026-11-21",
    "date_fin": null,
-   "horaires": "08:00",
+   "horaires": "08h",
    "lieu": "Bahnhofsplatz und Egon Hugenschmidtplatz",
    "commune": "Lörrach",
-   "categorie": "Brocante",
+   "categorie": "Brocante, Plein air",
    "prix": "13 €",
    "url": "https://oazis.app/evenements/flohmarkt-lorrach-auf-dem-bahnhofsplatz",
-   "description": null
+   "description": null,
+   "pays": "DE"
   },
   {
    "titre": "Gestern. Heute. Lörrach | Thematische Führung",
    "date_debut": "2026-11-21",
    "date_fin": null,
-   "horaires": "14:00",
+   "horaires": "14h",
    "lieu": "Touristinformation Lörrach",
    "commune": "Lörrach",
-   "categorie": "Visite guidée",
+   "categorie": "Visite guidée, Balade",
    "prix": null,
    "url": "https://oazis.app/evenements/gestern-heute-lorrach-thematische-fuhrung",
-   "description": null
+   "description": null,
+   "pays": "DE"
   },
   {
    "titre": "Von Freiheit und Zeitenwenden",
    "date_debut": "2026-11-21",
    "date_fin": null,
-   "horaires": "20:00",
+   "horaires": "20h",
    "lieu": "Musikschule Lörrach",
    "commune": "Lörrach",
-   "categorie": "Classique",
+   "categorie": "Classique, Folk / Acoustique",
    "prix": "25,40 €",
    "url": "https://oazis.app/evenements/von-freiheit-und-zeitenwenden-lorrach",
-   "description": null
+   "description": null,
+   "pays": "DE"
   },
   {
    "titre": "Ausbaden | Kabarett | Volker Staub",
    "date_debut": "2026-11-21",
    "date_fin": null,
-   "horaires": "20:00",
+   "horaires": "20h",
    "lieu": "Kulturzentrum Nellie Nashorn",
    "commune": "Lörrach",
    "categorie": "Stand-up",
    "prix": null,
    "url": "https://oazis.app/evenements/ausbaden-kabarett-volker-staub",
-   "description": null
+   "description": null,
+   "pays": "DE"
   },
   {
    "titre": "Vokalensemble der Städtischen Musikschule",
    "date_debut": "2026-11-21",
    "date_fin": null,
-   "horaires": "20:00",
+   "horaires": "20h",
    "lieu": "Musikschule Lörrach",
    "commune": "Lörrach",
-   "categorie": "Classique",
+   "categorie": "Classique, Concert",
    "prix": null,
    "url": "https://oazis.app/evenements/vokalensemble-der-stadtischen-musikschule",
-   "description": null
+   "description": null,
+   "pays": "DE"
   },
   {
-   "titre": "Volkmar Staub (Stand-up)",
+   "titre": "Volkmar Staub",
    "date_debut": "2026-11-21",
    "date_fin": null,
-   "horaires": "20:00",
+   "horaires": "20h",
    "lieu": "Kulturzentrum Nellie Nashorn",
    "commune": "Lörrach",
    "categorie": "Stand-up",
    "prix": null,
    "url": "https://oazis.app/evenements/volkmar-staub",
-   "description": null
+   "description": null,
+   "pays": "DE"
   },
   {
-   "titre": "Volkmar Staub – „AUSBADEN“ (Théâtre)",
+   "titre": "Volkmar Staub - \"AUSBADEN\"",
    "date_debut": "2026-11-21",
    "date_fin": null,
-   "horaires": "20:00",
+   "horaires": "20h",
    "lieu": "Kulturzentrum Nellie Nashorn",
    "commune": "Lörrach",
    "categorie": "Théâtre",
    "prix": null,
    "url": "https://oazis.app/evenements/volkmar-staub-ausbaden-lorrach-2026-11-21",
-   "description": null
+   "description": null,
+   "pays": "DE"
+  },
+  {
+   "titre": "Volkmar Staub – “Ausbaden”",
+   "date_debut": "2026-11-21",
+   "date_fin": null,
+   "horaires": "20h",
+   "lieu": "Kulturzentrum Nellie Nashorn",
+   "commune": "Lörrach",
+   "categorie": "Stand-up",
+   "prix": null,
+   "url": "https://oazis.app/evenements/volkmar-staub-ausbaden-lorrach",
+   "description": null,
+   "pays": "DE"
   },
   {
    "titre": "LATIN WORLD DO BRASIL",
    "date_debut": "2026-11-21",
    "date_fin": null,
-   "horaires": "23:00",
+   "horaires": "23h",
    "lieu": "VIVA CLUB BAR",
    "commune": "Lörrach",
-   "categorie": "Club / DJ set",
+   "categorie": "Club / Boîte, DJ set",
    "prix": "5–15 €",
    "url": "https://oazis.app/evenements/latin-world-do-brasil",
-   "description": null
+   "description": null,
+   "pays": "DE"
   },
   {
    "titre": "ErZähl mir etwas. Kreativer Familiennachmittag mit Amanda Mijangos",
    "date_debut": "2026-11-22",
    "date_fin": null,
-   "horaires": "15:00",
+   "horaires": "15h",
    "lieu": "Werkraum Schöpflin",
    "commune": "Lörrach",
-   "categorie": "Atelier créatif",
+   "categorie": "Atelier créatif, 0–15 ans",
    "prix": null,
    "url": "https://oazis.app/evenements/erzahl-mir-etwas-kreativer-familiennachmittag-mit-amanda",
-   "description": null
+   "description": null,
+   "pays": "DE"
   },
   {
    "titre": "Von Freiheit und Zeitenwenden",
    "date_debut": "2026-11-22",
    "date_fin": null,
-   "horaires": "17:00",
+   "horaires": "17h",
    "lieu": "Musikschule Lörrach",
    "commune": "Lörrach",
-   "categorie": "Classique",
+   "categorie": "Classique, Concert",
    "prix": "25,40 €",
    "url": "https://oazis.app/evenements/von-freiheit-und-zeitenwenden-lorrach-2026-11-22",
-   "description": null
+   "description": null,
+   "pays": "DE"
   },
   {
    "titre": "Fortuna Ehrenfeld",
    "date_debut": "2026-11-22",
    "date_fin": null,
-   "horaires": "20:00",
+   "horaires": "20h",
    "lieu": "Burghof",
    "commune": "Lörrach",
-   "categorie": "Indie / Électro",
+   "categorie": "Indie, Électro",
    "prix": "47 €",
    "url": "https://oazis.app/evenements/fortuna-ehrenfeld-lorrach",
-   "description": null
+   "description": null,
+   "pays": "DE"
   },
   {
    "titre": "Tattoos für Frauenrechte",
@@ -969,18 +1034,6 @@
    "description": null
   },
   {
-   "titre": "Von Freiheit und Zeitenwenden",
-   "date_debut": "2026-12-12",
-   "date_fin": null,
-   "horaires": "20:00",
-   "lieu": "Musikschule Lörrach",
-   "commune": "Lörrach",
-   "categorie": "Classique",
-   "prix": "25,40 €",
-   "url": "https://oazis.app/evenements/von-freiheit-und-zeitenwenden-lorrach-2026-12-12",
-   "description": null
-  },
-  {
    "titre": "ISSAH LIVE ON STAGE",
    "date_debut": "2026-12-12",
    "date_fin": null,
@@ -1002,18 +1055,6 @@
    "categorie": "Littérature / Conférence",
    "prix": null,
    "url": "https://oazis.app/evenements/literarische-matinee-hebel-wirkungen",
-   "description": null
-  },
-  {
-   "titre": "Von Freiheit und Zeitenwenden",
-   "date_debut": "2026-12-13",
-   "date_fin": null,
-   "horaires": "11:00",
-   "lieu": "Musikschule Lörrach",
-   "commune": "Lörrach",
-   "categorie": "Classique",
-   "prix": "25,40 €",
-   "url": "https://oazis.app/evenements/von-freiheit-und-zeitenwenden-lorrach-2026-12-13",
    "description": null
   },
   {
@@ -1173,90 +1214,6 @@
    "description": null
   },
   {
-   "titre": "Flohmarkt in Lörrach",
-   "date_debut": "2026-12-19",
-   "date_fin": null,
-   "horaires": "07:00",
-   "lieu": "Bahnhofsplatz & Egon-Hugenschmidt-Platz, Rathausplatz",
-   "commune": "Lörrach",
-   "categorie": "Brocante",
-   "prix": null,
-   "url": "https://oazis.app/evenements/flohmarkt-in-lorrach-lorrach-2026-12-19",
-   "description": null
-  },
-  {
-   "titre": "Musikwerkstatt für Kinder",
-   "date_debut": "2026-11-17",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": "Werkraum Schöpflin",
-   "commune": "Lörrach",
-   "categorie": "Éveil musical, jusqu'à 15 ans",
-   "prix": null,
-   "url": "https://oazis.app/evenements/musikwerkstatt-fur-kinder-lorrach-2026-11-17",
-   "description": null
-  },
-  {
-   "titre": "Bluegrass-Jam Session",
-   "date_debut": "2026-11-17",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": "Nellie Nashorn",
-   "commune": "Lörrach",
-   "categorie": "Jam / scène ouverte, Folk / Acoustique",
-   "prix": null,
-   "url": "https://oazis.app/evenements/bluegrass-jam-session",
-   "description": null
-  },
-  {
-   "titre": "Infoveranstaltung: Sport im Alter",
-   "date_debut": "2026-11-17",
-   "date_fin": null,
-   "horaires": "18h",
-   "lieu": "Mehrzweckhalle Hauingen",
-   "commune": "Lörrach (Hauingen)",
-   "categorie": "Conférence, Seniors",
-   "prix": null,
-   "url": "https://oazis.app/evenements/infoveranstaltung-sport-im-alter",
-   "description": null
-  },
-  {
-   "titre": "Rebekka Bakken, Solo",
-   "date_debut": "2026-11-17",
-   "date_fin": null,
-   "horaires": "20h",
-   "lieu": "Burghof Lörrach Kultur- und Veranstaltungs GmbH",
-   "commune": "Lörrach",
-   "categorie": "Jazz, Folk / Acoustique",
-   "prix": null,
-   "url": "https://oazis.app/evenements/rebekka-bakken-solo",
-   "description": null
-  },
-  {
-   "titre": "»Come together« … im Werkraum Schöpflin!",
-   "date_debut": "2026-11-18",
-   "date_fin": null,
-   "horaires": "14h",
-   "lieu": "Werkraum Schöpflin",
-   "commune": "Lörrach",
-   "categorie": "Autre",
-   "prix": null,
-   "url": "https://oazis.app/evenements/come-together-im-werkraum-schopflin-lorrach-2026-11-18",
-   "description": null
-  },
-  {
-   "titre": "Russisch-Deutsche Kinderbuchlesung",
-   "date_debut": "2026-11-18",
-   "date_fin": null,
-   "horaires": "16h",
-   "lieu": "Stadtbibliothek Lörrach",
-   "commune": "Lörrach",
-   "categorie": "Heure du conte, 0–8 ans",
-   "prix": null,
-   "url": "https://oazis.app/evenements/russisch-deutsche-kinderbuchlesung-lorrach",
-   "description": null
-  },
-  {
    "titre": "Letz Zep – Zeppelin's Resurrection",
    "date_debut": "2026-11-18",
    "date_fin": null,
@@ -1266,54 +1223,6 @@
    "categorie": "Rock, Concert",
    "prix": null,
    "url": "https://oazis.app/evenements/letz-zep-zeppelin-s-resurrection-lorrach",
-   "description": null
-  },
-  {
-   "titre": "Kreativwerkstatt Atelier Kunterbunt",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "16h",
-   "lieu": "Werkraum Schöpflin",
-   "commune": "Lörrach",
-   "categorie": "Atelier créatif, jusqu'à 15 ans",
-   "prix": null,
-   "url": "https://oazis.app/evenements/kreativwerkstatt-atelier-kunterbunt-lorrach-2026-11-19",
-   "description": null
-  },
-  {
-   "titre": "Vortrag: Wie Erinnerung versöhnen kann – Die Geschichte der badischen „Siedler“ im Elsass 1940–45 und ihre Aufarbeitung",
-   "date_debut": "2026-11-20",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": "Dreiländermuseum - Musée des Trois Pays, Bibliothek",
-   "commune": "Lörrach",
-   "categorie": "Conférence, Patrimoine",
-   "prix": "Gratuit",
-   "url": "https://oazis.app/evenements/vortrag-wie-erinnerung-versohnen-kann-die-geschichte-der",
-   "description": null
-  },
-  {
-   "titre": "Tanztee mit Tina & Jo im Quartierscafé",
-   "date_debut": "2026-11-20",
-   "date_fin": null,
-   "horaires": "14h30",
-   "lieu": "Gemeindehaus St. Fridolin",
-   "commune": "Lörrach",
-   "categorie": "Bal populaire, Danses de salon",
-   "prix": null,
-   "url": "https://oazis.app/evenements/tanztee-mit-tina-jo-im-quartierscafe",
-   "description": null
-  },
-  {
-   "titre": "Volkmar Staub – “Ausbaden”",
-   "date_debut": "2026-11-21",
-   "date_fin": null,
-   "horaires": "20h",
-   "lieu": "Kulturzentrum Nellie Nashorn",
-   "commune": "Lörrach",
-   "categorie": "Stand-up",
-   "prix": null,
-   "url": "https://oazis.app/evenements/volkmar-staub-ausbaden-lorrach",
    "description": null
   },
   {
@@ -1365,18 +1274,6 @@
    "description": null
   },
   {
-   "titre": "»Come together« … im Werkraum Schöpflin!",
-   "date_debut": "2026-11-25",
-   "date_fin": null,
-   "horaires": "14h",
-   "lieu": "Werkraum Schöpflin",
-   "commune": "Lörrach",
-   "categorie": "Autre",
-   "prix": null,
-   "url": "https://oazis.app/evenements/come-together-im-werkraum-schopflin-lorrach-2026-11-25",
-   "description": null
-  },
-  {
    "titre": "Leseförderung für Kinder mit den Buchhüpfern",
    "date_debut": "2026-11-25",
    "date_fin": null,
@@ -1386,18 +1283,6 @@
    "categorie": "Heure du conte, Atelier créatif, 3–8 ans",
    "prix": null,
    "url": "https://oazis.app/evenements/leseforderung-fur-kinder-mit-den-buchhupfern-lorrach-2026-11-25",
-   "description": null
-  },
-  {
-   "titre": "Kreativwerkstatt Atelier Kunterbunt",
-   "date_debut": "2026-11-26",
-   "date_fin": null,
-   "horaires": "16h",
-   "lieu": "Werkraum Schöpflin",
-   "commune": "Lörrach",
-   "categorie": "Atelier créatif",
-   "prix": null,
-   "url": "https://oazis.app/evenements/kreativwerkstatt-atelier-kunterbunt-lorrach-2026-11-26",
    "description": null
   },
   {
@@ -1437,18 +1322,6 @@
    "description": null
   },
   {
-   "titre": "»Come together« … im Werkraum Schöpflin!",
-   "date_debut": "2026-12-02",
-   "date_fin": null,
-   "horaires": "14h",
-   "lieu": "Werkraum Schöpflin",
-   "commune": "Lörrach",
-   "categorie": "Autre",
-   "prix": null,
-   "url": "https://oazis.app/evenements/come-together-im-werkraum-schopflin-lorrach-2026-12-02",
-   "description": null
-  },
-  {
    "titre": "Weihnachts-Schlagertherapie – Leise berieselt der Schnee",
    "date_debut": "2026-12-02",
    "date_fin": null,
@@ -1458,18 +1331,6 @@
    "categorie": "Schlager",
    "prix": null,
    "url": "https://oazis.app/evenements/weihnachts-schlagertherapie-leise-berieselt-der-schnee",
-   "description": null
-  },
-  {
-   "titre": "Kreativwerkstatt Atelier Kunterbunt",
-   "date_debut": "2026-12-03",
-   "date_fin": null,
-   "horaires": "16h",
-   "lieu": "Werkraum Schöpflin",
-   "commune": "Lörrach",
-   "categorie": null,
-   "prix": null,
-   "url": "https://oazis.app/evenements/kreativwerkstatt-atelier-kunterbunt-lorrach-2026-12-03",
    "description": null
   },
   {
@@ -1542,18 +1403,6 @@
    "categorie": null,
    "prix": null,
    "url": "https://oazis.app/evenements/erzahlcafe-geschichte-n-in-gemutlicher-runde-winter",
-   "description": null
-  },
-  {
-   "titre": "»Come together« … im Werkraum Schöpflin!",
-   "date_debut": "2026-12-09",
-   "date_fin": null,
-   "horaires": "14h",
-   "lieu": "Werkraum Schöpflin",
-   "commune": "Lörrach",
-   "categorie": "Autre",
-   "prix": null,
-   "url": "https://oazis.app/evenements/come-together-im-werkraum-schopflin-lorrach-2026-12-09",
    "description": null
   },
   {

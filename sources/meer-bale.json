@@ -2,7 +2,7 @@
  "source": "meer-bale",
  "nom": "Meer (expositions à Bâle)",
  "pays": "CH",
- "lu_le": "2026-11-17",
+ "lu_le": "2026-11-18",
  "pages": [
   "https://www.meer.com/fr/calendar?country_id=50&locality_id=365660"
  ],
@@ -15,7 +15,7 @@
    "horaires": null,
    "lieu": "Von Bartha",
    "commune": "Bâle",
-   "categorie": "Exposition",
+   "categorie": null,
    "prix": null,
    "url": "https://www.meer.com/en/114262-landon-metz-exhibition",
    "description": null
@@ -27,7 +27,7 @@
    "horaires": null,
    "lieu": "Von Bartha",
    "commune": "Bâle",
-   "categorie": "Exposition",
+   "categorie": null,
    "prix": null,
    "url": "https://www.meer.com/en/114261-headroom",
    "description": null
@@ -39,7 +39,7 @@
    "horaires": null,
    "lieu": "Contemporary Fine Arts",
    "commune": "Bâle",
-   "categorie": "Exposition",
+   "categorie": null,
    "prix": null,
    "url": "https://www.meer.com/en/114085-der-erfinder-der-tricolore-the-inventor-of-the-tricolore",
    "description": null
@@ -51,7 +51,7 @@
    "horaires": null,
    "lieu": "Museum Tinguely",
    "commune": "Bâle",
-   "categorie": "Exposition",
+   "categorie": null,
    "prix": null,
    "url": "https://www.meer.com/fr/112457-zwischenraum-hindurchzuschaun",
    "description": null
@@ -63,7 +63,7 @@
    "horaires": null,
    "lieu": "S AM Swiss Architecture Museum",
    "commune": "Bâle",
-   "categorie": "Exposition",
+   "categorie": null,
    "prix": null,
    "url": "https://www.meer.com/en/112377-tony-fretton-practice",
    "description": null
@@ -75,7 +75,7 @@
    "horaires": null,
    "lieu": "Hauser & Wirth",
    "commune": "Bâle",
-   "categorie": "Exposition",
+   "categorie": null,
    "prix": null,
    "url": "https://www.meer.com/en/114018-irene-zurkindens-exhibition",
    "description": null

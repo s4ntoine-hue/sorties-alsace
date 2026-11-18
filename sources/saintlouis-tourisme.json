@@ -2,20 +2,20 @@
  "source": "saintlouis-tourisme",
  "nom": "Saint-Louis Tourisme",
  "pays": "FR",
- "lu_le": "2026-11-17",
+ "lu_le": "2026-11-18",
  "pages": [
   "https://www.saintlouis-tourisme.fr/sortir/agenda/ (pages 1 à 3 sur environ 65)"
  ],
  "note": "Couvre Saint-Louis Agglomération (Huningue, Hégenheim, Blotzheim, Kembs…). Le site propose aussi un filtre Bâle, Lörrach, Weil am Rhein.",
  "events": [
   {
-   "titre": "Exposition « Aurora Király. Parcours de regards »",
+   "titre": "Exposition « Aurora Király. Parcours de regards » – Fondation Fernet-Branca",
    "date_debut": "2026-11-17",
    "date_fin": "2026-11-21",
-   "horaires": "12h00",
-   "lieu": "Fondation Fernet-Branca",
+   "horaires": "12h00 chaque jour (17, 18, 19, 20 et 21 nov.)",
+   "lieu": null,
    "commune": "Saint-Louis",
-   "categorie": "Exposition",
+   "categorie": null,
    "prix": null,
    "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/exposition-aurora-kiraly-parcours-de-regards-fondation-fernet-branca/",
    "description": null
@@ -24,68 +24,56 @@
    "titre": "Exposition – Les mecs",
    "date_debut": "2026-11-17",
    "date_fin": "2026-11-20",
-   "horaires": "13h30 (09h00 le 18/11)",
+   "horaires": "17 nov. 13h30; 18 nov. 09h00; 19 nov. 13h30; 20 nov. 13h30",
    "lieu": null,
    "commune": "Huningue",
-   "categorie": "Exposition",
+   "categorie": null,
    "prix": null,
    "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/exposition-les-mecs/",
-   "description": null
-  },
-  {
-   "titre": "Marché",
-   "date_debut": "2026-11-17",
-   "date_fin": "2026-11-17",
-   "horaires": "15h00",
-   "lieu": null,
-   "commune": "Ranspach-le-Bas",
-   "categorie": "Marché",
-   "prix": null,
-   "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/marche-8/",
    "description": null
   },
   {
    "titre": "Exposition – Noël en Alsace",
    "date_debut": "2026-11-17",
    "date_fin": "2026-11-21",
-   "horaires": "16h00 (17 et 19/11), 09h00 (18, 20, 21/11)",
+   "horaires": "17 nov. 16h00; 18 nov. 09h00; 19 nov. 16h00; 20 nov. 09h00; 21 nov. 09h00",
    "lieu": null,
    "commune": "Huningue",
-   "categorie": "Exposition",
+   "categorie": null,
    "prix": null,
    "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/exposition-noel-en-alsace/",
    "description": null
   },
   {
-   "titre": "Animation littéraire – 100% mecs",
-   "date_debut": "2026-11-17",
-   "date_fin": "2026-11-17",
-   "horaires": "19h00",
-   "lieu": null,
-   "commune": "Huningue",
-   "categorie": "Animation littéraire",
-   "prix": null,
-   "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/animation-litteraire-100-mecs/",
-   "description": null
-  },
-  {
    "titre": "Marché",
    "date_debut": "2026-11-18",
-   "date_fin": "2026-11-18",
+   "date_fin": null,
    "horaires": "08h00",
    "lieu": null,
    "commune": "Sierentz",
-   "categorie": "Marché",
+   "categorie": null,
    "prix": null,
    "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/marche-2/",
    "description": null
   },
   {
-   "titre": "Art-Lunch : à midi, on découvre !",
+   "titre": "Exposition « Antoine fait son cinéma » – Maison du Patrimoine",
    "date_debut": "2026-11-18",
-   "date_fin": "2026-11-18",
+   "date_fin": null,
+   "horaires": "14h00",
+   "lieu": null,
+   "commune": "Kembs",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/exposition-antoine-fait-son-cinema-maison-du-patrimoine/",
+   "description": null
+  },
+  {
+   "titre": "Art-Lunch : à midi, on découvre ! – Fondation Fernet-Branca",
+   "date_debut": "2026-11-18",
+   "date_fin": null,
    "horaires": "12h00",
-   "lieu": "Fondation Fernet-Branca",
+   "lieu": null,
    "commune": "Saint-Louis",
    "categorie": null,
    "prix": null,
@@ -95,11 +83,11 @@
   {
    "titre": "Marché",
    "date_debut": "2026-11-18",
-   "date_fin": "2026-11-18",
+   "date_fin": null,
    "horaires": "13h00",
    "lieu": null,
    "commune": "Bartenheim",
-   "categorie": "Marché",
+   "categorie": null,
    "prix": null,
    "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/marche-4/",
    "description": null
@@ -107,7 +95,7 @@
   {
    "titre": "Ouverture de la Maison du Patrimoine",
    "date_debut": "2026-11-18",
-   "date_fin": "2026-11-18",
+   "date_fin": null,
    "horaires": "14h00",
    "lieu": null,
    "commune": "Kembs",
@@ -117,25 +105,13 @@
    "description": null
   },
   {
-   "titre": "Exposition « Antoine fait son cinéma »",
-   "date_debut": "2026-11-18",
-   "date_fin": "2026-11-18",
-   "horaires": "14h00",
-   "lieu": "Maison du Patrimoine",
-   "commune": "Kembs",
-   "categorie": "Exposition",
-   "prix": null,
-   "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/exposition-antoine-fait-son-cinema-maison-du-patrimoine/",
-   "description": null
-  },
-  {
    "titre": "Marché",
    "date_debut": "2026-11-19",
-   "date_fin": "2026-11-19",
+   "date_fin": null,
    "horaires": "08h00",
    "lieu": null,
    "commune": "Hégenheim",
-   "categorie": "Marché",
+   "categorie": null,
    "prix": null,
    "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/marche-6/",
    "description": null
@@ -143,11 +119,11 @@
   {
    "titre": "Humour – Le Fridge Barrière Comedy Club",
    "date_debut": "2026-11-19",
-   "date_fin": "2026-11-19",
+   "date_fin": null,
    "horaires": "19h00",
    "lieu": null,
    "commune": "Blotzheim",
-   "categorie": "Humour",
+   "categorie": null,
    "prix": null,
    "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/humour-le-fridge-barriere-comedy-club/",
    "description": null
@@ -155,11 +131,11 @@
   {
    "titre": "Marché",
    "date_debut": "2026-11-20",
-   "date_fin": "2026-11-20",
+   "date_fin": null,
    "horaires": "08h00",
    "lieu": null,
    "commune": "Huningue",
-   "categorie": "Marché",
+   "categorie": null,
    "prix": null,
    "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/marche/",
    "description": null
@@ -167,11 +143,11 @@
   {
    "titre": "Marché",
    "date_debut": "2026-11-20",
-   "date_fin": "2026-11-20",
+   "date_fin": null,
    "horaires": "14h30",
    "lieu": null,
    "commune": "Blotzheim",
-   "categorie": "Marché",
+   "categorie": null,
    "prix": null,
    "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/marche-5/",
    "description": null
@@ -179,11 +155,11 @@
   {
    "titre": "Marché",
    "date_debut": "2026-11-20",
-   "date_fin": "2026-11-20",
+   "date_fin": null,
    "horaires": "16h00",
    "lieu": null,
    "commune": "Leymen",
-   "categorie": "Marché",
+   "categorie": null,
    "prix": null,
    "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/marche-7/",
    "description": null
@@ -191,11 +167,11 @@
   {
    "titre": "Marché",
    "date_debut": "2026-11-20",
-   "date_fin": "2026-11-20",
+   "date_fin": null,
    "horaires": "17h30",
    "lieu": null,
    "commune": "Buschwiller",
-   "categorie": "Marché",
+   "categorie": null,
    "prix": null,
    "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/marche-9/",
    "description": null
@@ -204,7 +180,7 @@
    "titre": "Salon des 40",
    "date_debut": "2026-11-20",
    "date_fin": "2026-11-21",
-   "horaires": "18h00 (20/11), 14h00 (21/11)",
+   "horaires": "20 nov. 18h00; 21 nov. 14h00",
    "lieu": null,
    "commune": "Saint-Louis",
    "categorie": null,
@@ -215,11 +191,11 @@
   {
    "titre": "Marché",
    "date_debut": "2026-11-21",
-   "date_fin": "2026-11-21",
+   "date_fin": null,
    "horaires": "06h00",
    "lieu": null,
    "commune": "Saint-Louis",
-   "categorie": "Marché",
+   "categorie": null,
    "prix": null,
    "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/marche-3/",
    "description": null
@@ -227,11 +203,11 @@
   {
    "titre": "Marché de Noël",
    "date_debut": "2026-11-21",
-   "date_fin": "2026-11-21",
+   "date_fin": null,
    "horaires": "14h00",
    "lieu": null,
    "commune": "Hégenheim",
-   "categorie": "Marché",
+   "categorie": null,
    "prix": null,
    "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/marche-de-noel-2/",
    "description": null
@@ -239,11 +215,11 @@
   {
    "titre": "Spectacle musical – Johnny libre dans ma tête",
    "date_debut": "2026-11-21",
-   "date_fin": "2026-11-21",
+   "date_fin": null,
    "horaires": "20h00",
    "lieu": null,
    "commune": "Kembs",
-   "categorie": "Spectacle",
+   "categorie": null,
    "prix": null,
    "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/spectacle-musical-johnny-libre-dans-ma-tete/",
    "description": null
@@ -251,11 +227,11 @@
   {
    "titre": "Danse – Prélude",
    "date_debut": "2026-11-21",
-   "date_fin": "2026-11-21",
+   "date_fin": null,
    "horaires": "20h00",
    "lieu": null,
    "commune": "Saint-Louis",
-   "categorie": "Danse",
+   "categorie": null,
    "prix": null,
    "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/danse-prelude/",
    "description": null
@@ -263,11 +239,11 @@
   {
    "titre": "Concert – Orchestergesellschaft Weil am Rhein",
    "date_debut": "2026-11-21",
-   "date_fin": "2026-11-21",
+   "date_fin": null,
    "horaires": "20h00",
    "lieu": null,
    "commune": "Huningue",
-   "categorie": "Concert",
+   "categorie": null,
    "prix": null,
    "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/concert-orchestergesellschaft-weil-am-rhein/",
    "description": null
@@ -275,7 +251,7 @@
   {
    "titre": "Match Improvisation : Les Infiltrés versus TNL de Belfort",
    "date_debut": "2026-11-21",
-   "date_fin": "2026-11-21",
+   "date_fin": null,
    "horaires": "20h00",
    "lieu": null,
    "commune": "Saint-Louis",
@@ -287,25 +263,14 @@
   {
    "titre": "Spectacle – Joséphine Baker",
    "date_debut": "2026-11-21",
-   "date_fin": "2026-11-21",
+   "date_fin": null,
    "horaires": "20h30",
    "lieu": null,
    "commune": "Blotzheim",
-   "categorie": "Spectacle",
+   "categorie": null,
    "prix": null,
    "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/spectacle-josephine-baker/",
    "description": null
-  },
-  {
-   "titre": "Exposition « Aurora Király. Parcours de regards » – Fondation Fernet-Branca",
-   "date_debut": "2026-11-15",
-   "date_fin": "2026-11-21",
-   "horaires": "12:00",
-   "lieu": null,
-   "commune": "Saint-Louis",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/exposition-aurora-kiraly-parcours-de-regards-fondation-fernet-branca/"
   }
  ]
 }

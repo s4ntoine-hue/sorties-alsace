@@ -2,110 +2,36 @@
  "source": "denkmal-bale",
  "nom": "Denkmal (concerts et soirées à Bâle)",
  "pays": "CH",
- "lu_le": "2026-11-16",
+ "lu_le": "2026-11-18",
  "pages": [
   "https://denkmal.org/fr/basel/<AAAA-MM-JJ> (une page par jour : lire aujourd'hui + 6 jours)"
  ],
  "events": [
   {
-   "titre": "Cis Cembalomusik",
-   "date_debut": "2026-11-16",
+   "titre": "Melt Trio",
+   "date_debut": "2026-11-24",
    "date_fin": null,
-   "horaires": "20 h",
-   "lieu": "Bischofshof, Münstersaal",
+   "horaires": "de 21 h à 23 h",
+   "lieu": "Bird's Eye 21",
    "commune": "Bâle",
-   "categorie": "Concert / soirée – klassik",
+   "categorie": "jazz",
    "prix": null,
-   "url": "https://denkmal.org/fr/basel/2026-11-16/27d39156-bb45-4220-be72-1692cdbefe31"
+   "url": "https://denkmal.org/fr/basel/2026-11-24/095feb10-ea1c-4a34-9d3a-dd7e8a51c18c",
+   "description": null,
+   "pays": "CH"
   },
   {
-   "titre": "Jazz for Peace",
-   "date_debut": "2026-11-16",
-   "date_fin": null,
-   "horaires": "19 h - 21 h",
-   "lieu": "Markthalle",
-   "commune": "Bâle",
-   "categorie": "Concert / soirée – jazz",
-   "prix": null,
-   "url": "https://denkmal.org/fr/basel/2026-11-16/c1145e36-f924-452a-bb9f-dd6413325b2e"
-  },
-  {
-   "titre": "Noé Tavelli Double Drums Quartet",
-   "date_debut": "2026-11-17",
-   "date_fin": null,
-   "horaires": "21 h - 23 h",
-   "lieu": "Bird's Eye",
-   "commune": "Bâle",
-   "categorie": "Concert / soirée – jazz",
-   "prix": null,
-   "url": "https://denkmal.org/fr/basel/2026-11-17/abc331f5-08c5-4c6a-8623-56d57f4f5eba"
-  },
-  {
-   "titre": "Rebekka Bakken",
-   "date_debut": "2026-11-17",
-   "date_fin": null,
-   "horaires": "20 h",
-   "lieu": "Burghof",
-   "commune": "Lörrach",
-   "categorie": "Concert / soirée – jazz, singer-songwriter",
-   "prix": null,
-   "url": "https://denkmal.org/fr/basel/2026-11-17/ef8fc259-d576-4be9-b936-63cf3a55ece6",
-   "pays": "DE"
-  },
-  {
-   "titre": "Reto Burrell",
-   "date_debut": "2026-11-17",
-   "date_fin": null,
-   "horaires": "20 h",
-   "lieu": "Hula Club",
-   "commune": "Bâle",
-   "categorie": "Concert / soirée – rock",
-   "prix": null,
-   "url": "https://denkmal.org/fr/basel/2026-11-17/71fc9f96-7444-4c6e-aa48-a6d2f41a799c"
-  },
-  {
-   "titre": "Dimikio: Klangdialoge",
-   "date_debut": "2026-11-17",
-   "date_fin": null,
-   "horaires": "12 h - 13 h",
-   "lieu": "kHaus",
-   "commune": "Bâle",
-   "categorie": "Concert / soirée – klassik",
-   "prix": null,
-   "url": "https://denkmal.org/fr/basel/2026-11-17/3afe6b0c-a69e-49b5-bb4d-bf7c2ddf0ee9"
-  },
-  {
-   "titre": "Tiramisadness",
-   "date_debut": "2026-11-17",
-   "date_fin": null,
-   "horaires": "20 h - 22 h",
-   "lieu": "Radio X",
-   "commune": "Bâle",
-   "categorie": "Concert / soirée – synth pop, ambient",
-   "prix": null,
-   "url": "https://denkmal.org/fr/basel/2026-11-17/c6a577b9-5df4-4ecb-ac44-543c35c5341c"
-  },
-  {
-   "titre": "Etran de l'Aïr",
-   "date_debut": "2026-11-17",
+   "titre": "A.Alavi's All-Star Funk Band",
+   "date_debut": "2026-11-24",
    "date_fin": null,
    "horaires": "21 h",
-   "lieu": "Sudhaus",
+   "lieu": "Schall und Rauch",
    "commune": "Bâle",
-   "categorie": "Concert / soirée – desert blues",
+   "categorie": "funk,pop",
    "prix": null,
-   "url": "https://denkmal.org/fr/basel/2026-11-17/8b82c732-20f9-4011-b1e4-89538b100dd9"
-  },
-  {
-   "titre": "Walter Trout",
-   "date_debut": "2026-11-17",
-   "date_fin": null,
-   "horaires": "21 h",
-   "lieu": "Z7",
-   "commune": "Bâle",
-   "categorie": "Concert / soirée – blues rock",
-   "prix": null,
-   "url": "https://denkmal.org/fr/basel/2026-11-17/0fa83bd2-cd3f-41c7-a575-60fa3c024a05"
+   "url": "https://denkmal.org/fr/basel/2026-11-24/dea27fd9-810f-47f9-b301-fc459d4136cf",
+   "description": null,
+   "pays": "CH"
   },
   {
    "titre": "Noé Tavelli Double Drums Quartet",
