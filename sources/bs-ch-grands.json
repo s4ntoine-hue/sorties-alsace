@@ -2,7 +2,7 @@
  "source": "bs-ch-grands",
  "nom": "Bâle – grands événements",
  "pays": "CH",
- "lu_le": "2026-11-18",
+ "lu_le": "2026-11-19",
  "pages": [
   "https://www.bs.ch/fr/schwerpunkte/portrait/evenements-bale"
  ],
@@ -17,7 +17,7 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.bs.ch/fr/evenements/noel-bale",
-   "description": "Découvrez Bâle dans l'atmosphère magique de Noël, avec des marchés de Noël animés et de nombreux évènements de Noël."
+   "description": "Découvrez Bâle dans l’atmosphère magique de Noël, avec des marchés de Noël animés et de nombreux évènements de Noël."
   },
   {
    "titre": "Palazzo Colombino und Cirque Noël de Bâle",
@@ -41,7 +41,7 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.bs.ch/fr/evenements/exposition-van-gogh-hodler-et-un-cabriolet",
-   "description": "Le Kunstmuseum Basel consacre pour la première fois une exposition temporaire complète à l'éminente collectionneuse suisse"
+   "description": null
   }
  ]
 }

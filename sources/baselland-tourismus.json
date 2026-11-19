@@ -2,22 +2,82 @@
  "source": "baselland-tourismus",
  "nom": "Baselland Tourismus",
  "pays": "CH",
- "lu_le": "2026-11-18",
+ "lu_le": "2026-11-19",
  "pages": [
   "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements (page 1 sur 5, 2713 manifestations)"
  ],
  "note": "Format des pages suivantes inconnu : seule la page 1 est lue.",
  "events": [
   {
-   "titre": "Noé Tavelli Double Drums Quartet",
-   "date_debut": "2026-11-18",
-   "date_fin": "2026-11-18",
+   "titre": "Cole «MHDD» Palensky",
+   "date_debut": "2026-11-19",
+   "date_fin": null,
    "horaires": null,
    "lieu": "the bird's eye jazz club, Basel",
    "commune": "Bâle",
    "categorie": "Musik",
    "prix": null,
-   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/noé-tavelli-double-drums-quartet-eve_wt1_bdcgedcfdc",
+   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/cole-mhdd-palensky-eve_wt1_bdcgedcfdf",
+   "description": null
+  },
+  {
+   "titre": "Fragile Masterpieces",
+   "date_debut": "2026-11-19",
+   "date_fin": "2027-01-31",
+   "horaires": null,
+   "lieu": "Pharmazie-Historisches Museum der Universität Basel",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/fragile-masterpieces.-keramik-in-der-renaissance-apotheke-eve_wt1_bcigedgcib",
+   "description": null
+  },
+  {
+   "titre": "Fragmente aus einem Basler Künstlerhaus – Ernst Stückelbergs Wandbilder im Kleinen Klingental",
+   "date_debut": "2026-11-19",
+   "date_fin": "2099-12-31",
+   "horaires": null,
+   "lieu": "Museum Kleines Klingental",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/fragmente-aus-einem-basler-künstlerhaus-ernst-stückelbergs-wandbilder-im-kleinen-klingental-eve_wt1_bbfijgbheg",
+   "description": null
+  },
+  {
+   "titre": "Klostergeschichte und Münsterskulpturen",
+   "date_debut": "2026-11-19",
+   "date_fin": "2099-12-31",
+   "horaires": null,
+   "lieu": "Museum Kleines Klingental",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/klostergeschichte-und-münsterskulpturen-eve_wt1_bbfijgbjfh",
+   "description": null
+  },
+  {
+   "titre": "Louise Lawler",
+   "date_debut": "2026-11-19",
+   "date_fin": "2026-12-31",
+   "horaires": null,
+   "lieu": "Kunstmuseum Basel | Neubau",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/louise-lawler-eve_wt1_bbebbifefe",
+   "description": null
+  },
+  {
+   "titre": "Mammut & Säbelzahntiger. Evolution des Menschen – In einem Land vor unserer Zeit",
+   "date_debut": "2026-11-19",
+   "date_fin": "2099-12-31",
+   "horaires": null,
+   "lieu": "Naturhistorisches Museum Basel",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/mammut-säbelzahntiger.-evolution-des-menschen-in-einem-land-vor-unserer-zeit-eve_wt1_babehhjcah",
    "description": null
   },
   {
@@ -42,18 +102,6 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/stadtmarkt-eve_wt1_jgdjffggb",
-   "description": null
-  },
-  {
-   "titre": "Ein Entwurf macht Schule",
-   "date_debut": "2026-11-18",
-   "date_fin": "2026-11-18",
-   "horaires": null,
-   "lieu": "Universitätsbibliothek Basel",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/ein-entwurf-macht-schule-eve_uv7_hehddghgfhgeageadbg-gidieaedfjggeebhdah",
    "description": null
   },
   {

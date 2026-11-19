@@ -1,7 +1,7 @@
 {
  "source": "visit-alsace",
  "nom": "Visit Alsace",
- "lu_le": "2026-11-17",
+ "lu_le": "2026-11-19",
  "pages": [
   "https://www.visit.alsace/agenda-sorties-evenements/",
   "…/page/2/",
@@ -9,20 +9,8 @@
  ],
  "events": [
   {
-   "titre": "Le paysage a du goût",
-   "date_debut": "2026-11-17",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "La Petite Pierre",
-   "categorie": "Stage, atelier, cours d'oenologie, cours de cuisine",
-   "prix": null,
-   "url": "https://www.visit.alsace/sit/206001153-le-paysage-a-du-gout/",
-   "description": null
-  },
-  {
    "titre": "Le lac souterrain, de la Cathédrale aux Bains - Découvrez le lac souterrain en images !",
-   "date_debut": "2026-11-17",
+   "date_debut": "2026-11-19",
    "date_fin": null,
    "horaires": null,
    "lieu": null,
@@ -30,11 +18,23 @@
    "categorie": "Culture",
    "prix": null,
    "url": "https://www.visit.alsace/sit/205093052-le-lac-souterrain-de-la-cathedrale-aux-bains-decouvrez-le-lac-souterrain-en-images/",
+   "description": "Découvrez le lac souterrain en images !"
+  },
+  {
+   "titre": "Rémi Guédon, conférence par Guillaume Berthon",
+   "date_debut": "2026-11-19",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": "Médiathèque protestante du Stift",
+   "commune": "Strasbourg",
+   "categorie": "Animation littéraire",
+   "prix": null,
+   "url": "https://www.visit.alsace/sit/205093087-remi-guedon-conference-par-guillaume-berthon/",
    "description": null
   },
   {
    "titre": "Entre les lignes : la lettre",
-   "date_debut": "2026-11-17",
+   "date_debut": "2026-11-19",
    "date_fin": null,
    "horaires": null,
    "lieu": null,
@@ -45,20 +45,32 @@
    "description": null
   },
   {
-   "titre": "Le ciel du soir en français facile",
-   "date_debut": "2026-11-17",
+   "titre": "Pourquoi tu cries ?",
+   "date_debut": "2026-11-19",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": "Espace Django",
+   "commune": "Strasbourg",
+   "categorie": "Théâtre",
+   "prix": null,
+   "url": "https://www.visit.alsace/sit/205092902-pourquoi-tu-cries/",
+   "description": null
+  },
+  {
+   "titre": "Rencontre avec LOUISE CHENNEVIÈRE",
+   "date_debut": "2026-11-19",
    "date_fin": null,
    "horaires": null,
    "lieu": null,
    "commune": "Strasbourg",
-   "categorie": "Culture",
+   "categorie": "Animation littéraire",
    "prix": null,
-   "url": "https://www.visit.alsace/sit/205093085-le-ciel-du-soir-en-francais-facile/",
+   "url": "https://www.visit.alsace/sit/205093110-rencontre-avec-louise-chenneviere/",
    "description": null
   },
   {
    "titre": "Sdorvian fotografik book",
-   "date_debut": "2026-11-17",
+   "date_debut": "2026-11-19",
    "date_fin": null,
    "horaires": null,
    "lieu": null,
@@ -69,8 +81,20 @@
    "description": null
   },
   {
+   "titre": "Soirée Loup Garou au Malleus",
+   "date_debut": "2026-11-19",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": "Malleus Maleficarum",
+   "commune": "Strasbourg",
+   "categorie": "Animations",
+   "prix": null,
+   "url": "https://www.visit.alsace/sit/205093763-soiree-loup-garou-au-malleus/",
+   "description": null
+  },
+  {
    "titre": "EXPOSITION - \"Un calligraphe chinois en Alsace\", Liu Yi",
-   "date_debut": "2026-11-17",
+   "date_debut": "2026-11-19",
    "date_fin": null,
    "horaires": null,
    "lieu": null,
@@ -81,8 +105,20 @@
    "description": null
   },
   {
-   "titre": "HOMMAGE (Franck Desplanques)",
-   "date_debut": "2026-11-17",
+   "titre": "Exposition collective | NEO-ANALOG",
+   "date_debut": "2026-11-19",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": null,
+   "commune": "Strasbourg",
+   "categorie": "Exposition",
+   "prix": null,
+   "url": "https://www.visit.alsace/sit/205092683-exposition-collective-neo-analog/",
+   "description": null
+  },
+  {
+   "titre": "HOMMAGE",
+   "date_debut": "2026-11-19",
    "date_fin": null,
    "horaires": null,
    "lieu": null,
@@ -90,174 +126,6 @@
    "categorie": "Exposition",
    "prix": null,
    "url": "https://www.visit.alsace/sit/205092676-hommage/",
-   "description": null
-  },
-  {
-   "titre": "Club de lecture",
-   "date_debut": "2026-11-17",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Strasbourg",
-   "categorie": "Animation littéraire",
-   "prix": null,
-   "url": "https://www.visit.alsace/sit/205093686-club-de-lecture/",
-   "description": null
-  },
-  {
-   "titre": "Conférence d'Alain Aspect, prix Nobel de physique 2022",
-   "date_debut": "2026-11-17",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Strasbourg",
-   "categorie": "Sciences, technologies",
-   "prix": null,
-   "url": "https://www.visit.alsace/sit/205093800-conference-dalain-aspect-prix-nobel-de-physique-2022/",
-   "description": null
-  },
-  {
-   "titre": "Fais péter les ouates",
-   "date_debut": "2026-11-17",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Strasbourg",
-   "categorie": "Animation littéraire",
-   "prix": null,
-   "url": "https://www.visit.alsace/sit/205089714-fais-peter-les-ouates/",
-   "description": null
-  },
-  {
-   "titre": "Quand les textes circulent : itinéraires inattendus de la poésie europ (titre tronqué sur la page)",
-   "date_debut": "2026-11-17",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Strasbourg",
-   "categorie": "Animation littéraire",
-   "prix": null,
-   "url": "https://www.visit.alsace/sit/205089936-quand-les-textes-circulent-itineraires-inattendus-de-la-poesie-europ/",
-   "description": null
-  },
-  {
-   "titre": "Balade à poney ou à cheval",
-   "date_debut": "2026-11-17",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Haut-Soultzbach",
-   "categorie": "Sortie nature",
-   "prix": null,
-   "url": "https://www.visit.alsace/sit/241009361-balade-a-poney-ou-a-cheval/",
-   "description": null
-  },
-  {
-   "titre": "Osez le vin au féminin au Domaine GUETH",
-   "date_debut": "2026-11-17",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Gueberschwihr",
-   "categorie": "Stage, atelier, cours d'oenologie, cours de cuisine",
-   "prix": null,
-   "url": "https://www.visit.alsace/sit/253003867-osez-le-vin-au-feminin-au-domaine-gueth/",
-   "description": null
-  },
-  {
-   "titre": "Conférence les Constellations Familiales",
-   "date_debut": "2026-11-17",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Oderen",
-   "categorie": "Conférence",
-   "prix": null,
-   "url": "https://www.visit.alsace/sit/233007119-conference-les-constellations-familiales/",
-   "description": null
-  },
-  {
-   "titre": "Parcours LUNE : Voyageur spatial",
-   "date_debut": "2026-11-17",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Strasbourg",
-   "categorie": "Animations",
-   "prix": null,
-   "url": "https://www.visit.alsace/sit/205092073-parcours-lune-voyageur-spatial/",
-   "description": null
-  },
-  {
-   "titre": "Parcours LUNE : Astronaute Junior",
-   "date_debut": "2026-11-17",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Strasbourg",
-   "categorie": "Animations",
-   "prix": null,
-   "url": "https://www.visit.alsace/sit/205092072-parcours-lune-astronaute-junior/",
-   "description": null
-  },
-  {
-   "titre": "Martin Luther King - Droit à la liberté",
-   "date_debut": "2026-11-17",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Strasbourg",
-   "categorie": "Exposition",
-   "prix": null,
-   "url": "https://www.visit.alsace/sit/223014089-martin-luther-king-droit-a-la-liberte/",
-   "description": null
-  },
-  {
-   "titre": "Happy Days - Plateforme chorégraphique européenne",
-   "date_debut": "2026-11-17",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Strasbourg",
-   "categorie": "Bal/danse",
-   "prix": null,
-   "url": "https://www.visit.alsace/sit/205092025-happy-days-plateforme-choregraphique-europeenne/",
-   "description": null
-  },
-  {
-   "titre": "Titanic - Un voyage immersif",
-   "date_debut": "2026-11-17",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Strasbourg",
-   "categorie": "Exposition",
-   "prix": null,
-   "url": "https://www.visit.alsace/sit/223014094-titanic-un-voyage-immersif/",
-   "description": null
-  },
-  {
-   "titre": "Crapalachia",
-   "date_debut": "2026-11-17",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Strasbourg",
-   "categorie": "Théâtre",
-   "prix": null,
-   "url": "https://www.visit.alsace/sit/205092220-crapalachia/",
-   "description": null
-  },
-  {
-   "titre": "Balade sonore",
-   "date_debut": "2026-11-17",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Munchhausen",
-   "categorie": "Visite guidée",
-   "prix": null,
-   "url": "https://www.visit.alsace/sit/267001612-balade-sonore/",
    "description": null
   }
  ]

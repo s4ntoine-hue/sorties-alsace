@@ -2,7 +2,7 @@
  "source": "swissactivities-bale",
  "nom": "Swiss Activities (Bâle)",
  "pays": "CH",
- "lu_le": "2026-11-18",
+ "lu_le": "2026-11-19",
  "pages": [
   "https://www.swissactivities.com/fr-fr/ville-de-b-le/evenements/ (20 premiers sur 939, bouton « Afficher plus » non lisible)"
  ],
@@ -10,8 +10,8 @@
  "events": [
   {
    "titre": "Ausstellung Väter & Töchter",
-   "date_debut": "2026-11-17",
-   "date_fin": "2026-11-19",
+   "date_debut": "2026-11-19",
+   "date_fin": null,
    "horaires": "08:00–19:00",
    "lieu": "Alterszentrum Am Bachgraben",
    "commune": "Allschwil",
@@ -21,20 +21,8 @@
    "description": null
   },
   {
-   "titre": "Un projet fait école",
-   "date_debut": "2026-11-17",
-   "date_fin": "2026-11-18",
-   "horaires": "08:00–19:30",
-   "lieu": "Universitätsbibliothek (UB)",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": "Entrée gratuite",
-   "url": "https://www.swissactivities.com/fr-ch/events/basel/ein-entwurf-macht-schule/",
-   "description": null
-  },
-  {
    "titre": "Vitrinenausstellung - Universitätsbibliothek",
-   "date_debut": "2026-11-17",
+   "date_debut": "2026-11-19",
    "date_fin": "2027-03-16",
    "horaires": "08:00–20:00",
    "lieu": "Universitätsbibliothek (UB)",
@@ -46,7 +34,7 @@
   },
   {
    "titre": "MYSTIK",
-   "date_debut": "2026-11-17",
+   "date_debut": "2026-11-19",
    "date_fin": "2026-11-20",
    "horaires": "08:00–18:00",
    "lieu": "Röm.-kath. Kirche St. Theresia",
@@ -57,8 +45,56 @@
    "description": null
   },
   {
+   "titre": "City Walk Basel by blindekuh Basel",
+   "date_debut": "2026-11-19",
+   "date_fin": null,
+   "horaires": "09:00–18:00",
+   "lieu": "Restaurant Blindekuh",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/city-walk-basel-by-blindekuh-basel/",
+   "description": null
+  },
+  {
+   "titre": "Harry P.Otter und die Zauberprüfung",
+   "date_debut": "2026-11-19",
+   "date_fin": null,
+   "horaires": "09:00–23:00",
+   "lieu": "Basel - Startpunkt frei wählbar innerhalb der Stadt",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": "ab CHF 4.90",
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/harry-p-otter-und-die-zauberprufung/",
+   "description": null
+  },
+  {
+   "titre": "Frauen in der Bibel",
+   "date_debut": "2026-11-19",
+   "date_fin": null,
+   "horaires": "09:00–10:00",
+   "lieu": "KGH",
+   "commune": "Münchenstein",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.swissactivities.com/fr-ch/events/munchenstein/frauen-in-der-bibel/",
+   "description": null
+  },
+  {
+   "titre": "Vitrinenausstellung - Historisches Museum",
+   "date_debut": "2026-11-19",
+   "date_fin": "2027-04-19",
+   "horaires": "10:00–17:00",
+   "lieu": "Historisches Museum Basel: Barfüsserkirche",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/vitrinenausstellung-historisches-museum/",
+   "description": null
+  },
+  {
    "titre": "À LA MAISON - EN VOYAGE - LA VIE À BORD",
-   "date_debut": "2026-11-17",
+   "date_debut": "2026-11-19",
    "date_fin": "2027-02-22",
    "horaires": "10:00–17:00",
    "lieu": "Hafenmuseum",
@@ -69,15 +105,87 @@
    "description": null
   },
   {
-   "titre": "Vitrinenausstellung - Historisches Museum",
-   "date_debut": "2026-11-17",
-   "date_fin": "2027-04-19",
+   "titre": "Fragile Masterpieces",
+   "date_debut": "2026-11-19",
+   "date_fin": null,
    "horaires": "10:00–17:00",
-   "lieu": "Historisches Museum Basel: Barfüsserkirche",
+   "lieu": "Pharmaziemuseum Basel",
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
-   "url": "https://www.swissactivities.com/fr-ch/events/basel/vitrinenausstellung-historisches-museum/",
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/fragile-masterpieces/",
+   "description": null
+  },
+  {
+   "titre": "Frank Stella et les synagogues en bois détruites Exposition temporaire",
+   "date_debut": "2026-11-19",
+   "date_fin": "2027-01-31",
+   "horaires": "11:00–17:00",
+   "lieu": "Jüdisches Museum der Schweiz",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/frank-stella-und-die-zerstorten-holzsynagogen/",
+   "description": null
+  },
+  {
+   "titre": "Vitrinenausstellung - Basler Papiermühle",
+   "date_debut": "2026-11-19",
+   "date_fin": "2026-12-18",
+   "horaires": "11:00–17:00",
+   "lieu": "Basler Papiermühle",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/vitrinenausstellung-basler-papiermuhle/",
+   "description": null
+  },
+  {
+   "titre": "Duo Lautari",
+   "date_debut": "2026-11-19",
+   "date_fin": null,
+   "horaires": "12:15",
+   "lieu": "Allschwil",
+   "commune": "Allschwil",
+   "categorie": null,
+   "prix": "Entrée gratuite",
+   "url": "https://www.swissactivities.com/fr-ch/events/allschwil/duo-lautari/",
+   "description": null
+  },
+  {
+   "titre": "Ausstellung <Grounds for Reconstruction>",
+   "date_debut": "2026-11-19",
+   "date_fin": "2026-11-29",
+   "horaires": "13:00–18:00",
+   "lieu": "Domushaus (3. Stock)",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/ausstellung-grounds-for-reconstruction/",
+   "description": null
+  },
+  {
+   "titre": "<Grounds for Reconstruction>",
+   "date_debut": "2026-11-19",
+   "date_fin": "2026-11-29",
+   "horaires": "13:00–18:00",
+   "lieu": "Domushaus (3. Stock)",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/grounds-for-reconstruction/",
+   "description": null
+  },
+  {
+   "titre": "Cours de cirque pour enfants à Allschwil",
+   "date_debut": "2026-11-19",
+   "date_fin": "2027-01-14",
+   "horaires": "14:00–18:45",
+   "lieu": "vitis Sportcenter Allschwil",
+   "commune": "Allschwil",
+   "categorie": null,
+   "prix": "45 Min: 18.- · 60 Min: 20.- · 90 Min 28.- · Semesterweise zahlbar",
+   "url": "https://www.swissactivities.com/fr-ch/events/allschwil/zirkuskurse-fur-kinder-in-allschwil/",
    "description": null
   },
   {
@@ -90,54 +198,6 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.swissactivities.com/fr-ch/events/basel/alles-lebt-mehr-als-menschliche-welten/",
-   "description": null
-  },
-  {
-   "titre": "Frank Stella et les synagogues en bois détruites Exposition temporaire",
-   "date_debut": "2026-11-17",
-   "date_fin": "2027-01-31",
-   "horaires": "11:00–17:00",
-   "lieu": "Jüdisches Museum der Schweiz",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.swissactivities.com/fr-ch/events/basel/frank-stella-und-die-zerstorten-holzsynagogen/",
-   "description": null
-  },
-  {
-   "titre": "Vitrinenausstellung - Basler Papiermühle",
-   "date_debut": "2026-11-17",
-   "date_fin": "2026-12-18",
-   "horaires": "11:00–17:00",
-   "lieu": "Basler Papiermühle",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.swissactivities.com/fr-ch/events/basel/vitrinenausstellung-basler-papiermuhle/",
-   "description": null
-  },
-  {
-   "titre": "Ausstellung <Grounds for Reconstruction>",
-   "date_debut": "2026-11-17",
-   "date_fin": "2026-11-29",
-   "horaires": "13:00–18:00",
-   "lieu": "Domushaus (3. Stock)",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.swissactivities.com/fr-ch/events/basel/ausstellung-grounds-for-reconstruction/",
-   "description": null
-  },
-  {
-   "titre": "<Grounds for Reconstruction>",
-   "date_debut": "2026-11-17",
-   "date_fin": "2026-11-29",
-   "horaires": "13:00–18:00",
-   "lieu": "Domushaus (3. Stock)",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.swissactivities.com/fr-ch/events/basel/grounds-for-reconstruction/",
    "description": null
   },
   {
