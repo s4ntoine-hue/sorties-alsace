@@ -2,48 +2,12 @@
  "source": "bs-ch",
  "nom": "Canton de Bâle-Ville",
  "pays": "CH",
- "lu_le": "2026-11-19",
+ "lu_le": "2026-11-20",
  "pages": [
   "https://www.bs.ch/veranstaltungen (pages 1 et 2 sur 46)"
  ],
  "note": "Pour les événements « en continu », la date affichée est celle de la lecture.",
  "events": [
-  {
-   "titre": "Sonderausstellung «Van Gogh, Hodler und ein Cabriolet»",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "Ganztags",
-   "lieu": "Kunstmuseum",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.bs.ch/veranstaltungen/sonderausstellung-van-gogh-hodler-und-ein-cabriolet",
-   "description": null
-  },
-  {
-   "titre": "August bis November: Ausstellung «Auf immer und ewig» auf dem Wolfgottesacker",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "7:30 - 17:30 Uhr",
-   "lieu": "Wolfgottesacker",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.bs.ch/veranstaltungen/httpswwwbschbvdstadtgaertnerei-7",
-   "description": null
-  },
-  {
-   "titre": "Basler Stadtmarkt",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "19.11. Do. 8:00 - Do. 14:00 Uhr; 20.11. Fr. 8:00 - Do. 17:00 Uhr; 21.11. Sa. 8:00 - Fr. 17:00 Uhr",
-   "lieu": "Marktplatz",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.bs.ch/veranstaltungen/basler-stadtmarkt",
-   "description": null
-  },
   {
    "titre": "Palazzo Colombino und Cirque Noël de Bâle",
    "date_debut": "2026-11-20",
@@ -57,6 +21,54 @@
    "description": null
   },
   {
+   "titre": "Sonderausstellung «Van Gogh, Hodler und ein Cabriolet»",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": "Ganztags",
+   "lieu": "Kunstmuseum",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.bs.ch/veranstaltungen/sonderausstellung-van-gogh-hodler-und-ein-cabriolet",
+   "description": null
+  },
+  {
+   "titre": "August bis November: Ausstellung «Auf immer und ewig» auf dem Wolfgottesacker",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": "Fr. 7:30 - So. 17:30 Uhr",
+   "lieu": "Wolfgottesacker",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.bs.ch/veranstaltungen/httpswwwbschbvdstadtgaertnerei-7",
+   "description": null
+  },
+  {
+   "titre": "Basler Stadtmarkt",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": "Fr. 8:00 - Do. 17:00 Uhr",
+   "lieu": "Marktplatz",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.bs.ch/veranstaltungen/basler-stadtmarkt",
+   "description": null
+  },
+  {
+   "titre": "20./21. November: Grenzüberschreitende Archäologietage",
+   "date_debut": "2026-11-20",
+   "date_fin": "2026-11-21",
+   "horaires": "Fr. 9:30 - Sa. 18:00 Uhr (20.11.) ; 8:30 - 16:00 Uhr (21.11.)",
+   "lieu": "Colmar",
+   "commune": "Colmar",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.bs.ch/veranstaltungen/2021-november-grenzueberschreitende-archaeologietage",
+   "description": null
+  },
+  {
    "titre": "Ystimme – feierliche Eröffnung der Basler Weihnacht",
    "date_debut": "2026-11-20",
    "date_fin": null,
@@ -66,18 +78,6 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.bs.ch/veranstaltungen/ystimme-feierliche-eroeffnung-der-basler-weihnacht",
-   "description": null
-  },
-  {
-   "titre": "20./21. November: Grenzüberschreitende Archäologietage",
-   "date_debut": "2026-11-20",
-   "date_fin": "2026-11-21",
-   "horaires": "20. Nov. Fr. 9:30 - Sa. 18:00 Uhr; 21. Nov. 8:30 - 16:00 Uhr",
-   "lieu": "Colmar",
-   "commune": "Colmar",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.bs.ch/veranstaltungen/2021-november-grenzueberschreitende-archaeologietage",
    "description": null
   },
   {
@@ -126,18 +126,6 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.bs.ch/veranstaltungen/httpswwwbschbvdstadtgaertnerei-7",
-   "description": null
-  },
-  {
-   "titre": "Fantasy Basel",
-   "date_debut": "2026-11-16",
-   "date_fin": "2026-11-19",
-   "horaires": "10:00-19:00",
-   "lieu": "Messe Basel",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.bs.ch/veranstaltungen/fantasy-basel",
    "description": null
   }
  ]

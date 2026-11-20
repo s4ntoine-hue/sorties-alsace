@@ -2,7 +2,7 @@
  "source": "dreilaendermuseum",
  "nom": "Dreiländermuseum Lörrach",
  "pays": "DE",
- "lu_le": "2026-11-19",
+ "lu_le": "2026-11-20",
  "pages": [
   "https://www.dreilaendermuseum.eu/de/anschauen/veranstaltungen/"
  ],
@@ -17,7 +17,7 @@
    "categorie": "Dreiländerausstellung, Sonderausstellung, Vortrag/Diskussion",
    "prix": null,
    "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/vortrag-wie-erinnerung-versoehnen-kann-die-geschichte-der-badischen-siedler-im-elsass-1940-45-und-ihre-aufarbeitung/",
-   "description": "Während des Zweiten Weltkriegs wurden zahlreiche badische Bauernfamilien als sogenannte ...",
+   "description": null,
    "pays": "DE"
   },
   {
@@ -30,7 +30,7 @@
    "categorie": "Dreiländerausstellung, Sonderausstellung, Sonstiges/Spezial",
    "prix": null,
    "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/vhs-kurs-zuhause-unterwegs/",
-   "description": "Der vierteilige Kurs der Volkshochschule beider Basel mit Historiker Markus ...",
+   "description": null,
    "pays": "DE"
   },
   {
@@ -43,7 +43,7 @@
    "categorie": "Dreiländerausstellung, Führung, Sonderausstellung",
    "prix": null,
    "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/oeffentliche-fuehrung-durch-die-sonderausstellung-zuhause-unterwegs-2/",
-   "description": "Mit Kunsthistorikerin Jeanette Gutmann Ohne Anmeldung, maximal 20 Personen. ...",
+   "description": null,
    "pays": "DE"
   },
   {
@@ -56,7 +56,7 @@
    "categorie": "Dreiländerausstellung, Führung, Lesung/Konzert/Aufführung, Sonderausstellung",
    "prix": null,
    "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/aktionstag-im-rahmen-der-loerracher-orange-days/",
-   "description": "Programm 11 Uhr: Führung ‚Weibliche Migrationsgeschichten‘ durch die Sonderausstellung Zuhause – ...",
+   "description": null,
    "pays": "DE"
   },
   {
@@ -69,7 +69,7 @@
    "categorie": "Dreiländerausstellung, Sonstiges/Spezial",
    "prix": null,
    "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/erzaehlcafe-geschichten-in-gemuetlicher-runde-winter-kindheitserinnerungen/",
-   "description": "Es regnet, stürmt oder schneit? Dann wird es im Hebelsaal ...",
+   "description": null,
    "pays": "DE"
   },
   {
@@ -82,7 +82,7 @@
    "categorie": "Dreiländerausstellung, Sonderausstellung, Sonstiges/Spezial, Vortrag/Diskussion",
    "prix": null,
    "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/bildvortrag-auf-den-spuren-der-wandermoenche/",
-   "description": "Der Fotograf Martin Schulte-Kellinghaus folgt den Spuren des irischen Wandermönchs ...",
+   "description": null,
    "pays": "DE"
   },
   {
@@ -95,7 +95,7 @@
    "categorie": "Dreiländerausstellung, Lesung/Konzert/Aufführung, Sonderausstellung",
    "prix": null,
    "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/literarische-matinee-hebel-wirkungen/",
-   "description": "Urs Faes, Markus Manfred Jung und Pierre Kretz (Hebelpreis 2024) ...",
+   "description": null,
    "pays": "DE"
   },
   {
@@ -108,7 +108,7 @@
    "categorie": "Dreiländerausstellung, Kinderprogramm",
    "prix": null,
    "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/kinderprogramm-im-museum-schokolade/",
-   "description": "Führung mit Museumspädagogin Silke Schwarz in der Dreiländerausstellung für Kinder ...",
+   "description": null,
    "pays": "DE"
   },
   {
@@ -121,7 +121,7 @@
    "categorie": "Dreiländerausstellung, Führung, Sonderausstellung",
    "prix": null,
    "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/mittwoch-matinee-am-ofe-uf-dr-burg-fuendli-un-schaetzli-vo-roettle/",
-   "description": "Führung auf Alemannisch mit Kunsthistorikerin Jeanette Gutmann in der Dreiländerausstellung. ...",
+   "description": null,
    "pays": "DE"
   },
   {
@@ -134,7 +134,7 @@
    "categorie": "Dreiländerausstellung, Führung, Sonderausstellung",
    "prix": null,
    "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/oeffentliche-fuehrung-durch-die-sonderausstellung-zuhause-unterwegs-3/",
-   "description": "Mit Historiker Marlon Zimmermann. Ohne Anmeldung, maximal 20 Personen. Ohne Anmeldung, ...",
+   "description": null,
    "pays": "DE"
   },
   {
@@ -147,7 +147,7 @@
    "categorie": "Dreiländerausstellung, Sonstiges/Spezial",
    "prix": null,
    "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/erzaehlcafe-geschichten-in-gemuetlicher-runde-graffitis-kennen-keine-grenzen/",
-   "description": "Es regnet, stürmt oder schneit? Dann wird es im Dreiländermuseum ...",
+   "description": null,
    "pays": "DE"
   }
  ]

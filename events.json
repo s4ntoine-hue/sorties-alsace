@@ -1,21 +1,21 @@
 {
- "genere_le": "2026-11-19",
+ "genere_le": "2026-11-20",
  "sources": [
   {
    "source": "baselland-tourismus",
    "nom": "Baselland Tourismus",
-   "lu_le": "2026-11-19",
+   "lu_le": "2026-11-20",
    "pages": [
     "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements (page 1 sur 5, 2713 manifestations)"
    ],
    "note": "Format des pages suivantes inconnu : seule la page 1 est lue.",
    "pays": "CH",
-   "nb": 15
+   "nb": 16
   },
   {
    "source": "bs-ch-grands",
    "nom": "Bâle – grands événements",
-   "lu_le": "2026-11-19",
+   "lu_le": "2026-11-20",
    "pages": [
     "https://www.bs.ch/fr/schwerpunkte/portrait/evenements-bale"
    ],
@@ -26,41 +26,41 @@
   {
    "source": "bs-ch",
    "nom": "Canton de Bâle-Ville",
-   "lu_le": "2026-11-19",
+   "lu_le": "2026-11-20",
    "pages": [
     "https://www.bs.ch/veranstaltungen (pages 1 et 2 sur 46)"
    ],
    "note": "Pour les événements « en continu », la date affichée est celle de la lecture.",
    "pays": "CH",
-   "nb": 11
+   "nb": 10
   },
   {
    "source": "coze",
    "nom": "Coze",
-   "lu_le": "2026-11-19",
+   "lu_le": "2026-11-20",
    "pages": [
     "https://www.coze.fr/agenda/",
     "https://www.coze.fr/agenda/?paged=2"
    ],
    "note": null,
    "pays": null,
-   "nb": 42
+   "nb": 40
   },
   {
    "source": "denkmal-bale",
    "nom": "Denkmal (concerts et soirées à Bâle)",
-   "lu_le": "2026-11-19",
+   "lu_le": "2026-11-20",
    "pages": [
     "https://denkmal.org/fr/basel/<AAAA-MM-JJ> (une page par jour : lire aujourd'hui + 6 jours)"
    ],
    "note": null,
    "pays": "CH",
-   "nb": 75
+   "nb": 71
   },
   {
    "source": "dreilaendermuseum",
    "nom": "Dreiländermuseum Lörrach",
-   "lu_le": "2026-11-19",
+   "lu_le": "2026-11-20",
    "pages": [
     "https://www.dreilaendermuseum.eu/de/anschauen/veranstaltungen/"
    ],
@@ -82,7 +82,7 @@
   {
    "source": "foretnoire-magique",
    "nom": "Forêt-Noire magique",
-   "lu_le": "2026-11-19",
+   "lu_le": "2026-11-20",
    "pages": [
     "https://www.foretnoire-magique.fr/lexperience/evenements"
    ],
@@ -93,13 +93,13 @@
   {
    "source": "fred-info",
    "nom": "FRED (transfrontalier)",
-   "lu_le": "2026-11-19",
+   "lu_le": "2026-11-20",
    "pages": [
     "https://fred.info/fr/evenements/"
    ],
    "note": "Agenda franco-allemand ; premier bloc seulement. Écarter réunions administratives, permanences et webinaires.",
    "pays": "DE",
-   "nb": 6
+   "nb": 4
   },
   {
    "source": "localcities-bale",
@@ -126,7 +126,7 @@
   {
    "source": "meer-bale",
    "nom": "Meer (expositions à Bâle)",
-   "lu_le": "2026-11-19",
+   "lu_le": "2026-11-20",
    "pages": [
     "https://www.meer.com/fr/calendar?country_id=50&locality_id=365660"
    ],
@@ -137,40 +137,40 @@
   {
    "source": "myswitzerland-bale",
    "nom": "MySwitzerland (Bâle)",
-   "lu_le": "2026-11-19",
+   "lu_le": "2026-11-20",
    "pages": [
     "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/manifestations-rechercher/-/bale/ (page 1 sur 12, puis ?p=N)"
    ],
    "note": "Expositions permanentes des musées écartées.",
    "pays": "CH",
-   "nb": 63
+   "nb": 56
   },
   {
    "source": "oazis-freiburg",
    "nom": "Oazis (Fribourg-en-Brisgau)",
-   "lu_le": "2026-11-19",
+   "lu_le": "2026-11-20",
    "pages": [
     "https://oazis.app/sorties/freiburg-im-breisgau (2 817 à venir ; seuls les premiers sont lus)"
    ],
    "note": "Pas de lien par événement : le lien mène à la liste.",
    "pays": "DE",
-   "nb": 94
+   "nb": 142
   },
   {
    "source": "oazis-lorrach",
    "nom": "Oazis (Lörrach)",
-   "lu_le": "2026-11-19",
+   "lu_le": "2026-11-20",
    "pages": [
     "https://oazis.app/sorties/lorrach (330 à venir ; aussi /sorties/lorrach/<mois-annee>)"
    ],
    "note": "Les 25 premières entrées lues ; doublons internes regroupés.",
    "pays": "DE",
-   "nb": 115
+   "nb": 111
   },
   {
    "source": "pass-alsace",
    "nom": "Pass'Alsace",
-   "lu_le": "2026-11-19",
+   "lu_le": "2026-11-20",
    "pages": [
     "https://www.pass-alsace.com/agenda-des-evenements (pages 1 à 4)"
    ],
@@ -181,18 +181,18 @@
   {
    "source": "saintlouis-tourisme",
    "nom": "Saint-Louis Tourisme",
-   "lu_le": "2026-11-19",
+   "lu_le": "2026-11-20",
    "pages": [
     "https://www.saintlouis-tourisme.fr/sortir/agenda/ (pages 1 à 3 sur environ 65)"
    ],
    "note": "Couvre Saint-Louis Agglomération (Huningue, Hégenheim, Blotzheim, Kembs…). Le site propose aussi un filtre Bâle, Lörrach, Weil am Rhein.",
    "pays": "FR",
-   "nb": 21
+   "nb": 19
   },
   {
    "source": "songkick-lorrach",
    "nom": "Songkick (Marktplatz Lörrach)",
-   "lu_le": "2026-11-19",
+   "lu_le": "2026-11-20",
    "pages": [
     "https://www.songkick.com/fr/venues/886706-marktplatz-lorrach"
    ],
@@ -203,29 +203,29 @@
   {
    "source": "swissactivities-bale",
    "nom": "Swiss Activities (Bâle)",
-   "lu_le": "2026-11-19",
+   "lu_le": "2026-11-20",
    "pages": [
     "https://www.swissactivities.com/fr-fr/ville-de-b-le/evenements/ (20 premiers sur 939, bouton « Afficher plus » non lisible)"
    ],
    "note": "Dates de début lues comme « dim15 » sans mois : à vérifier.",
    "pays": "CH",
-   "nb": 22
+   "nb": 24
   },
   {
    "source": "tourisme-colmar",
    "nom": "Office de tourisme de Colmar",
-   "lu_le": "2026-11-19",
+   "lu_le": "2026-11-20",
    "pages": [
     "https://www.tourisme-colmar.com/fr/loisirs-fr/evenements/agenda (pages 1 et 2 sur 45)"
    ],
    "note": "Occurrences multiples d'une même fiche fusionnées en une plage de dates.",
    "pays": null,
-   "nb": 33
+   "nb": 25
   },
   {
    "source": "visit-alsace",
    "nom": "Visit Alsace",
-   "lu_le": "2026-11-19",
+   "lu_le": "2026-11-20",
    "pages": [
     "https://www.visit.alsace/agenda-sorties-evenements/",
     "…/page/2/",
@@ -233,12 +233,12 @@
    ],
    "note": null,
    "pays": null,
-   "nb": 10
+   "nb": 12
   },
   {
    "source": "visit-freiburg",
    "nom": "Visit Freiburg",
-   "lu_le": "2026-11-19",
+   "lu_le": "2026-11-20",
    "pages": [
     "https://visit.freiburg.de/fr/evenements/top-10-des-evenements"
    ],
@@ -249,7 +249,7 @@
   {
    "source": "weil-am-rhein",
    "nom": "Ville de Weil am Rhein",
-   "lu_le": "2026-11-19",
+   "lu_le": "2026-11-20",
    "pages": [
     "https://www.weil-am-rhein.de/start/kultur/veranstaltungskalender"
    ],
@@ -282,22 +282,16 @@
    "id": "a8cd4c3dbc"
   },
   {
-   "titre": "Sauts dans le temps – l'histoire de Bâle en bref",
+   "titre": "Sauts dans le temps – L'histoire de Bâle en bref",
    "date_debut": "2019-06-22",
    "date_fin": "2028-03-31",
-   "horaires": "10:00-17:00",
-   "lieu": "Historisches Museum Basel: Barfüsserkirche",
+   "horaires": null,
+   "lieu": null,
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
-   "description": null,
-   "titre_original": "Zeitsprünge – Basler Geschichte in Kürze",
+   "description": "Près de 200 000 personnes originaires de 200 pays vivent à Bâle.",
    "sources": [
-    {
-     "source": "localcities-bale",
-     "nom": "Localcities (Bâle)",
-     "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4760385"
-    },
     {
      "source": "myswitzerland-bale",
      "nom": "MySwitzerland (Bâle)",
@@ -307,7 +301,7 @@
    "pays": "CH",
    "theme": "Visites & patrimoine",
    "gratuit": false,
-   "id": "0430bd68ee"
+   "id": "282d045b3e"
   },
   {
    "titre": "XIXe siècle",
@@ -357,19 +351,14 @@
    "titre": "Tout est vivant – des mondes plus qu'humains",
    "date_debut": "2023-09-08",
    "date_fin": "2028-03-31",
-   "horaires": "10:00-17:00",
+   "horaires": "10:00–17:00",
    "lieu": "Museum der Kulturen Basel",
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
-   "description": null,
+   "description": "Comment les êtres humains perçoivent-ils le monde qui les entoure ?",
    "titre_original": "Alles lebt – mehr als menschliche Welten",
    "sources": [
-    {
-     "source": "localcities-bale",
-     "nom": "Localcities (Bâle)",
-     "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/3075470"
-    },
     {
      "source": "myswitzerland-bale",
      "nom": "MySwitzerland (Bâle)",
@@ -679,7 +668,7 @@
    "date_debut": "2026-03-05",
    "date_fin": "2027-03-07",
    "horaires": null,
-   "lieu": "Museum Tinguely",
+   "lieu": null,
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
@@ -728,7 +717,7 @@
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
-   "description": "Eine Entdeckungsreise durch die Basler Esskultur",
+   "description": null,
    "titre_original": "Basel auf dem Teller – Kulinarische Stadtgeschichte(n)",
    "sources": [
     {
@@ -751,7 +740,7 @@
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
-   "description": null,
+   "description": "L'exposition présente l'œuvre visionnaire de Verner Panton en matière de design, d'architecture et d'installations spatiales.",
    "titre_original": "Verner Panton: Form, Colour, Space",
    "sources": [
     {
@@ -770,7 +759,7 @@
    "date_debut": "2026-06-13",
    "date_fin": "2026-12-26",
    "horaires": null,
-   "lieu": "Papa Joe's Basel BAR",
+   "lieu": null,
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
@@ -884,7 +873,7 @@
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
-   "description": null,
+   "description": "Eine Ausstellung im Rahmen der Veranstaltungsreihe \"Freiheit des Denkens. Castellio in Basel.\"",
    "titre_original": "Vitrinenausstellung - Basler Papiermühle",
    "sources": [
     {
@@ -907,7 +896,7 @@
    "titre": "Exposition en vitrine – bibliothèque universitaire",
    "date_debut": "2026-09-15",
    "date_fin": "2027-03-16",
-   "horaires": "08:00-20:00",
+   "horaires": "08:00–20:00",
    "lieu": "Universitätsbibliothek (UB), Basel",
    "commune": "Bâle",
    "categorie": null,
@@ -919,11 +908,6 @@
      "source": "baselland-tourismus",
      "nom": "Baselland Tourismus",
      "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/vitrinenausstellung---universitätsbibliothek-eve_wt1_bdcciebegd"
-    },
-    {
-     "source": "localcities-bale",
-     "nom": "Localcities (Bâle)",
-     "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4875173"
     },
     {
      "source": "myswitzerland-bale",
@@ -1005,11 +989,6 @@
      "source": "bs-ch",
      "nom": "Canton de Bâle-Ville",
      "url": "https://www.bs.ch/veranstaltungen/sonderausstellung-van-gogh-hodler-und-ein-cabriolet"
-    },
-    {
-     "source": "localcities-bale",
-     "nom": "Localcities (Bâle)",
-     "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4594871"
     }
    ],
    "pays": "CH",
@@ -1117,11 +1096,11 @@
    "date_debut": "2026-10-08",
    "date_fin": "2027-09-30",
    "horaires": null,
-   "lieu": "Brennerei Aktienmühle, Kleinbasel",
+   "lieu": null,
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
-   "description": null,
+   "description": "Brennerei in der Aktienmühle im Kleinbasel.",
    "titre_original": "GIN LAB. Basel – Brennerei Aktienmühle",
    "sources": [
     {
@@ -1144,7 +1123,7 @@
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
-   "description": "Modern and Contemporary Art. Paintings, Sculptures, Installations, Performance, Video Art.",
+   "description": null,
    "titre_original": "Marcel Schaffner. Ein Querschnitt. Arbeiten von 1950 - 2009",
    "sources": [
     {
@@ -1162,19 +1141,14 @@
    "titre": "Exposition en vitrine – Musée historique",
    "date_debut": "2026-10-19",
    "date_fin": "2027-04-18",
-   "horaires": "10:00-17:00",
+   "horaires": "10:00–17:00",
    "lieu": "Historisches Museum Basel: Barfüsserkirche",
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
-   "description": null,
+   "description": "Eine Ausstellung im Rahmen der Veranstaltungsreihe \"Freiheit des Denkens. Castellio in Basel.\"",
    "titre_original": "Vitrinenausstellung - Historisches Museum",
    "sources": [
-    {
-     "source": "localcities-bale",
-     "nom": "Localcities (Bâle)",
-     "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4875211"
-    },
     {
      "source": "myswitzerland-bale",
      "nom": "MySwitzerland (Bâle)",
@@ -1196,7 +1170,7 @@
    "date_debut": "2026-10-21",
    "date_fin": "2026-12-16",
    "horaires": null,
-   "lieu": "Musée Du Jouet De Colmar",
+   "lieu": "Musée du Jouet Musée Du Jouet De Colmar, 40 Rue Vauban, 68000 Colmar",
    "commune": "Colmar",
    "categorie": "Visite guidée",
    "prix": null,
@@ -1214,22 +1188,16 @@
    "id": "6b94c9157c"
   },
   {
-   "titre": "À la maison – en voyage – la vie de batelier",
+   "titre": "À LA MAISON - EN VOYAGE - LA VIE À BORD",
    "date_debut": "2026-10-22",
    "date_fin": "2027-02-21",
-   "horaires": "10:00-17:00",
+   "horaires": "10:00–17:00",
    "lieu": "Hafenmuseum",
    "commune": "Bâle",
    "categorie": null,
    "prix": "Eintrittspreis regulär: CHF 14 · Eintrittspreis reduziert: CHF 9",
-   "description": null,
-   "titre_original": "ZUHAUSE - UNTERWEGS - SCHIFFERLEBEN",
+   "description": "Le bateau est à la fois un lieu de travail, un foyer et un espace de vie.",
    "sources": [
-    {
-     "source": "localcities-bale",
-     "nom": "Localcities (Bâle)",
-     "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4892941"
-    },
     {
      "source": "myswitzerland-bale",
      "nom": "MySwitzerland (Bâle)",
@@ -1242,9 +1210,9 @@
     }
    ],
    "pays": "CH",
-   "theme": "Ateliers",
+   "theme": "Culture & vie locale",
    "gratuit": false,
-   "id": "7ba86d5c6e"
+   "id": "4fe4e2b497"
   },
   {
    "titre": "Soif ! Visite de Bâle sur l'histoire de la bière et des bistrots",
@@ -1278,7 +1246,7 @@
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
-   "description": "Aufführung in Dialekt, geeignet für Kinder ab 4 Jahren.",
+   "description": null,
    "titre_original": "Fauteuil-Märchenbühne - Dschungelbuch",
    "sources": [
     {
@@ -1297,7 +1265,7 @@
    "date_debut": "2026-10-24",
    "date_fin": "2028-01-15",
    "horaires": null,
-   "lieu": "Elisabethenkirche",
+   "lieu": null,
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
@@ -1367,7 +1335,7 @@
    "horaires": "10:00 - 16:00",
    "lieu": "Centre Culturel Français Freiburg e.V.",
    "commune": "Fribourg-en-Brisgau",
-   "categorie": "Allemand, Bade-Wurtemberg, Français, Région de Fribourg",
+   "categorie": null,
    "prix": null,
    "description": null,
    "pays": "DE",
@@ -1479,9 +1447,9 @@
    "date_debut": "2026-11-09",
    "date_fin": "2026-11-20",
    "horaires": null,
-   "lieu": null,
+   "lieu": "Karlsruhe",
    "commune": "Karlsruhe",
-   "categorie": "Allemand, Bade-Wurtemberg, Région de Karlsruhe",
+   "categorie": null,
    "prix": null,
    "description": null,
    "pays": "DE",
@@ -1545,17 +1513,22 @@
    "titre": "Christoph Voy \"My Degeneration\"",
    "date_debut": "2026-11-14",
    "date_fin": "2027-01-09",
-   "horaires": null,
-   "lieu": null,
+   "horaires": "14:00–19:00",
+   "lieu": "Galerie Daeppen",
    "commune": "Bâle",
    "categorie": null,
-   "prix": null,
-   "description": "Christoph Voy fotografiert nicht einfach Menschen. Er geht ihnen auf die Pelle.",
+   "prix": "Entrée gratuite",
+   "description": null,
    "sources": [
     {
      "source": "myswitzerland-bale",
      "nom": "MySwitzerland (Bâle)",
      "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/christoph-voy-my-degeneration/"
+    },
+    {
+     "source": "swissactivities-bale",
+     "nom": "Swiss Activities (Bâle)",
+     "url": "https://www.swissactivities.com/fr-ch/events/basel/christoph-voy-my-degeneration/"
     }
    ],
    "pays": "CH",
@@ -1747,7 +1720,7 @@
    "titre": "Exposition « Pour toujours et à jamais » au cimetière Wolfgottesacker",
    "date_debut": "2026-11-16",
    "date_fin": "2026-11-21",
-   "horaires": "7:30 - 17:30 Uhr",
+   "horaires": "Fr. 7:30 - So. 17:30 Uhr",
    "lieu": "Wolfgottesacker",
    "commune": "Bâle",
    "categorie": null,
@@ -1765,28 +1738,6 @@
    "theme": "Expos & salons",
    "gratuit": false,
    "id": "b1a399e15b"
-  },
-  {
-   "titre": "Fantasy Basel",
-   "date_debut": "2026-11-16",
-   "date_fin": "2026-11-19",
-   "horaires": "10:00-19:00",
-   "lieu": "Messe Basel",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "description": null,
-   "sources": [
-    {
-     "source": "bs-ch",
-     "nom": "Canton de Bâle-Ville",
-     "url": "https://www.bs.ch/veranstaltungen/fantasy-basel"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Culture & vie locale",
-   "gratuit": false,
-   "id": "cdbb755e94"
   },
   {
    "titre": "Balade urbaine à Bâle avec blindekuh",
@@ -1927,61 +1878,6 @@
    "id": "bee5224d99"
   },
   {
-   "titre": "Exposition Pères & filles",
-   "date_debut": "2026-11-18",
-   "date_fin": "2026-11-19",
-   "horaires": "08:00–19:00",
-   "lieu": "Alterszentrum Am Bachgraben",
-   "commune": "Allschwil",
-   "categorie": null,
-   "prix": null,
-   "description": null,
-   "titre_original": "Ausstellung Väter & Töchter",
-   "sources": [
-    {
-     "source": "baselland-tourismus",
-     "nom": "Baselland Tourismus",
-     "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/ausstellung-väter-töchter-eve_wt1_bdaadehfcd"
-    },
-    {
-     "source": "swissactivities-bale",
-     "nom": "Swiss Activities (Bâle)",
-     "url": "https://www.swissactivities.com/fr-ch/events/allschwil/ausstellung-vater-tochter/"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Expos & salons",
-   "gratuit": false,
-   "id": "7236542049"
-  },
-  {
-   "titre": "MOI, CANARD",
-   "date_debut": "2026-11-18",
-   "date_fin": "2026-11-19",
-   "horaires": "10h00",
-   "lieu": "Salle de spectacles Europe",
-   "commune": "Colmar",
-   "categorie": "Famille",
-   "prix": "6 €",
-   "description": null,
-   "sources": [
-    {
-     "source": "coze",
-     "nom": "Coze",
-     "url": "https://www.coze.fr/agenda/moi-canard-2/"
-    },
-    {
-     "source": "tourisme-colmar",
-     "nom": "Office de tourisme de Colmar",
-     "url": "https://www.tourisme-colmar.com/loisirs-fr/evenements/agenda/F235018527_spectacle-jeune-public-moi-canard-colmar"
-    }
-   ],
-   "pays": "FR",
-   "theme": "Famille & enfants",
-   "gratuit": false,
-   "id": "5a4324cf5c"
-  },
-  {
    "titre": "MYSTIK",
    "date_debut": "2026-11-18",
    "date_fin": "2026-11-20",
@@ -2009,401 +1905,26 @@
    "id": "81dc89ab18"
   },
   {
-   "titre": "Marcel Dogor & Peter von Kron - Solo fir Zwai",
-   "date_debut": "2026-11-18",
-   "date_fin": "2026-11-19",
-   "horaires": null,
-   "lieu": null,
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "description": "Ein bunter Abend mit Marcel Dogor und Peter von Kron.",
-   "sources": [
-    {
-     "source": "myswitzerland-bale",
-     "nom": "MySwitzerland (Bâle)",
-     "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/marcel-dogor-peter-von-kron-solo-fir-zwai/"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Culture & vie locale",
-   "gratuit": false,
-   "id": "471fac457d"
-  },
-  {
-   "titre": "Marché de la ville de Bâle",
-   "date_debut": "2026-11-18",
-   "date_fin": "2026-12-31",
-   "horaires": "19.11. Do. 8:00 - Do. 14:00 Uhr; 20.11. Fr. 8:00 - Do. 17:00 Uhr; 21.11. Sa. 8:00 - Fr. 17:00 Uhr",
-   "lieu": "Marktplatz",
+   "titre": "<Grounds for Reconstruction>",
+   "date_debut": "2026-11-19",
+   "date_fin": "2026-11-29",
+   "horaires": "13:00–18:00",
+   "lieu": "Domushaus (3. Stock)",
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
    "description": null,
-   "titre_original": "Basler Stadtmarkt",
    "sources": [
     {
-     "source": "baselland-tourismus",
-     "nom": "Baselland Tourismus",
-     "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/stadtmarkt-eve_wt1_jgdjffggb"
-    },
-    {
-     "source": "bs-ch",
-     "nom": "Canton de Bâle-Ville",
-     "url": "https://www.bs.ch/veranstaltungen/basler-stadtmarkt"
-    },
-    {
-     "source": "localcities-bale",
-     "nom": "Localcities (Bâle)",
-     "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/2385816"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Brocantes & marchés",
-   "gratuit": false,
-   "id": "fb79a2dd52"
-  },
-  {
-   "titre": "Théâtre - Paradoxe",
-   "date_debut": "2026-11-18",
-   "date_fin": "2026-11-19",
-   "horaires": null,
-   "lieu": null,
-   "commune": "Colmar",
-   "categorie": "Théâtre",
-   "prix": null,
-   "description": null,
-   "sources": [
-    {
-     "source": "tourisme-colmar",
-     "nom": "Office de tourisme de Colmar",
-     "url": "https://www.tourisme-colmar.com/loisirs-fr/evenements/agenda/F235018874_theatre-paradoxe-colmar"
-    }
-   ],
-   "pays": "FR",
-   "theme": "Spectacles & cinéma",
-   "gratuit": false,
-   "id": "685777e50d"
-  },
-  {
-   "titre": "Alessio Cazzetta",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "21 h",
-   "lieu": "Kleiner Wassermann",
-   "commune": "Bâle",
-   "categorie": "Concert – jazz",
-   "prix": null,
-   "sources": [
-    {
-     "source": "denkmal-bale",
-     "nom": "Denkmal (concerts et soirées à Bâle)",
-     "url": "https://denkmal.org/fr/basel/2026-11-19/5509e8dd-5d11-415b-a101-8d2c1a61f586"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Concerts & festivals",
-   "gratuit": false,
-   "id": "c85dd21651"
-  },
-  {
-   "titre": "Amahame : Les Voyages Oniriques",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "Journée",
-   "lieu": "Eglise protestante Saint-Pierre-le-vieux / NooToos",
-   "commune": "Strasbourg",
-   "categorie": "Concert",
-   "prix": "15 €",
-   "description": null,
-   "sources": [
-    {
-     "source": "coze",
-     "nom": "Coze",
-     "url": "https://www.coze.fr/agenda/amahame-les-voyages-oniriques/"
-    }
-   ],
-   "pays": "FR",
-   "theme": "Concerts & festivals",
-   "gratuit": false,
-   "id": "8577969420"
-  },
-  {
-   "titre": "Amitié, collection, sens de l'art",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "10:00-18:00",
-   "lieu": "Kunstmuseum Basel | Hauptbau",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "description": null,
-   "titre_original": "Freundschaft, Sammeln, Kunstsinn",
-   "sources": [
-    {
-     "source": "localcities-bale",
-     "nom": "Localcities (Bâle)",
-     "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4840497"
+     "source": "swissactivities-bale",
+     "nom": "Swiss Activities (Bâle)",
+     "url": "https://www.swissactivities.com/fr-ch/events/basel/grounds-for-reconstruction/"
     }
    ],
    "pays": "CH",
    "theme": "Culture & vie locale",
    "gratuit": false,
-   "id": "906b2de64d"
-  },
-  {
-   "titre": "Atelier confection d'une couronne de porte",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Ribeauvillé",
-   "categorie": "Artisanat/démonstration de savoir faire",
-   "prix": null,
-   "description": null,
-   "sources": [
-    {
-     "source": "tourisme-colmar",
-     "nom": "Office de tourisme de Colmar",
-     "url": "https://www.tourisme-colmar.com/loisirs-fr/evenements/agenda/F229010229_atelier-confection-dune-couronne-de-porte-ribeauville"
-    }
-   ],
-   "pays": "FR",
-   "theme": "Ateliers",
-   "gratuit": false,
-   "id": "531690de07"
-  },
-  {
-   "titre": "Atelier créatif Kunterbunt",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "16h",
-   "lieu": "Werkraum Schöpflin",
-   "commune": "Lörrach",
-   "categorie": "Atelier créatif, jusqu'à 15 ans",
-   "prix": null,
-   "description": null,
-   "pays": "DE",
-   "titre_original": "Kreativwerkstatt Atelier Kunterbunt",
-   "sources": [
-    {
-     "source": "oazis-lorrach",
-     "nom": "Oazis (Lörrach)",
-     "url": "https://oazis.app/evenements/kreativwerkstatt-atelier-kunterbunt-lorrach-2026-11-19"
-    }
-   ],
-   "theme": "Ateliers",
-   "gratuit": false,
-   "id": "2a1b38827a"
-  },
-  {
-   "titre": "Atelier de poésie blackout",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "10h",
-   "lieu": "Centre Culturel Français Freiburg e. V.",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Écriture, Poésie",
-   "prix": "Gratuit",
-   "description": null,
-   "pays": "DE",
-   "titre_original": "Black out Poetry Workshop",
-   "sources": [
-    {
-     "source": "oazis-freiburg",
-     "nom": "Oazis (Fribourg-en-Brisgau)",
-     "url": null
-    }
-   ],
-   "theme": "Ateliers",
-   "gratuit": true,
-   "id": "7d90b7a72b"
-  },
-  {
-   "titre": "Boîte créative",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "10:00-17:00",
-   "lieu": "Museum der Kulturen Basel",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "description": null,
-   "titre_original": "Kreativbox",
-   "sources": [
-    {
-     "source": "localcities-bale",
-     "nom": "Localcities (Bâle)",
-     "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4839651"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Culture & vie locale",
-   "gratuit": false,
-   "id": "19a8af9d88"
-  },
-  {
-   "titre": "Chefs-d'œuvre fragiles : la céramique dans la pharmacie Renaissance",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "10:00-17:00",
-   "lieu": "Pharmazie-Historisches Museum der Universität Basel",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "description": null,
-   "titre_original": "Fragile Masterpieces: Keramik in der Renaissance-Apotheke",
-   "sources": [
-    {
-     "source": "localcities-bale",
-     "nom": "Localcities (Bâle)",
-     "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4825577"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Culture & vie locale",
-   "gratuit": false,
-   "id": "776ac75d77"
-  },
-  {
-   "titre": "Ciné-Club | SPÉCIAL",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "19:00 - 21:00",
-   "lieu": "Kommunales Kino Freiburg",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Allemand, Bade-Wurtemberg, Français",
-   "prix": null,
-   "description": null,
-   "pays": "DE",
-   "sources": [
-    {
-     "source": "fred-info",
-     "nom": "FRED (transfrontalier)",
-     "url": "https://fred.info/fr/events/cine-club-special/"
-    }
-   ],
-   "theme": "Culture & vie locale",
-   "gratuit": false,
-   "id": "3ac8fb8d13"
-  },
-  {
-   "titre": "Cole «MHDD» Palensky",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "21 h - 23 h",
-   "lieu": "the bird's eye jazz club, Basel",
-   "commune": "Bâle",
-   "categorie": "Musik",
-   "prix": null,
-   "description": null,
-   "sources": [
-    {
-     "source": "baselland-tourismus",
-     "nom": "Baselland Tourismus",
-     "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/cole-mhdd-palensky-eve_wt1_bdcgedcfdf"
-    },
-    {
-     "source": "denkmal-bale",
-     "nom": "Denkmal (concerts et soirées à Bâle)",
-     "url": "https://denkmal.org/fr/basel/2026-11-19/5817fada-b3e6-457f-9aa9-cf21486bf0be"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Culture & vie locale",
-   "gratuit": false,
-   "id": "2a0090116c"
-  },
-  {
-   "titre": "Comedyflash – spectacle de stand-up",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "20h",
-   "lieu": "KARREE",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Stand-up, Comédie",
-   "prix": "26,90 €",
-   "description": null,
-   "pays": "DE",
-   "titre_original": "Comedyflash - Die Stand Up Comedy Show",
-   "sources": [
-    {
-     "source": "oazis-freiburg",
-     "nom": "Oazis (Fribourg-en-Brisgau)",
-     "url": null
-    }
-   ],
-   "theme": "Spectacles & cinéma",
-   "gratuit": false,
-   "id": "4f1bbf10ce"
-  },
-  {
-   "titre": "Conf' voisines | L'opéra aujourd'hui : faire vivre l'héritage et inventer de nouvelles formes",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "14h30",
-   "lieu": "Hôtel de la Monnaie",
-   "commune": "Molsheim",
-   "categorie": "Rencontre",
-   "prix": "Gratuit",
-   "description": null,
-   "sources": [
-    {
-     "source": "coze",
-     "nom": "Coze",
-     "url": "https://www.coze.fr/agenda/conf-voisines-lopera-aujourdhui-faire-vivre-lheritage-et-inventer-de-nouvelles-formes/"
-    }
-   ],
-   "pays": "FR",
-   "theme": "Spectacles & cinéma",
-   "gratuit": true,
-   "id": "03bc24fd13"
-  },
-  {
-   "titre": "Conférence : Julia Ebner – du fitness au fascisme",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "19h30",
-   "lieu": "Buchhandlung Rombach",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Conférence, Politique & Économie",
-   "prix": "12–15 €",
-   "description": null,
-   "pays": "DE",
-   "titre_original": "Vortrag & Gespräch: Julia Ebner - Von Fitness zu Faschismus",
-   "sources": [
-    {
-     "source": "oazis-freiburg",
-     "nom": "Oazis (Fribourg-en-Brisgau)",
-     "url": null
-    }
-   ],
-   "theme": "Visites & patrimoine",
-   "gratuit": false,
-   "id": "2c7558bf36"
-  },
-  {
-   "titre": "Conférence en images : le torrent de montagne, un milieu à préserver",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "18h",
-   "lieu": "WaldHaus Freiburg",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Conférence, Sciences",
-   "prix": "Gratuit",
-   "description": null,
-   "pays": "DE",
-   "titre_original": "Lichtbildvortrag: Der Bergbach – ein Lebensraum zum Festhalten",
-   "sources": [
-    {
-     "source": "oazis-freiburg",
-     "nom": "Oazis (Fribourg-en-Brisgau)",
-     "url": null
-    }
-   ],
-   "theme": "Visites & patrimoine",
-   "gratuit": true,
-   "id": "ae4b118889"
+   "id": "081ee44734"
   },
   {
    "titre": "Cours de cirque pour enfants à Allschwil",
@@ -2428,100 +1949,6 @@
    "id": "b2232e6fb2"
   },
   {
-   "titre": "Dinos & sauriens – images vivantes d'autrefois",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "10:00-17:00",
-   "lieu": "Naturhistorisches Museum Basel",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "description": null,
-   "titre_original": "Dino & Saurier – Lebendige Bilder vergangener Tage",
-   "sources": [
-    {
-     "source": "localcities-bale",
-     "nom": "Localcities (Bâle)",
-     "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/3033938"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Culture & vie locale",
-   "gratuit": false,
-   "id": "59cefdf683"
-  },
-  {
-   "titre": "Duo Lautari",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "12:15",
-   "lieu": "Allschwil",
-   "commune": "Allschwil",
-   "categorie": null,
-   "prix": "Entrée gratuite",
-   "description": null,
-   "sources": [
-    {
-     "source": "swissactivities-bale",
-     "nom": "Swiss Activities (Bâle)",
-     "url": "https://www.swissactivities.com/fr-ch/events/allschwil/duo-lautari/"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Culture & vie locale",
-   "gratuit": false,
-   "id": "cdcd1f1b6a"
-  },
-  {
-   "titre": "EXPOSITION – « Un calligraphe chinois en Alsace », Liu Yi",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "14h00",
-   "lieu": "Alliance Française Strasbourg Europe",
-   "commune": "Strasbourg",
-   "categorie": "Expo",
-   "prix": "Gratuit",
-   "description": null,
-   "sources": [
-    {
-     "source": "coze",
-     "nom": "Coze",
-     "url": "https://www.coze.fr/agenda/exposition-un-calligraphe-chinois-en-alsace-liu-yi/"
-    },
-    {
-     "source": "visit-alsace",
-     "nom": "Visit Alsace",
-     "url": "https://www.visit.alsace/sit/205092786-exposition-un-calligraphe-chinois-en-alsace-liu-yi/"
-    }
-   ],
-   "pays": "FR",
-   "theme": "Expos & salons",
-   "gratuit": true,
-   "id": "d629e0b968"
-  },
-  {
-   "titre": "Entre les lignes : la lettre",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Strasbourg",
-   "categorie": "Animation littéraire",
-   "prix": null,
-   "description": null,
-   "sources": [
-    {
-     "source": "visit-alsace",
-     "nom": "Visit Alsace",
-     "url": "https://www.visit.alsace/sit/205093298-entre-les-lignes-la-lettre/"
-    }
-   ],
-   "pays": "FR",
-   "theme": "Famille & enfants",
-   "gratuit": false,
-   "id": "9bb7652b8a"
-  },
-  {
    "titre": "Exposition Thanatos Illuminé",
    "date_debut": "2026-11-19",
    "date_fin": "2026-12-24",
@@ -2542,33 +1969,6 @@
    "theme": "Expos & salons",
    "gratuit": true,
    "id": "9c51ca0882"
-  },
-  {
-   "titre": "Exposition collective | NEO-ANALOG",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "14h00",
-   "lieu": "Stimultania",
-   "commune": "Strasbourg",
-   "categorie": "Expo",
-   "prix": "Gratuit",
-   "description": null,
-   "sources": [
-    {
-     "source": "coze",
-     "nom": "Coze",
-     "url": "https://www.coze.fr/agenda/exposition-collective-neo-analog/"
-    },
-    {
-     "source": "visit-alsace",
-     "nom": "Visit Alsace",
-     "url": "https://www.visit.alsace/sit/205092683-exposition-collective-neo-analog/"
-    }
-   ],
-   "pays": "FR",
-   "theme": "Expos & salons",
-   "gratuit": true,
-   "id": "e5ac98b05c"
   },
   {
    "titre": "Exposition temporaire : L’électricité s’affiche",
@@ -2615,33 +2015,10 @@
    "id": "ed4ad9ad16"
   },
   {
-   "titre": "Exposition « Grounds for Reconstruction »",
-   "date_debut": "2026-11-19",
-   "date_fin": "2026-11-29",
-   "horaires": "13:00–18:00",
-   "lieu": "Domushaus (3. Stock)",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "description": null,
-   "titre_original": "Ausstellung <Grounds for Reconstruction>",
-   "sources": [
-    {
-     "source": "swissactivities-bale",
-     "nom": "Swiss Activities (Bâle)",
-     "url": "https://www.swissactivities.com/fr-ch/events/basel/ausstellung-grounds-for-reconstruction/"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Expos & salons",
-   "gratuit": false,
-   "id": "9b821b326c"
-  },
-  {
    "titre": "Exposition – Les mecs",
    "date_debut": "2026-11-19",
    "date_fin": "2026-11-25",
-   "horaires": "13h30 (19, 20, 24 nov.); 09h00 (25 nov.)",
+   "horaires": "13h30 (19, 20 et 24 nov.) ; 09h00 (25 nov.)",
    "lieu": null,
    "commune": "Huningue",
    "categorie": null,
@@ -2663,7 +2040,7 @@
    "titre": "Exposition – Noël en Alsace",
    "date_debut": "2026-11-19",
    "date_fin": "2026-11-25",
-   "horaires": "16h00 (19, 24 nov.); 09h00 (20, 21, 25 nov.)",
+   "horaires": "16h00 (19 et 24 nov.) ; 09h00 (20, 21 et 25 nov.)",
    "lieu": null,
    "commune": "Huningue",
    "categorie": null,
@@ -2680,28 +2057,6 @@
    "theme": "Marchés de Noël & fêtes",
    "gratuit": false,
    "id": "be3922db34"
-  },
-  {
-   "titre": "Expérimental arbre noir",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "19h30",
-   "lieu": "Wechselnde Orte",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "World",
-   "prix": null,
-   "description": null,
-   "pays": "DE",
-   "sources": [
-    {
-     "source": "oazis-freiburg",
-     "nom": "Oazis (Fribourg-en-Brisgau)",
-     "url": null
-    }
-   ],
-   "theme": "Culture & vie locale",
-   "gratuit": false,
-   "id": "08a6636003"
   },
   {
    "titre": "Fais péter les ouates",
@@ -2724,72 +2079,6 @@
    "theme": "Expos & salons",
    "gratuit": true,
    "id": "488610b3a9"
-  },
-  {
-   "titre": "Festival Augenblick",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "Journée",
-   "lieu": "Eurométropole de Strasbourg",
-   "commune": null,
-   "categorie": "Festival",
-   "prix": null,
-   "description": null,
-   "sources": [
-    {
-     "source": "coze",
-     "nom": "Coze",
-     "url": "https://www.coze.fr/agenda/festival-augenblick/"
-    }
-   ],
-   "pays": "FR",
-   "theme": "Concerts & festivals",
-   "gratuit": false,
-   "id": "b8b939a652"
-  },
-  {
-   "titre": "Festival Nuits de la philosophie à Strasbourg ! 6ème édition",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "Journée",
-   "lieu": "Ville de Strasbourg",
-   "commune": null,
-   "categorie": "Festival",
-   "prix": null,
-   "description": null,
-   "sources": [
-    {
-     "source": "coze",
-     "nom": "Coze",
-     "url": "https://www.coze.fr/agenda/festival-nuits-de-la-philosophie-a-strasbourg-6eme-edition/"
-    }
-   ],
-   "pays": "FR",
-   "theme": "Concerts & festivals",
-   "gratuit": false,
-   "id": "0b31cf4fab"
-  },
-  {
-   "titre": "Flamboyantes, Compagnie Retouramont",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "Journée",
-   "lieu": "Campus Central - Esplanade",
-   "commune": "Strasbourg",
-   "categorie": "Danse",
-   "prix": "Gratuit",
-   "description": null,
-   "sources": [
-    {
-     "source": "coze",
-     "nom": "Coze",
-     "url": "https://www.coze.fr/agenda/flamboyantes-compagnie-retouramont/"
-    }
-   ],
-   "pays": "FR",
-   "theme": "Spectacles & cinéma",
-   "gratuit": true,
-   "id": "3c0d886acf"
   },
   {
    "titre": "Fragile Masterpieces",
@@ -2842,145 +2131,6 @@
    "id": "a7e99e5d22"
   },
   {
-   "titre": "Fête des 555 ans de la bibliothèque universitaire de Bâle",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "description": null,
-   "titre_original": "Festanlass - 555 Jahre UB Basel",
-   "sources": [
-    {
-     "source": "myswitzerland-bale",
-     "nom": "MySwitzerland (Bâle)",
-     "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/festanlass-555-jahre-ub-basel/"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Marchés de Noël & fêtes",
-   "gratuit": false,
-   "id": "ce64ddca1f"
-  },
-  {
-   "titre": "Grande collecte solidaire des jouets",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "Journée",
-   "lieu": "Ville de Strasbourg",
-   "commune": null,
-   "categorie": "Autre",
-   "prix": "Gratuit",
-   "description": null,
-   "sources": [
-    {
-     "source": "coze",
-     "nom": "Coze",
-     "url": "https://www.coze.fr/agenda/grande-collecte-solidaire-des-jouets/"
-    }
-   ],
-   "pays": "FR",
-   "theme": "Famille & enfants",
-   "gratuit": true,
-   "id": "61dff50c42"
-  },
-  {
-   "titre": "Graphisme sans frontières",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "10:00-18:00",
-   "lieu": "Kunstmuseum Basel | Hauptbau",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "description": null,
-   "titre_original": "Grafik grenzenlos",
-   "sources": [
-    {
-     "source": "localcities-bale",
-     "nom": "Localcities (Bâle)",
-     "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4828585"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Culture & vie locale",
-   "gratuit": false,
-   "id": "c8dfb51b00"
-  },
-  {
-   "titre": "Greg Black & The Bad Notion",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "20 h",
-   "lieu": "8 Bar",
-   "commune": "Bâle",
-   "categorie": "Concert – funk, rock, blues",
-   "prix": null,
-   "sources": [
-    {
-     "source": "denkmal-bale",
-     "nom": "Denkmal (concerts et soirées à Bâle)",
-     "url": "https://denkmal.org/fr/basel/2026-11-19/e53e083f-12e2-4643-9bd0-251d7086f0a9"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Concerts & festivals",
-   "gratuit": false,
-   "id": "a4d17c5d11"
-  },
-  {
-   "titre": "HOMMAGE",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "14h00",
-   "lieu": "Église Saint-Guillaume",
-   "commune": "Strasbourg",
-   "categorie": "Expo",
-   "prix": "Gratuit",
-   "description": null,
-   "sources": [
-    {
-     "source": "coze",
-     "nom": "Coze",
-     "url": "https://www.coze.fr/agenda/hommage/"
-    },
-    {
-     "source": "visit-alsace",
-     "nom": "Visit Alsace",
-     "url": "https://www.visit.alsace/sit/205092676-hommage/"
-    }
-   ],
-   "pays": "FR",
-   "theme": "Expos & salons",
-   "gratuit": true,
-   "id": "1d43b80e33"
-  },
-  {
-   "titre": "Harry P.Otter et l'examen de magie",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "09:00–23:00",
-   "lieu": "Basel - Startpunkt frei wählbar innerhalb der Stadt",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": "ab CHF 4.90",
-   "description": null,
-   "titre_original": "Harry P.Otter und die Zauberprüfung",
-   "sources": [
-    {
-     "source": "swissactivities-bale",
-     "nom": "Swiss Activities (Bâle)",
-     "url": "https://www.swissactivities.com/fr-ch/events/basel/harry-p-otter-und-die-zauberprufung/"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Culture & vie locale",
-   "gratuit": false,
-   "id": "ca7a566ae2"
-  },
-  {
    "titre": "Histoire du couvent et sculptures de la cathédrale",
    "date_debut": "2026-11-19",
    "date_fin": "2099-12-31",
@@ -3004,294 +2154,6 @@
    "id": "ae23214070"
   },
   {
-   "titre": "Holly Berry (baie de houx)",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "10:00-18:00",
-   "lieu": "Spielzeug Welten Museum Basel",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "description": null,
-   "titre_original": "Holly Berry",
-   "sources": [
-    {
-     "source": "localcities-bale",
-     "nom": "Localcities (Bâle)",
-     "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4764755"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Culture & vie locale",
-   "gratuit": false,
-   "id": "eb0e54baa7"
-  },
-  {
-   "titre": "Humour – Le Fridge Barrière Comedy Club",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "19h00",
-   "lieu": null,
-   "commune": "Blotzheim",
-   "categorie": null,
-   "prix": null,
-   "description": null,
-   "sources": [
-    {
-     "source": "saintlouis-tourisme",
-     "nom": "Saint-Louis Tourisme",
-     "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/humour-le-fridge-barriere-comedy-club/"
-    }
-   ],
-   "pays": "FR",
-   "theme": "Spectacles & cinéma",
-   "gratuit": false,
-   "id": "b8af82875c"
-  },
-  {
-   "titre": "Jan Michiels, piano",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "09h30",
-   "lieu": "Cité de la Musique et de la Danse",
-   "commune": "Strasbourg",
-   "categorie": "Concert",
-   "prix": "Gratuit",
-   "description": null,
-   "sources": [
-    {
-     "source": "coze",
-     "nom": "Coze",
-     "url": "https://www.coze.fr/agenda/jan-michiels-piano/"
-    }
-   ],
-   "pays": "FR",
-   "theme": "Concerts & festivals",
-   "gratuit": true,
-   "id": "8e65d2e033"
-  },
-  {
-   "titre": "Jazznights",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "21 h",
-   "lieu": "Schall und Rauch",
-   "commune": "Bâle",
-   "categorie": "Concert – jazz",
-   "prix": null,
-   "sources": [
-    {
-     "source": "denkmal-bale",
-     "nom": "Denkmal (concerts et soirées à Bâle)",
-     "url": "https://denkmal.org/fr/basel/2026-11-19/efb741d1-4ce5-4317-8641-0af383342e69"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Concerts & festivals",
-   "gratuit": false,
-   "id": "ef48da757b"
-  },
-  {
-   "titre": "Jeux et rétrogaming ados",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Kaysersberg Vignoble",
-   "categorie": "Jeu de rôle, jeux de société",
-   "prix": null,
-   "description": null,
-   "sources": [
-    {
-     "source": "tourisme-colmar",
-     "nom": "Office de tourisme de Colmar",
-     "url": "https://www.tourisme-colmar.com/loisirs-fr/evenements/agenda/F230112084_jeux-et-retrogaming-ados-kaysersberg-vignoble"
-    }
-   ],
-   "pays": "FR",
-   "theme": "Famille & enfants",
-   "gratuit": false,
-   "id": "0c6511df7e"
-  },
-  {
-   "titre": "Kling, vin chaud, klingelingeling – le show de Noël avec Betty",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "18h30",
-   "lieu": "Betty BBQ Meeting Point",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Visite guidée, Stand-up",
-   "prix": "38 €",
-   "description": null,
-   "pays": "DE",
-   "titre_original": "Kling, Glühwein, klingelingeling - die Weihnachts-Show-Tour mit Betty",
-   "sources": [
-    {
-     "source": "oazis-freiburg",
-     "nom": "Oazis (Fribourg-en-Brisgau)",
-     "url": null
-    }
-   ],
-   "theme": "Marchés de Noël & fêtes",
-   "gratuit": false,
-   "id": "261fd13c8f"
-  },
-  {
-   "titre": "LE CHAT SUR LA PHOTO",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "10h00",
-   "lieu": "TJP / Petite scène",
-   "commune": "Strasbourg",
-   "categorie": "Famille",
-   "prix": "6 €",
-   "description": null,
-   "sources": [
-    {
-     "source": "coze",
-     "nom": "Coze",
-     "url": "https://www.coze.fr/agenda/le-chat-sur-la-photo/"
-    }
-   ],
-   "pays": "FR",
-   "theme": "Famille & enfants",
-   "gratuit": false,
-   "id": "6fcd9b5367"
-  },
-  {
-   "titre": "La chouette est rose – histoires en couleurs",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "10:00-17:00",
-   "lieu": "Museum der Kulturen Basel",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "description": null,
-   "titre_original": "Die Eule ist pink – farbige Geschichten",
-   "sources": [
-    {
-     "source": "localcities-bale",
-     "nom": "Localcities (Bâle)",
-     "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4764657"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Visites & patrimoine",
-   "gratuit": false,
-   "id": "4f9dd6748e"
-  },
-  {
-   "titre": "Lanterne Magique",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "14h00",
-   "lieu": "Riverhin",
-   "commune": "Village-Neuf",
-   "categorie": "Famille",
-   "prix": "20 €",
-   "description": null,
-   "sources": [
-    {
-     "source": "coze",
-     "nom": "Coze",
-     "url": "https://www.coze.fr/agenda/lanterne-magique/"
-    }
-   ],
-   "pays": "FR",
-   "theme": "Famille & enfants",
-   "gratuit": false,
-   "id": "9b0541beaf"
-  },
-  {
-   "titre": "Le lac souterrain, de la Cathédrale aux Bains - Découvrez le lac souterrain en images !",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Strasbourg",
-   "categorie": "Culture",
-   "prix": null,
-   "description": "Découvrez le lac souterrain en images !",
-   "sources": [
-    {
-     "source": "visit-alsace",
-     "nom": "Visit Alsace",
-     "url": "https://www.visit.alsace/sit/205093052-le-lac-souterrain-de-la-cathedrale-aux-bains-decouvrez-le-lac-souterrain-en-images/"
-    }
-   ],
-   "pays": "FR",
-   "theme": "Culture & vie locale",
-   "gratuit": false,
-   "id": "8371e11f38"
-  },
-  {
-   "titre": "Lemongrab",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "20 h",
-   "lieu": "Hirscheneck",
-   "commune": "Bâle",
-   "categorie": "Concert – punk",
-   "prix": null,
-   "sources": [
-    {
-     "source": "denkmal-bale",
-     "nom": "Denkmal (concerts et soirées à Bâle)",
-     "url": "https://denkmal.org/fr/basel/2026-11-19/d9d62e03-faed-416f-b083-d56258a7aebc"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Concerts & festivals",
-   "gratuit": false,
-   "id": "be0de95992"
-  },
-  {
-   "titre": "Les Madrigalistes de Bâle – Soirée « Plaisirs d'automne »",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "description": null,
-   "sources": [
-    {
-     "source": "myswitzerland-bale",
-     "nom": "MySwitzerland (Bâle)",
-     "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/les-madrigalistes-de-bale-soiree-plaisirs-dautomne/"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Culture & vie locale",
-   "gratuit": false,
-   "id": "74409e6834"
-  },
-  {
-   "titre": "Les femmes dans la Bible",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "09:00–10:00",
-   "lieu": "KGH",
-   "commune": "Münchenstein",
-   "categorie": null,
-   "prix": null,
-   "description": null,
-   "titre_original": "Frauen in der Bibel",
-   "sources": [
-    {
-     "source": "swissactivities-bale",
-     "nom": "Swiss Activities (Bâle)",
-     "url": "https://www.swissactivities.com/fr-ch/events/munchenstein/frauen-in-der-bibel/"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Culture & vie locale",
-   "gratuit": false,
-   "id": "44118fbeb1"
-  },
-  {
    "titre": "Louise Lawler",
    "date_debut": "2026-11-19",
    "date_fin": "2026-12-31",
@@ -3312,50 +2174,6 @@
    "theme": "Culture & vie locale",
    "gratuit": false,
    "id": "529b111363"
-  },
-  {
-   "titre": "Löwenzahnhonig (Miel de pissenlit)",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "20 h",
-   "lieu": "Kuppel",
-   "commune": "Bâle",
-   "categorie": "Concert – pop",
-   "prix": null,
-   "titre_original": "Löwenzahnhonig",
-   "sources": [
-    {
-     "source": "denkmal-bale",
-     "nom": "Denkmal (concerts et soirées à Bâle)",
-     "url": "https://denkmal.org/fr/basel/2026-11-19/01869495-0bb0-4aa3-b028-4ed5f88e4101"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Concerts & festivals",
-   "gratuit": false,
-   "id": "469e05f9c1"
-  },
-  {
-   "titre": "Madrigalistes de Bâle : FireAbend",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "18 h",
-   "lieu": "Kulturkirche Paulus",
-   "commune": "Bâle",
-   "categorie": "Concert – classique",
-   "prix": null,
-   "titre_original": "Basler Madrigalisten: FireAbend",
-   "sources": [
-    {
-     "source": "denkmal-bale",
-     "nom": "Denkmal (concerts et soirées à Bâle)",
-     "url": "https://denkmal.org/fr/basel/2026-11-19/e6064415-1d06-4670-9767-5a2dd2d60bfa"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Concerts & festivals",
-   "gratuit": false,
-   "id": "82380d9b85"
   },
   {
    "titre": "Mammouth et tigre à dents de sabre – l'évolution de l'homme",
@@ -3381,88 +2199,12 @@
    "id": "25efd4360f"
   },
   {
-   "titre": "Marc Amacher",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "21 h",
-   "lieu": "Atlantis",
-   "commune": "Bâle",
-   "categorie": "Concert – blues",
-   "prix": null,
-   "sources": [
-    {
-     "source": "denkmal-bale",
-     "nom": "Denkmal (concerts et soirées à Bâle)",
-     "url": "https://denkmal.org/fr/basel/2026-11-19/51426322-2009-437e-af78-a6922bf40adf"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Concerts & festivals",
-   "gratuit": false,
-   "id": "00e3bdfb10"
-  },
-  {
-   "titre": "Marché",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "08h00",
-   "lieu": null,
-   "commune": "Hégenheim",
-   "categorie": null,
-   "prix": null,
-   "description": null,
-   "sources": [
-    {
-     "source": "saintlouis-tourisme",
-     "nom": "Saint-Louis Tourisme",
-     "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/marche-6/"
-    }
-   ],
-   "pays": "FR",
-   "theme": "Brocantes & marchés",
-   "gratuit": false,
-   "id": "2b7904d177"
-  },
-  {
-   "titre": "Marché de Noël de Fribourg",
+   "titre": "Marché de Noël du monastère",
    "date_debut": "2026-11-19",
    "date_fin": "2026-12-23",
-   "horaires": "14h",
-   "lieu": "Rathausplatz",
+   "horaires": "14h00",
+   "lieu": "Ville de Rosheim",
    "commune": "Fribourg-en-Brisgau",
-   "categorie": "Marché de Noël",
-   "prix": "16–29,90 €",
-   "description": null,
-   "pays": "DE",
-   "titre_original": "Freiburger Weihnachtsmarkt",
-   "sources": [
-    {
-     "source": "foretnoire-magique",
-     "nom": "Forêt-Noire magique",
-     "url": "https://weihnachtsmarkt.freiburg.de/fr/"
-    },
-    {
-     "source": "oazis-freiburg",
-     "nom": "Oazis (Fribourg-en-Brisgau)",
-     "url": null
-    },
-    {
-     "source": "visit-freiburg",
-     "nom": "Visit Freiburg",
-     "url": "https://visit.freiburg.de/fr/weihnachtsmarkt-freiburg"
-    }
-   ],
-   "theme": "Marchés de Noël & fêtes",
-   "gratuit": false,
-   "id": "cb7af0cd06"
-  },
-  {
-   "titre": "Marché de Noël du Musée de l'Impression sur Etoffes",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "13h00",
-   "lieu": "Musée de l'Impression sur Etoffes",
-   "commune": "Mulhouse",
    "categorie": "Marché de Noël",
    "prix": "Gratuit",
    "description": null,
@@ -3470,36 +2212,23 @@
     {
      "source": "coze",
      "nom": "Coze",
-     "url": "https://www.coze.fr/agenda/marche-de-noel-du-musee-de-limpression-sur-etoffes/"
+     "url": "https://www.coze.fr/agenda/marche-de-noel-du-monastere/"
+    },
+    {
+     "source": "foretnoire-magique",
+     "nom": "Forêt-Noire magique",
+     "url": "https://weihnachtsmarkt.freiburg.de/fr/"
+    },
+    {
+     "source": "visit-freiburg",
+     "nom": "Visit Freiburg",
+     "url": "https://visit.freiburg.de/fr/weihnachtsmarkt-freiburg"
     }
    ],
    "pays": "FR",
    "theme": "Marchés de Noël & fêtes",
    "gratuit": true,
-   "id": "401fe74920"
-  },
-  {
-   "titre": "Matilde Keizer – Lasagnes au lit",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "20h",
-   "lieu": "Burghof",
-   "commune": "Lörrach",
-   "categorie": "Stand-up",
-   "prix": "25 €",
-   "description": null,
-   "pays": "DE",
-   "titre_original": "Matilde Keizer – Lasagne im Bett",
-   "sources": [
-    {
-     "source": "oazis-lorrach",
-     "nom": "Oazis (Lörrach)",
-     "url": "https://oazis.app/evenements/matilde-keizer-lorrach"
-    }
-   ],
-   "theme": "Culture & vie locale",
-   "gratuit": false,
-   "id": "8c326d8f85"
+   "id": "5c19c71660"
   },
   {
    "titre": "NOUVELLE EXPOSITION SUR L’HISTOIRE DE L’IRLANDE",
@@ -3524,94 +2253,6 @@
    "id": "7ab02ae5f8"
   },
   {
-   "titre": "Nachtstrom 115",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "21 h",
-   "lieu": "Gare du Nord",
-   "commune": "Bâle",
-   "categorie": "Concert – musique contemporaine",
-   "prix": null,
-   "sources": [
-    {
-     "source": "denkmal-bale",
-     "nom": "Denkmal (concerts et soirées à Bâle)",
-     "url": "https://denkmal.org/fr/basel/2026-11-19/98f2b333-2129-4d45-a25b-8c04aada0b32"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Concerts & festivals",
-   "gratuit": false,
-   "id": "94b513e013"
-  },
-  {
-   "titre": "Nature morte à la tête de veau de Carlo Magini",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "12h15",
-   "lieu": "Palais Rohan",
-   "commune": "Strasbourg",
-   "categorie": "Autre",
-   "prix": "2 €",
-   "description": null,
-   "sources": [
-    {
-     "source": "coze",
-     "nom": "Coze",
-     "url": "https://www.coze.fr/agenda/nature-morte-a-la-tete-de-veau-de-carlo-magini/"
-    }
-   ],
-   "pays": "FR",
-   "theme": "Sport & nature",
-   "gratuit": false,
-   "id": "fff247f990"
-  },
-  {
-   "titre": "Nouvelles constellations",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "10:00-18:00",
-   "lieu": "Kunstmuseum Basel",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "description": null,
-   "titre_original": "Neue Konstellationen",
-   "sources": [
-    {
-     "source": "localcities-bale",
-     "nom": "Localcities (Bâle)",
-     "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4546801"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Culture & vie locale",
-   "gratuit": false,
-   "id": "f8e2520c54"
-  },
-  {
-   "titre": "Open Mic at L'Unique Basel | House of Rock",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": "L'Unique Basel | House of Rock",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "description": "Tout le monde doit bien commencer quelque part !",
-   "sources": [
-    {
-     "source": "myswitzerland-bale",
-     "nom": "MySwitzerland (Bâle)",
-     "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/open-mic-at-lunique-basel-house-of-rock/"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Culture & vie locale",
-   "gratuit": false,
-   "id": "a39afb6542"
-  },
-  {
    "titre": "Patti Basler & Philippe Kuhn: «Postmodern Talking»",
    "date_debut": "2026-11-19",
    "date_fin": "2026-11-21",
@@ -3620,7 +2261,7 @@
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
-   "description": "Wortgewaltiges und musikalisches Kabarett mit Haken und Ösen.",
+   "description": null,
    "sources": [
     {
      "source": "myswitzerland-bale",
@@ -3634,742 +2275,10 @@
    "id": "34989ac237"
   },
   {
-   "titre": "Peter Piek & Chris Heron Alois Live",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "21h10",
-   "lieu": "Altes Wasserwerk gGmbH",
-   "commune": "Lörrach",
-   "categorie": "Folk / Acoustique, Indie",
-   "prix": "–12 €",
-   "description": null,
-   "pays": "DE",
-   "sources": [
-    {
-     "source": "oazis-lorrach",
-     "nom": "Oazis (Lörrach)",
-     "url": "https://oazis.app/evenements/peter-piek-live"
-    }
-   ],
-   "theme": "Culture & vie locale",
-   "gratuit": false,
-   "id": "faa6e7a62c"
-  },
-  {
-   "titre": "Pourquoi tu cries ?",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "10h30",
-   "lieu": "Espace Django",
-   "commune": "Strasbourg",
-   "categorie": "Famille",
-   "prix": "Gratuit",
-   "description": null,
-   "sources": [
-    {
-     "source": "coze",
-     "nom": "Coze",
-     "url": "https://www.coze.fr/agenda/pourquoi-tu-cries/"
-    },
-    {
-     "source": "visit-alsace",
-     "nom": "Visit Alsace",
-     "url": "https://www.visit.alsace/sit/205092902-pourquoi-tu-cries/"
-    }
-   ],
-   "pays": "FR",
-   "theme": "Famille & enfants",
-   "gratuit": true,
-   "id": "1384187b92"
-  },
-  {
-   "titre": "Red Integrate & Orson Abram",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "23 h",
-   "lieu": "Renée",
-   "commune": "Bâle",
-   "categorie": "Concert – post punk, electronic",
-   "prix": null,
-   "sources": [
-    {
-     "source": "denkmal-bale",
-     "nom": "Denkmal (concerts et soirées à Bâle)",
-     "url": "https://denkmal.org/fr/basel/2026-11-19/280f84c0-cb31-4834-96f2-27ebc92a7432"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Concerts & festivals",
-   "gratuit": false,
-   "id": "0282e50ccb"
-  },
-  {
-   "titre": "Renato D'Aiello & Christian Gutfleisch: Keeper of the flame",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "20 h",
-   "lieu": "Kulturraum Doble A",
-   "commune": "Bâle",
-   "categorie": "Concert – jazz",
-   "prix": null,
-   "sources": [
-    {
-     "source": "denkmal-bale",
-     "nom": "Denkmal (concerts et soirées à Bâle)",
-     "url": "https://denkmal.org/fr/basel/2026-11-19/35e59c2d-3aa8-43b1-9f23-b2bff044ff89"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Concerts & festivals",
-   "gratuit": false,
-   "id": "a2af8f2b30"
-  },
-  {
-   "titre": "Rencontre avec LOUISE CHENNEVIÈRE",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Strasbourg",
-   "categorie": "Animation littéraire",
-   "prix": null,
-   "description": null,
-   "sources": [
-    {
-     "source": "visit-alsace",
-     "nom": "Visit Alsace",
-     "url": "https://www.visit.alsace/sit/205093110-rencontre-avec-louise-chenneviere/"
-    }
-   ],
-   "pays": "FR",
-   "theme": "Famille & enfants",
-   "gratuit": false,
-   "id": "a94cf69848"
-  },
-  {
-   "titre": "Rencontres APOGÉES",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "09h00",
-   "lieu": "Stade de la Meinau",
-   "commune": "Strasbourg",
-   "categorie": "Rencontre",
-   "prix": "Gratuit",
-   "description": null,
-   "sources": [
-    {
-     "source": "coze",
-     "nom": "Coze",
-     "url": "https://www.coze.fr/agenda/rencontres-apogees/"
-    }
-   ],
-   "pays": "FR",
-   "theme": "Visites & patrimoine",
-   "gratuit": true,
-   "id": "0545d4b9ba"
-  },
-  {
-   "titre": "Riedel & Meister – Gute Momente",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "20:00",
-   "lieu": "Vorderhaus",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Chanson",
-   "prix": "26,90 €",
-   "description": null,
-   "sources": [
-    {
-     "source": "oazis-freiburg",
-     "nom": "Oazis (Fribourg-en-Brisgau)",
-     "url": "https://oazis.app/sorties/freiburg-im-breisgau"
-    }
-   ],
-   "pays": "DE",
-   "theme": "Culture & vie locale",
-   "gratuit": false,
-   "id": "496a85b79f"
-  },
-  {
-   "titre": "Riedel & Meister – bons moments",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "20h",
-   "lieu": "Vorderhaus",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Chanson, Concert",
-   "prix": "26,90 €",
-   "description": null,
-   "pays": "DE",
-   "titre_original": "Riedel & Meister - Gute Momente",
-   "sources": [
-    {
-     "source": "oazis-freiburg",
-     "nom": "Oazis (Fribourg-en-Brisgau)",
-     "url": null
-    }
-   ],
-   "theme": "Concerts & festivals",
-   "gratuit": false,
-   "id": "6c01de96bf"
-  },
-  {
-   "titre": "Roque Le Char",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "18 h - 0 h",
-   "lieu": "Zazaa Social Club",
-   "commune": "Bâle",
-   "categorie": "Concert – 80s, disco",
-   "prix": null,
-   "sources": [
-    {
-     "source": "denkmal-bale",
-     "nom": "Denkmal (concerts et soirées à Bâle)",
-     "url": "https://denkmal.org/fr/basel/2026-11-19/48ebb77a-0e22-4ecb-9c3b-236d0c3e53b5"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Concerts & festivals",
-   "gratuit": false,
-   "id": "ef9b16cfb9"
-  },
-  {
-   "titre": "Roy Lichtenstein",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "10:00-18:00",
-   "lieu": "Kunstmuseum Basel",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "description": null,
-   "sources": [
-    {
-     "source": "localcities-bale",
-     "nom": "Localcities (Bâle)",
-     "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4594869"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Culture & vie locale",
-   "gratuit": false,
-   "id": "be7f4c1b1c"
-  },
-  {
-   "titre": "Rémi Guédon, conférence par Guillaume Berthon",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": "Médiathèque protestante du Stift",
-   "commune": "Strasbourg",
-   "categorie": "Animation littéraire",
-   "prix": null,
-   "description": null,
-   "sources": [
-    {
-     "source": "visit-alsace",
-     "nom": "Visit Alsace",
-     "url": "https://www.visit.alsace/sit/205093087-remi-guedon-conference-par-guillaume-berthon/"
-    }
-   ],
-   "pays": "FR",
-   "theme": "Famille & enfants",
-   "gratuit": false,
-   "id": "85bcbd2491"
-  },
-  {
-   "titre": "Schauraum B: Small in Japan.",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "description": null,
-   "sources": [
-    {
-     "source": "myswitzerland-bale",
-     "nom": "MySwitzerland (Bâle)",
-     "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/schauraum-b-small-in-japan/"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Culture & vie locale",
-   "gratuit": false,
-   "id": "387e0b0cbc"
-  },
-  {
-   "titre": "Schicksal (Destin)",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "20 h",
-   "lieu": "Stadtcasino",
-   "commune": "Bâle",
-   "categorie": "Concert – classique",
-   "prix": null,
-   "titre_original": "Schicksal",
-   "sources": [
-    {
-     "source": "denkmal-bale",
-     "nom": "Denkmal (concerts et soirées à Bâle)",
-     "url": "https://denkmal.org/fr/basel/2026-11-19/2d9881dc-caff-4872-89b5-55f59c4a903d"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Concerts & festivals",
-   "gratuit": false,
-   "id": "f4b0a01bb6"
-  },
-  {
-   "titre": "Sdorvian fotografik book",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Schiltigheim",
-   "categorie": "Animation littéraire",
-   "prix": null,
-   "description": null,
-   "sources": [
-    {
-     "source": "visit-alsace",
-     "nom": "Visit Alsace",
-     "url": "https://www.visit.alsace/sit/205093468-sdorvian-fotografik-book/"
-    }
-   ],
-   "pays": "FR",
-   "theme": "Famille & enfants",
-   "gratuit": false,
-   "id": "6b58dbf195"
-  },
-  {
-   "titre": "Slam de poésie ouvert",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "19 h",
-   "lieu": "Barakuba",
-   "commune": "Bâle",
-   "categorie": "Concert – poetry slam",
-   "prix": null,
-   "titre_original": "Openlist Poetry Slam",
-   "sources": [
-    {
-     "source": "denkmal-bale",
-     "nom": "Denkmal (concerts et soirées à Bâle)",
-     "url": "https://denkmal.org/fr/basel/2026-11-19/d9222006-3677-4e83-951c-f7dab6facfda"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Concerts & festivals",
-   "gratuit": false,
-   "id": "5e1b8d8fc8"
-  },
-  {
-   "titre": "Soirée Beaujolais",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Logelheim",
-   "categorie": "Dégustation de produits du terroir",
-   "prix": null,
-   "description": null,
-   "sources": [
-    {
-     "source": "tourisme-colmar",
-     "nom": "Office de tourisme de Colmar",
-     "url": "https://www.tourisme-colmar.com/loisirs-fr/evenements/agenda/F246005984_soiree-beaujolais-logelheim"
-    }
-   ],
-   "pays": "FR",
-   "theme": "Vin & gastronomie",
-   "gratuit": false,
-   "id": "76661b4a17"
-  },
-  {
-   "titre": "Soirée Beaujolais nouveau",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Hattstatt",
-   "categorie": "Dégustation de produits du terroir",
-   "prix": null,
-   "description": null,
-   "sources": [
-    {
-     "source": "tourisme-colmar",
-     "nom": "Office de tourisme de Colmar",
-     "url": "https://www.tourisme-colmar.com/loisirs-fr/evenements/agenda/F253004748_soiree-beaujolais-nouveau-hattstatt"
-    }
-   ],
-   "pays": "FR",
-   "theme": "Vin & gastronomie",
-   "gratuit": false,
-   "id": "149615e4ae"
-  },
-  {
-   "titre": "Soirée Loup Garou au Malleus",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": "Malleus Maleficarum",
-   "commune": "Strasbourg",
-   "categorie": "Animations",
-   "prix": null,
-   "description": null,
-   "sources": [
-    {
-     "source": "visit-alsace",
-     "nom": "Visit Alsace",
-     "url": "https://www.visit.alsace/sit/205093763-soiree-loup-garou-au-malleus/"
-    }
-   ],
-   "pays": "FR",
-   "theme": "Famille & enfants",
-   "gratuit": false,
-   "id": "f6d05c375f"
-  },
-  {
-   "titre": "Soirée jeux en famille",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Munster",
-   "categorie": "Jeu de rôle, jeux de société",
-   "prix": null,
-   "description": null,
-   "sources": [
-    {
-     "source": "tourisme-colmar",
-     "nom": "Office de tourisme de Colmar",
-     "url": "https://www.tourisme-colmar.com/loisirs-fr/evenements/agenda/F231010469_soiree-jeux-en-famille-munster"
-    }
-   ],
-   "pays": "FR",
-   "theme": "Famille & enfants",
-   "gratuit": false,
-   "id": "477945d6bd"
-  },
-  {
-   "titre": "Soirée karaoké",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "19h",
-   "lieu": "Frederics Cocktail Club",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Karaoké",
-   "prix": "Gratuit",
-   "description": null,
-   "pays": "DE",
-   "titre_original": "Karaoke Night",
-   "sources": [
-    {
-     "source": "oazis-freiburg",
-     "nom": "Oazis (Fribourg-en-Brisgau)",
-     "url": null
-    }
-   ],
-   "theme": "Culture & vie locale",
-   "gratuit": true,
-   "id": "d706603ce6"
-  },
-  {
-   "titre": "Soirée truffe au Chez Jeannot Bâle",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": "Chez Jeannot",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "description": "Trüffelabend im Chez Jeannot",
-   "titre_original": "TRÜFFELABEND IM CHEZ JEANNOT BASEL",
-   "sources": [
-    {
-     "source": "myswitzerland-bale",
-     "nom": "MySwitzerland (Bâle)",
-     "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/trueffelabend-im-chez-jeannot-basel/"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Culture & vie locale",
-   "gratuit": false,
-   "id": "193911e855"
-  },
-  {
-   "titre": "Soupe Étoilée 2026 – la 14e édition",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "10h30",
-   "lieu": "Place Kléber",
-   "commune": "Strasbourg",
-   "categorie": "Marché de Noël",
-   "prix": "Gratuit",
-   "description": null,
-   "sources": [
-    {
-     "source": "coze",
-     "nom": "Coze",
-     "url": "https://www.coze.fr/agenda/soupe-etoilee-2026-la-14e-edition/"
-    }
-   ],
-   "pays": "FR",
-   "theme": "Marchés de Noël & fêtes",
-   "gratuit": true,
-   "id": "1e2ae5403a"
-  },
-  {
-   "titre": "Studentenfutter XXL",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "23 h",
-   "lieu": "Viertel Klub",
-   "commune": "Bâle",
-   "categorie": "Concert – open format",
-   "prix": null,
-   "sources": [
-    {
-     "source": "denkmal-bale",
-     "nom": "Denkmal (concerts et soirées à Bâle)",
-     "url": "https://denkmal.org/fr/basel/2026-11-19/d70fad8a-2fd0-41ae-8e24-c9acb1238c40"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Concerts & festivals",
-   "gratuit": false,
-   "id": "45aabafd6f"
-  },
-  {
-   "titre": "Sven Ivanic - Luegemer sponti",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "description": "Authentisch. Musikalisch. Spontan.",
-   "sources": [
-    {
-     "source": "myswitzerland-bale",
-     "nom": "MySwitzerland (Bâle)",
-     "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/sven-ivanic-luegemer-sponti/"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Culture & vie locale",
-   "gratuit": false,
-   "id": "3531b995c6"
-  },
-  {
-   "titre": "Thé dansant",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "14h30",
-   "lieu": "Espace Malraux",
-   "commune": "Geispolsheim",
-   "categorie": "Concert",
-   "prix": "8 €",
-   "description": null,
-   "sources": [
-    {
-     "source": "coze",
-     "nom": "Coze",
-     "url": "https://www.coze.fr/agenda/the-dansant/"
-    }
-   ],
-   "pays": "FR",
-   "theme": "Concerts & festivals",
-   "gratuit": false,
-   "id": "72ed62ea30"
-  },
-  {
-   "titre": "Théâtre au petit-déjeuner « La ville »",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "06h36",
-   "lieu": "Wallgraben Theater",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Théâtre",
-   "prix": null,
-   "description": null,
-   "pays": "DE",
-   "titre_original": "Theater-Früh-Stück \"Die Stadt\"",
-   "sources": [
-    {
-     "source": "oazis-freiburg",
-     "nom": "Oazis (Fribourg-en-Brisgau)",
-     "url": null
-    }
-   ],
-   "theme": "Spectacles & cinéma",
-   "gratuit": false,
-   "id": "9646581893"
-  },
-  {
-   "titre": "Théâtre au petit-déjeuner – café, croissant et culture",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "06h36",
-   "lieu": "Wallgraben Theater",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Théâtre, Littérature",
-   "prix": "16 €",
-   "description": null,
-   "pays": "DE",
-   "titre_original": "Theater-Früh-Stück - Kaffee, Croissant & Kultur zum Start in den Tag",
-   "sources": [
-    {
-     "source": "oazis-freiburg",
-     "nom": "Oazis (Fribourg-en-Brisgau)",
-     "url": null
-    }
-   ],
-   "theme": "Spectacles & cinéma",
-   "gratuit": false,
-   "id": "5a4080d011"
-  },
-  {
-   "titre": "Tie-dye : plié, cousu, teint",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "10:00-17:00",
-   "lieu": "Museum der Kulturen Basel",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "description": null,
-   "titre_original": "Tie-dye: gefaltet, genäht, gefärbt",
-   "sources": [
-    {
-     "source": "localcities-bale",
-     "nom": "Localcities (Bâle)",
-     "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4839733"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Culture & vie locale",
-   "gratuit": false,
-   "id": "28a9261d18"
-  },
-  {
-   "titre": "Une photographe révélée",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "14h00",
-   "lieu": "La Chambre",
-   "commune": "Strasbourg",
-   "categorie": "Expo",
-   "prix": "Gratuit",
-   "description": null,
-   "sources": [
-    {
-     "source": "coze",
-     "nom": "Coze",
-     "url": "https://www.coze.fr/agenda/une-photographe-revelee/"
-    }
-   ],
-   "pays": "FR",
-   "theme": "Expos & salons",
-   "gratuit": true,
-   "id": "733fbb4114"
-  },
-  {
-   "titre": "Uptown DJ-Lab",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "18 h - 22 h",
-   "lieu": "Kaschemme",
-   "commune": "Bâle",
-   "categorie": "Concert – electronic",
-   "prix": null,
-   "sources": [
-    {
-     "source": "denkmal-bale",
-     "nom": "Denkmal (concerts et soirées à Bâle)",
-     "url": "https://denkmal.org/fr/basel/2026-11-19/cf9644f5-ee3b-4fd8-b00c-a37b2bc4c620"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Concerts & festivals",
-   "gratuit": false,
-   "id": "20be4cb9a9"
-  },
-  {
-   "titre": "Volta Pong",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "09:00-00:00",
-   "lieu": "Volta Pong",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "description": null,
-   "sources": [
-    {
-     "source": "localcities-bale",
-     "nom": "Localcities (Bâle)",
-     "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4726195"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Culture & vie locale",
-   "gratuit": false,
-   "id": "23c19ac265"
-  },
-  {
-   "titre": "mega.musik",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "10:00-11:00",
-   "lieu": "Stadtcasino Basel",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "description": null,
-   "sources": [
-    {
-     "source": "localcities-bale",
-     "nom": "Localcities (Bâle)",
-     "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4827139"
-    }
-   ],
-   "pays": "CH",
-   "theme": "Culture & vie locale",
-   "gratuit": false,
-   "id": "79281a6eee"
-  },
-  {
-   "titre": "mo’gro - bouger et danser",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "20:00",
-   "lieu": "klag-Bühne",
-   "commune": "Gaggenau",
-   "categorie": "Allemand, Bade-Wurtemberg, Région de Baden-Baden",
-   "prix": null,
-   "description": null,
-   "pays": "DE",
-   "sources": [
-    {
-     "source": "fred-info",
-     "nom": "FRED (transfrontalier)",
-     "url": "https://fred.info/fr/events/mogro-bouger-et-danser-2/"
-    }
-   ],
-   "theme": "Spectacles & cinéma",
-   "gratuit": false,
-   "id": "b68fd56a7d"
-  },
-  {
    "titre": "20/21 novembre : Journées transfrontalières de l'archéologie",
    "date_debut": "2026-11-20",
    "date_fin": "2026-11-21",
-   "horaires": "20. Nov. Fr. 9:30 - Sa. 18:00 Uhr; 21. Nov. 8:30 - 16:00 Uhr",
+   "horaires": "Fr. 9:30 - Sa. 18:00 Uhr (20.11.) ; 8:30 - 16:00 Uhr (21.11.)",
    "lieu": "Colmar",
    "commune": "Colmar",
    "categorie": null,
@@ -4387,6 +2296,28 @@
    "theme": "Culture & vie locale",
    "gratuit": false,
    "id": "6c97401d62"
+  },
+  {
+   "titre": "A la découverte du Grand Cru Sonnenglanz - Visite et dégustation au cœur du vignoble",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": null,
+   "commune": "Beblenheim",
+   "categorie": null,
+   "prix": null,
+   "description": null,
+   "sources": [
+    {
+     "source": "visit-alsace",
+     "nom": "Visit Alsace",
+     "url": "https://www.visit.alsace/sit/229008331-a-la-decouverte-du-grand-cru-sonnenglanz-visite-et-degustation-au-coeur-du-vignoble/"
+    }
+   ],
+   "pays": "FR",
+   "theme": "Vin & gastronomie",
+   "gratuit": false,
+   "id": "51033ab64a"
   },
   {
    "titre": "Angel Bat Dawid",
@@ -4433,6 +2364,51 @@
    "id": "c347ef3deb"
   },
   {
+   "titre": "Art et son",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": "19h",
+   "lieu": "Schopf2",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "World, Concert",
+   "prix": "Gratuit",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Kunst und Klang",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Concerts & festivals",
+   "gratuit": true,
+   "id": "082fba5b5f"
+  },
+  {
+   "titre": "Atelier gratuit de fabrication de cerfs-volants pour parents et enfants – globegarden Steinbühl",
+   "date_debut": "2026-11-20",
+   "date_fin": "2026-11-27",
+   "horaires": "14:00–15:30",
+   "lieu": "Globegarden Steinbühlallee",
+   "commune": "Allschwil",
+   "categorie": null,
+   "prix": "Entrée gratuite",
+   "description": null,
+   "sources": [
+    {
+     "source": "swissactivities-bale",
+     "nom": "Swiss Activities (Bâle)",
+     "url": "https://www.swissactivities.com/fr-ch/events/allschwil/kostenlose-drachenwerkstatt-fur-eltern-kinder-globegarden/"
+    }
+   ],
+   "pays": "CH",
+   "theme": "Famille & enfants",
+   "gratuit": false,
+   "id": "c0c7a0e9a3"
+  },
+  {
    "titre": "Ateliers d'artistes ouverts le vendredi 20 novembre",
    "date_debut": "2026-11-20",
    "date_fin": null,
@@ -4477,6 +2453,28 @@
    "id": "e48aca5ddb"
   },
   {
+   "titre": "BO, la boutique des métiers d’art",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": "12h00",
+   "lieu": "L'Aubette 1928",
+   "commune": "Strasbourg",
+   "categorie": "Marché de Noël",
+   "prix": "Gratuit",
+   "description": null,
+   "sources": [
+    {
+     "source": "coze",
+     "nom": "Coze",
+     "url": "https://www.coze.fr/agenda/bo-la-boutique-des-metiers-dart/"
+    }
+   ],
+   "pays": "FR",
+   "theme": "Marchés de Noël & fêtes",
+   "gratuit": true,
+   "id": "a22b90ea6b"
+  },
+  {
    "titre": "Baas Soli Party",
    "date_debut": "2026-11-20",
    "date_fin": null,
@@ -4519,6 +2517,51 @@
    "id": "d1434c1cff"
   },
   {
+   "titre": "Balade à poney ou à cheval",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": null,
+   "commune": "Haut-Soultzbach",
+   "categorie": "Sortie nature",
+   "prix": null,
+   "description": null,
+   "sources": [
+    {
+     "source": "visit-alsace",
+     "nom": "Visit Alsace",
+     "url": "https://www.visit.alsace/sit/241009361-balade-a-poney-ou-a-cheval/"
+    }
+   ],
+   "pays": "FR",
+   "theme": "Sport & nature",
+   "gratuit": false,
+   "id": "bc66d3af64"
+  },
+  {
+   "titre": "Bernd Lafrenz | La Nuit des rois – Shakespeare en solo",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": "19h30",
+   "lieu": "E-Werk Freiburg",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Théâtre, Art & Culture",
+   "prix": "10 €",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Bernd Lafrenz | Was ihr wollt - Shakespeare Solo",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Spectacles & cinéma",
+   "gratuit": false,
+   "id": "e989774a96"
+  },
+  {
    "titre": "Bernd Lafrenz | Was ihr wollt – Shakespeare Solo",
    "date_debut": "2026-11-20",
    "date_fin": null,
@@ -4541,6 +2584,28 @@
    "id": "6dee00ef39"
   },
   {
+   "titre": "Casse-Noisette",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": "Zénith de Strasbourg",
+   "commune": "Eckbolsheim",
+   "categorie": "Bal/danse",
+   "prix": null,
+   "description": null,
+   "sources": [
+    {
+     "source": "visit-alsace",
+     "nom": "Visit Alsace",
+     "url": "https://www.visit.alsace/sit/205090705-casse-noisette/"
+    }
+   ],
+   "pays": "FR",
+   "theme": "Spectacles & cinéma",
+   "gratuit": false,
+   "id": "017f95f2da"
+  },
+  {
    "titre": "Cesar Rodriguez présente FRAGMENTOS",
    "date_debut": "2026-11-20",
    "date_fin": "2026-11-22",
@@ -4549,7 +2614,7 @@
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
-   "description": null,
+   "description": "Cesar Rodriguez presents \"Fragmentos\": Art from the Streets of Basel.",
    "titre_original": "Cesar Rodriguez präsentiert FRAGMENTOS",
    "sources": [
     {
@@ -4727,7 +2792,7 @@
    "commune": "Lörrach",
    "categorie": "Dreiländerausstellung, Sonderausstellung, Vortrag/Diskussion",
    "prix": "Gratuit",
-   "description": "Während des Zweiten Weltkriegs wurden zahlreiche badische Bauernfamilien als sogenannte ...",
+   "description": null,
    "pays": "DE",
    "titre_original": "Vortrag: Wie Erinnerung versöhnen kann – Die Geschichte der badischen „Siedler“ im Elsass 1940–45 und ihre Aufarbeitung",
    "sources": [
@@ -4745,6 +2810,28 @@
    "theme": "Visites & patrimoine",
    "gratuit": true,
    "id": "5facd0cb1c"
+  },
+  {
+   "titre": "Copy Poste 4",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": "14h00",
+   "lieu": "La Chaufferie",
+   "commune": "Strasbourg",
+   "categorie": "Expo",
+   "prix": null,
+   "description": null,
+   "sources": [
+    {
+     "source": "coze",
+     "nom": "Coze",
+     "url": "https://www.coze.fr/agenda/copy-poste-4/"
+    }
+   ],
+   "pays": "FR",
+   "theme": "Expos & salons",
+   "gratuit": false,
+   "id": "74b9e6dc21"
   },
   {
    "titre": "Dans la cuisine de Claire : confectionnez vos Bredla",
@@ -4811,17 +2898,39 @@
    "id": "4c735b410e"
   },
   {
-   "titre": "Dîner-polar FREISTIL « Meurtre à la réunion de classe »",
+   "titre": "Dégustation des 7 cépages dans le vignoble - durée 3h",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": null,
+   "commune": "Ribeauvillé",
+   "categorie": null,
+   "prix": null,
+   "description": null,
+   "sources": [
+    {
+     "source": "visit-alsace",
+     "nom": "Visit Alsace",
+     "url": "https://www.visit.alsace/sit/229008835-degustation-des-7-cepages-dans-le-vignoble-duree-3h/"
+    }
+   ],
+   "pays": "FR",
+   "theme": "Vin & gastronomie",
+   "gratuit": false,
+   "id": "96a577554e"
+  },
+  {
+   "titre": "Dîner-polar FREISTIL « Meurtre à la réunion de classe » au Dattler",
    "date_debut": "2026-11-20",
    "date_fin": null,
    "horaires": "19h",
-   "lieu": "Dattler Freiburg Schlossberg",
+   "lieu": "Freiburg Schlossberg",
    "commune": "Fribourg-en-Brisgau",
    "categorie": "Théâtre, Gastronomie",
    "prix": "101 €",
    "description": null,
    "pays": "DE",
-   "titre_original": "FREISTIL Dinner-Krimi \"Mord auf dem Klassentreffen\"",
+   "titre_original": "FREISTIL Dinner-Krimi \"Mord auf dem Klassentreffen\" im Dattler",
    "sources": [
     {
      "source": "oazis-freiburg",
@@ -4831,14 +2940,36 @@
    ],
    "theme": "Spectacles & cinéma",
    "gratuit": false,
-   "id": "faa56adfb0"
+   "id": "9685bed951"
+  },
+  {
+   "titre": "EXPOSITION – « Un calligraphe chinois en Alsace », Liu Yi",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": "14h00",
+   "lieu": "Alliance Française Strasbourg Europe",
+   "commune": null,
+   "categorie": "Expo",
+   "prix": "Gratuit",
+   "description": null,
+   "sources": [
+    {
+     "source": "coze",
+     "nom": "Coze",
+     "url": "https://www.coze.fr/agenda/exposition-un-calligraphe-chinois-en-alsace-liu-yi/"
+    }
+   ],
+   "pays": "FR",
+   "theme": "Expos & salons",
+   "gratuit": true,
+   "id": "1f1ee09cb6"
   },
   {
    "titre": "Egidius et le dernier secret de Rötteln",
    "date_debut": "2026-11-20",
    "date_fin": null,
    "horaires": "20h",
-   "lieu": null,
+   "lieu": "Theatergruppe Salzert-Brettli e.V.",
    "commune": "Lörrach",
    "categorie": "Théâtre, Comédie",
    "prix": "13–17 €",
@@ -4876,6 +3007,73 @@
    "theme": "Concerts & festivals",
    "gratuit": false,
    "id": "f522e5b745"
+  },
+  {
+   "titre": "Eurêka !",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": "14h30",
+   "lieu": "L'Illiade",
+   "commune": "Illkirch-Graffenstaden",
+   "categorie": "Spectacle",
+   "prix": "8 €",
+   "description": null,
+   "sources": [
+    {
+     "source": "coze",
+     "nom": "Coze",
+     "url": "https://www.coze.fr/agenda/eureka/"
+    }
+   ],
+   "pays": "FR",
+   "theme": "Spectacles & cinéma",
+   "gratuit": false,
+   "id": "6e1ad10c60"
+  },
+  {
+   "titre": "Exposition collective | NEO-ANALOG",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": "14h00",
+   "lieu": "Stimultania",
+   "commune": "Strasbourg",
+   "categorie": "Expo",
+   "prix": "Gratuit",
+   "description": null,
+   "sources": [
+    {
+     "source": "coze",
+     "nom": "Coze",
+     "url": "https://www.coze.fr/agenda/exposition-collective-neo-analog/"
+    }
+   ],
+   "pays": "FR",
+   "theme": "Expos & salons",
+   "gratuit": true,
+   "id": "048bee2bbe"
+  },
+  {
+   "titre": "Exposition « Figures pour l'éternité » de Peter Moilliet",
+   "date_debut": "2026-11-20",
+   "date_fin": "2026-12-13",
+   "horaires": "12:00–17:00",
+   "lieu": "Museum Allschwil - Haus für Kultur und Geschichte",
+   "commune": "Allschwil",
+   "categorie": null,
+   "prix": "Entrée gratuite",
+   "description": null,
+   "titre_original": "Exposition « <Figuren für die Ewigkeit> » de Peter Moilliet",
+   "sources": [
+    {
+     "source": "swissactivities-bale",
+     "nom": "Swiss Activities (Bâle)",
+     "url": "https://www.swissactivities.com/fr-ch/events/allschwil/ausstellung-figuren-fur-die-ewigkeit-peter-moilliet/"
+    }
+   ],
+   "pays": "CH",
+   "theme": "Expos & salons",
+   "gratuit": false,
+   "id": "aace04f19d"
   },
   {
    "titre": "Film - Le fantôme de l'opéra",
@@ -4927,7 +3125,7 @@
    "horaires": null,
    "lieu": "Palais de la Musique et des Congrès",
    "commune": "Strasbourg",
-   "categorie": "Allemand, Bas-Rhin, Français, Grand Est",
+   "categorie": null,
    "prix": null,
    "description": null,
    "pays": "FR",
@@ -5008,11 +3206,56 @@
    "id": "c41e61e710"
   },
   {
+   "titre": "HOMMAGE",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": "14h00",
+   "lieu": "Église Saint-Guillaume",
+   "commune": "Strasbourg",
+   "categorie": "Expo",
+   "prix": "Gratuit",
+   "description": null,
+   "sources": [
+    {
+     "source": "coze",
+     "nom": "Coze",
+     "url": "https://www.coze.fr/agenda/hommage/"
+    }
+   ],
+   "pays": "FR",
+   "theme": "Expos & salons",
+   "gratuit": true,
+   "id": "3e787b413e"
+  },
+  {
+   "titre": "Harry P.Otter et l'examen de magie",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": "09:00–23:00",
+   "lieu": "Basel - Startpunkt frei wählbar innerhalb der Stadt",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": "ab CHF 4.90",
+   "description": null,
+   "titre_original": "Harry P.Otter und die Zauberprüfung",
+   "sources": [
+    {
+     "source": "swissactivities-bale",
+     "nom": "Swiss Activities (Bâle)",
+     "url": "https://www.swissactivities.com/fr-ch/events/basel/harry-p-otter-und-die-zauberprufung/"
+    }
+   ],
+   "pays": "CH",
+   "theme": "Culture & vie locale",
+   "gratuit": false,
+   "id": "3f729749f5"
+  },
+  {
    "titre": "Historix-Tours : cathédrale, portes et légendes – visite avec comédien",
    "date_debut": "2026-11-20",
    "date_fin": null,
    "horaires": "14h30",
-   "lieu": "Am Predigertor (Ecke Rotteckring/Unterlinden)",
+   "lieu": "Am Predigertor",
    "commune": "Fribourg-en-Brisgau",
    "categorie": "Visite guidée, Balade",
    "prix": "15 €",
@@ -5074,13 +3317,35 @@
    "id": "3de70a0d24"
   },
   {
-   "titre": "Inter.ART Strasbourg – 3e édition | Salon international d’art contemporain",
+   "titre": "Inauguration et showroom éphémère- Atelier Eclaircie X Galerie Decorde",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": "14h00",
+   "lieu": "Galerie Philippe Decorde",
+   "commune": "Strasbourg",
+   "categorie": "Expo",
+   "prix": "Gratuit",
+   "description": null,
+   "sources": [
+    {
+     "source": "coze",
+     "nom": "Coze",
+     "url": "https://www.coze.fr/agenda/inauguration-et-showroom-ephemere-atelier-eclaircie-x-galerie-decorde/"
+    }
+   ],
+   "pays": "FR",
+   "theme": "Expos & salons",
+   "gratuit": true,
+   "id": "53d4a59cf6"
+  },
+  {
+   "titre": "Inter.ART Strasbourg – 3e édition | Salon international d'art contemporain",
    "date_debut": "2026-11-20",
    "date_fin": "2026-11-22",
    "horaires": "10:00 - 19:00",
    "lieu": "Münsterhof, 9 rue des Juifs",
    "commune": "Strasbourg",
-   "categorie": "Bas-Rhin, Français, Grand Est",
+   "categorie": null,
    "prix": null,
    "description": null,
    "pays": "FR",
@@ -5093,7 +3358,7 @@
    ],
    "theme": "Expos & salons",
    "gratuit": false,
-   "id": "c3f4b6113f"
+   "id": "de20876a77"
   },
   {
    "titre": "Journées de musique de chambre « monuments musicaux »",
@@ -5152,7 +3417,7 @@
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
-   "description": null,
+   "description": "Mitwirkende: Keep Cool - Das Comedymusical",
    "titre_original": "Keep Cool – Comedy Musical",
    "sources": [
     {
@@ -5167,40 +3432,17 @@
    "id": "1881eaccaf"
   },
   {
-   "titre": "Kling, vin chaud, klingelingeling – le show de Noël avec Betty",
+   "titre": "Kiss Me, Kate (comédie musicale)",
    "date_debut": "2026-11-20",
    "date_fin": null,
-   "horaires": "15h",
-   "lieu": "Betty BBQ Meeting Point",
+   "horaires": "20h",
+   "lieu": "DIE SCHÖNEN / Musiktheater im E-WERK",
    "commune": "Fribourg-en-Brisgau",
-   "categorie": "Drag show, Stand-up",
-   "prix": "38 €",
+   "categorie": "Théâtre, Comédie musicale",
+   "prix": "29 €",
    "description": null,
    "pays": "DE",
-   "titre_original": "Kling, Glühwein, klingelingeling — Weihnachts-Show-Tour mit Betty",
-   "sources": [
-    {
-     "source": "oazis-freiburg",
-     "nom": "Oazis (Fribourg-en-Brisgau)",
-     "url": null
-    }
-   ],
-   "theme": "Marchés de Noël & fêtes",
-   "gratuit": false,
-   "id": "09f68f4354"
-  },
-  {
-   "titre": "La Nuit des rois – Shakespeare en solo",
-   "date_debut": "2026-11-20",
-   "date_fin": null,
-   "horaires": "19h30",
-   "lieu": "E-Werk Freiburg",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Théâtre",
-   "prix": "10 €",
-   "description": null,
-   "pays": "DE",
-   "titre_original": "Was ihr wollt - Shakespeare Solo",
+   "titre_original": "Kiss me Kate",
    "sources": [
     {
      "source": "oazis-freiburg",
@@ -5210,7 +3452,74 @@
    ],
    "theme": "Spectacles & cinéma",
    "gratuit": false,
-   "id": "0de4f287f8"
+   "id": "9c7eebfc4e"
+  },
+  {
+   "titre": "Kling, Glühwein, klingelingeling – le show de Noël de Betty BBQ",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": "15h",
+   "lieu": "Betty BBQ Meeting Point",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Drag show, Stand-up",
+   "prix": "38 €",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Kling, Glühwein, klingelingeling — Weihnachts-Show-Tour mit Betty BBQ",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Marchés de Noël & fêtes",
+   "gratuit": false,
+   "id": "66f47ffb51"
+  },
+  {
+   "titre": "LE CHAT SUR LA PHOTO",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": "14h30",
+   "lieu": "TJP / Petite scène",
+   "commune": "Strasbourg",
+   "categorie": "Famille",
+   "prix": "6 €",
+   "description": null,
+   "sources": [
+    {
+     "source": "coze",
+     "nom": "Coze",
+     "url": "https://www.coze.fr/agenda/le-chat-sur-la-photo/"
+    }
+   ],
+   "pays": "FR",
+   "theme": "Famille & enfants",
+   "gratuit": false,
+   "id": "66017ef7b9"
+  },
+  {
+   "titre": "Lanterne Magique",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": "14h00",
+   "lieu": "Riverhin",
+   "commune": "Village-Neuf",
+   "categorie": "Famille",
+   "prix": "20 €",
+   "description": null,
+   "sources": [
+    {
+     "source": "coze",
+     "nom": "Coze",
+     "url": "https://www.coze.fr/agenda/lanterne-magique/"
+    }
+   ],
+   "pays": "FR",
+   "theme": "Famille & enfants",
+   "gratuit": false,
+   "id": "a391099625"
   },
   {
    "titre": "Le château à la lampe de poche",
@@ -5254,28 +3563,6 @@
    "theme": "Concerts & festivals",
    "gratuit": false,
    "id": "43d438c27d"
-  },
-  {
-   "titre": "Marché",
-   "date_debut": "2026-11-20",
-   "date_fin": null,
-   "horaires": "08h00",
-   "lieu": null,
-   "commune": "Huningue",
-   "categorie": null,
-   "prix": null,
-   "description": null,
-   "sources": [
-    {
-     "source": "saintlouis-tourisme",
-     "nom": "Saint-Louis Tourisme",
-     "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/marche/"
-    }
-   ],
-   "pays": "FR",
-   "theme": "Brocantes & marchés",
-   "gratuit": false,
-   "id": "0ba051f85b"
   },
   {
    "titre": "Marché",
@@ -5366,39 +3653,160 @@
    "id": "f7cfc47471"
   },
   {
-   "titre": "Marché de Noël",
+   "titre": "Marché de Noël de Thann : l’esprit heimelig",
    "date_debut": "2026-11-20",
    "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Volgelsheim",
-   "categorie": "Marché ponctuel (à thème, estival, Noël …)",
-   "prix": null,
+   "horaires": "14h00",
+   "lieu": "Ville de Thann",
+   "commune": "Huningue",
+   "categorie": "Marché de Noël",
+   "prix": "Gratuit",
    "description": null,
    "sources": [
     {
-     "source": "tourisme-colmar",
-     "nom": "Office de tourisme de Colmar",
-     "url": "https://www.tourisme-colmar.com/loisirs-fr/evenements/agenda/F246005882_marche-de-noel-volgelsheim"
+     "source": "coze",
+     "nom": "Coze",
+     "url": "https://www.coze.fr/agenda/marche-de-noel-de-thann/"
+    },
+    {
+     "source": "saintlouis-tourisme",
+     "nom": "Saint-Louis Tourisme",
+     "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/marche/"
     }
    ],
    "pays": "FR",
    "theme": "Marchés de Noël & fêtes",
-   "gratuit": false,
-   "id": "44fd00bba9"
+   "gratuit": true,
+   "id": "f1ad828efa"
   },
   {
-   "titre": "Michael Jäger – Unfallkind (lecture)",
+   "titre": "Marché de Noël du Coeur de Mulhouse",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": "10h00",
+   "lieu": "Place de la Concorde",
+   "commune": "Mulhouse",
+   "categorie": "Marché de Noël",
+   "prix": "Gratuit",
+   "description": null,
+   "sources": [
+    {
+     "source": "coze",
+     "nom": "Coze",
+     "url": "https://www.coze.fr/agenda/marche-de-noel-du-coeur-de-mulhouse/"
+    }
+   ],
+   "pays": "FR",
+   "theme": "Marchés de Noël & fêtes",
+   "gratuit": true,
+   "id": "25b9e217c4"
+  },
+  {
+   "titre": "Marché de Noël du Musée de l’Impression sur Etoffes",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": "13h00",
+   "lieu": "Musée de l'Impression sur Etoffes",
+   "commune": "Mulhouse",
+   "categorie": "Marché de Noël",
+   "prix": "Gratuit",
+   "description": null,
+   "sources": [
+    {
+     "source": "coze",
+     "nom": "Coze",
+     "url": "https://www.coze.fr/agenda/marche-de-noel-du-musee-de-limpression-sur-etoffes/"
+    }
+   ],
+   "pays": "FR",
+   "theme": "Marchés de Noël & fêtes",
+   "gratuit": true,
+   "id": "758131d454"
+  },
+  {
+   "titre": "Marché de la ville de Bâle",
+   "date_debut": "2026-11-20",
+   "date_fin": "2026-12-31",
+   "horaires": "Fr. 8:00 - Do. 17:00 Uhr",
+   "lieu": "Marktplatz",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "description": null,
+   "titre_original": "Basler Stadtmarkt",
+   "sources": [
+    {
+     "source": "baselland-tourismus",
+     "nom": "Baselland Tourismus",
+     "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/stadtmarkt-eve_wt1_jgdjffggb"
+    },
+    {
+     "source": "bs-ch",
+     "nom": "Canton de Bâle-Ville",
+     "url": "https://www.bs.ch/veranstaltungen/basler-stadtmarkt"
+    }
+   ],
+   "pays": "CH",
+   "theme": "Brocantes & marchés",
+   "gratuit": false,
+   "id": "e97560aa39"
+  },
+  {
+   "titre": "Marché hebdomadaire sur la Lindenplatz d'Allschwil",
+   "date_debut": "2026-11-20",
+   "date_fin": "2026-11-27",
+   "horaires": "08:30–12:00",
+   "lieu": "Lindenplatz",
+   "commune": "Allschwil",
+   "categorie": null,
+   "prix": null,
+   "description": null,
+   "sources": [
+    {
+     "source": "swissactivities-bale",
+     "nom": "Swiss Activities (Bâle)",
+     "url": "https://www.swissactivities.com/fr-ch/events/allschwil/wochenmarkt-auf-dem-lindenplatz-allschwil/"
+    }
+   ],
+   "pays": "CH",
+   "theme": "Brocantes & marchés",
+   "gratuit": false,
+   "id": "8dd76893f1"
+  },
+  {
+   "titre": "Marchés de Noël",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": "11h00",
+   "lieu": "Ville de Sélestat",
+   "commune": null,
+   "categorie": "Marché de Noël",
+   "prix": "Gratuit",
+   "description": null,
+   "sources": [
+    {
+     "source": "coze",
+     "nom": "Coze",
+     "url": "https://www.coze.fr/agenda/marches-de-noel/"
+    }
+   ],
+   "pays": "FR",
+   "theme": "Marchés de Noël & fêtes",
+   "gratuit": true,
+   "id": "63584d4c18"
+  },
+  {
+   "titre": "Michael Jäger – Unfallkind, stand-up",
    "date_debut": "2026-11-20",
    "date_fin": null,
    "horaires": "20h",
    "lieu": "Humboldtsaal Freiburg",
    "commune": "Fribourg-en-Brisgau",
-   "categorie": "Stand-up Comedy",
+   "categorie": "Stand-up",
    "prix": null,
    "description": null,
    "pays": "DE",
-   "titre_original": "Michael Jäger – Unfallkind",
+   "titre_original": "Michael Jäger – Unfallkind Stand-up Comedy",
    "sources": [
     {
      "source": "oazis-freiburg",
@@ -5408,7 +3816,7 @@
    ],
    "theme": "Culture & vie locale",
    "gratuit": false,
-   "id": "4b2ab7b04e"
+   "id": "85dc5fb731"
   },
   {
    "titre": "Milena Patagônia",
@@ -5451,6 +3859,28 @@
    "theme": "Concerts & festivals",
    "gratuit": false,
    "id": "f3ba0bb5b0"
+  },
+  {
+   "titre": "Nostalgie romantique",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": "12h30",
+   "lieu": "Opéra national du Rhin",
+   "commune": "Strasbourg",
+   "categorie": "Concert",
+   "prix": "13 €",
+   "description": null,
+   "sources": [
+    {
+     "source": "coze",
+     "nom": "Coze",
+     "url": "https://www.coze.fr/agenda/nostalgie-romantique/"
+    }
+   ],
+   "pays": "FR",
+   "theme": "Concerts & festivals",
+   "gratuit": false,
+   "id": "42fd7be7c0"
   },
   {
    "titre": "Nous avons quelque chose à dire – filles et femmes en dialogue avec les politiques",
@@ -5503,27 +3933,31 @@
    "id": "274b7b41b1"
   },
   {
-   "titre": "Orchestre symphonique de la SWR : concert scolaire « Sons de contes »",
+   "titre": "On se dit tout ! avec l’équipe de ສຽງຂອງຍ່່າ (La Voix de ma grand-mère)",
    "date_debut": "2026-11-20",
    "date_fin": null,
-   "horaires": "11h",
-   "lieu": "Konzerthaus Freiburg",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Classique, Concert",
-   "prix": "7 €",
+   "horaires": "12h30",
+   "lieu": "Théâtre National de Strasbourg (TNS)",
+   "commune": "Strasbourg",
+   "categorie": "Spectacle",
+   "prix": "Gratuit",
    "description": null,
-   "pays": "DE",
-   "titre_original": "SWR Symphonieorchester: Schulkonzert Märchenklänge",
    "sources": [
     {
-     "source": "oazis-freiburg",
-     "nom": "Oazis (Fribourg-en-Brisgau)",
-     "url": null
+     "source": "coze",
+     "nom": "Coze",
+     "url": "https://www.coze.fr/agenda/on-se-dit-tout-avec-lequipe-de-%e0%ba%aa%e0%ba%bd%e0%ba%87%e0%ba%82%e0%ba%ad%e0%ba%87%e0%ba%8d%e0%bb%88%e0%bb%88%e0%ba%b2-la-voix-de-ma-grand-mere/"
+    },
+    {
+     "source": "visit-alsace",
+     "nom": "Visit Alsace",
+     "url": "https://www.visit.alsace/sit/205091021-on-se-dit-tout-avec-lequipe-de-la-voix-de-ma-grand-mere/"
     }
    ],
-   "theme": "Concerts & festivals",
-   "gratuit": false,
-   "id": "e638c4caff"
+   "pays": "FR",
+   "theme": "Spectacles & cinéma",
+   "gratuit": true,
+   "id": "29505b35e9"
   },
   {
    "titre": "Oscillate: Matze Sampler, OG Lotti, Lydia Akut",
@@ -5551,12 +3985,17 @@
    "date_debut": "2026-11-20",
    "date_fin": "2027-01-10",
    "horaires": null,
-   "lieu": "Chapiteau à miroirs (Palazzo Colombino)",
+   "lieu": "Palazzo Colombino",
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
    "description": null,
    "sources": [
+    {
+     "source": "baselland-tourismus",
+     "nom": "Baselland Tourismus",
+     "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/palazzo-colombino-basel-eve_wt1_bdciffhfci"
+    },
     {
      "source": "myswitzerland-bale",
      "nom": "MySwitzerland (Bâle)",
@@ -5567,6 +4006,72 @@
    "theme": "Culture & vie locale",
    "gratuit": false,
    "id": "8921c6fc11"
+  },
+  {
+   "titre": "Parenthèse Vigneronne : Initiation à la dégustation",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": null,
+   "commune": "Ammerschwihr",
+   "categorie": null,
+   "prix": null,
+   "description": null,
+   "sources": [
+    {
+     "source": "visit-alsace",
+     "nom": "Visit Alsace",
+     "url": "https://www.visit.alsace/sit/230111547-parenthese-vigneronne-initiation-a-la-degustation/"
+    }
+   ],
+   "pays": "FR",
+   "theme": "Vin & gastronomie",
+   "gratuit": false,
+   "id": "213b77d315"
+  },
+  {
+   "titre": "Parenthèse Vigneronne : Kaefferkopf - histoires à boire",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": null,
+   "commune": "Ammerschwihr",
+   "categorie": null,
+   "prix": null,
+   "description": null,
+   "sources": [
+    {
+     "source": "visit-alsace",
+     "nom": "Visit Alsace",
+     "url": "https://www.visit.alsace/sit/230112690-parenthese-vigneronne-kaefferkopf-histoires-a-boire/"
+    }
+   ],
+   "pays": "FR",
+   "theme": "Vin & gastronomie",
+   "gratuit": false,
+   "id": "bdee505ee0"
+  },
+  {
+   "titre": "Parenthèse Vigneronne : Les terroirs de Grands Crus",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": null,
+   "commune": "Kaysersberg Vignoble",
+   "categorie": null,
+   "prix": null,
+   "description": null,
+   "sources": [
+    {
+     "source": "visit-alsace",
+     "nom": "Visit Alsace",
+     "url": "https://www.visit.alsace/sit/230110384-parenthese-vigneronne-les-terroirs-de-grands-crus/"
+    }
+   ],
+   "pays": "FR",
+   "theme": "Vin & gastronomie",
+   "gratuit": false,
+   "id": "7da8509d8a"
   },
   {
    "titre": "Partage de la soupe au munster",
@@ -5612,11 +4117,34 @@
    "id": "bf8f227523"
   },
   {
+   "titre": "Philipp Weber – IA : idiots artificiels !",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": "20h",
+   "lieu": "Vorderhaus",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Stand-up",
+   "prix": "26,90 €",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Philipp Weber - KI: Künstliche Idioten!",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Culture & vie locale",
+   "gratuit": false,
+   "id": "ee570bd967"
+  },
+  {
    "titre": "Photographe animalier de l'année",
    "date_debut": "2026-11-20",
    "date_fin": "2027-06-27",
-   "horaires": null,
-   "lieu": "Musée d'histoire naturelle de Bâle",
+   "horaires": "10:00–17:00",
+   "lieu": "Naturhistorisches Museum Basel",
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
@@ -5627,12 +4155,84 @@
      "source": "myswitzerland-bale",
      "nom": "MySwitzerland (Bâle)",
      "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/wildlife-photographer-of-the-year/"
+    },
+    {
+     "source": "swissactivities-bale",
+     "nom": "Swiss Activities (Bâle)",
+     "url": "https://www.swissactivities.com/fr-ch/events/basel/sonderausstellung-wildlife-photographer-of-the-year/"
     }
    ],
    "pays": "CH",
    "theme": "Culture & vie locale",
    "gratuit": false,
    "id": "84e2ed0fec"
+  },
+  {
+   "titre": "Polar au marché de Noël de Fribourg : le gourou du vin chaud",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": "10h",
+   "lieu": "Platz der Alten Synagoge – Weihnachtsmarkt-Krimi-Startpunkt",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Plein air, Marché",
+   "prix": "16–29,90 €",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Weihnachtsmarkt-Krimi Freiburg: Der Glühwein-Guru",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Marchés de Noël & fêtes",
+   "gratuit": false,
+   "id": "f2889eadcf"
+  },
+  {
+   "titre": "Pole, Art and Movement Festival",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": "BAU3",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "description": null,
+   "sources": [
+    {
+     "source": "baselland-tourismus",
+     "nom": "Baselland Tourismus",
+     "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/pole-art-and-movement-festival-eve_wt1_bddbebbcdc"
+    }
+   ],
+   "pays": "CH",
+   "theme": "Concerts & festivals",
+   "gratuit": false,
+   "id": "dfb010a63d"
+  },
+  {
+   "titre": "Pourquoi tu cries ?",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": "10h30",
+   "lieu": "Espace Django",
+   "commune": "Strasbourg",
+   "categorie": "Famille",
+   "prix": "Gratuit",
+   "description": null,
+   "sources": [
+    {
+     "source": "coze",
+     "nom": "Coze",
+     "url": "https://www.coze.fr/agenda/pourquoi-tu-cries/"
+    }
+   ],
+   "pays": "FR",
+   "theme": "Famille & enfants",
+   "gratuit": true,
+   "id": "a0184baba1"
   },
   {
    "titre": "Rencontrez Saint Nicolas",
@@ -5742,10 +4342,32 @@
    "id": "0a16753605"
   },
   {
+   "titre": "SUZANE",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": "W Live",
+   "commune": "Strasbourg",
+   "categorie": "Concert",
+   "prix": null,
+   "description": null,
+   "sources": [
+    {
+     "source": "visit-alsace",
+     "nom": "Visit Alsace",
+     "url": "https://www.visit.alsace/sit/205090704-suzane/"
+    }
+   ],
+   "pays": "FR",
+   "theme": "Concerts & festivals",
+   "gratuit": false,
+   "id": "54a3969263"
+  },
+  {
    "titre": "Salon des 40",
    "date_debut": "2026-11-20",
    "date_fin": "2026-11-22",
-   "horaires": "18h00 (20 nov.); 14h00 (21 nov.); 10h00 (22 nov.)",
+   "horaires": "18h00 (20 nov.) ; 14h00 (21 nov.) ; 10h00 (22 nov.)",
    "lieu": null,
    "commune": "Saint-Louis",
    "categorie": null,
@@ -5772,7 +4394,7 @@
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
-   "description": null,
+   "description": "Simon Enzler ist «zmetztinne».",
    "sources": [
     {
      "source": "myswitzerland-bale",
@@ -5808,6 +4430,28 @@
    "id": "3d1708eac7"
   },
   {
+   "titre": "Soupe Étoilée 2026 – la 14e édition",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": "10h30",
+   "lieu": "Place Kléber",
+   "commune": "Strasbourg",
+   "categorie": "Marché de Noël",
+   "prix": "Gratuit",
+   "description": null,
+   "sources": [
+    {
+     "source": "coze",
+     "nom": "Coze",
+     "url": "https://www.coze.fr/agenda/soupe-etoilee-2026-la-14e-edition/"
+    }
+   ],
+   "pays": "FR",
+   "theme": "Marchés de Noël & fêtes",
+   "gratuit": true,
+   "id": "d66a8bf517"
+  },
+  {
    "titre": "Spectacle - Panique au ministère 2 : La candidate",
    "date_debut": "2026-11-20",
    "date_fin": null,
@@ -5830,6 +4474,28 @@
    "id": "8bdf0dc37c"
   },
   {
+   "titre": "Sur les traces de Band of Brothers",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": null,
+   "commune": "Haguenau",
+   "categorie": "Sortie pédestre",
+   "prix": null,
+   "description": null,
+   "sources": [
+    {
+     "source": "visit-alsace",
+     "nom": "Visit Alsace",
+     "url": "https://www.visit.alsace/sit/216004343-sur-les-traces-de-band-of-brothers/"
+    }
+   ],
+   "pays": "FR",
+   "theme": "Sport & nature",
+   "gratuit": false,
+   "id": "a14dba1c63"
+  },
+  {
    "titre": "Tales of Wrath Fest",
    "date_debut": "2026-11-20",
    "date_fin": null,
@@ -5849,28 +4515,6 @@
    "theme": "Concerts & festivals",
    "gratuit": false,
    "id": "7a4315471e"
-  },
-  {
-   "titre": "The Great Comedy Showcase November",
-   "date_debut": "2026-11-20",
-   "date_fin": null,
-   "horaires": "20h30",
-   "lieu": "Räng Teng Teng",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Stand-up",
-   "prix": "10–14 €",
-   "description": null,
-   "pays": "DE",
-   "sources": [
-    {
-     "source": "oazis-freiburg",
-     "nom": "Oazis (Fribourg-en-Brisgau)",
-     "url": null
-    }
-   ],
-   "theme": "Culture & vie locale",
-   "gratuit": false,
-   "id": "a9fec2b54b"
   },
   {
    "titre": "The Jungle Jazz Band",
@@ -6028,30 +4672,51 @@
    "id": "a010bb0620"
   },
   {
-   "titre": "Visite guidée de Fribourg avec Schwarzwaldmarie",
+   "titre": "Une photographe révélée",
    "date_debut": "2026-11-20",
    "date_fin": null,
-   "horaires": "10h15",
-   "lieu": "Schwarzwaldmarie Souvenirs",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Visite guidée, Plein air",
-   "prix": "13 €",
+   "horaires": "14h00",
+   "lieu": "La Chambre",
+   "commune": "Strasbourg",
+   "categorie": "Expo",
+   "prix": "Gratuit",
    "description": null,
-   "pays": "DE",
-   "titre_original": "Stadtführung Freiburg 2026 Schwarzwaldmarie",
    "sources": [
     {
-     "source": "oazis-freiburg",
-     "nom": "Oazis (Fribourg-en-Brisgau)",
-     "url": null
+     "source": "coze",
+     "nom": "Coze",
+     "url": "https://www.coze.fr/agenda/une-photographe-revelee/"
     }
    ],
-   "theme": "Visites & patrimoine",
-   "gratuit": false,
-   "id": "150510889c"
+   "pays": "FR",
+   "theme": "Expos & salons",
+   "gratuit": true,
+   "id": "0a0114b0b7"
   },
   {
-   "titre": "Vivre Fribourg : les temps forts de la vieille ville",
+   "titre": "Visite de l'usine Labonal",
+   "date_debut": "2026-11-20",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": null,
+   "commune": "Dambach-la-Ville",
+   "categorie": "Portes ouvertes",
+   "prix": null,
+   "description": null,
+   "sources": [
+    {
+     "source": "visit-alsace",
+     "nom": "Visit Alsace",
+     "url": "https://www.visit.alsace/sit/213011054-visite-de-lusine-labonal/"
+    }
+   ],
+   "pays": "FR",
+   "theme": "Visites & patrimoine",
+   "gratuit": false,
+   "id": "fb137fcaa3"
+  },
+  {
+   "titre": "Vivre Fribourg : visite guidée de la vieille ville et de la cathédrale",
    "date_debut": "2026-11-20",
    "date_fin": null,
    "horaires": "14h",
@@ -6061,7 +4726,7 @@
    "prix": "18 €",
    "description": null,
    "pays": "DE",
-   "titre_original": "FREIBURG erLEBEN: Höhepunkte der Altstadt",
+   "titre_original": "FREIBURG erLEBEN: Höhepunkte der Altstadt Stadtführung mit Münster Besichtigung",
    "sources": [
     {
      "source": "oazis-freiburg",
@@ -6071,7 +4736,7 @@
    ],
    "theme": "Visites & patrimoine",
    "gratuit": false,
-   "id": "f04ffdd350"
+   "id": "cc3c5f8563"
   },
   {
    "titre": "Ystimme – ouverture solennelle du Noël bâlois",
@@ -6118,6 +4783,29 @@
    "theme": "Concerts & festivals",
    "gratuit": false,
    "id": "074b93b3dc"
+  },
+  {
+   "titre": "monuments musicaux : concert autour de l'exposition « Bâle dans l'assiette »",
+   "date_debut": "2026-11-20",
+   "date_fin": "2026-11-22",
+   "horaires": null,
+   "lieu": "Museum Kleines Klingental",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "description": null,
+   "titre_original": "monuments musicaux: Konzert im Spiegel der Ausstellung \"Basel auf dem Teller\"",
+   "sources": [
+    {
+     "source": "baselland-tourismus",
+     "nom": "Baselland Tourismus",
+     "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/monuments-musicaux-konzert-im-spiegel-der-ausstellung-basel-auf-dem-teller-eve_wt1_bcdahdchgc"
+    }
+   ],
+   "pays": "CH",
+   "theme": "Concerts & festivals",
+   "gratuit": false,
+   "id": "08583a8eec"
   },
   {
    "titre": "1, 2, 3 – lecture avec M. E.",
@@ -6195,7 +4883,7 @@
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
-   "description": "Fin novembre, Bâle se transforme en un parcours de course illuminé (S)",
+   "description": null,
    "titre_original": "42. Basler Stadtlauf",
    "sources": [
     {
@@ -6371,7 +5059,7 @@
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
-   "description": "À l'approche de Noël, ce conte classique revisité en dialecte suisse vous enchantera",
+   "description": null,
    "titre_original": "Schneewittchen",
    "sources": [
     {
@@ -6451,6 +5139,29 @@
    "theme": "Spectacles & cinéma",
    "gratuit": false,
    "id": "a166e9051d"
+  },
+  {
+   "titre": "Concert annuel du MontagsChor Lehen",
+   "date_debut": "2026-11-21",
+   "date_fin": null,
+   "horaires": "19h",
+   "lieu": "Saal der Kirchengemeinde Hl. Familie",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Folk / Acoustique, Concert",
+   "prix": "Gratuit",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Jahreskonzert des MontagsChor Lehen e. V.",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Concerts & festivals",
+   "gratuit": true,
+   "id": "608458f4d4"
   },
   {
    "titre": "Concert – Orchestergesellschaft Weil am Rhein",
@@ -6570,7 +5281,7 @@
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
-   "description": "Two Collages of Piano Trios from Shostakovich to Clarke",
+   "description": null,
    "sources": [
     {
      "source": "myswitzerland-bale",
@@ -6588,7 +5299,7 @@
    "date_debut": "2026-11-21",
    "date_fin": null,
    "horaires": "20h",
-   "lieu": null,
+   "lieu": "Theatergruppe Salzert-Brettli e.V.",
    "commune": "Lörrach",
    "categorie": "Théâtre, Comédie",
    "prix": "13–17 €",
@@ -6630,28 +5341,6 @@
    "id": "f41cc2933d"
   },
   {
-   "titre": "FREIBURG erLEBEN: Höhepunkte der Altstadt - Stadtführung mit Münster Besichtigung",
-   "date_debut": "2026-11-21",
-   "date_fin": null,
-   "horaires": "14h",
-   "lieu": "Altes Rathaus",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Visite guidée, Plein air",
-   "prix": "18 €",
-   "description": null,
-   "pays": "DE",
-   "sources": [
-    {
-     "source": "oazis-freiburg",
-     "nom": "Oazis (Fribourg-en-Brisgau)",
-     "url": null
-    }
-   ],
-   "theme": "Visites & patrimoine",
-   "gratuit": false,
-   "id": "b15c4ee3d5"
-  },
-  {
    "titre": "Fuego",
    "date_debut": "2026-11-21",
    "date_fin": null,
@@ -6677,11 +5366,11 @@
    "date_debut": "2026-11-21",
    "date_fin": null,
    "horaires": null,
-   "lieu": "La Kreativhaus",
+   "lieu": null,
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
-   "description": "La Kreativhaus ouvre ses portes : ateliers, workshops, lectures, spectacles, music avec Two & The Sun",
+   "description": null,
    "titre_original": "Stellwerkfest 2026",
    "sources": [
     {
@@ -6789,7 +5478,7 @@
    "date_debut": "2026-11-21",
    "date_fin": null,
    "horaires": "11h",
-   "lieu": "Am Predigertor (Ecke Rotteckring/Unterlinden)",
+   "lieu": "Am Predigertor",
    "commune": "Fribourg-en-Brisgau",
    "categorie": "Visite guidée, Théâtre",
    "prix": "15 €",
@@ -6808,7 +5497,7 @@
    "id": "25489dc85d"
   },
   {
-   "titre": "Historix-Tours : guerre mondiale, nazisme et dictature – visite thématique",
+   "titre": "Historix-Tours : guerre mondiale, nazis, dictature – visite thématique",
    "date_debut": "2026-11-21",
    "date_fin": null,
    "horaires": "15h",
@@ -6818,7 +5507,7 @@
    "prix": "15 €",
    "description": null,
    "pays": "DE",
-   "titre_original": "Historix-Tours: Weltkrieg, Nazis, Diktatur - Thementour",
+   "titre_original": "Historix‑Tours: Weltkrieg, Nazis, Diktatur - Thementour",
    "sources": [
     {
      "source": "oazis-freiburg",
@@ -6828,7 +5517,7 @@
    ],
    "theme": "Visites & patrimoine",
    "gratuit": false,
-   "id": "d71666f5e8"
+   "id": "81f3cd2692"
   },
   {
    "titre": "I'll House You",
@@ -6988,29 +5677,6 @@
    "theme": "Culture & vie locale",
    "gratuit": false,
    "id": "96c455239e"
-  },
-  {
-   "titre": "La couleur de la forme – décor et traitement des surfaces",
-   "date_debut": "2026-11-21",
-   "date_fin": null,
-   "horaires": "10h",
-   "lieu": "Vorderhaus - Kultur in der Fabrik",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Loisirs créatifs",
-   "prix": "270 €",
-   "description": null,
-   "pays": "DE",
-   "titre_original": "Die Farbe der Form - Dekor und Oberflächengestaltung",
-   "sources": [
-    {
-     "source": "oazis-freiburg",
-     "nom": "Oazis (Fribourg-en-Brisgau)",
-     "url": null
-    }
-   ],
-   "theme": "Culture & vie locale",
-   "gratuit": false,
-   "id": "0f865081f4"
   },
   {
    "titre": "La musique d'Einstein – Lumière",
@@ -7193,7 +5859,7 @@
    "titre": "Marché de Noël",
    "date_debut": "2026-11-21",
    "date_fin": "2026-11-22",
-   "horaires": "14h00 (21 nov.); 10h00 (22 nov.)",
+   "horaires": "14h00 (21 nov.) ; 10h00 (22 nov.)",
    "lieu": null,
    "commune": "Hégenheim",
    "categorie": null,
@@ -7265,7 +5931,7 @@
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
-   "description": "Der Zauber eines Konzerts in Dunkelheit",
+   "description": null,
    "titre_original": "NOCTURNE - Ein Konzert im Dunkeln",
    "sources": [
     {
@@ -7331,7 +5997,7 @@
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
-   "description": null,
+   "description": "Das Akademische Orchester Basel (aob) lädt zu seinem Herbstkonzert mit Werken von Dvořák und Salieri ein.",
    "titre_original": "Akademisches Orchester Basel: Dvořák & Salieri",
    "sources": [
     {
@@ -7344,28 +6010,6 @@
    "theme": "Culture & vie locale",
    "gratuit": false,
    "id": "1db4053a5b"
-  },
-  {
-   "titre": "Quatuor Modigliani",
-   "date_debut": "2026-11-21",
-   "date_fin": null,
-   "horaires": "19h",
-   "lieu": "Hochschule für Musik Freiburg",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Classique, Concert",
-   "prix": "34–59 €",
-   "description": null,
-   "pays": "DE",
-   "sources": [
-    {
-     "source": "oazis-freiburg",
-     "nom": "Oazis (Fribourg-en-Brisgau)",
-     "url": null
-    }
-   ],
-   "theme": "Concerts & festivals",
-   "gratuit": false,
-   "id": "11b77e217f"
   },
   {
    "titre": "Rhyborn",
@@ -7387,6 +6031,28 @@
    "theme": "Concerts & festivals",
    "gratuit": false,
    "id": "c8c997e3e8"
+  },
+  {
+   "titre": "SOLO ALEXEY LIVE",
+   "date_debut": "2026-11-21",
+   "date_fin": null,
+   "horaires": "19h30",
+   "lieu": "Scheunensaal im Stubenareal St. Georgen",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Chanson, Jazz",
+   "prix": "22–25 €",
+   "description": null,
+   "pays": "DE",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Concerts & festivals",
+   "gratuit": false,
+   "id": "f83020cf05"
   },
   {
    "titre": "Sandro Falletta b2b Beluga",
@@ -7498,29 +6164,6 @@
    "id": "c8d53bd3b9"
   },
   {
-   "titre": "Séminaire Mundologia : mieux photographier en voyage",
-   "date_debut": "2026-11-21",
-   "date_fin": null,
-   "horaires": "10h",
-   "lieu": "Streit Service & Solution (Showroom)",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Conférence, Photographie",
-   "prix": "149 €",
-   "description": null,
-   "pays": "DE",
-   "titre_original": "MUNDOLOGIA-Seminar: Bessere Reisefotografie",
-   "sources": [
-    {
-     "source": "oazis-freiburg",
-     "nom": "Oazis (Fribourg-en-Brisgau)",
-     "url": null
-    }
-   ],
-   "theme": "Visites & patrimoine",
-   "gratuit": false,
-   "id": "2d08dff5ab"
-  },
-  {
    "titre": "The Paloimines Vintage Power Pop",
    "date_debut": "2026-11-21",
    "date_fin": null,
@@ -7588,7 +6231,7 @@
    "id": "c17e235632"
   },
   {
-   "titre": "Vivre Fribourg : les temps forts de la vieille ville",
+   "titre": "Vivre Fribourg : visite guidée de la vieille ville",
    "date_debut": "2026-11-21",
    "date_fin": null,
    "horaires": "12h15",
@@ -7598,7 +6241,7 @@
    "prix": "13 €",
    "description": null,
    "pays": "DE",
-   "titre_original": "FREIBURG erLEBEN : Höhepunkte der Altstadt",
+   "titre_original": "FREIBURG erLEBEN : Höhepunkte der Altstadt Stadtführung",
    "sources": [
     {
      "source": "oazis-freiburg",
@@ -7608,7 +6251,7 @@
    ],
    "theme": "Visites & patrimoine",
    "gratuit": false,
-   "id": "ddbd52ff43"
+   "id": "5caf8295c5"
   },
   {
    "titre": "Volkmar Staub",
@@ -7617,7 +6260,7 @@
    "horaires": "20h",
    "lieu": "Nellie Nashorn",
    "commune": "Lörrach",
-   "categorie": "Jazz, Concert",
+   "categorie": "Concert, Jazz",
    "prix": null,
    "description": null,
    "pays": "DE",
@@ -7655,6 +6298,28 @@
    "id": "47d43ee440"
   },
   {
+   "titre": "Youth Life x RHB",
+   "date_debut": "2026-11-21",
+   "date_fin": null,
+   "horaires": "23h",
+   "lieu": "ArTik",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Club / Boîte, DJ set",
+   "prix": null,
+   "description": null,
+   "pays": "DE",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Culture & vie locale",
+   "gratuit": false,
+   "id": "1f573ced43"
+  },
+  {
    "titre": "Zweiklang",
    "date_debut": "2026-11-21",
    "date_fin": null,
@@ -7684,7 +6349,7 @@
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
-   "description": "Paul Schneller : exposition de photographies et présentation de livres",
+   "description": null,
    "titre_original": "«Nächstes Jahr in Krakau!» – Vernissage",
    "sources": [
     {
@@ -7699,7 +6364,7 @@
    "id": "bb11071b54"
   },
   {
-   "titre": "ABBA – Waterloo dans la piscine à balles",
+   "titre": "ABBA – Waterloo à la piscine à balles, Fribourg",
    "date_debut": "2026-11-22",
    "date_fin": null,
    "horaires": "14h30",
@@ -7709,7 +6374,7 @@
    "prix": "38–42 €",
    "description": null,
    "pays": "DE",
-   "titre_original": "ABBA - Waterloo im Bällebad",
+   "titre_original": "ABBA - Waterloo im Bällebad Freiburg",
    "sources": [
     {
      "source": "oazis-freiburg",
@@ -7719,19 +6384,43 @@
    ],
    "theme": "Spectacles & cinéma",
    "gratuit": false,
-   "id": "a4188dbe5b"
+   "id": "7e2362941d"
   },
   {
-   "titre": "Akrobatik-Komiker ALEX & Joschi - Scherz mit Herz",
+   "titre": "Alex & Joschi (comiques acrobates, marionnettes)",
+   "date_debut": "2026-11-22",
+   "date_fin": null,
+   "horaires": "11h",
+   "lieu": "Fabrik Freiburg",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Marionnettes, Spectacle jeunesse",
+   "prix": "9,30–14,80 €",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "ALEX & Joschi (Akrobatik-Komiker, Marionnettes)",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Spectacles & cinéma",
+   "gratuit": false,
+   "id": "e96cd9fd44"
+  },
+  {
+   "titre": "Alex & Joschi – blagues avec du cœur",
    "date_debut": "2026-11-22",
    "date_fin": null,
    "horaires": "11h",
    "lieu": "Vorderhaus",
    "commune": "Fribourg-en-Brisgau",
-   "categorie": "Théâtre, Magie",
+   "categorie": "Théâtre, Cirque",
    "prix": "9,30 €",
    "description": null,
    "pays": "DE",
+   "titre_original": "ALEX & Joschi - Scherz mit Herz",
    "sources": [
     {
      "source": "oazis-freiburg",
@@ -7741,7 +6430,7 @@
    ],
    "theme": "Spectacles & cinéma",
    "gratuit": false,
-   "id": "94bed37c79"
+   "id": "a8d999ec96"
   },
   {
    "titre": "Art du quartier Herdern 2026",
@@ -7811,29 +6500,6 @@
    "theme": "Ateliers",
    "gratuit": false,
    "id": "505da66ab2"
-  },
-  {
-   "titre": "Cirque magique Alex & Joschi",
-   "date_debut": "2026-11-22",
-   "date_fin": null,
-   "horaires": "11h",
-   "lieu": "Vorderhaus - Kultur in der Fabrik",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Cirque, Magie",
-   "prix": "9,30–14,80 €",
-   "description": null,
-   "pays": "DE",
-   "titre_original": "Cirque Magie Alex & Joschi",
-   "sources": [
-    {
-     "source": "oazis-freiburg",
-     "nom": "Oazis (Fribourg-en-Brisgau)",
-     "url": null
-    }
-   ],
-   "theme": "Spectacles & cinéma",
-   "gratuit": false,
-   "id": "8a0c39932c"
   },
   {
    "titre": "Classique au cinéma : Manon",
@@ -8016,7 +6682,7 @@
    "date_debut": "2026-11-22",
    "date_fin": null,
    "horaires": "11h",
-   "lieu": "Am Predigertor (Ecke Rotteckring/Unterlinden)",
+   "lieu": "Am Predigertor",
    "commune": "Fribourg-en-Brisgau",
    "categorie": "Visite guidée, Plein air",
    "prix": "15 €",
@@ -8035,17 +6701,40 @@
    "id": "058a3ecea0"
   },
   {
-   "titre": "Hockey : EHC Fribourg – Ravensburg Towerstars",
+   "titre": "Historix-Tours : vampires, sang et mauvais garçons – visite avec comédien",
+   "date_debut": "2026-11-22",
+   "date_fin": null,
+   "horaires": "18h",
+   "lieu": "Am Predigertor",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Visite guidée, Plein air",
+   "prix": "15 €",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Historix-Tours: Vampire, Blut und böse Buben - Stadtführung mit Schauspieler",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Visites & patrimoine",
+   "gratuit": false,
+   "id": "277a54bbf5"
+  },
+  {
+   "titre": "Hockey : EHC Freiburg – Ravensburg Towerstars",
    "date_debut": "2026-11-22",
    "date_fin": null,
    "horaires": "18h30",
-   "lieu": "Echte Helden Arena - EHC Freiburg",
+   "lieu": "Echte Helden Arena",
    "commune": "Fribourg-en-Brisgau",
-   "categorie": "Sports co",
+   "categorie": "Sports co, Hockey",
    "prix": "18–28 €",
    "description": null,
    "pays": "DE",
-   "titre_original": "Hockey EHC Freiburg - Ravensburg Towerstars",
+   "titre_original": "EHC Freiburg - Ravensburg Towerstars",
    "sources": [
     {
      "source": "oazis-freiburg",
@@ -8055,7 +6744,7 @@
    ],
    "theme": "Sport & nature",
    "gratuit": false,
-   "id": "d4d5e03b10"
+   "id": "092b8c8927"
   },
   {
    "titre": "Journées de musique de chambre « monuments musicaux »",
@@ -8105,29 +6794,6 @@
    "theme": "Concerts & festivals",
    "gratuit": false,
    "id": "36559d3fd5"
-  },
-  {
-   "titre": "Les comiques acrobates Alex & Joschi",
-   "date_debut": "2026-11-22",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": "Fabrik Freiburg",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Marionnettes, Spectacle jeunesse",
-   "prix": null,
-   "description": null,
-   "pays": "DE",
-   "titre_original": "Akrobatik-Komiker ALEX & Joschi",
-   "sources": [
-    {
-     "source": "oazis-freiburg",
-     "nom": "Oazis (Fribourg-en-Brisgau)",
-     "url": null
-    }
-   ],
-   "theme": "Spectacles & cinéma",
-   "gratuit": false,
-   "id": "dcce8206a4"
   },
   {
    "titre": "Marché de Noël",
@@ -8289,21 +6955,21 @@
    "titre": "Vers l'inconnu",
    "date_debut": "2026-11-22",
    "date_fin": null,
-   "horaires": "18:30",
+   "horaires": "18h",
    "lieu": "E-Werk Freiburg",
    "commune": "Fribourg-en-Brisgau",
-   "categorie": "Folk / Acoustique World",
-   "prix": "18–28 €",
+   "categorie": "Folk / Acoustique, World",
+   "prix": "10–25 €",
    "description": null,
+   "pays": "DE",
    "titre_original": "Ins Neuland",
    "sources": [
     {
      "source": "oazis-freiburg",
      "nom": "Oazis (Fribourg-en-Brisgau)",
-     "url": "https://oazis.app/sorties/freiburg-im-breisgau"
+     "url": null
     }
    ],
-   "pays": "DE",
    "theme": "Culture & vie locale",
    "gratuit": false,
    "id": "2162a04720"
@@ -8319,7 +6985,7 @@
    "prix": "15 €",
    "description": null,
    "pays": "DE",
-   "titre_original": "Scharfrichter-Tour — Historix-Tours: Henker, Huren, Lasterleben",
+   "titre_original": "Scharfrichter-Tour — Historix‑Tours: Henker, Huren, Lasterleben",
    "sources": [
     {
      "source": "oazis-freiburg",
@@ -8329,7 +6995,7 @@
    ],
    "theme": "Sport & nature",
    "gratuit": false,
-   "id": "d4f6499694"
+   "id": "d50d0d972f"
   },
   {
    "titre": "Visite guidée de Fribourg avec Schwarzwaldmarie",
@@ -8342,7 +7008,7 @@
    "prix": "13 €",
    "description": null,
    "pays": "DE",
-   "titre_original": "Stadtführung Freiburg 2026 Schwarzwaldmarie",
+   "titre_original": "Stadtführung Freiburg 2026 Schwarzwaldmarie Souvenirs",
    "sources": [
     {
      "source": "oazis-freiburg",
@@ -8352,30 +7018,52 @@
    ],
    "theme": "Sport & nature",
    "gratuit": false,
-   "id": "98c092a436"
+   "id": "3c2adbedb1"
   },
   {
    "titre": "Fribourg pour débutants – visite guidée publique",
    "date_debut": "2026-11-23",
    "date_fin": null,
-   "horaires": "10:30",
+   "horaires": "10h30",
    "lieu": "Rathausplatz",
    "commune": "Fribourg-en-Brisgau",
-   "categorie": "Visite guidée",
+   "categorie": "Visite guidée, Balade",
    "prix": "12 €",
    "description": null,
-   "titre_original": "Freiburg für Einsteiger – öffentliche Stadtführung",
+   "pays": "DE",
+   "titre_original": "Freiburg für Einsteiger - öffentliche Stadtführung",
    "sources": [
     {
      "source": "oazis-freiburg",
      "nom": "Oazis (Fribourg-en-Brisgau)",
-     "url": "https://oazis.app/sorties/freiburg-im-breisgau"
+     "url": null
     }
    ],
-   "pays": "DE",
-   "theme": "Visites & patrimoine",
+   "theme": "Sport & nature",
    "gratuit": false,
-   "id": "e8e7f228cc"
+   "id": "8678019e7a"
+  },
+  {
+   "titre": "Gorillas",
+   "date_debut": "2026-11-23",
+   "date_fin": null,
+   "horaires": "21h",
+   "lieu": "Plan Ruefetto",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Club / Boîte, DJ set",
+   "prix": "Gratuit",
+   "description": null,
+   "pays": "DE",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Culture & vie locale",
+   "gratuit": true,
+   "id": "c99326eab4"
   },
   {
    "titre": "Historix-Tours : sorcières, torture et bûchers",
@@ -8401,26 +7089,49 @@
    "id": "e7ff1d279a"
   },
   {
-   "titre": "Jeu de piste marché de Noël",
+   "titre": "Jeu de piste marché de Noël Fribourg-en-Brisgau",
    "date_debut": "2026-11-23",
    "date_fin": null,
    "horaires": null,
    "lieu": "Marché de Noël",
    "commune": "Fribourg-en-Brisgau",
-   "categorie": "Balade",
+   "categorie": "Balade, Plein air",
    "prix": "39 €",
    "description": null,
+   "pays": "DE",
    "sources": [
     {
      "source": "oazis-freiburg",
      "nom": "Oazis (Fribourg-en-Brisgau)",
-     "url": "https://oazis.app/sorties/freiburg-im-breisgau"
+     "url": null
     }
    ],
-   "pays": "DE",
    "theme": "Marchés de Noël & fêtes",
    "gratuit": false,
-   "id": "60c11d3a99"
+   "id": "f8ce1c2c70"
+  },
+  {
+   "titre": "Les faux documents au Moyen Âge – le cas du monastère de St. Trudpert",
+   "date_debut": "2026-11-23",
+   "date_fin": null,
+   "horaires": "18h",
+   "lieu": "Historisches Kaufhaus",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Conférence, Patrimoine",
+   "prix": "Gratuit",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Urkundenfälschungen im Mittelalter – unter besonderer Berücksichtigung der Urkunden des Klosters St. Trudpert",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Visites & patrimoine",
+   "gratuit": true,
+   "id": "bb0e1478ca"
   },
   {
    "titre": "Marché gourmand",
@@ -8449,24 +7160,93 @@
    "titre": "Peter Pan et Wendy",
    "date_debut": "2026-11-23",
    "date_fin": null,
-   "horaires": "10:00",
+   "horaires": "09h30",
    "lieu": "Theater Freiburg",
    "commune": "Fribourg-en-Brisgau",
    "categorie": "Spectacle jeunesse",
    "prix": "13–20 €",
    "description": null,
+   "pays": "DE",
    "titre_original": "Peter Pan und Wendy",
    "sources": [
     {
      "source": "oazis-freiburg",
      "nom": "Oazis (Fribourg-en-Brisgau)",
-     "url": "https://oazis.app/sorties/freiburg-im-breisgau"
+     "url": null
     }
    ],
-   "pays": "DE",
    "theme": "Spectacles & cinéma",
    "gratuit": false,
    "id": "98640bc1a6"
+  },
+  {
+   "titre": "Sorcières, torture, bûcher – visite guidée avec comédiens",
+   "date_debut": "2026-11-23",
+   "date_fin": null,
+   "horaires": "19h",
+   "lieu": "Rathausplatz",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Patrimoine, Visite guidée",
+   "prix": "15 €",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Hexen Folter Scheiterhaufen - Stadtführung mit Schauspieler*innen",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Visites & patrimoine",
+   "gratuit": false,
+   "id": "5b2fe8ca1e"
+  },
+  {
+   "titre": "Tour des Bächle avec Stocky, le nettoyeur de ruisseaux",
+   "date_debut": "2026-11-23",
+   "date_fin": null,
+   "horaires": "16h",
+   "lieu": "Platz der Alten Synagoge",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Visite guidée, Balade",
+   "prix": "17 €",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Bächle-Tour – Unterwegs mit Stocky, dem Bächleputzer",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Sport & nature",
+   "gratuit": false,
+   "id": "3e904ebbe5"
+  },
+  {
+   "titre": "Vivre Fribourg : visite guidée de la vieille ville et de la cathédrale",
+   "date_debut": "2026-11-23",
+   "date_fin": null,
+   "horaires": "14h",
+   "lieu": "Altes Rathaus",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Visite guidée, Plein air",
+   "prix": "18 €",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "FREIBURG erLEBEN: Höhepunkte der Altstadt Stadtführung mit Münster Besichtigung",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Visites & patrimoine",
+   "gratuit": false,
+   "id": "857c20b9c7"
   },
   {
    "titre": "A.Alavi's All-Star Funk Band",
@@ -8514,6 +7294,143 @@
    "id": "e325f7a30e"
   },
   {
+   "titre": "Concert secret Fribourg #5 par Rausgegangen",
+   "date_debut": "2026-11-24",
+   "date_fin": null,
+   "horaires": "19h",
+   "lieu": "Waldsee",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Indie, Concert",
+   "prix": null,
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Geheimkonzert Freiburg #5 by Rausgegangen",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Concerts & festivals",
+   "gratuit": false,
+   "id": "e96b58dda6"
+  },
+  {
+   "titre": "Historix-Tours : poètes, mort et beuveries – visite avec comédien",
+   "date_debut": "2026-11-24",
+   "date_fin": null,
+   "horaires": "19h",
+   "lieu": "Rathausplatz",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Visite guidée, Plein air",
+   "prix": "15 €",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Historix-Tours: Dichter, Tod und Saufgelage - Stadtführung mit Schauspieler",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Visites & patrimoine",
+   "gratuit": false,
+   "id": "c486cbbf83"
+  },
+  {
+   "titre": "JazzNight im Frederics",
+   "date_debut": "2026-11-24",
+   "date_fin": null,
+   "horaires": "19h",
+   "lieu": "Frederics Cocktail Club",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Jazz, Petit concert",
+   "prix": "Gratuit",
+   "description": null,
+   "pays": "DE",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Concerts & festivals",
+   "gratuit": true,
+   "id": "ef88a110f0"
+  },
+  {
+   "titre": "Le mensonge de la démolition – pourquoi conserver vaut souvent mieux que reconstruire",
+   "date_debut": "2026-11-24",
+   "date_fin": null,
+   "horaires": "19h",
+   "lieu": "DAV Kletterzentrum Freiburg",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Conférence, Écologie",
+   "prix": "Gratuit",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Die Abrisslüge - Warum erhalten oft besser ist als Neubauen",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Visites & patrimoine",
+   "gratuit": true,
+   "id": "0956effcc8"
+  },
+  {
+   "titre": "Le violon en concert",
+   "date_debut": "2026-11-24",
+   "date_fin": null,
+   "horaires": "18h",
+   "lieu": "Hochschule für Musik Freiburg",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Classique, Concert",
+   "prix": "Gratuit",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Violine im Konzert",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Concerts & festivals",
+   "gratuit": true,
+   "id": "83e189d7f4"
+  },
+  {
+   "titre": "MUNDOLOGIA : Roumanie",
+   "date_debut": "2026-11-24",
+   "date_fin": null,
+   "horaires": "19h30",
+   "lieu": "Bürgerhaus Seepark",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Conférence, Photographie",
+   "prix": "17,45–22,95 €",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "MUNDOLOGIA: Rumänien",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Visites & patrimoine",
+   "gratuit": false,
+   "id": "47cb906915"
+  },
+  {
    "titre": "Marché",
    "date_debut": "2026-11-24",
    "date_fin": null,
@@ -8534,6 +7451,75 @@
    "theme": "Brocantes & marchés",
    "gratuit": false,
    "id": "167354d735"
+  },
+  {
+   "titre": "Marché paysan de Herdern",
+   "date_debut": "2026-11-24",
+   "date_fin": null,
+   "horaires": "15h",
+   "lieu": "Herdermer Kirchplatz",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Marché, Plein air",
+   "prix": null,
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Herdermer Bauernmarkt",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Brocantes & marchés",
+   "gratuit": false,
+   "id": "b9d5b4a4a0"
+  },
+  {
+   "titre": "Présentation de livre : récits oraux quechuas du Pérou",
+   "date_debut": "2026-11-24",
+   "date_fin": null,
+   "horaires": "19h",
+   "lieu": "Museum Natur und Mensch",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Littérature, Conférence",
+   "prix": null,
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Buchvorstellung: Mündliche Quechua-Erzählungen aus Peru",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Visites & patrimoine",
+   "gratuit": false,
+   "id": "b413538f73"
+  },
+  {
+   "titre": "Sophia ou la fin des humanistes – mise en scène Benjamin Hille",
+   "date_debut": "2026-11-24",
+   "date_fin": null,
+   "horaires": "20h",
+   "lieu": "Wallgraben Theater",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Théâtre",
+   "prix": "24 €",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Sophia oder Das Ende der Humanisten – Regie Benjamin Hille",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Spectacles & cinéma",
+   "gratuit": false,
+   "id": "811465f327"
   },
   {
    "titre": "Bâle compose : Klingen-Tal",
@@ -8567,7 +7553,7 @@
    "commune": "Lörrach",
    "categorie": "Dreiländerausstellung, Sonderausstellung, Sonstiges/Spezial",
    "prix": null,
-   "description": "Der vierteilige Kurs der Volkshochschule beider Basel mit Historiker Markus ...",
+   "description": null,
    "pays": "DE",
    "titre_original": "VHS-Kurs „Zuhause – unterwegs“",
    "sources": [
@@ -8585,6 +7571,28 @@
    "theme": "Ateliers",
    "gratuit": false,
    "id": "8dc9333d02"
+  },
+  {
+   "titre": "Cultspring",
+   "date_debut": "2026-11-25",
+   "date_fin": null,
+   "horaires": "21h",
+   "lieu": "Ruefetto",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Club / Boîte, DJ set",
+   "prix": "0 €",
+   "description": null,
+   "pays": "DE",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Culture & vie locale",
+   "gratuit": false,
+   "id": "7162c4a8f6"
   },
   {
    "titre": "Dead Moon Night",
@@ -8632,27 +7640,116 @@
    "id": "f497385e0f"
   },
   {
-   "titre": "Le banc rouge",
+   "titre": "Deutsch-französischer Spielnachmittag",
    "date_debut": "2026-11-25",
    "date_fin": null,
-   "horaires": "10h",
-   "lieu": "Tumringer Straße, Höhe Eingang Riesgässchen",
-   "commune": "Lörrach",
-   "categorie": "Entraide / Bénévolat",
+   "horaires": "15h",
+   "lieu": "Centre Culturel Français Freiburg e. V.",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Jeux de société",
    "prix": null,
    "description": null,
    "pays": "DE",
-   "titre_original": "Rote Bank",
    "sources": [
     {
-     "source": "oazis-lorrach",
-     "nom": "Oazis (Lörrach)",
-     "url": "https://oazis.app/evenements/rote-bank"
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
     }
    ],
-   "theme": "Culture & vie locale",
+   "theme": "Famille & enfants",
    "gratuit": false,
-   "id": "8f87d09831"
+   "id": "ff908fc5c1"
+  },
+  {
+   "titre": "Glueboys — Live",
+   "date_debut": "2026-11-25",
+   "date_fin": null,
+   "horaires": "20h",
+   "lieu": "Gaststätte Waldsee",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Rock, Concert",
+   "prix": null,
+   "description": null,
+   "pays": "DE",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Concerts & festivals",
+   "gratuit": false,
+   "id": "dc89db4669"
+  },
+  {
+   "titre": "Grammar of Dreams",
+   "date_debut": "2026-11-25",
+   "date_fin": null,
+   "horaires": "20h",
+   "lieu": "Theater Freiburg",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Théâtre, Opéra",
+   "prix": "18 €",
+   "description": null,
+   "pays": "DE",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Spectacles & cinéma",
+   "gratuit": false,
+   "id": "dc0c7fabfb"
+  },
+  {
+   "titre": "Historix-Tours : noblesse, farces et décadence – visite avec comédien",
+   "date_debut": "2026-11-25",
+   "date_fin": null,
+   "horaires": "19h",
+   "lieu": "Schwabentor",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Visite guidée, Théâtre",
+   "prix": "15 €",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Historix-Tours: Adel, Scherz und Dekadenz - Stadtführung mit Schauspieler",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Spectacles & cinéma",
+   "gratuit": false,
+   "id": "c01f68bfac"
+  },
+  {
+   "titre": "Le premier Brandebourgeois de Bach",
+   "date_debut": "2026-11-25",
+   "date_fin": null,
+   "horaires": "19h",
+   "lieu": "Hochschule für Musik Freiburg",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Classique, Concert",
+   "prix": "4–8,50 €",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Das erste Brandenburgische von Bach",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Concerts & festivals",
+   "gratuit": false,
+   "id": "2800283a9d"
   },
   {
    "titre": "Lecture pour enfants avec les Buchhüpfer",
@@ -8701,6 +7798,29 @@
    "id": "cd84622315"
   },
   {
+   "titre": "MUNDOLOGIA : sur les sommets du monde",
+   "date_debut": "2026-11-25",
+   "date_fin": null,
+   "horaires": "19h30",
+   "lieu": "Bürgerhaus Seepark",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Conférence, Plein air",
+   "prix": "21,60–28,20 €",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "MUNDOLOGIA: Auf den Gipfeln der Welt",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Visites & patrimoine",
+   "gratuit": false,
+   "id": "65520ef4bb"
+  },
+  {
    "titre": "Marché",
    "date_debut": "2026-11-25",
    "date_fin": null,
@@ -8723,6 +7843,29 @@
    "id": "e6eb94f03d"
   },
   {
+   "titre": "Marché paysan du Stühlinger",
+   "date_debut": "2026-11-25",
+   "date_fin": null,
+   "horaires": "08h",
+   "lieu": "Stühlinger Kirchplatz",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Marché, Plein air",
+   "prix": null,
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Stühlinger Bauernmarkt",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Brocantes & marchés",
+   "gratuit": false,
+   "id": "26cbd3d9aa"
+  },
+  {
    "titre": "Melt Trio",
    "date_debut": "2026-11-25",
    "date_fin": null,
@@ -8743,6 +7886,29 @@
    "theme": "Concerts & festivals",
    "gratuit": false,
    "id": "97f50768fd"
+  },
+  {
+   "titre": "Pause culturelle : lien et mémoire",
+   "date_debut": "2026-11-25",
+   "date_fin": null,
+   "horaires": "12h30",
+   "lieu": "Augustinermuseum",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Patrimoine, Expo",
+   "prix": "12 €",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Kulturpause: Verbindung und Erinnerung",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Expos & salons",
+   "gratuit": false,
+   "id": "5d4cb20d4a"
   },
   {
    "titre": "Rhyverb Electronic Jam Session",
@@ -8789,6 +7955,52 @@
    "id": "1f7a61696d"
   },
   {
+   "titre": "Soirée de soutien à l'Ukraine",
+   "date_debut": "2026-11-25",
+   "date_fin": null,
+   "horaires": "20h",
+   "lieu": "Mensa Bar Freiburg",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Fête de quartier, Poésie",
+   "prix": null,
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Benefizveranstaltung - Ukraine Hilfe",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Marchés de Noël & fêtes",
+   "gratuit": false,
+   "id": "b03da306ab"
+  },
+  {
+   "titre": "Sophia ou la fin des humanistes – mise en scène Benjamin Hille",
+   "date_debut": "2026-11-25",
+   "date_fin": null,
+   "horaires": "19h",
+   "lieu": "Wallgraben Theater",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Théâtre",
+   "prix": "25 €",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Sophia oder Das Ende der Humanisten - Regie Benjamin Hille",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Spectacles & cinéma",
+   "gratuit": false,
+   "id": "54b57999ed"
+  },
+  {
    "titre": "Spectacle son et lumière « Once Upon a Night » dans le cloître du Musée Unterlinden",
    "date_debut": "2026-11-25",
    "date_fin": "2027-01-03",
@@ -8809,6 +8021,52 @@
    "theme": "Marchés de Noël & fêtes",
    "gratuit": false,
    "id": "639f668a00"
+  },
+  {
+   "titre": "Spritzwoch irie surf – culture, café et vagues",
+   "date_debut": "2026-11-25",
+   "date_fin": null,
+   "horaires": "15h",
+   "lieu": null,
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Club / Boîte, Fête de quartier",
+   "prix": "Gratuit",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Spritzwoch irie surf - Culture, Coffee and Waves",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Marchés de Noël & fêtes",
+   "gratuit": true,
+   "id": "5abdc0c183"
+  },
+  {
+   "titre": "Thalia présente : Robert Habeck, Arctic Meltdown",
+   "date_debut": "2026-11-25",
+   "date_fin": null,
+   "horaires": "20h",
+   "lieu": "Konzerthaus Freiburg",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Conférence, Littérature",
+   "prix": "26,50–33,50 €",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Thalia präsentiert: Robert Habeck: Arctic Meltdown - Die Neuvermessung der Welt",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Visites & patrimoine",
+   "gratuit": false,
+   "id": "48764f5581"
   },
   {
    "titre": "« Come together » au Werkraum Schöpflin",
@@ -8834,6 +8092,29 @@
    "id": "e6c22a7fdf"
   },
   {
+   "titre": "Atelier de poésie blackout au Centre culturel français",
+   "date_debut": "2026-11-26",
+   "date_fin": null,
+   "horaires": "10h",
+   "lieu": "Centre Culturel Français Freiburg e. V.",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Loisirs créatifs, Heure du conte",
+   "prix": "Gratuit",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Blackout Poetry Workshop in der Bibliothek des Centre Culturel Français",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Ateliers",
+   "gratuit": true,
+   "id": "4c4071c359"
+  },
+  {
    "titre": "Atelier main à la pâte adulte : Spécialités de Noël",
    "date_debut": "2026-11-26",
    "date_fin": null,
@@ -8854,6 +8135,51 @@
    "theme": "Marchés de Noël & fêtes",
    "gratuit": false,
    "id": "0f19ffa43e"
+  },
+  {
+   "titre": "Basel Jazz Orchestra plays Bjo",
+   "date_debut": "2026-11-26",
+   "date_fin": null,
+   "horaires": "de 21 h à 23 h",
+   "lieu": "Bird's Eye",
+   "commune": "Bâle",
+   "categorie": "big band,jazz",
+   "prix": null,
+   "description": null,
+   "pays": "CH",
+   "sources": [
+    {
+     "source": "denkmal-bale",
+     "nom": "Denkmal (concerts et soirées à Bâle)",
+     "url": "https://denkmal.org/fr/basel/2026-11-26/67557231-9c7f-4814-8111-1c340d61e133"
+    }
+   ],
+   "theme": "Concerts & festivals",
+   "gratuit": false,
+   "id": "db6946c2ad"
+  },
+  {
+   "titre": "Blind Date Music – concerts à domicile de MEHRKLANG",
+   "date_debut": "2026-11-26",
+   "date_fin": null,
+   "horaires": "20h",
+   "lieu": "Veranstaltungsort wird per Mail 3 Tage vorher",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Folk / Acoustique, Concert",
+   "prix": null,
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Blind Date Music – Kult Hauskonzertreihen von MEHRKLANG",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Concerts & festivals",
+   "gratuit": false,
+   "id": "57fb4687ab"
   },
   {
    "titre": "Candlelight : Coldplay et Imagine Dragons - 20%",
@@ -8900,6 +8226,208 @@
    "id": "6f6ee49b2c"
   },
   {
+   "titre": "El Sina",
+   "date_debut": "2026-11-26",
+   "date_fin": null,
+   "horaires": "23h",
+   "lieu": "Renée",
+   "commune": "Bâle",
+   "categorie": "art rock,soul,post punk,70s",
+   "prix": null,
+   "description": null,
+   "pays": "CH",
+   "sources": [
+    {
+     "source": "denkmal-bale",
+     "nom": "Denkmal (concerts et soirées à Bâle)",
+     "url": "https://denkmal.org/fr/basel/2026-11-26/42e5e37a-f557-4094-8646-61b4deabe96d"
+    }
+   ],
+   "theme": "Culture & vie locale",
+   "gratuit": false,
+   "id": "80c954aa32"
+  },
+  {
+   "titre": "Florentine Osche & Maximilian Lorenz - Fifty / Fifty",
+   "date_debut": "2026-11-26",
+   "date_fin": null,
+   "horaires": "20h",
+   "lieu": "Vorderhaus - Kultur in der Fabrik",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Stand-up",
+   "prix": "26,90 €",
+   "description": null,
+   "pays": "DE",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Culture & vie locale",
+   "gratuit": false,
+   "id": "18e0bd6200"
+  },
+  {
+   "titre": "Gast/arbeit",
+   "date_debut": "2026-11-26",
+   "date_fin": null,
+   "horaires": "20h",
+   "lieu": "Cargo-Theater in der H15",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Théâtre, Migration",
+   "prix": "25 €",
+   "description": null,
+   "pays": "DE",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Spectacles & cinéma",
+   "gratuit": false,
+   "id": "fc8a082335"
+  },
+  {
+   "titre": "Initiation aux fumigations avec Schwarzwald Rauch",
+   "date_debut": "2026-11-26",
+   "date_fin": null,
+   "horaires": "18h",
+   "lieu": "Layback",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Loisirs créatifs, Plein air",
+   "prix": "45 €",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Räuchern für Einsteiger*innen mit Schwarzwald Rauch",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Culture & vie locale",
+   "gratuit": false,
+   "id": "2db155decc"
+  },
+  {
+   "titre": "Jazznights by Jazzkollektiv",
+   "date_debut": "2026-11-26",
+   "date_fin": null,
+   "horaires": "21h",
+   "lieu": "Schall und Rauch",
+   "commune": "Bâle",
+   "categorie": "jazz",
+   "prix": null,
+   "description": null,
+   "pays": "CH",
+   "sources": [
+    {
+     "source": "denkmal-bale",
+     "nom": "Denkmal (concerts et soirées à Bâle)",
+     "url": "https://denkmal.org/fr/basel/2026-11-26/e3435940-8b1b-4275-b020-200ee28c1ae5"
+    }
+   ],
+   "theme": "Concerts & festivals",
+   "gratuit": false,
+   "id": "cbe65058ed"
+  },
+  {
+   "titre": "Kling, Glühwein, klingelingeling — die Weihnachts‑Show‑Tour mit Betty BBQ",
+   "date_debut": "2026-11-26",
+   "date_fin": null,
+   "horaires": "15h",
+   "lieu": "Betty BBQ Meeting Point",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Drag show, Stand-up",
+   "prix": "38 €",
+   "description": null,
+   "pays": "DE",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Culture & vie locale",
+   "gratuit": false,
+   "id": "dc6f2c9832"
+  },
+  {
+   "titre": "Les Amours du poète et chansons d'amour",
+   "date_debut": "2026-11-26",
+   "date_fin": null,
+   "horaires": "19h",
+   "lieu": "Archäologische Sammlung der Albert-Ludwigs-Universität Freiburg im Herderbau",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Classique, Concert",
+   "prix": "Gratuit",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Dichterliebe und Love songs",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Concerts & festivals",
+   "gratuit": true,
+   "id": "0d96832592"
+  },
+  {
+   "titre": "MUNDOLOGIA : 40 ans d'aventure en camping-car",
+   "date_debut": "2026-11-26",
+   "date_fin": null,
+   "horaires": "19h30",
+   "lieu": "Bürgerhaus Seepark",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Conférence",
+   "prix": "17,45–22,95 €",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "MUNDOLOGIA: 40 Jahre Abenteuer Reisemobil",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Visites & patrimoine",
+   "gratuit": false,
+   "id": "1ab56e1193"
+  },
+  {
+   "titre": "Max Klinger. Gravures",
+   "date_debut": "2026-11-26",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": "Haus der Graphischen Sammlung",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Autre",
+   "prix": null,
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Max Klinger. Radierungen",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Culture & vie locale",
+   "gratuit": false,
+   "id": "e5c323fadb"
+  },
+  {
    "titre": "Migration : travail immigré",
    "date_debut": "2026-11-26",
    "date_fin": null,
@@ -8921,6 +8449,73 @@
    "theme": "Spectacles & cinéma",
    "gratuit": false,
    "id": "eecb87e2a9"
+  },
+  {
+   "titre": "Murmur: Miki Yui, the Handover",
+   "date_debut": "2026-11-26",
+   "date_fin": null,
+   "horaires": "21h",
+   "lieu": "Hirscheneck",
+   "commune": "Bâle",
+   "categorie": "global sounds,electronic,experimental",
+   "prix": null,
+   "description": null,
+   "pays": "CH",
+   "sources": [
+    {
+     "source": "denkmal-bale",
+     "nom": "Denkmal (concerts et soirées à Bâle)",
+     "url": "https://denkmal.org/fr/basel/2026-11-26/bae7af3e-b94c-40e9-ad40-3e728d4e0d02"
+    }
+   ],
+   "theme": "Culture & vie locale",
+   "gratuit": false,
+   "id": "080e751336"
+  },
+  {
+   "titre": "Petit-déjeuner théâtre – café, croissant et culture",
+   "date_debut": "2026-11-26",
+   "date_fin": null,
+   "horaires": "06h36",
+   "lieu": "Wallgraben Theater",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Théâtre, Heure du conte",
+   "prix": "16 €",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Theater-Früh-Stück — Kaffee, Croissant & Kultur zum Start in den Tag",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Spectacles & cinéma",
+   "gratuit": false,
+   "id": "07dd2b0f26"
+  },
+  {
+   "titre": "Pro-Pain, Gurd",
+   "date_debut": "2026-11-26",
+   "date_fin": null,
+   "horaires": "20h",
+   "lieu": "Z7",
+   "commune": "Bâle",
+   "categorie": "metal",
+   "prix": null,
+   "description": null,
+   "pays": "CH",
+   "sources": [
+    {
+     "source": "denkmal-bale",
+     "nom": "Denkmal (concerts et soirées à Bâle)",
+     "url": "https://denkmal.org/fr/basel/2026-11-26/d2d3ab03-7f81-4921-94d1-a2cea0f34260"
+    }
+   ],
+   "theme": "Culture & vie locale",
+   "gratuit": false,
+   "id": "d4605cbaa1"
   },
   {
    "titre": "SPIELRAUM",
@@ -8945,6 +8540,252 @@
    "id": "594950e8ac"
   },
   {
+   "titre": "Soirée karaoké",
+   "date_debut": "2026-11-26",
+   "date_fin": null,
+   "horaires": "19h",
+   "lieu": "Frederics Cocktail Club",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Karaoké",
+   "prix": "Gratuit",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Karaoke Night",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Culture & vie locale",
+   "gratuit": true,
+   "id": "081f0e475e"
+  },
+  {
+   "titre": "Songwriter Slam",
+   "date_debut": "2026-11-26",
+   "date_fin": null,
+   "horaires": "de 21 h à 23 h",
+   "lieu": "Atlantis",
+   "commune": "Bâle",
+   "categorie": "singer-songwriter",
+   "prix": null,
+   "description": null,
+   "pays": "CH",
+   "sources": [
+    {
+     "source": "denkmal-bale",
+     "nom": "Denkmal (concerts et soirées à Bâle)",
+     "url": "https://denkmal.org/fr/basel/2026-11-26/7debb4c3-04d2-40d3-a538-27e99b94a1f3"
+    }
+   ],
+   "theme": "Culture & vie locale",
+   "gratuit": false,
+   "id": "033e99fae8"
+  },
+  {
+   "titre": "Stone Water",
+   "date_debut": "2026-11-26",
+   "date_fin": null,
+   "horaires": "21h",
+   "lieu": "8 Bar",
+   "commune": "Bâle",
+   "categorie": "blues rock",
+   "prix": null,
+   "description": null,
+   "pays": "CH",
+   "sources": [
+    {
+     "source": "denkmal-bale",
+     "nom": "Denkmal (concerts et soirées à Bâle)",
+     "url": "https://denkmal.org/fr/basel/2026-11-26/f91f5566-42fd-49cb-a832-01cdd426b744"
+    }
+   ],
+   "theme": "Culture & vie locale",
+   "gratuit": false,
+   "id": "a49bb47832"
+  },
+  {
+   "titre": "Tai Share & Dario Rohrbach",
+   "date_debut": "2026-11-26",
+   "date_fin": null,
+   "horaires": "18h",
+   "lieu": "Zazaa Social Club",
+   "commune": "Bâle",
+   "categorie": "funk,groove",
+   "prix": null,
+   "description": null,
+   "pays": "CH",
+   "sources": [
+    {
+     "source": "denkmal-bale",
+     "nom": "Denkmal (concerts et soirées à Bâle)",
+     "url": "https://denkmal.org/fr/basel/2026-11-26/d3f6f477-30fc-4e46-b385-0751a2517a4b"
+    }
+   ],
+   "theme": "Culture & vie locale",
+   "gratuit": false,
+   "id": "36b48d43a0"
+  },
+  {
+   "titre": "There are Rivers in the Sky by Elif Shafak",
+   "date_debut": "2026-11-26",
+   "date_fin": null,
+   "horaires": "19h",
+   "lieu": "Carl-Schurz-Haus",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Littérature",
+   "prix": "Gratuit",
+   "description": null,
+   "pays": "DE",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Culture & vie locale",
+   "gratuit": true,
+   "id": "9fa0e99022"
+  },
+  {
+   "titre": "Thursday Shift: Rubinski & OG Lotti",
+   "date_debut": "2026-11-26",
+   "date_fin": null,
+   "horaires": "18h",
+   "lieu": "Nordstern",
+   "commune": "Bâle",
+   "categorie": "trance,techno,house",
+   "prix": null,
+   "description": null,
+   "pays": "CH",
+   "sources": [
+    {
+     "source": "denkmal-bale",
+     "nom": "Denkmal (concerts et soirées à Bâle)",
+     "url": "https://denkmal.org/fr/basel/2026-11-26/f7b3e9ad-6121-4128-a828-bd4b4cfb1fc5"
+    }
+   ],
+   "theme": "Culture & vie locale",
+   "gratuit": false,
+   "id": "c7e1e9dc50"
+  },
+  {
+   "titre": "Tim Edey & Ross Ainslie",
+   "date_debut": "2026-11-26",
+   "date_fin": null,
+   "horaires": "20h",
+   "lieu": "Barakuba",
+   "commune": "Bâle",
+   "categorie": "folk",
+   "prix": null,
+   "description": null,
+   "pays": "CH",
+   "sources": [
+    {
+     "source": "denkmal-bale",
+     "nom": "Denkmal (concerts et soirées à Bâle)",
+     "url": "https://denkmal.org/fr/basel/2026-11-26/19f05cd5-a419-457d-b1bf-d104d2f1bd63"
+    }
+   ],
+   "theme": "Culture & vie locale",
+   "gratuit": false,
+   "id": "7cae757ec8"
+  },
+  {
+   "titre": "Twice, soirée étudiante",
+   "date_debut": "2026-11-26",
+   "date_fin": null,
+   "horaires": "22h",
+   "lieu": "Parterre One",
+   "commune": "Bâle",
+   "categorie": "charts,reggaeton,techhouse,funk",
+   "prix": null,
+   "description": null,
+   "pays": "CH",
+   "titre_original": "Twice Student:innenenparty",
+   "sources": [
+    {
+     "source": "denkmal-bale",
+     "nom": "Denkmal (concerts et soirées à Bâle)",
+     "url": "https://denkmal.org/fr/basel/2026-11-26/48757624-2c89-4a73-8566-aa242351b7c9"
+    }
+   ],
+   "theme": "Culture & vie locale",
+   "gratuit": false,
+   "id": "fe79e8ebac"
+  },
+  {
+   "titre": "Uptown DJ-Lab",
+   "date_debut": "2026-11-26",
+   "date_fin": null,
+   "horaires": "de 18 h à 22 h",
+   "lieu": "Kaschemme",
+   "commune": "Bâle",
+   "categorie": "charity,electronic",
+   "prix": null,
+   "description": null,
+   "pays": "CH",
+   "sources": [
+    {
+     "source": "denkmal-bale",
+     "nom": "Denkmal (concerts et soirées à Bâle)",
+     "url": "https://denkmal.org/fr/basel/2026-11-26/a1818d53-40f5-4480-91c7-fff00d250718"
+    }
+   ],
+   "theme": "Culture & vie locale",
+   "gratuit": false,
+   "id": "e1a0de53b7"
+  },
+  {
+   "titre": "Visite guidée de Fribourg avec Schwarzwaldmarie",
+   "date_debut": "2026-11-26",
+   "date_fin": null,
+   "horaires": "14h15",
+   "lieu": "Schwarzwaldmarie Souvenirs",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Visite guidée, Balade",
+   "prix": "13 €",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Stadtführung Freiburg 2026 Schwarzwaldmarie Souvenirs",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Sport & nature",
+   "gratuit": false,
+   "id": "ea3497ed3f"
+  },
+  {
+   "titre": "« Dans les ruines de Berlin » – chansons d'après-guerre",
+   "date_debut": "2026-11-26",
+   "date_fin": null,
+   "horaires": "18h",
+   "lieu": "Humboldtsaal im Freiburger Hof",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Conférence",
+   "prix": "Gratuit",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "»In den Ruinen von Berlin« – Songs nach dem Krieg",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Visites & patrimoine",
+   "gratuit": true,
+   "id": "b164f9ae1c"
+  },
+  {
    "titre": "35e Salon du livre jeunesse LeseLust de Lörrach",
    "date_debut": "2026-11-27",
    "date_fin": null,
@@ -8966,6 +8807,52 @@
    "theme": "Expos & salons",
    "gratuit": false,
    "id": "007af8306a"
+  },
+  {
+   "titre": "Atelier de dessin franco-allemand pour enfants",
+   "date_debut": "2026-11-27",
+   "date_fin": null,
+   "horaires": "15h",
+   "lieu": "Centre Culturel Français Freiburg e. V.",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Atelier créatif, 7–11 ans",
+   "prix": "90 €",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Deutsch-französisches Zeichenatelier für Kinder",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Famille & enfants",
+   "gratuit": false,
+   "id": "853744ce1b"
+  },
+  {
+   "titre": "Bain sonore aux bols de cristal",
+   "date_debut": "2026-11-27",
+   "date_fin": null,
+   "horaires": "20h15",
+   "lieu": "YOGARAUM Freiburg",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Autre",
+   "prix": "25 €",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Soundbath mit Kristallklangschalen",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Culture & vie locale",
+   "gratuit": false,
+   "id": "68a977f55e"
   },
   {
    "titre": "Big Sound Orchestra, dir. Jonas Winterhalter, avec Ludwig Nuss et Dave Horler",
@@ -9013,6 +8900,143 @@
    "id": "b7c6a78882"
   },
   {
+   "titre": "Dégustation de vin hebdomadaire à Fribourg",
+   "date_debut": "2026-11-27",
+   "date_fin": null,
+   "horaires": "15h",
+   "lieu": "Staatsweingut Freiburg",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Visite guidée, Plein air",
+   "prix": null,
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Wöchentliche Weinprobe in Freiburg",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Vin & gastronomie",
+   "gratuit": false,
+   "id": "5f163e4de6"
+  },
+  {
+   "titre": "Historix-Tours : cathédrale, portes et légendes – visite avec comédien",
+   "date_debut": "2026-11-27",
+   "date_fin": null,
+   "horaires": "14h30",
+   "lieu": "Am Predigertor",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Visite guidée, Balade",
+   "prix": "15 €",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Historix-Tours: Münster, Tore, Stadtlegenden - Stadtführung mit Schauspieler",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Sport & nature",
+   "gratuit": false,
+   "id": "f799fff799"
+  },
+  {
+   "titre": "Historix-Tours : veilleurs, sorcières, mort et diable – visite avec comédien",
+   "date_debut": "2026-11-27",
+   "date_fin": null,
+   "horaires": "19h",
+   "lieu": "Freiburger Münster",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Visite guidée, Plein air",
+   "prix": "15 €",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Historix-Tours: Wächter, Hexen, Tod und Teufel - Stadtführung mit Schauspieler",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Visites & patrimoine",
+   "gratuit": false,
+   "id": "20ea632354"
+  },
+  {
+   "titre": "Hockey : EHC Fribourg – Düsseldorfer EG",
+   "date_debut": "2026-11-27",
+   "date_fin": null,
+   "horaires": "19h30",
+   "lieu": "Echte Helden Arena",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Hockey, Sports co",
+   "prix": "18–28 €",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "EHC Freiburg - Düsseldorfer EG",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Sport & nature",
+   "gratuit": false,
+   "id": "092a2cc865"
+  },
+  {
+   "titre": "Katharina Pöpping – Shift (Regionale 27)",
+   "date_debut": "2026-11-27",
+   "date_fin": null,
+   "horaires": "18h30",
+   "lieu": "Galerie für Gegenwartskunst",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Expo, Vernissage",
+   "prix": null,
+   "description": null,
+   "pays": "DE",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Expos & salons",
+   "gratuit": false,
+   "id": "2ef704bfff"
+  },
+  {
+   "titre": "Kling, Glühwein, klingelingeling – le show de Noël de Betty BBQ",
+   "date_debut": "2026-11-27",
+   "date_fin": null,
+   "horaires": "18h30",
+   "lieu": "Betty BBQ Meeting Point",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Drag show, Stand-up",
+   "prix": "38 €",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Kling, Glühwein, klingelingeling — die Weihnachts-Show-Tour mit Betty BBQ",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Marchés de Noël & fêtes",
+   "gratuit": false,
+   "id": "3931c5a934"
+  },
+  {
    "titre": "LÖRRACH AB 16 - THE LAST 2K16",
    "date_debut": "2026-11-27",
    "date_fin": null,
@@ -9058,6 +9082,52 @@
    "id": "1ef5631ee1"
   },
   {
+   "titre": "Nous et l'intelligence artificielle – Bhashkar Perinchery",
+   "date_debut": "2026-11-27",
+   "date_fin": null,
+   "horaires": "19h",
+   "lieu": "Life Surfers House",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Politique & Économie",
+   "prix": "10 €",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Wir und die Künstliche Intelligenz - Bhashkar Perinchery",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Culture & vie locale",
+   "gratuit": false,
+   "id": "6cff4ee040"
+  },
+  {
+   "titre": "Petit-déjeuner théâtre – café, croissant et culture",
+   "date_debut": "2026-11-27",
+   "date_fin": null,
+   "horaires": "06h36",
+   "lieu": "Wallgraben Theater",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Théâtre, Littérature",
+   "prix": "16 €",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Theater-Früh-Stück — Kaffee, Croissant & Kultur zum Start in den Tag",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Spectacles & cinéma",
+   "gratuit": false,
+   "id": "541f833dad"
+  },
+  {
    "titre": "Plaisir de lire à Lörrach",
    "date_debut": "2026-11-27",
    "date_fin": null,
@@ -9081,6 +9151,51 @@
    "id": "82be0d773e"
   },
   {
+   "titre": "Pour Decisions: English Stand up comedy Showcase",
+   "date_debut": "2026-11-27",
+   "date_fin": null,
+   "horaires": "20h",
+   "lieu": "Die Friedrich",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Stand-up",
+   "prix": "10 €",
+   "description": null,
+   "pays": "DE",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Culture & vie locale",
+   "gratuit": false,
+   "id": "f2dcb4f90e"
+  },
+  {
+   "titre": "Provinz Party au Jazzhaus",
+   "date_debut": "2026-11-27",
+   "date_fin": null,
+   "horaires": "23h",
+   "lieu": "Jazzhaus Freiburg",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Club / Boîte, DJ set",
+   "prix": "12 €",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Provinz Party • Jazzhaus Freiburg",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Concerts & festivals",
+   "gratuit": false,
+   "id": "0366c2bf4b"
+  },
+  {
    "titre": "Regionale 27 : ouverture de l'exposition",
    "date_debut": "2026-11-27",
    "date_fin": null,
@@ -9090,18 +9205,64 @@
    "categorie": "Expo",
    "prix": null,
    "description": null,
+   "pays": "DE",
    "titre_original": "Regionale 27: Ausstellungseröffnung",
    "sources": [
     {
      "source": "oazis-freiburg",
      "nom": "Oazis (Fribourg-en-Brisgau)",
-     "url": "https://oazis.app/sorties/freiburg-im-breisgau"
+     "url": null
     }
    ],
-   "pays": "DE",
    "theme": "Expos & salons",
    "gratuit": false,
    "id": "3471d768d3"
+  },
+  {
+   "titre": "Sascha Bendiks – Grundrauschen (concert de sortie d'album)",
+   "date_debut": "2026-11-27",
+   "date_fin": null,
+   "horaires": "20h",
+   "lieu": "Vorderhaus",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Chanson, Rock",
+   "prix": "19,20 €",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Sascha Bendiks - Grundrauschen (Album Release Konzert)",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Concerts & festivals",
+   "gratuit": false,
+   "id": "fe2f925786"
+  },
+  {
+   "titre": "Slam de poésie pour débutants",
+   "date_debut": "2026-11-27",
+   "date_fin": null,
+   "horaires": "16h",
+   "lieu": "Haus der Jugend",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Slam, Poésie",
+   "prix": "5–8 €",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Poetry Slam für Newcomer*innen",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Culture & vie locale",
+   "gratuit": false,
+   "id": "25e1bdf393"
   },
   {
    "titre": "Soirée sport au TIK",
@@ -9113,27 +9274,96 @@
    "categorie": "Club / Boîte, DJ set",
    "prix": "8–10,50 €",
    "description": null,
+   "pays": "DE",
    "titre_original": "SPORT-PARTY im TIK",
    "sources": [
     {
      "source": "oazis-freiburg",
      "nom": "Oazis (Fribourg-en-Brisgau)",
-     "url": "https://oazis.app/sorties/freiburg-im-breisgau"
+     "url": null
     }
    ],
-   "pays": "DE",
    "theme": "Sport & nature",
    "gratuit": false,
    "id": "c4e57e280f"
+  },
+  {
+   "titre": "Visite guidée de Fribourg avec Schwarzwaldmarie",
+   "date_debut": "2026-11-27",
+   "date_fin": null,
+   "horaires": "10h15",
+   "lieu": "Schwarzwaldmarie Souvenirs",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Visite guidée, Balade",
+   "prix": "13 €",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Stadtführung Freiburg 2026 Schwarzwaldmarie Souvenirs",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Sport & nature",
+   "gratuit": false,
+   "id": "d800ae187a"
+  },
+  {
+   "titre": "Vivre Fribourg : visite guidée de la vieille ville et de la cathédrale",
+   "date_debut": "2026-11-27",
+   "date_fin": null,
+   "horaires": "14h",
+   "lieu": "Altes Rathaus",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Visite guidée, Plein air",
+   "prix": "18 €",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "FREIBURG erLEBEN: Höhepunkte der Altstadt Stadtführung mit Münster Besichtigung",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Visites & patrimoine",
+   "gratuit": false,
+   "id": "b4df280596"
+  },
+  {
+   "titre": "Wilde Herzen – soirée indie pop en allemand",
+   "date_debut": "2026-11-27",
+   "date_fin": null,
+   "horaires": "23h",
+   "lieu": "Jazzhaus Freiburg",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Club / Boîte, DJ set",
+   "prix": "13,90 €",
+   "description": null,
+   "pays": "DE",
+   "titre_original": "Wilde Herzen • Die Indie Pop Party mit deutschen Texten • Freiburg",
+   "sources": [
+    {
+     "source": "oazis-freiburg",
+     "nom": "Oazis (Fribourg-en-Brisgau)",
+     "url": null
+    }
+   ],
+   "theme": "Culture & vie locale",
+   "gratuit": false,
+   "id": "1f6b892497"
   },
   {
    "titre": "51e Marché de Noël de Bad Dürrheim",
    "date_debut": "2026-11-28",
    "date_fin": "2026-11-29",
    "horaires": null,
-   "lieu": null,
+   "lieu": "Bad Dürrheim",
    "commune": "Bad Dürrheim",
-   "categorie": "Marché de Noël",
+   "categorie": null,
    "prix": null,
    "description": null,
    "pays": "DE",
@@ -9199,7 +9429,7 @@
    "date_debut": "2026-11-28",
    "date_fin": null,
    "horaires": "20h",
-   "lieu": null,
+   "lieu": "Theatergruppe Salzert-Brettli e.V.",
    "commune": "Lörrach",
    "categorie": "Théâtre",
    "prix": "13–17 €",
@@ -9223,18 +9453,18 @@
    "horaires": "17h",
    "lieu": "Stühlinger Kirchplatz",
    "commune": "Fribourg-en-Brisgau",
-   "categorie": "Plein air, Fête de quartier · village",
+   "categorie": "Plein air, Fête de quartier",
    "prix": "Gratuit",
    "description": null,
+   "pays": "DE",
    "titre_original": "Lichterlabyrinth",
    "sources": [
     {
      "source": "oazis-freiburg",
      "nom": "Oazis (Fribourg-en-Brisgau)",
-     "url": "https://oazis.app/sorties/freiburg-im-breisgau"
+     "url": null
     }
    ],
-   "pays": "DE",
    "theme": "Marchés de Noël & fêtes",
    "gratuit": true,
    "id": "bbcbe8fb61"
@@ -9453,7 +9683,7 @@
    "commune": "Lörrach",
    "categorie": "Dreiländerausstellung, Führung, Lesung/Konzert/Aufführung, Sonderausstellung",
    "prix": "Gratuit",
-   "description": "Programm 11 Uhr: Führung ‚Weibliche Migrationsgeschichten‘ durch die Sonderausstellung Zuhause – ...",
+   "description": null,
    "pays": "DE",
    "titre_original": "Aktionstag im Rahmen der Lörracher Orange Days",
    "sources": [
@@ -9476,7 +9706,7 @@
    "titre": "Les Olchis (spectacle pour enfants)",
    "date_debut": "2026-11-29",
    "date_fin": null,
-   "horaires": "11h30",
+   "horaires": "11h",
    "lieu": "Burghof",
    "commune": "Lörrach",
    "categorie": "Spectacle jeunesse, Théâtre",
@@ -9525,19 +9755,19 @@
    "horaires": "14h",
    "lieu": "Ökostation Freiburg",
    "commune": "Fribourg-en-Brisgau",
-   "categorie": "Entraide / Bénévolat, Écologie",
+   "categorie": "Écologie, Fête de quartier",
    "prix": "Gratuit",
    "description": null,
+   "pays": "DE",
    "titre_original": "Kleidertauschparty am Green Sunday",
    "sources": [
     {
      "source": "oazis-freiburg",
      "nom": "Oazis (Fribourg-en-Brisgau)",
-     "url": "https://oazis.app/sorties/freiburg-im-breisgau"
+     "url": null
     }
    ],
-   "pays": "DE",
-   "theme": "Culture & vie locale",
+   "theme": "Marchés de Noël & fêtes",
    "gratuit": true,
    "id": "ee1bc5e413"
   },
@@ -9550,7 +9780,7 @@
    "commune": "Lörrach",
    "categorie": "Dreiländerausstellung, Führung, Sonderausstellung",
    "prix": null,
-   "description": "Mit Kunsthistorikerin Jeanette Gutmann Ohne Anmeldung, maximal 20 Personen. ...",
+   "description": null,
    "pays": "DE",
    "titre_original": "Öffentliche Führung durch die Sonderausstellung ‚Zuhause – unterwegs‘",
    "sources": [
@@ -9595,12 +9825,13 @@
    "titre": "La Graciosa – rêves canariens",
    "date_debut": "2026-11-30",
    "date_fin": null,
-   "horaires": "19:00",
+   "horaires": "19h",
    "lieu": "Cineplex Lörrach",
    "commune": "Lörrach",
-   "categorie": "Autre (cinéma)",
+   "categorie": "Autre",
    "prix": null,
    "description": null,
+   "pays": "DE",
    "titre_original": "La Graciosa - Kanarische Träume",
    "sources": [
     {
@@ -9609,8 +9840,7 @@
      "url": "https://oazis.app/evenements/la-graciosa-kanarische-traume-lorrach"
     }
    ],
-   "pays": "DE",
-   "theme": "Spectacles & cinéma",
+   "theme": "Culture & vie locale",
    "gratuit": false,
    "id": "6d63b922af"
   },
@@ -9619,7 +9849,7 @@
    "date_debut": "2026-12-01",
    "date_fin": "2026-12-24",
    "horaires": null,
-   "lieu": "La Maison du Pain d'Alsace",
+   "lieu": "La Maison du Pain d’Alsace Sélestat, 7 Rue Du Sel, 67600 Sélestat",
    "commune": "Sélestat",
    "categorie": "Festivités de Noël",
    "prix": null,
@@ -9710,7 +9940,7 @@
    "date_debut": "2026-12-02",
    "date_fin": "2026-12-23",
    "horaires": null,
-   "lieu": "Musée d'Histoire naturelle et d'Ethnographie de Colmar",
+   "lieu": "Musée d'Histoire naturelle et d'Ethnographie de Colmar Colmar, 11 Rue Turenne, 68000 Colmar",
    "commune": "Colmar",
    "categorie": "En famille, Festivités de Noël",
    "prix": null,
@@ -9778,7 +10008,7 @@
    "date_debut": "2026-12-02",
    "date_fin": "2026-12-23",
    "horaires": null,
-   "lieu": "Musée d'Histoire naturelle et d'Ethnographie de Colmar",
+   "lieu": "Musée d'Histoire naturelle et d'Ethnographie de Colmar Colmar, 11 Rue Turenne, 68000 Colmar",
    "commune": "Colmar",
    "categorie": "Autour des animaux, Pour les enfants",
    "prix": null,
@@ -10158,7 +10388,7 @@
    "date_debut": "2026-12-05",
    "date_fin": "2026-12-06",
    "horaires": null,
-   "lieu": "Parc Zoologique et Botanique de Mulhouse",
+   "lieu": "Parc Zoologique et Botanique de Mulhouse Mulhouse, 111 Avenue De La 1Ère Division Blindée, 68100 Mulhouse",
    "commune": "Mulhouse",
    "categorie": "Saint-Nicolas",
    "prix": null,
@@ -10289,28 +10519,6 @@
    "id": "fb6e70241d"
   },
   {
-   "titre": "L'arrivée de saint Nicolas",
-   "date_debut": "2026-12-06",
-   "date_fin": null,
-   "horaires": "16:30",
-   "lieu": "Écomusée d'Alsace",
-   "commune": "Ungersheim",
-   "categorie": "Saint-Nicolas",
-   "prix": null,
-   "description": null,
-   "sources": [
-    {
-     "source": "pass-alsace",
-     "nom": "Pass'Alsace",
-     "url": "https://www.pass-alsace.com/fr/evenement/1320-l-arrivee-de-saint-nicolas"
-    }
-   ],
-   "pays": "FR",
-   "theme": "Marchés de Noël & fêtes",
-   "gratuit": false,
-   "id": "b0ea66dc5e"
-  },
-  {
    "titre": "Lumières de la ville, Lörrach avant Noël | visite thématique",
    "date_debut": "2026-12-06",
    "date_fin": null,
@@ -10332,6 +10540,28 @@
    "theme": "Marchés de Noël & fêtes",
    "gratuit": false,
    "id": "f1bb17bbad"
+  },
+  {
+   "titre": "L’arrivée de saint Nicolas",
+   "date_debut": "2026-12-06",
+   "date_fin": null,
+   "horaires": "16:30",
+   "lieu": "Écomusée d'Alsace Ungersheim, Chemin Du Grosswald, 68190 Ungersheim",
+   "commune": "Ungersheim",
+   "categorie": "Saint-Nicolas",
+   "prix": null,
+   "description": null,
+   "sources": [
+    {
+     "source": "pass-alsace",
+     "nom": "Pass'Alsace",
+     "url": "https://www.pass-alsace.com/fr/evenement/1320-l-arrivee-de-saint-nicolas"
+    }
+   ],
+   "pays": "FR",
+   "theme": "Marchés de Noël & fêtes",
+   "gratuit": false,
+   "id": "e4d822c3de"
   },
   {
    "titre": "Orchestre symphonique du Rhin supérieur",
@@ -10407,7 +10637,7 @@
    "date_debut": "2026-12-09",
    "date_fin": null,
    "horaires": "10:45",
-   "lieu": "Musée d'Histoire naturelle et d'Ethnographie de Colmar",
+   "lieu": "Musée d'Histoire naturelle et d'Ethnographie de Colmar Colmar, 11 Rue Turenne, 68000 Colmar",
    "commune": "Colmar",
    "categorie": "En famille, Pour les enfants",
    "prix": null,
@@ -10433,7 +10663,7 @@
    "commune": "Lörrach",
    "categorie": "Dreiländerausstellung, Sonstiges/Spezial",
    "prix": null,
-   "description": "Es regnet, stürmt oder schneit? Dann wird es im Hebelsaal ...",
+   "description": null,
    "pays": "DE",
    "titre_original": "Erzählcafé, Geschichte(n) in gemütlicher Runde: Winter-Kindheitserinnerungen",
    "sources": [
@@ -10529,7 +10759,7 @@
    "commune": "Lörrach",
    "categorie": "Dreiländerausstellung, Sonderausstellung, Sonstiges/Spezial, Vortrag/Diskussion",
    "prix": null,
-   "description": "Der Fotograf Martin Schulte-Kellinghaus folgt den Spuren des irischen Wandermönchs ...",
+   "description": null,
    "pays": "DE",
    "titre_original": "Bildvortrag: Auf den Spuren der Wandermönche",
    "sources": [
@@ -10553,11 +10783,11 @@
    "date_debut": "2026-12-11",
    "date_fin": "2026-12-13",
    "horaires": null,
-   "lieu": null,
+   "lieu": "Titisee-Neustadt",
    "commune": "Titisee-Neustadt",
-   "categorie": "Sport",
+   "categorie": null,
    "prix": null,
-   "description": "Coupe du monde FIS de saut à ski à Titisee-Neustadt",
+   "description": null,
    "pays": "DE",
    "titre_original": "Weltcup Skispringen Hochschwarzwald",
    "sources": [
@@ -10567,7 +10797,7 @@
      "url": "https://www.schwarzwald-tourismus.info/veranstaltungen/fis-skisprung-weltcup-titisee-neustadt-514aef0824"
     }
    ],
-   "theme": "Sport & nature",
+   "theme": "Culture & vie locale",
    "gratuit": false,
    "id": "51a67e0bb9"
   },
@@ -10851,7 +11081,7 @@
    "commune": "Lörrach",
    "categorie": "Dreiländerausstellung, Lesung/Konzert/Aufführung, Sonderausstellung",
    "prix": null,
-   "description": "Urs Faes, Markus Manfred Jung und Pierre Kretz (Hebelpreis 2024) ...",
+   "description": null,
    "pays": "DE",
    "titre_original": "Literarische Matinee: „Hebel Wirkungen“",
    "sources": [
@@ -11129,7 +11359,7 @@
    "commune": "Lörrach",
    "categorie": "Dreiländerausstellung, Kinderprogramm",
    "prix": null,
-   "description": "Führung mit Museumspädagogin Silke Schwarz in der Dreiländerausstellung für Kinder ...",
+   "description": null,
    "pays": "DE",
    "titre_original": "Kinderprogramm im Museum: Schokolade",
    "sources": [
@@ -11149,11 +11379,11 @@
    "id": "43ed85984f"
   },
   {
-   "titre": "Célébration de la mention du sapin et des 25 ans de la Maison du Pain d'Alsace",
+   "titre": "Célébration de la mention du sapin et des 25 ans de la Maison du Pain d’Alsace",
    "date_debut": "2026-12-21",
    "date_fin": null,
    "horaires": "15:21",
-   "lieu": "La Maison du Pain d'Alsace",
+   "lieu": "La Maison du Pain d’Alsace Sélestat, 7 Rue Du Sel, 67600 Sélestat",
    "commune": "Sélestat",
    "categorie": "Festivités de Noël",
    "prix": null,
@@ -11168,14 +11398,14 @@
    "pays": "FR",
    "theme": "Marchés de Noël & fêtes",
    "gratuit": false,
-   "id": "6b63911f49"
+   "id": "eb800e54a5"
   },
   {
-   "titre": "Visite guidée | Retable d'Issenheim",
+   "titre": "Visite guidée | Retable d’Issenheim",
    "date_debut": "2026-12-21",
    "date_fin": null,
    "horaires": "14:00",
-   "lieu": "Musée Unterlinden",
+   "lieu": "Musée Unterlinden Colmar, Place Unterlinden, 68000 Colmar",
    "commune": "Colmar",
    "categorie": "Visite guidée",
    "prix": null,
@@ -11190,14 +11420,14 @@
    "pays": "FR",
    "theme": "Visites & patrimoine",
    "gratuit": false,
-   "id": "670cc8cbfa"
+   "id": "92ab68e3c1"
   },
   {
    "titre": "Visite guidée : Des jouets sous le sapin",
    "date_debut": "2026-12-22",
    "date_fin": null,
    "horaires": "08:00",
-   "lieu": "Musée Du Jouet De Colmar",
+   "lieu": "Musée du Jouet Musée Du Jouet De Colmar, 40 Rue Vauban, 68000 Colmar",
    "commune": "Colmar",
    "categorie": "Visite guidée",
    "prix": null,
@@ -11259,11 +11489,11 @@
    "id": "3100ed35e6"
   },
   {
-   "titre": "Visite guidée | Chefs-d'œuvre",
+   "titre": "Visite guidée | Chefs-d’œuvre",
    "date_debut": "2026-12-27",
    "date_fin": null,
    "horaires": "11:00",
-   "lieu": "Musée Unterlinden",
+   "lieu": "Musée Unterlinden Colmar, Place Unterlinden, 68000 Colmar",
    "commune": "Colmar",
    "categorie": "Visite guidée",
    "prix": null,
@@ -11278,14 +11508,14 @@
    "pays": "FR",
    "theme": "Visites & patrimoine",
    "gratuit": false,
-   "id": "f1bc80ecc8"
+   "id": "a963c7d5e2"
   },
   {
    "titre": "Visite tout-petits | Le voyage de Platypus",
    "date_debut": "2026-12-27",
    "date_fin": null,
    "horaires": "10:00",
-   "lieu": "Musée Unterlinden",
+   "lieu": "Musée Unterlinden Colmar, Place Unterlinden, 68000 Colmar",
    "commune": "Colmar",
    "categorie": "Pour les enfants",
    "prix": null,
@@ -11377,7 +11607,7 @@
    "commune": "Lörrach",
    "categorie": "Dreiländerausstellung, Führung, Sonderausstellung",
    "prix": null,
-   "description": "Führung auf Alemannisch mit Kunsthistorikerin Jeanette Gutmann in der Dreiländerausstellung. ...",
+   "description": null,
    "pays": "DE",
    "titre_original": "Mittwoch-Matinee „Am Ofe uf dr Burg – Fündli un Schätzli vo Röttle“",
    "sources": [
@@ -11400,7 +11630,7 @@
    "commune": "Lörrach",
    "categorie": "Dreiländerausstellung, Führung, Sonderausstellung",
    "prix": null,
-   "description": "Mit Historiker Marlon Zimmermann. Ohne Anmeldung, maximal 20 Personen. Ohne Anmeldung, ...",
+   "description": null,
    "pays": "DE",
    "titre_original": "Öffentliche Führung durch die Sonderausstellung ‚Zuhause – unterwegs‘",
    "sources": [
@@ -11489,7 +11719,7 @@
    "commune": "Lörrach",
    "categorie": "Dreiländerausstellung, Sonstiges/Spezial",
    "prix": null,
-   "description": "Es regnet, stürmt oder schneit? Dann wird es im Dreiländermuseum ...",
+   "description": null,
    "pays": "DE",
    "titre_original": "Erzählcafé, Geschichte(n) in gemütlicher Runde: Graffitis kennen keine Grenzen",
    "sources": [
