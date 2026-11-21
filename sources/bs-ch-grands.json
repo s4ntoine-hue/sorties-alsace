@@ -2,7 +2,7 @@
  "source": "bs-ch-grands",
  "nom": "Bâle – grands événements",
  "pays": "CH",
- "lu_le": "2026-11-20",
+ "lu_le": "2026-11-21",
  "pages": [
   "https://www.bs.ch/fr/schwerpunkte/portrait/evenements-bale"
  ],
@@ -32,6 +32,18 @@
    "description": "Le théâtre de variétés et le cirque de Noël offrent un divertissement de premier ordre sur la Rosentalanlage."
   },
   {
+   "titre": "Vogel Gryff",
+   "date_debut": "2027-01-20",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.bs.ch/fr/evenements/vogel-gryff",
+   "description": "Les trois sociétés d’honneur du Petit-Bâle célèbrent le «Vogel Gryff» avec un cortège et des danses traditionnelles."
+  },
+  {
    "titre": "Exposition « Van Gogh, Hodler et un cabriolet »",
    "date_debut": "2026-09-19",
    "date_fin": "2027-02-07",
@@ -41,6 +53,18 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.bs.ch/fr/evenements/exposition-van-gogh-hodler-et-un-cabriolet",
+   "description": null
+  },
+  {
+   "titre": "Fondation Beyeler: Exposition Frida Kahlo",
+   "date_debut": "2027-01-31",
+   "date_fin": "2027-05-17",
+   "horaires": null,
+   "lieu": "Fondation Beyeler",
+   "commune": null,
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.bs.ch/fr/evenements/fondation-beyeler-exposition-frida-kahlo",
    "description": null
   }
  ]

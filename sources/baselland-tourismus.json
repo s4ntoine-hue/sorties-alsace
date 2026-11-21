@@ -2,22 +2,58 @@
  "source": "baselland-tourismus",
  "nom": "Baselland Tourismus",
  "pays": "CH",
- "lu_le": "2026-11-20",
+ "lu_le": "2026-11-21",
  "pages": [
   "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements (page 1 sur 5, 2713 manifestations)"
  ],
  "note": "Format des pages suivantes inconnu : seule la page 1 est lue.",
  "events": [
   {
-   "titre": "Pole, Art and Movement Festival",
-   "date_debut": "2026-11-20",
-   "date_fin": null,
+   "titre": "Fotoausstellung MOVING-PICTURES",
+   "date_debut": "2026-11-21",
+   "date_fin": "2026-11-21",
    "horaires": null,
-   "lieu": "BAU3",
+   "lieu": "Basel Art Center, Basel",
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
-   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/pole-art-and-movement-festival-eve_wt1_bddbebbcdc",
+   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/fotoausstellung-moving-pictures-eve_wt1_bdcjdibafb",
+   "description": null
+  },
+  {
+   "titre": "Keenan Ahrends Quartet",
+   "date_debut": "2026-11-21",
+   "date_fin": "2026-11-21",
+   "horaires": null,
+   "lieu": "the bird's eye jazz club, Basel",
+   "commune": "Bâle",
+   "categorie": "Musik",
+   "prix": null,
+   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/keenan-ahrends-quartet-eve_wt1_bdcgedcgac",
+   "description": null
+  },
+  {
+   "titre": "Konomi Festival",
+   "date_debut": "2026-11-21",
+   "date_fin": "2027-05-02",
+   "horaires": null,
+   "lieu": "Basel, 4000, Schweiz, Basel",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/konomi-festival-eve_wt1_bbeeiadaef",
+   "description": null
+  },
+  {
+   "titre": "Prattler Weihnachtsmarkt 2026",
+   "date_debut": "2026-11-21",
+   "date_fin": "2026-11-22",
+   "horaires": null,
+   "lieu": "Evang.-ref. Kirche Pratteln, Pratteln",
+   "commune": "Pratteln",
+   "categorie": "Märkte, Weihnachtsmärkte",
+   "prix": null,
+   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/prattler-weihnachtsmarkt-2026-eve_wt1_bdcefebeai",
    "description": null
   },
   {
@@ -114,18 +150,6 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/mammut-säbelzahntiger.-evolution-des-menschen-in-einem-land-vor-unserer-zeit-eve_wt1_babehhjcah",
-   "description": null
-  },
-  {
-   "titre": "MYSTIK",
-   "date_debut": "2026-11-18",
-   "date_fin": "2026-11-20",
-   "horaires": null,
-   "lieu": "Röm.-kath. Kirche St. Theresia",
-   "commune": "Allschwil",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/mystik-eve_wt1_bdbiafgced",
    "description": null
   },
   {

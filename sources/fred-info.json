@@ -2,14 +2,14 @@
  "source": "fred-info",
  "nom": "FRED (transfrontalier)",
  "pays": "DE",
- "lu_le": "2026-11-20",
+ "lu_le": "2026-11-21",
  "pages": [
   "https://fred.info/fr/evenements/"
  ],
  "note": "Agenda franco-allemand ; premier bloc seulement. Écarter réunions administratives, permanences et webinaires.",
  "events": [
   {
-   "titre": "Mois d'action: Ensemble dans la bibliothèque",
+   "titre": "Mois d’action: Ensemble dans la bibliothèque",
    "date_debut": "2026-11-02",
    "date_fin": "2026-11-27",
    "horaires": "10:00 - 16:00",
@@ -18,19 +18,6 @@
    "categorie": null,
    "prix": null,
    "url": "https://fred.info/fr/events/mois-daction-ensemble-dans-la-bibliotheque/",
-   "description": null,
-   "pays": "DE"
-  },
-  {
-   "titre": "RegioCOP31 à Karlsruhe",
-   "date_debut": "2026-11-09",
-   "date_fin": "2026-11-20",
-   "horaires": null,
-   "lieu": "Karlsruhe",
-   "commune": "Karlsruhe",
-   "categorie": null,
-   "prix": null,
-   "url": "https://fred.info/fr/events/regiocop31-a-karlsruhe/",
    "description": null,
    "pays": "DE"
   },
@@ -48,7 +35,7 @@
    "pays": "FR"
   },
   {
-   "titre": "Inter.ART Strasbourg – 3e édition | Salon international d'art contemporain",
+   "titre": "Inter.ART Strasbourg – 3e édition | Salon international d’art contemporain",
    "date_debut": "2026-11-20",
    "date_fin": "2026-11-22",
    "horaires": "10:00 - 19:00",

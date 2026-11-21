@@ -2,14 +2,26 @@
  "source": "localcities-bale",
  "nom": "Localcities (Bâle)",
  "pays": "CH",
- "lu_le": "2026-11-19",
+ "lu_le": "2026-11-21",
  "pages": [
   "https://www.localcities.ch/de/veranstaltungen/basel/3681 (jour même uniquement)"
  ],
  "events": [
   {
+   "titre": "Flohmarkt Petersplatz",
+   "date_debut": "2026-11-21",
+   "date_fin": null,
+   "horaires": "07:30-16:00",
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4651557",
+   "description": null
+  },
+  {
    "titre": "Vitrinenausstellung - Universitätsbibliothek",
-   "date_debut": "2026-11-19",
+   "date_debut": "2026-11-21",
    "date_fin": null,
    "horaires": "08:00-20:00",
    "lieu": "Universitätsbibliothek (UB)",
@@ -21,9 +33,9 @@
   },
   {
    "titre": "Stadtmarkt",
-   "date_debut": "2026-11-19",
+   "date_debut": "2026-11-21",
    "date_fin": null,
-   "horaires": "08:00-14:00",
+   "horaires": "08:00-17:00",
    "lieu": null,
    "commune": "Bâle",
    "categorie": null,
@@ -33,7 +45,7 @@
   },
   {
    "titre": "Volta Pong",
-   "date_debut": "2026-11-19",
+   "date_debut": "2026-11-21",
    "date_fin": null,
    "horaires": "09:00-00:00",
    "lieu": "Volta Pong",
@@ -44,8 +56,20 @@
    "description": null
   },
   {
+   "titre": "Schreiblust",
+   "date_debut": "2026-11-21",
+   "date_fin": null,
+   "horaires": "09:30",
+   "lieu": "Literaturhaus Basel",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4642393",
+   "description": null
+  },
+  {
    "titre": "Kreativbox",
-   "date_debut": "2026-11-19",
+   "date_debut": "2026-11-21",
    "date_fin": null,
    "horaires": "10:00-17:00",
    "lieu": "Museum der Kulturen Basel",
@@ -57,7 +81,7 @@
   },
   {
    "titre": "Die Eule ist pink – farbige Geschichten",
-   "date_debut": "2026-11-19",
+   "date_debut": "2026-11-21",
    "date_fin": null,
    "horaires": "10:00-17:00",
    "lieu": "Museum der Kulturen Basel",
@@ -68,8 +92,20 @@
    "description": null
   },
   {
+   "titre": "COL-ART",
+   "date_debut": "2026-11-21",
+   "date_fin": null,
+   "horaires": "10:00-17:00",
+   "lieu": "Galerie NUMAS IGRA",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4912295",
+   "description": null
+  },
+  {
    "titre": "Tie-dye: gefaltet, genäht, gefärbt",
-   "date_debut": "2026-11-19",
+   "date_debut": "2026-11-21",
    "date_fin": null,
    "horaires": "10:00-17:00",
    "lieu": "Museum der Kulturen Basel",
@@ -81,7 +117,7 @@
   },
   {
    "titre": "ZUHAUSE - UNTERWEGS - SCHIFFERLEBEN",
-   "date_debut": "2026-11-19",
+   "date_debut": "2026-11-21",
    "date_fin": null,
    "horaires": "10:00-17:00",
    "lieu": "Hafenmuseum",
@@ -93,7 +129,7 @@
   },
   {
    "titre": "Vitrinenausstellung - Historisches Museum",
-   "date_debut": "2026-11-19",
+   "date_debut": "2026-11-21",
    "date_fin": null,
    "horaires": "10:00-17:00",
    "lieu": "Historisches Museum Basel: Barfüsserkirche",
@@ -105,7 +141,7 @@
   },
   {
    "titre": "Dino & Saurier – Lebendige Bilder vergangener Tage",
-   "date_debut": "2026-11-19",
+   "date_debut": "2026-11-21",
    "date_fin": null,
    "horaires": "10:00-17:00",
    "lieu": "Naturhistorisches Museum Basel",
@@ -117,7 +153,7 @@
   },
   {
    "titre": "Freundschaft, Sammeln, Kunstsinn",
-   "date_debut": "2026-11-19",
+   "date_debut": "2026-11-21",
    "date_fin": null,
    "horaires": "10:00-18:00",
    "lieu": "Kunstmuseum Basel | Hauptbau",
@@ -129,7 +165,7 @@
   },
   {
    "titre": "Grafik grenzenlos",
-   "date_debut": "2026-11-19",
+   "date_debut": "2026-11-21",
    "date_fin": null,
    "horaires": "10:00-18:00",
    "lieu": "Kunstmuseum Basel | Hauptbau",
@@ -140,20 +176,8 @@
    "description": null
   },
   {
-   "titre": "mega.musik",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "10:00-11:00",
-   "lieu": "Stadtcasino Basel",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4827139",
-   "description": null
-  },
-  {
    "titre": "Van Gogh, Hodler und ein Cabriolet",
-   "date_debut": "2026-11-19",
+   "date_debut": "2026-11-21",
    "date_fin": null,
    "horaires": "10:00-18:00",
    "lieu": "Kunstmuseum Basel",
@@ -165,7 +189,7 @@
   },
   {
    "titre": "Roy Lichtenstein",
-   "date_debut": "2026-11-19",
+   "date_debut": "2026-11-21",
    "date_fin": null,
    "horaires": "10:00-18:00",
    "lieu": "Kunstmuseum Basel",
@@ -177,7 +201,7 @@
   },
   {
    "titre": "Alles lebt – mehr als menschliche Welten",
-   "date_debut": "2026-11-19",
+   "date_debut": "2026-11-21",
    "date_fin": null,
    "horaires": "10:00-17:00",
    "lieu": "Museum der Kulturen Basel",
@@ -189,7 +213,7 @@
   },
   {
    "titre": "Fragile Masterpieces: Keramik in der Renaissance-Apotheke",
-   "date_debut": "2026-11-19",
+   "date_debut": "2026-11-21",
    "date_fin": null,
    "horaires": "10:00-17:00",
    "lieu": "Pharmazie-Historisches Museum der Universität Basel",
@@ -201,7 +225,7 @@
   },
   {
    "titre": "Neue Konstellationen",
-   "date_debut": "2026-11-19",
+   "date_debut": "2026-11-21",
    "date_fin": null,
    "horaires": "10:00-18:00",
    "lieu": "Kunstmuseum Basel",
@@ -209,30 +233,6 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4546801",
-   "description": null
-  },
-  {
-   "titre": "Holly Berry",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "10:00-18:00",
-   "lieu": "Spielzeug Welten Museum Basel",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4764755",
-   "description": null
-  },
-  {
-   "titre": "Zeitsprünge – Basler Geschichte in Kürze",
-   "date_debut": "2026-11-19",
-   "date_fin": null,
-   "horaires": "10:00-17:00",
-   "lieu": "Historisches Museum Basel: Barfüsserkirche",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4760385",
    "description": null
   }
  ]

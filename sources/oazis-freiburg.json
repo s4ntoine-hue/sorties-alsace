@@ -2,7 +2,7 @@
  "source": "oazis-freiburg",
  "nom": "Oazis (Fribourg-en-Brisgau)",
  "pays": "DE",
- "lu_le": "2026-11-20",
+ "lu_le": "2026-11-21",
  "pages": [
   "https://oazis.app/sorties/freiburg-im-breisgau (2 817 à venir ; seuls les premiers sont lus)"
  ],
@@ -10,182 +10,13 @@
  "events": [
   {
    "titre": "Theater-Früh-Stück - Kaffee, Croissant & Kultur zum Start in den Tag",
-   "date_debut": "2026-11-20",
+   "date_debut": "2026-11-26",
    "date_fin": null,
    "horaires": "06h36",
    "lieu": "Wallgraben Theater",
    "commune": "Fribourg-en-Brisgau",
    "categorie": "Théâtre, Littérature",
    "prix": "16 €",
-   "url": null,
-   "description": null,
-   "pays": "DE"
-  },
-  {
-   "titre": "Weihnachtsmarkt-Krimi Freiburg: Der Glühwein-Guru",
-   "date_debut": "2026-11-20",
-   "date_fin": null,
-   "horaires": "10h",
-   "lieu": "Platz der Alten Synagoge – Weihnachtsmarkt-Krimi-Startpunkt",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Plein air, Marché",
-   "prix": "16–29,90 €",
-   "url": null,
-   "description": null,
-   "pays": "DE"
-  },
-  {
-   "titre": "Stadtführung Freiburg 2026",
-   "date_debut": "2026-11-20",
-   "date_fin": null,
-   "horaires": "10h15",
-   "lieu": "Schwarzwaldmarie Souvenirs",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Visite guidée, Plein air",
-   "prix": "13 €",
-   "url": null,
-   "description": null,
-   "pays": "DE"
-  },
-  {
-   "titre": "FREIBURG erLEBEN: Höhepunkte der Altstadt Stadtführung mit Münster Besichtigung",
-   "date_debut": "2026-11-20",
-   "date_fin": null,
-   "horaires": "14h",
-   "lieu": "Altes Rathaus",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Visite guidée, Plein air",
-   "prix": "18 €",
-   "url": null,
-   "description": null,
-   "pays": "DE"
-  },
-  {
-   "titre": "Historix-Tours: Münster, Tore, Stadtlegenden - Stadtführung mit Schauspieler",
-   "date_debut": "2026-11-20",
-   "date_fin": null,
-   "horaires": "14h30",
-   "lieu": "Am Predigertor",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Visite guidée, Balade",
-   "prix": "15 €",
-   "url": null,
-   "description": null,
-   "pays": "DE"
-  },
-  {
-   "titre": "Kling, Glühwein, klingelingeling — Weihnachts-Show-Tour mit Betty BBQ",
-   "date_debut": "2026-11-20",
-   "date_fin": null,
-   "horaires": "15h",
-   "lieu": "Betty BBQ Meeting Point",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Drag show, Stand-up",
-   "prix": "38 €",
-   "url": null,
-   "description": null,
-   "pays": "DE"
-  },
-  {
-   "titre": "Wir haben was zu sagen – Mädchen und Frauen im Dialog mit Politik",
-   "date_debut": "2026-11-20",
-   "date_fin": null,
-   "horaires": "17h",
-   "lieu": "Haus der Jugend",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Féminisme, Politique & Économie",
-   "prix": null,
-   "url": null,
-   "description": null,
-   "pays": "DE"
-  },
-  {
-   "titre": "Open Art Studios on Friday, 20. November",
-   "date_debut": "2026-11-20",
-   "date_fin": null,
-   "horaires": "18h",
-   "lieu": "Haus der Jugend",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Photographie, Mode & Design",
-   "prix": null,
-   "url": null,
-   "description": null,
-   "pays": "DE"
-  },
-  {
-   "titre": "Kling, Glühwein, klingelingeling - die Weihnachts-Show-Tour mit Betty BBQ",
-   "date_debut": "2026-11-20",
-   "date_fin": null,
-   "horaires": "18h30",
-   "lieu": "Betty BBQ Meeting Point",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Drag show, Stand-up",
-   "prix": "38 €",
-   "url": null,
-   "description": null,
-   "pays": "DE"
-  },
-  {
-   "titre": "FREISTIL Dinner-Krimi \"Mord auf dem Klassentreffen\" im Dattler",
-   "date_debut": "2026-11-20",
-   "date_fin": null,
-   "horaires": "19h",
-   "lieu": "Freiburg Schlossberg",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Théâtre, Gastronomie",
-   "prix": "101 €",
-   "url": null,
-   "description": null,
-   "pays": "DE"
-  },
-  {
-   "titre": "Geteilte Freude ist doppelte Freude",
-   "date_debut": "2026-11-20",
-   "date_fin": null,
-   "horaires": "19h",
-   "lieu": "Hochschule für Musik Freiburg",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Classique, Concert",
-   "prix": "Gratuit",
-   "url": null,
-   "description": null,
-   "pays": "DE"
-  },
-  {
-   "titre": "Philipp Weber - KI: Künstliche Idioten!",
-   "date_debut": "2026-11-20",
-   "date_fin": null,
-   "horaires": "20h",
-   "lieu": "Vorderhaus",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Stand-up",
-   "prix": "26,90 €",
-   "url": null,
-   "description": null,
-   "pays": "DE"
-  },
-  {
-   "titre": "Herdermer Kunst in Szene 2026",
-   "date_debut": "2026-11-20",
-   "date_fin": null,
-   "horaires": "20h",
-   "lieu": "Aula der Weiherhof-Schulen",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Expo, Vernissage",
-   "prix": "Gratuit",
-   "url": null,
-   "description": null,
-   "pays": "DE"
-  },
-  {
-   "titre": "Michael Jäger – Unfallkind Stand-up Comedy",
-   "date_debut": "2026-11-20",
-   "date_fin": null,
-   "horaires": "20h",
-   "lieu": "Humboldtsaal Freiburg",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Stand-up",
-   "prix": null,
    "url": null,
    "description": null,
    "pays": "DE"
@@ -230,7 +61,7 @@
    "pays": "DE"
   },
   {
-   "titre": "FREIBURG erLEBEN : Höhepunkte der Altstadt Stadtführung",
+   "titre": "FREIBURG erLEBEN : Höhepunkte der Altstadt",
    "date_debut": "2026-11-21",
    "date_fin": null,
    "horaires": "12h15",
@@ -243,7 +74,7 @@
    "pays": "DE"
   },
   {
-   "titre": "FREIBURG erLEBEN: Höhepunkte der Altstadt Stadtführung mit Münster Besichtigung",
+   "titre": "FREIBURG erLEBEN: Höhepunkte der Altstadt (mit Münster-Besichtigung)",
    "date_debut": "2026-11-21",
    "date_fin": null,
    "horaires": "14h",
@@ -262,7 +93,7 @@
    "horaires": "14h",
    "lieu": "Karlsplatz",
    "commune": "Fribourg-en-Brisgau",
-   "categorie": "Visite guidée, Marche & randonnée",
+   "categorie": "Marche & randonnée",
    "prix": "69 €",
    "url": null,
    "description": null,
@@ -282,7 +113,7 @@
    "pays": "DE"
   },
   {
-   "titre": "FREIBURGerLEBEN: Schokoladen Tour",
+   "titre": "Gastronomie FREIBURGerLEBEN: Schokoladen Tour",
    "date_debut": "2026-11-21",
    "date_fin": null,
    "horaires": "15h",
@@ -308,7 +139,7 @@
    "pays": "DE"
   },
   {
-   "titre": "Historix‑Tours: Weltkrieg, Nazis, Diktatur - Thementour",
+   "titre": "Historix-Tours: Weltkrieg, Nazis, Diktatur - Thementour",
    "date_debut": "2026-11-21",
    "date_fin": null,
    "horaires": "15h",
@@ -321,7 +152,7 @@
    "pays": "DE"
   },
   {
-   "titre": "Kasper, Würstl und der Blumendieb | Premiere | Kindertheater ab 3 Jahren",
+   "titre": "Kasper, Würstl und der Blumendieb",
    "date_debut": "2026-11-21",
    "date_fin": null,
    "horaires": "16h",
@@ -334,11 +165,11 @@
    "pays": "DE"
   },
   {
-   "titre": "Designmarkt bis powi",
+   "titre": "Designmarkt",
    "date_debut": "2026-11-21",
    "date_fin": null,
    "horaires": "18h",
-   "lieu": null,
+   "lieu": "bis powi",
    "commune": "Fribourg-en-Brisgau",
    "categorie": "Marché, Artisanat",
    "prix": null,
@@ -360,7 +191,7 @@
    "pays": "DE"
   },
   {
-   "titre": "ELTERNABEND - Die Early-Disco-Party für Mamas & Papas und eure Freund:innen in Freiburg!",
+   "titre": "ELTERNABEND - Die Early-Disco-Party für Mamas & Papas und eure Freund:innen",
    "date_debut": "2026-11-21",
    "date_fin": null,
    "horaires": "19h",
@@ -386,7 +217,7 @@
    "pays": "DE"
   },
   {
-   "titre": "ALEX & Joschi (Akrobatik-Komiker, Marionnettes)",
+   "titre": "Akrobatik-Komiker ALEX & Joschi",
    "date_debut": "2026-11-22",
    "date_fin": null,
    "horaires": null,
@@ -477,7 +308,7 @@
    "pays": "DE"
   },
   {
-   "titre": "Stadtführung Freiburg 2026 Schwarzwaldmarie Souvenirs",
+   "titre": "Stadtführung Freiburg 2026",
    "date_debut": "2026-11-22",
    "date_fin": null,
    "horaires": "11h15",
@@ -516,7 +347,7 @@
    "pays": "DE"
   },
   {
-   "titre": "ABBA - Waterloo im Bällebad Freiburg",
+   "titre": "ABBA - Waterloo im Bällebad",
    "date_debut": "2026-11-22",
    "date_fin": null,
    "horaires": "14h30",
@@ -529,7 +360,7 @@
    "pays": "DE"
   },
   {
-   "titre": "Scharfrichter-Tour — Historix‑Tours: Henker, Huren, Lasterleben",
+   "titre": "Scharfrichter-Tour — Historix-Tours: Henker, Huren, Lasterleben",
    "date_debut": "2026-11-22",
    "date_fin": null,
    "horaires": "15h",
@@ -542,7 +373,7 @@
    "pays": "DE"
   },
   {
-   "titre": "ABBA - Waterloo im Bällebad Freiburg",
+   "titre": "ABBA - Waterloo im Bällebad",
    "date_debut": "2026-11-22",
    "date_fin": null,
    "horaires": "16h",
@@ -562,7 +393,7 @@
    "lieu": "Susi Cafe",
    "commune": "Fribourg-en-Brisgau",
    "categorie": "Conférence, Entraide / Bénévolat",
-   "prix": null,
+   "prix": "Gratuit",
    "url": null,
    "description": null,
    "pays": "DE"
@@ -600,21 +431,8 @@
    "horaires": "18h30",
    "lieu": "Echte Helden Arena",
    "commune": "Fribourg-en-Brisgau",
-   "categorie": "Sports co, Hockey",
+   "categorie": "Sports, Hockey",
    "prix": "18–28 €",
-   "url": null,
-   "description": null,
-   "pays": "DE"
-  },
-  {
-   "titre": "Jeu de piste marché de Noël Fribourg-en-Brisgau",
-   "date_debut": "2026-11-23",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": "Marché de Noël",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Balade, Plein air",
-   "prix": "39 €",
    "url": null,
    "description": null,
    "pays": "DE"
@@ -659,7 +477,7 @@
    "pays": "DE"
   },
   {
-   "titre": "FREIBURG erLEBEN: Höhepunkte der Altstadt Stadtführung mit Münster Besichtigung",
+   "titre": "FREIBURG erLEBEN: Höhepunkte der Altstadt",
    "date_debut": "2026-11-23",
    "date_fin": null,
    "horaires": "14h",
@@ -672,7 +490,7 @@
    "pays": "DE"
   },
   {
-   "titre": "Bächle-Tour – Unterwegs mit Stocky, dem Bächleputzer",
+   "titre": "Freiburgs Bächle-Tour – Unterwegs mit Stocky, dem Bächleputzer",
    "date_debut": "2026-11-23",
    "date_fin": null,
    "horaires": "16h",
@@ -692,7 +510,7 @@
    "lieu": "Historisches Kaufhaus",
    "commune": "Fribourg-en-Brisgau",
    "categorie": "Conférence, Patrimoine",
-   "prix": "Gratuit",
+   "prix": null,
    "url": null,
    "description": null,
    "pays": "DE"
@@ -704,20 +522,20 @@
    "horaires": "19h",
    "lieu": "Rathausplatz",
    "commune": "Fribourg-en-Brisgau",
-   "categorie": "Patrimoine, Visite guidée",
+   "categorie": "Visite guidée, Patrimoine",
    "prix": "15 €",
    "url": null,
    "description": null,
    "pays": "DE"
   },
   {
-   "titre": "Gorillas",
+   "titre": "Gorillas Plan",
    "date_debut": "2026-11-23",
    "date_fin": null,
    "horaires": "21h",
-   "lieu": "Plan Ruefetto",
+   "lieu": "Ruefetto",
    "commune": "Fribourg-en-Brisgau",
-   "categorie": "Club / Boîte, DJ set",
+   "categorie": "DJ set, Club / Boîte",
    "prix": "Gratuit",
    "url": null,
    "description": null,
@@ -770,7 +588,7 @@
    "lieu": "Frederics Cocktail Club",
    "commune": "Fribourg-en-Brisgau",
    "categorie": "Jazz, Petit concert",
-   "prix": "Gratuit",
+   "prix": null,
    "url": null,
    "description": null,
    "pays": "DE"
@@ -808,7 +626,7 @@
    "horaires": "19h30",
    "lieu": "Bürgerhaus Seepark",
    "commune": "Fribourg-en-Brisgau",
-   "categorie": "Conférence, Photographie",
+   "categorie": "Photographie, Conférence",
    "prix": "17,45–22,95 €",
    "url": null,
    "description": null,
@@ -847,7 +665,7 @@
    "horaires": "12h30",
    "lieu": "Augustinermuseum",
    "commune": "Fribourg-en-Brisgau",
-   "categorie": "Patrimoine, Expo",
+   "categorie": "Expo, Patrimoine",
    "prix": "12 €",
    "url": null,
    "description": null,
@@ -867,14 +685,14 @@
    "pays": "DE"
   },
   {
-   "titre": "Spritzwoch irie surf - Culture, Coffee and Waves",
+   "titre": "Spritzwoch",
    "date_debut": "2026-11-25",
    "date_fin": null,
    "horaires": "15h",
-   "lieu": null,
+   "lieu": "irie surf - Culture, Coffee and Waves",
    "commune": "Fribourg-en-Brisgau",
    "categorie": "Club / Boîte, Fête de quartier",
-   "prix": "Gratuit",
+   "prix": null,
    "url": null,
    "description": null,
    "pays": "DE"
@@ -884,10 +702,10 @@
    "date_debut": "2026-11-25",
    "date_fin": null,
    "horaires": "15h",
-   "lieu": "Centre Culturel Français Freiburg e. V.",
+   "lieu": "Centre Culturel Français Freiburg e.V.",
    "commune": "Fribourg-en-Brisgau",
    "categorie": "Jeux de société",
-   "prix": null,
+   "prix": "Gratuit",
    "url": null,
    "description": null,
    "pays": "DE"
@@ -964,7 +782,7 @@
    "horaires": "20h",
    "lieu": "Mensa Bar Freiburg",
    "commune": "Fribourg-en-Brisgau",
-   "categorie": "Fête de quartier, Poésie",
+   "categorie": "Poésie, Fête de quartier",
    "prix": null,
    "url": null,
    "description": null,
@@ -977,7 +795,7 @@
    "horaires": "20h",
    "lieu": "Theater Freiburg",
    "commune": "Fribourg-en-Brisgau",
-   "categorie": "Théâtre, Opéra",
+   "categorie": "Opéra",
    "prix": "18 €",
    "url": null,
    "description": null,
@@ -1003,8 +821,21 @@
    "horaires": "21h",
    "lieu": "Ruefetto",
    "commune": "Fribourg-en-Brisgau",
-   "categorie": "Club / Boîte, DJ set",
+   "categorie": "DJ set, Club / Boîte",
    "prix": "0 €",
+   "url": null,
+   "description": null,
+   "pays": "DE"
+  },
+  {
+   "titre": "Max Klinger. Radierungen",
+   "date_debut": "2026-11-26",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": "Haus der Graphischen Sammlung",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Autre",
+   "prix": "16 €",
    "url": null,
    "description": null,
    "pays": "DE"
@@ -1023,24 +854,11 @@
    "pays": "DE"
   },
   {
-   "titre": "Max Klinger. Radierungen",
-   "date_debut": "2026-11-26",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": "Haus der Graphischen Sammlung",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Autre",
-   "prix": null,
-   "url": null,
-   "description": null,
-   "pays": "DE"
-  },
-  {
-   "titre": "Blackout Poetry Workshop in der Bibliothek des Centre Culturel Français",
+   "titre": "Blackout Poetry Workshop in der Bibliothek",
    "date_debut": "2026-11-26",
    "date_fin": null,
    "horaires": "10h",
-   "lieu": "Centre Culturel Français Freiburg e. V.",
+   "lieu": "Centre Culturel Français Freiburg e.V.",
    "commune": "Fribourg-en-Brisgau",
    "categorie": "Loisirs créatifs, Heure du conte",
    "prix": "Gratuit",
@@ -1049,20 +867,7 @@
    "pays": "DE"
   },
   {
-   "titre": "Blackout Poetry Workshop in der Bibliothek des Centre Culturel Français",
-   "date_debut": "2026-11-26",
-   "date_fin": null,
-   "horaires": "14h",
-   "lieu": "Centre Culturel Français Freiburg e. V.",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Écriture",
-   "prix": "Gratuit",
-   "url": null,
-   "description": null,
-   "pays": "DE"
-  },
-  {
-   "titre": "Stadtführung Freiburg 2026 Schwarzwaldmarie Souvenirs",
+   "titre": "Stadtführung Freiburg 2026",
    "date_debut": "2026-11-26",
    "date_fin": null,
    "horaires": "14h15",
@@ -1075,7 +880,7 @@
    "pays": "DE"
   },
   {
-   "titre": "Kling, Glühwein, klingelingeling — die Weihnachts‑Show‑Tour mit Betty BBQ",
+   "titre": "Kling, Glühwein, klingelingeling — die Weihnachts-Show-Tour mit Betty BBQ",
    "date_debut": "2026-11-26",
    "date_fin": null,
    "horaires": "15h",
@@ -1114,7 +919,7 @@
    "pays": "DE"
   },
   {
-   "titre": "Kling, Glühwein, klingelingeling — Weihnachts-Show-Tour mit Betty BBQ",
+   "titre": "Kling, Glühwein, klingelingeling - die Weihnachts-Show-Tour mit Betty BBQ",
    "date_debut": "2026-11-26",
    "date_fin": null,
    "horaires": "18h30",
@@ -1231,7 +1036,7 @@
    "pays": "DE"
   },
   {
-   "titre": "Stadtführung Freiburg 2026 Schwarzwaldmarie Souvenirs",
+   "titre": "Stadtführung Freiburg 2026",
    "date_debut": "2026-11-27",
    "date_fin": null,
    "horaires": "10h15",
@@ -1244,7 +1049,7 @@
    "pays": "DE"
   },
   {
-   "titre": "FREIBURG erLEBEN: Höhepunkte der Altstadt Stadtführung mit Münster Besichtigung",
+   "titre": "FREIBURG erLEBEN: Höhepunkte der Altstadt",
    "date_debut": "2026-11-27",
    "date_fin": null,
    "horaires": "14h",
@@ -1287,7 +1092,7 @@
    "date_debut": "2026-11-27",
    "date_fin": null,
    "horaires": "15h",
-   "lieu": "Centre Culturel Français Freiburg e. V.",
+   "lieu": "Centre Culturel Français Freiburg e.V.",
    "commune": "Fribourg-en-Brisgau",
    "categorie": "Atelier créatif, 7–11 ans",
    "prix": "90 €",
@@ -1335,6 +1140,19 @@
    "pays": "DE"
   },
   {
+   "titre": "Bunte Welt",
+   "date_debut": "2026-11-27",
+   "date_fin": null,
+   "horaires": "19h",
+   "lieu": "THE MOVE",
+   "commune": "Fribourg-en-Brisgau",
+   "categorie": "Danse extatique, Bien-être",
+   "prix": "35 €",
+   "url": null,
+   "description": null,
+   "pays": "DE"
+  },
+  {
    "titre": "Wir und die Künstliche Intelligenz - Bhashkar Perinchery",
    "date_debut": "2026-11-27",
    "date_fin": null,
@@ -1354,7 +1172,7 @@
    "horaires": "19h30",
    "lieu": "Echte Helden Arena",
    "commune": "Fribourg-en-Brisgau",
-   "categorie": "Hockey, Sports co",
+   "categorie": "Sports, Hockey",
    "prix": "18–28 €",
    "url": null,
    "description": null,
@@ -1400,196 +1218,27 @@
    "pays": "DE"
   },
   {
-   "titre": "Provinz Party • Jazzhaus Freiburg",
+   "titre": "Provinz Party • Jazzhaus",
    "date_debut": "2026-11-27",
    "date_fin": null,
    "horaires": "23h",
    "lieu": "Jazzhaus Freiburg",
    "commune": "Fribourg-en-Brisgau",
-   "categorie": "Club / Boîte, DJ set",
+   "categorie": "DJ set, Club / Boîte",
    "prix": "12 €",
    "url": null,
    "description": null,
    "pays": "DE"
   },
   {
-   "titre": "Wilde Herzen • Die Indie Pop Party mit deutschen Texten • Freiburg",
+   "titre": "Wilde Herzen • Die Indie Pop Party mit deutschen Texten",
    "date_debut": "2026-11-27",
    "date_fin": null,
    "horaires": "23h",
    "lieu": "Jazzhaus Freiburg",
    "commune": "Fribourg-en-Brisgau",
-   "categorie": "Club / Boîte, DJ set",
+   "categorie": "DJ set, Club / Boîte",
    "prix": "13,90 €",
-   "url": null,
-   "description": null,
-   "pays": "DE"
-  },
-  {
-   "titre": "Kunst und Klang",
-   "date_debut": "2026-11-20",
-   "date_fin": null,
-   "horaires": "19h",
-   "lieu": "Schopf2",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "World, Concert",
-   "prix": "Gratuit",
-   "url": null,
-   "description": null,
-   "pays": "DE"
-  },
-  {
-   "titre": "Zuckerbecker + Das Huhn",
-   "date_debut": "2026-11-20",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": "Slow Club Freiburg",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Indie Rock",
-   "prix": null,
-   "url": null,
-   "description": null,
-   "pays": "DE"
-  },
-  {
-   "titre": "Kiss me Kate",
-   "date_debut": "2026-11-20",
-   "date_fin": null,
-   "horaires": "20h",
-   "lieu": "DIE SCHÖNEN / Musiktheater im E-WERK",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Théâtre, Comédie musicale",
-   "prix": "29 €",
-   "url": null,
-   "description": null,
-   "pays": "DE"
-  },
-  {
-   "titre": "Bernd Lafrenz | Was ihr wollt - Shakespeare Solo",
-   "date_debut": "2026-11-20",
-   "date_fin": null,
-   "horaires": "19h30",
-   "lieu": "E-Werk Freiburg",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Théâtre, Art & Culture",
-   "prix": "10 €",
-   "url": null,
-   "description": null,
-   "pays": "DE"
-  },
-  {
-   "titre": "Jahreskonzert des MontagsChor Lehen e. V.",
-   "date_debut": "2026-11-21",
-   "date_fin": null,
-   "horaires": "19h",
-   "lieu": "Saal der Kirchengemeinde Hl. Familie",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Folk / Acoustique, Concert",
-   "prix": "Gratuit",
-   "url": null,
-   "description": null,
-   "pays": "DE"
-  },
-  {
-   "titre": "SOLO ALEXEY LIVE",
-   "date_debut": "2026-11-21",
-   "date_fin": null,
-   "horaires": "19h30",
-   "lieu": "Scheunensaal im Stubenareal St. Georgen",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Chanson, Jazz",
-   "prix": "22–25 €",
-   "url": null,
-   "description": null,
-   "pays": "DE"
-  },
-  {
-   "titre": "Youth Life x RHB",
-   "date_debut": "2026-11-21",
-   "date_fin": null,
-   "horaires": "23h",
-   "lieu": "ArTik",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Club / Boîte, DJ set",
-   "prix": null,
-   "url": null,
-   "description": null,
-   "pays": "DE"
-  },
-  {
-   "titre": "Ins Neuland",
-   "date_debut": "2026-11-22",
-   "date_fin": null,
-   "horaires": "18h",
-   "lieu": "E-Werk Freiburg",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Folk / Acoustique, World",
-   "prix": "10–25 €",
-   "url": null,
-   "description": null,
-   "pays": "DE"
-  },
-  {
-   "titre": "Die Abrisslüge - Warum erhalten oft besser ist als Neubauen",
-   "date_debut": "2026-11-24",
-   "date_fin": null,
-   "horaires": "19h",
-   "lieu": "DAV Kletterzentrum Freiburg",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Conférence, Écologie",
-   "prix": "Gratuit",
-   "url": null,
-   "description": null,
-   "pays": "DE"
-  },
-  {
-   "titre": "Gast/arbeit",
-   "date_debut": "2026-11-26",
-   "date_fin": null,
-   "horaires": "20h",
-   "lieu": "Cargo-Theater in der H15",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Théâtre, Migration",
-   "prix": "25 €",
-   "url": null,
-   "description": null,
-   "pays": "DE"
-  },
-  {
-   "titre": "Regionale 27: Ausstellungseröffnung",
-   "date_debut": "2026-11-27",
-   "date_fin": null,
-   "horaires": "17h30",
-   "lieu": "Morat-Hallen: Städtische Galerie / Halle Nord / Morat-Institut",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Expo",
-   "prix": null,
-   "url": null,
-   "description": null,
-   "pays": "DE"
-  },
-  {
-   "titre": "Katharina Pöpping – Shift (Regionale 27)",
-   "date_debut": "2026-11-27",
-   "date_fin": null,
-   "horaires": "18h30",
-   "lieu": "Galerie für Gegenwartskunst",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Expo, Vernissage",
-   "prix": null,
-   "url": null,
-   "description": null,
-   "pays": "DE"
-  },
-  {
-   "titre": "SPORT-PARTY im TIK",
-   "date_debut": "2026-11-27",
-   "date_fin": null,
-   "horaires": "22h",
-   "lieu": "T.I.K. Club",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Club / Boîte, DJ set",
-   "prix": "8–10,50 €",
    "url": null,
    "description": null,
    "pays": "DE"
@@ -1619,54 +1268,6 @@
    "url": null,
    "description": null,
    "pays": "DE"
-  },
-  {
-   "titre": "FREIBURG erLEBEN: Höhepunkte der Altstadt – Stadtführung mit Münster-Besichtigung",
-   "date_debut": "2026-11-20",
-   "date_fin": null,
-   "horaires": "14:00",
-   "lieu": "Altes Rathaus",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Visite guidée",
-   "prix": "18 €",
-   "url": "https://oazis.app/sorties/freiburg-im-breisgau",
-   "description": null
-  },
-  {
-   "titre": "Dinner-Krimi „Mord auf dem Klassentreffen“",
-   "date_debut": "2026-11-20",
-   "date_fin": null,
-   "horaires": "19:00",
-   "lieu": "Dattler Freiburg Schlossberg",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Théâtre / Gastronomie",
-   "prix": "101 €",
-   "url": "https://oazis.app/sorties/freiburg-im-breisgau",
-   "description": null
-  },
-  {
-   "titre": "Bernd Lafrenz | Was ihr wollt – Shakespeare Solo",
-   "date_debut": "2026-11-20",
-   "date_fin": null,
-   "horaires": "19:30",
-   "lieu": "E-Werk Freiburg",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Théâtre",
-   "prix": "10 €",
-   "url": "https://oazis.app/sorties/freiburg-im-breisgau",
-   "description": null
-  },
-  {
-   "titre": "Herdermer Kunst in Szene 2026 (vernissage)",
-   "date_debut": "2026-11-20",
-   "date_fin": null,
-   "horaires": "20:00",
-   "lieu": "Aula der Weiherhof-Schulen",
-   "commune": "Fribourg-en-Brisgau",
-   "categorie": "Expo",
-   "prix": "Gratuit",
-   "url": "https://oazis.app/sorties/freiburg-im-breisgau",
-   "description": null
   },
   {
    "titre": "Kasper, Würstl und der Blumendieb (Kindertheater, première)",

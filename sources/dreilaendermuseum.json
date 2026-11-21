@@ -2,24 +2,11 @@
  "source": "dreilaendermuseum",
  "nom": "Dreiländermuseum Lörrach",
  "pays": "DE",
- "lu_le": "2026-11-20",
+ "lu_le": "2026-11-21",
  "pages": [
   "https://www.dreilaendermuseum.eu/de/anschauen/veranstaltungen/"
  ],
  "events": [
-  {
-   "titre": "Vortrag: Wie Erinnerung versöhnen kann – Die Geschichte der badischen „Siedler“ im Elsass 1940–45 und ihre Aufarbeitung",
-   "date_debut": "2026-11-20",
-   "date_fin": null,
-   "horaires": "18:00",
-   "lieu": "Dreiländermuseum Lörrach",
-   "commune": "Lörrach",
-   "categorie": "Dreiländerausstellung, Sonderausstellung, Vortrag/Diskussion",
-   "prix": null,
-   "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/vortrag-wie-erinnerung-versoehnen-kann-die-geschichte-der-badischen-siedler-im-elsass-1940-45-und-ihre-aufarbeitung/",
-   "description": null,
-   "pays": "DE"
-  },
   {
    "titre": "VHS-Kurs „Zuhause – unterwegs“",
    "date_debut": "2026-11-25",
@@ -27,7 +14,7 @@
    "horaires": "18:15",
    "lieu": "Dreiländermuseum Lörrach",
    "commune": "Lörrach",
-   "categorie": "Dreiländerausstellung, Sonderausstellung, Sonstiges/Spezial",
+   "categorie": "Dreiländerausstellung, Sonstiges/Spezial",
    "prix": null,
    "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/vhs-kurs-zuhause-unterwegs/",
    "description": null,
@@ -43,7 +30,7 @@
    "categorie": "Dreiländerausstellung, Führung, Sonderausstellung",
    "prix": null,
    "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/oeffentliche-fuehrung-durch-die-sonderausstellung-zuhause-unterwegs-2/",
-   "description": null,
+   "description": "Mit Kunsthistorikerin Jeanette Gutmann Ohne Anmeldung, maximal 20 Personen.",
    "pays": "DE"
   },
   {
@@ -134,7 +121,7 @@
    "categorie": "Dreiländerausstellung, Führung, Sonderausstellung",
    "prix": null,
    "url": "https://www.dreilaendermuseum.eu/de/veranstaltungen/oeffentliche-fuehrung-durch-die-sonderausstellung-zuhause-unterwegs-3/",
-   "description": null,
+   "description": "Mit Historiker Marlon Zimmermann.",
    "pays": "DE"
   },
   {

@@ -2,82 +2,22 @@
  "source": "bs-ch",
  "nom": "Canton de Bâle-Ville",
  "pays": "CH",
- "lu_le": "2026-11-20",
+ "lu_le": "2026-11-21",
  "pages": [
   "https://www.bs.ch/veranstaltungen (pages 1 et 2 sur 46)"
  ],
  "note": "Pour les événements « en continu », la date affichée est celle de la lecture.",
  "events": [
   {
-   "titre": "Palazzo Colombino und Cirque Noël de Bâle",
-   "date_debut": "2026-11-20",
-   "date_fin": null,
-   "horaires": "Ganztags",
-   "lieu": "Rosentalanlage",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.bs.ch/veranstaltungen/palazzo-colombino-und-cirque-noel-de-bale",
-   "description": null
-  },
-  {
-   "titre": "Sonderausstellung «Van Gogh, Hodler und ein Cabriolet»",
-   "date_debut": "2026-11-20",
-   "date_fin": null,
-   "horaires": "Ganztags",
-   "lieu": "Kunstmuseum",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.bs.ch/veranstaltungen/sonderausstellung-van-gogh-hodler-und-ein-cabriolet",
-   "description": null
-  },
-  {
-   "titre": "August bis November: Ausstellung «Auf immer und ewig» auf dem Wolfgottesacker",
-   "date_debut": "2026-11-20",
-   "date_fin": null,
-   "horaires": "Fr. 7:30 - So. 17:30 Uhr",
-   "lieu": "Wolfgottesacker",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.bs.ch/veranstaltungen/httpswwwbschbvdstadtgaertnerei-7",
-   "description": null
-  },
-  {
-   "titre": "Basler Stadtmarkt",
-   "date_debut": "2026-11-20",
-   "date_fin": null,
-   "horaires": "Fr. 8:00 - Do. 17:00 Uhr",
-   "lieu": "Marktplatz",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.bs.ch/veranstaltungen/basler-stadtmarkt",
-   "description": null
-  },
-  {
    "titre": "20./21. November: Grenzüberschreitende Archäologietage",
    "date_debut": "2026-11-20",
    "date_fin": "2026-11-21",
-   "horaires": "Fr. 9:30 - Sa. 18:00 Uhr (20.11.) ; 8:30 - 16:00 Uhr (21.11.)",
+   "horaires": "Fr. 9:30 - Sa. 18:00 Uhr",
    "lieu": "Colmar",
    "commune": "Colmar",
    "categorie": null,
    "prix": null,
    "url": "https://www.bs.ch/veranstaltungen/2021-november-grenzueberschreitende-archaeologietage",
-   "description": null
-  },
-  {
-   "titre": "Ystimme – feierliche Eröffnung der Basler Weihnacht",
-   "date_debut": "2026-11-20",
-   "date_fin": null,
-   "horaires": "17:30 - 20:00 Uhr",
-   "lieu": "Marktplatz",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.bs.ch/veranstaltungen/ystimme-feierliche-eroeffnung-der-basler-weihnacht",
    "description": null
   },
   {
@@ -102,6 +42,18 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.bs.ch/veranstaltungen/schlemmer-markt",
+   "description": null
+  },
+  {
+   "titre": "Café Dialogue - Gemeinsam nachdenken und diskutieren",
+   "date_debut": "2026-11-25",
+   "date_fin": null,
+   "horaires": "14:00 - 15:30 Uhr",
+   "lieu": "Quartierzentrum Union",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.bs.ch/veranstaltungen/cafe-dialogue-gemeinsam-nachdenken-und-diskutieren-39",
    "description": null
   },
   {
