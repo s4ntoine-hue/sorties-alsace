@@ -3,216 +3,214 @@
 <title>Sorties en Alsace</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="claude:viewport-fit-sides" content="cover">
+<meta name="color-scheme" content="light">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Unbounded:wght@500;700;800&family=Figtree:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700;12..96,800&family=DM+Sans:wght@400;500;700&display=swap">
 <style>
-/* Layout : en-tête "affiche" avec stickers de villes, barre de filtres en pastilles, cartes "billets" avec bandeau couleur par type, fiche détaillée en panneau. */
+/* Style « Signal jaune » (voir STYLE.md) : affiche imprimée noir sur blanc, un seul accent jaune pour ce qu'on touche ou ce qui est actif.
+   Clair seulement pour l'instant : le mode sombre viendra plus tard avec les mêmes rôles. */
 :root{
-  --bg:#f6f4ff; --surface:#ffffff; --fg:#1a1035; --muted:#5f5a7a; --line:#e3def5;
-  --accent:#ff2e88; --accent-ink:#ffffff; --accent-soft:#ffe1ef;
-  --blue:#3a4bff; --blue-soft:#e4e7ff;
-  --sun:#ffd23f; --ink-on-color:#16102b;
-  --free:#0f8a5f; --free-soft:#d8f6e9;
-  --shadow:0 2px 0 var(--line), 0 10px 24px -14px rgba(40,20,90,.35);
-  --display:"Unbounded","Arial Black",system-ui,sans-serif;
-  --body:"Figtree","Segoe UI",system-ui,sans-serif;
-  /* couleurs par type d'événement : fond vif, texte foncé lisible dans les deux thèmes */
-  --t-noel:#ff7a7a; --t-broc:#f2c98a; --t-concert:#ff8fc7; --t-spectacle:#c9a2ff; --t-expo:#7cc8ff; --t-famille:#ffe066;
-  --t-vin:#ffb35c; --t-sport:#b8f06a; --t-visite:#6ee7c8; --t-atelier:#5fd4e0; --t-culture:#a5b4ff;
+  /* Couleurs */
+  --fond:#FFFFFF; --encre:#0B1030; --encre-douce:#4A5170; --filet:#D5D8E3;
+  --accent:#FFC21A; --accent-encre:#0B1030; --accent-doux:#FFEDB8; --nav-inactif:#B8BCCB;
+  /* Catégories : fond / étiquette */
+  --type-noel:#FFE1DC;      --type-noel-fonce:#A32A17;
+  --type-brocante:#F3E8D8;  --type-brocante-fonce:#7A4A14;
+  --type-concert:#FFE0EC;   --type-concert-fonce:#A3104A;
+  --type-spectacle:#ECE5FF; --type-spectacle-fonce:#5536AD;
+  --type-expo:#DFF0FA;      --type-expo-fonce:#145C85;
+  --type-famille:#FFE9D6;   --type-famille-fonce:#9A4A00;
+  --type-vin:#F4E1EA;       --type-vin-fonce:#7A1F48;
+  --type-sport:#E3F1E4;     --type-sport-fonce:#2B6534;
+  --type-visite:#DDF2EE;    --type-visite-fonce:#116457;
+  --type-atelier:#E6EBF5;   --type-atelier-fonce:#34507F;
+  --type-culture:#EFEDE6;   --type-culture-fonce:#55524A;
+  /* Polices */
+  --police-titre:"Bricolage Grotesque",system-ui,sans-serif;
+  --police-texte:"DM Sans",system-ui,sans-serif;
+  /* Tailles */
+  --texte-titre:36px; --texte-date:42px; --texte-element:19px; --texte-corps:16px; --texte-detail:14px; --texte-etiquette:12px;
+  /* Espacements */
+  --espace-1:4px; --espace-2:8px; --espace-3:12px; --espace-4:16px;
+  --espace-5:20px; --espace-6:24px; --espace-7:32px; --espace-8:48px;
+  /* Coins */
+  --coin-pilule:999px; --coin-ligne:12px; --coin-bouton:4px; --coin-surligne:6px;
+  /* Traits */
+  --trait:2px solid var(--encre); --trait-fin:1.5px solid var(--filet);
+  /* Mouvement */
+  --duree:180ms; --courbe:cubic-bezier(.2,.7,.3,1);
+  /* Dimensions de l'appli */
+  --tactile:44px; --nav-h:64px; --largeur:1140px;
+  --voile:rgba(11,16,48,.55);
+  color-scheme:light;
 }
-@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
-  --bg:#110b22; --surface:#1c1535; --fg:#f1edff; --muted:#a79fc8; --line:#2f2652;
-  --accent:#ff4f9c; --accent-soft:#3b1630; --blue:#8c97ff; --blue-soft:#232050; --free:#5fe0ad; --free-soft:#123a2c;
-  --shadow:0 2px 0 #241c45, 0 10px 24px -14px rgba(0,0,0,.7); color-scheme:dark}}
-:root[data-theme="dark"]{
-  --bg:#110b22; --surface:#1c1535; --fg:#f1edff; --muted:#a79fc8; --line:#2f2652;
-  --accent:#ff4f9c; --accent-soft:#3b1630; --blue:#8c97ff; --blue-soft:#232050; --free:#5fe0ad; --free-soft:#123a2c;
-  --shadow:0 2px 0 #241c45, 0 10px 24px -14px rgba(0,0,0,.7); color-scheme:dark}
 *{box-sizing:border-box}
 [hidden]{display:none !important}
-body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:15px;line-height:1.5}
-body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
-.wrap{max-width:1140px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
-header.top{padding-block:28px 14px;display:flex;flex-wrap:wrap;gap:16px 24px;align-items:end;justify-content:space-between}
-h1{font-family:var(--display);font-weight:800;font-size:clamp(30px,6vw,54px);line-height:.95;margin:0;letter-spacing:-.02em;text-wrap:balance}
-h1 .hl{background:var(--sun);color:var(--ink-on-color);padding:0 .18em;border-radius:.2em;display:inline-block;transform:rotate(-2deg)}
-.stickers{display:flex;flex-wrap:wrap;gap:6px;margin-top:12px}
-.sticker{font-family:var(--display);font-size:11px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;padding:4px 10px;border-radius:999px;color:var(--ink-on-color)}
-.sticker:nth-child(1){background:var(--t-concert);transform:rotate(-3deg)}
-.sticker:nth-child(2){background:var(--t-expo);transform:rotate(2deg)}
-.sticker:nth-child(3){background:var(--t-sport);transform:rotate(-1deg)}
-.sticker:nth-child(4){background:var(--t-vin);transform:rotate(3deg)}
-.sub{color:var(--muted);margin:10px 0 0;max-width:60ch}
-.views{display:flex;flex-wrap:wrap;gap:6px}
-.views button,.tab,.chip,.btn{font:inherit;font-weight:600;cursor:pointer;border:2px solid var(--line);background:var(--surface);color:var(--fg);border-radius:999px;padding:6px 14px}
-.views button[aria-pressed="true"]{background:var(--fg);color:var(--bg);border-color:var(--fg)}
-button:focus-visible,input:focus-visible,select:focus-visible,a:focus-visible,summary:focus-visible,.card:focus-visible{outline:3px solid var(--blue);outline-offset:2px}
-.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);border-bottom:2px solid var(--line);padding-block:10px}
-.row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
-.row+.row{margin-top:8px}
-.tab[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
-.tab small{opacity:.8;font-variant-numeric:tabular-nums}
-.chip{display:inline-flex;align-items:center;gap:6px}
-.chip .dot{width:10px;height:10px;border-radius:50%;background:var(--c,var(--muted));flex:none}
-.chip[aria-pressed="true"]{background:var(--c);border-color:var(--c);color:var(--ink-on-color)}
-.chip[aria-pressed="true"] .dot{background:var(--ink-on-color)}
-.chip.free{--c:var(--free)}
-.chip.free[aria-pressed="true"]{color:#fff}
-input[type=search],input[type=date],select{font:inherit;color:var(--fg);background:var(--surface);border:2px solid var(--line);border-radius:12px;padding:6px 10px}
-input[type=search]{flex:1 1 220px;min-width:0}
-label.small{font-size:13px;color:var(--muted);display:flex;gap:6px;align-items:center;font-weight:500}
-input[type=range]{accent-color:var(--accent);width:110px}
-.count{font-size:13px;color:var(--muted);margin:16px 0 10px;display:flex;flex-wrap:wrap;gap:8px 16px;align-items:center;justify-content:space-between;font-weight:500}
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:14px}
-.card{background:var(--surface);border-radius:18px;display:flex;flex-direction:column;min-width:0;box-shadow:var(--shadow);overflow:hidden;cursor:pointer;border:2px solid transparent}
-.card .band{background:var(--c);color:var(--ink-on-color);padding:8px 14px;display:flex;justify-content:space-between;gap:8px;align-items:center;font-size:12px;font-weight:700}
-.card .band .d{font-family:var(--display);font-size:12px;letter-spacing:.02em;text-transform:uppercase;font-variant-numeric:tabular-nums}
-.card .band .k{background:rgba(255,255,255,.55);border-radius:999px;padding:1px 8px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:60%}
-.card .body{padding:12px 14px 12px;display:flex;flex-direction:column;gap:6px;flex:1}
-.card h3{font-family:var(--display);font-weight:700;font-size:16px;line-height:1.25;margin:0;overflow-wrap:anywhere}
-.place{color:var(--muted);font-size:13px}
-.place b{color:var(--fg);font-weight:600}
-.info{font-size:13px;display:flex;flex-wrap:wrap;gap:4px 10px;align-items:center}
-.free-tag{background:var(--free-soft);color:var(--free);font-weight:700;border-radius:6px;padding:1px 8px;font-size:12px}
-.src{font-size:12px;color:var(--muted)}
-.actions{margin-top:auto;display:flex;flex-wrap:wrap;gap:6px;padding-top:6px}
-.btn{font-size:13px;padding:5px 11px;text-decoration:none;display:inline-flex;align-items:center;gap:4px}
-.btn.primary{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
-.btn.fav[aria-pressed="true"]{background:var(--accent-soft);border-color:var(--accent);color:var(--accent)}
-.empty{grid-column:1/-1;background:var(--surface);border:2px dashed var(--line);border-radius:18px;padding:28px;text-align:center;color:var(--muted)}
-details.long{margin:26px 0 48px}
-details.long summary{cursor:pointer;font-family:var(--display);font-size:20px;font-weight:700;margin-bottom:14px}
-details.long summary small{font-family:var(--body);font-size:13px;color:var(--muted);font-weight:500}
-.toast{position:fixed;left:50%;bottom:calc(20px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:var(--fg);color:var(--bg);padding:8px 16px;border-radius:999px;font-size:14px;z-index:40;font-weight:600}
-/* fiche détaillée */
-.overlay{position:fixed;inset:0;z-index:30;background:rgba(17,11,34,.55);display:flex;align-items:flex-end;justify-content:center;padding:max(16px,env(safe-area-inset-top,0px)) max(0px,env(safe-area-inset-right,0px)) 0 max(0px,env(safe-area-inset-left,0px))}
-@media (min-width:700px){.overlay{align-items:center;padding:24px}}
-.overlay[hidden]{display:none}
-.overlay{overflow:hidden;width:100%;max-width:100vw;box-sizing:border-box}
-.sheet{box-sizing:border-box;min-width:0;max-width:min(560px,100%);overflow-x:hidden}
-.sheet .head{box-sizing:border-box;max-width:100%}
-.sheet .head h2,.sheet .orig,.desc{overflow-wrap:anywhere;word-break:break-word}
 html,body{overflow-x:clip;max-width:100%}
-.sheet{background:var(--surface);color:var(--fg);width:100%;max-width:560px;max-height:100%;overflow:auto;border-radius:22px 22px 0 0;box-shadow:0 20px 60px rgba(0,0,0,.35);padding-bottom:env(safe-area-inset-bottom,0px)}
-@media (min-width:700px){.sheet{border-radius:22px;max-height:88vh}}
-.sheet .head{background:var(--c);color:var(--ink-on-color);padding:18px 20px 20px;position:relative}
-.sheet .head .k{font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.06em}
-.sheet .head h2{font-family:var(--display);font-size:clamp(20px,4vw,26px);line-height:1.15;margin:8px 44px 0 0;overflow-wrap:anywhere}
-.sheet .orig{font-size:13px;margin-top:6px;opacity:.8}
-.sheet .close{position:absolute;top:12px;right:12px;width:36px;height:36px;border-radius:50%;border:0;background:rgba(255,255,255,.7);color:var(--ink-on-color);font-size:20px;line-height:1;cursor:pointer}
-.sheet .content{padding:18px 20px 22px;display:grid;grid-template-columns:minmax(0,1fr);gap:14px;min-width:0}
-.facts{display:grid;grid-template-columns:auto minmax(0,1fr);gap:6px 14px;margin:0;font-size:14px}
-.facts dt{color:var(--muted);font-weight:600}
+body{margin:0;background:var(--fond);color:var(--encre);font-family:var(--police-texte);font-size:var(--texte-corps);line-height:1.5;-webkit-tap-highlight-color:transparent}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--fond)}
+svg.ic{width:20px;height:20px;flex:none;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+.wrap{max-width:var(--largeur);margin:0 auto;padding-left:max(var(--espace-4),env(safe-area-inset-left,0px));padding-right:max(var(--espace-4),env(safe-area-inset-right,0px))}
+button:focus-visible,input:focus-visible,select:focus-visible,a:focus-visible,summary:focus-visible,.card:focus-visible,label:focus-within:has(select:focus-visible){outline:3px solid var(--encre);outline-offset:2px}
+
+/* En-tête */
+header.top{padding-block:var(--espace-7) var(--espace-4);display:flex;flex-wrap:wrap;gap:var(--espace-4) var(--espace-6);align-items:end;justify-content:space-between}
+h1{font-family:var(--police-titre);font-weight:800;font-size:clamp(var(--texte-titre),5vw,52px);line-height:1;margin:0;letter-spacing:-.01em;text-wrap:balance}
+h1 .hl{display:inline-block;background:var(--accent);color:var(--accent-encre);padding:0 var(--espace-2) 2px;border-radius:var(--coin-surligne);transform:rotate(-2deg)}
+.sub{color:var(--encre-douce);font-size:var(--texte-detail);margin:var(--espace-3) 0 0;max-width:60ch}
+
+/* Navigation : barre pleine encre, onglet actif en jaune */
+.views{display:flex;background:var(--encre);border-radius:var(--coin-ligne);padding:var(--espace-1)}
+.views button{font:inherit;font-size:var(--texte-detail);font-weight:500;cursor:pointer;border:0;background:transparent;color:var(--nav-inactif);border-radius:var(--coin-bouton);min-height:var(--tactile);padding:0 var(--espace-4);display:flex;align-items:center;gap:var(--espace-2);white-space:nowrap}
+.views button[aria-pressed="true"]{color:var(--accent);font-weight:700}
+.views button:focus-visible{outline-color:var(--accent);outline-offset:-3px}
+.views .short{display:none}
+
+/* Barre de filtres */
+.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--fond);border-bottom:var(--trait-fin);padding-block:var(--espace-3)}
+.row{display:flex;flex-wrap:wrap;gap:var(--espace-2);align-items:center}
+.row+.row{margin-top:var(--espace-2)}
+.tab,.chip,.btn,.sc{font:inherit;font-size:var(--texte-detail);font-weight:700;cursor:pointer;border:var(--trait);background:transparent;color:var(--encre);border-radius:var(--coin-pilule);min-height:var(--tactile);padding:0 var(--espace-4);display:inline-flex;align-items:center;gap:var(--espace-2);text-decoration:none;white-space:nowrap}
+.tab[aria-pressed="true"],.chip[aria-pressed="true"],.sc[aria-pressed="true"]{background:var(--accent);color:var(--accent-encre)}
+.tab small{font-weight:500;font-variant-numeric:tabular-nums;color:var(--encre-douce)}
+.tab[aria-pressed="true"] small{color:var(--accent-encre)}
+.chip .dot{width:8px;height:8px;border-radius:50%;background:var(--cf,var(--encre-douce));flex:none}
+input[type=search],input[type=date],select{font:inherit;font-size:var(--texte-detail);color:var(--encre);background:var(--fond);border:var(--trait);border-radius:var(--coin-pilule);min-height:var(--tactile);padding:0 var(--espace-4)}
+select{padding-right:var(--espace-3)}
+input[type=search]{flex:1 1 240px;min-width:0}
+label.small{font-size:var(--texte-detail);color:var(--encre-douce);display:flex;gap:var(--espace-2);align-items:center;font-weight:500}
+input[type=range]{accent-color:var(--encre);width:120px;min-height:var(--tactile)}
+.btn.primary{background:var(--accent);color:var(--accent-encre)}
+.btn[aria-pressed="true"]{background:var(--accent-doux)}
+
+/* Compteur et liste */
+.count{font-size:var(--texte-detail);color:var(--encre-douce);margin:var(--espace-5) 0 var(--espace-3);display:flex;flex-wrap:wrap;gap:var(--espace-2) var(--espace-4);align-items:center;justify-content:space-between;font-weight:500}
+.count #count{font-family:var(--police-titre);font-weight:700;font-size:20px;color:var(--encre)}
+.msort{display:none}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:var(--espace-2) var(--espace-3)}
+h2.day{grid-column:1/-1;font-family:var(--police-titre);font-weight:800;font-size:22px;line-height:1.2;margin:var(--espace-6) 0 var(--espace-1)}
+h2.day:first-child{margin-top:0}
+h2.day small{font-family:var(--police-texte);font-size:var(--texte-etiquette);font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--encre-douce);margin-left:var(--espace-2);vertical-align:3px}
+
+/* Ligne d'événement : grand jour, étiquette, nom, lieu + heure, bouton « + » */
+.card{background:var(--c,var(--type-culture));border-radius:var(--coin-ligne);display:flex;align-items:center;gap:var(--espace-3);min-height:92px;padding:var(--espace-3);min-width:0;cursor:pointer}
+.card .day{width:52px;flex:none;text-align:center;align-self:center}
+.card .day b{display:block;font-family:var(--police-titre);font-weight:800;font-size:var(--texte-date);line-height:.9;font-variant-numeric:tabular-nums}
+.card .day span{display:block;font-size:13px;font-weight:700;color:var(--encre-douce);text-transform:uppercase;margin-top:var(--espace-1)}
+.card .day small{display:block;font-size:11px;font-weight:700;color:var(--encre-douce);text-transform:uppercase;letter-spacing:.08em}
+.card .body{flex:1;min-width:0;display:flex;flex-direction:column;gap:2px}
+.kind{display:flex;align-items:center;gap:6px;font-size:11px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--cf,var(--type-culture-fonce));min-width:0}
+.kind::before{content:"";width:8px;height:8px;border-radius:50%;background:currentColor;flex:none}
+.kind span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.card h3{font-family:var(--police-titre);font-weight:700;font-size:var(--texte-element);line-height:1.15;margin:0;overflow-wrap:anywhere}
+.place{color:var(--encre-douce);font-size:var(--texte-detail);overflow-wrap:anywhere}
+.place b{color:var(--encre);font-weight:700;font-variant-numeric:tabular-nums}
+.plus{flex:none;width:var(--tactile);height:var(--tactile);border-radius:var(--coin-bouton);border:var(--trait);background:var(--accent);color:var(--accent-encre);display:grid;place-items:center;cursor:pointer;padding:0}
+.plus svg.ic{stroke-width:2.6}
+.plus[aria-pressed="true"]{background:var(--encre);color:var(--accent)}
+.empty{grid-column:1/-1;border:2px dashed var(--filet);border-radius:var(--coin-ligne);padding:var(--espace-7) var(--espace-5);text-align:center;color:var(--encre-douce);display:grid;gap:var(--espace-3);justify-items:center}
+.empty .btn{color:var(--encre)}
+details.long{margin:var(--espace-7) 0 var(--espace-8)}
+details.long summary{cursor:pointer;font-family:var(--police-titre);font-size:22px;font-weight:800;margin-bottom:var(--espace-3);min-height:var(--tactile);display:flex;align-items:center;gap:var(--espace-3);flex-wrap:wrap}
+details.long summary small{font-family:var(--police-texte);font-size:var(--texte-detail);color:var(--encre-douce);font-weight:500}
+.toast{position:fixed;left:50%;bottom:calc(var(--espace-5) + env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:var(--encre);color:var(--fond);padding:var(--espace-3) var(--espace-5);border-radius:var(--coin-pilule);font-size:var(--texte-detail);z-index:40;font-weight:700;display:flex;align-items:center;gap:var(--espace-2);white-space:nowrap}
+.toast svg.ic{color:var(--accent)}
+
+/* Fiche détaillée */
+.overlay{position:fixed;inset:0;z-index:30;background:var(--voile);display:flex;align-items:flex-end;justify-content:center;padding:max(var(--espace-4),env(safe-area-inset-top,0px)) env(safe-area-inset-right,0px) 0 env(safe-area-inset-left,0px);overflow:hidden;width:100%;max-width:100vw}
+@media (min-width:700px){.overlay{align-items:center;padding:var(--espace-6)}}
+.sheet{background:var(--fond);color:var(--encre);width:100%;max-width:min(560px,100%);min-width:0;max-height:100%;overflow:auto;overflow-x:hidden;border-radius:var(--coin-ligne) var(--coin-ligne) 0 0;padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (min-width:700px){.sheet{border-radius:var(--coin-ligne);max-height:88vh}}
+.sheet .head{background:var(--c);padding:var(--espace-5) var(--espace-5) var(--espace-6);position:relative;max-width:100%}
+.sheet .head h2{font-family:var(--police-titre);font-weight:800;font-size:clamp(22px,5vw,28px);line-height:1.1;margin:var(--espace-2) 56px 0 0}
+.sheet .head h2,.sheet .orig,.desc{overflow-wrap:anywhere;word-break:break-word}
+.sheet .orig{font-size:var(--texte-detail);margin-top:var(--espace-2);color:var(--encre-douce)}
+.sheet .close{position:absolute;top:var(--espace-3);right:var(--espace-3);width:var(--tactile);height:var(--tactile);border-radius:var(--coin-bouton);border:var(--trait);background:var(--fond);color:var(--encre);cursor:pointer;display:grid;place-items:center;padding:0}
+.sheet .content{padding:var(--espace-5) var(--espace-5) var(--espace-6);display:grid;grid-template-columns:minmax(0,1fr);gap:var(--espace-5);min-width:0}
+.facts{display:grid;grid-template-columns:auto minmax(0,1fr);gap:var(--espace-2) var(--espace-4);margin:0;font-size:var(--texte-detail);border-top:var(--trait-fin);padding-top:var(--espace-4)}
+.facts dt{color:var(--encre-douce);font-size:var(--texte-etiquette);font-weight:700;letter-spacing:.12em;text-transform:uppercase;padding-top:2px}
 .facts dd{margin:0;min-width:0;overflow-wrap:anywhere;word-break:break-word}
-.desc{margin:0;font-size:15px;max-width:60ch}
-.desc-note{font-size:12px;color:var(--muted);margin:4px 0 0}
-.links{display:flex;flex-wrap:wrap;gap:8px}
-.panel{padding-block:8px 48px;display:grid;gap:22px;max-width:880px}
-.panel h2{font-family:var(--display);font-size:22px;margin:0 0 6px}
+.facts dd b{font-variant-numeric:tabular-nums}
+.desc{margin:0;font-size:var(--texte-corps);max-width:60ch}
+.desc-note{font-size:var(--texte-etiquette);color:var(--encre-douce);margin:var(--espace-2) 0 0}
+.links{display:flex;flex-wrap:wrap;gap:var(--espace-2)}
+
+/* Pages Sources et Pistes */
+.panel{padding-block:var(--espace-3) var(--espace-8);display:grid;gap:var(--espace-7);max-width:880px}
+.panel h2{font-family:var(--police-titre);font-weight:800;font-size:24px;line-height:1.15;margin:0 0 var(--espace-2)}
 .panel p{margin:0;max-width:65ch}
-table{border-collapse:collapse;width:100%;font-size:14px}
-.tbl{overflow-x:auto;background:var(--surface);border-radius:16px;box-shadow:var(--shadow)}
-th,td{text-align:left;padding:8px 12px;border-bottom:1px solid var(--line);vertical-align:top}
-th{font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);white-space:nowrap}
+table{border-collapse:collapse;width:100%;font-size:var(--texte-detail)}
+.tbl{overflow-x:auto;border:var(--trait);border-radius:var(--coin-ligne)}
+th,td{text-align:left;padding:var(--espace-2) var(--espace-3);border-bottom:var(--trait-fin);vertical-align:top}
+th{font-size:var(--texte-etiquette);text-transform:uppercase;letter-spacing:.12em;color:var(--encre-douce);white-space:nowrap}
 td.num{font-variant-numeric:tabular-nums;text-align:right}
 tr:last-child td{border-bottom:0}
-.y{color:var(--free);font-weight:700}.n{color:var(--accent);font-weight:700}
-ol.prio{margin:0;padding-left:22px;display:grid;gap:10px}
+.src{font-size:var(--texte-etiquette);color:var(--encre-douce);overflow-wrap:anywhere}
+.y{font-weight:700}.n{color:var(--encre-douce)}
+ol.prio{margin:0;padding-left:22px;display:grid;gap:var(--espace-3)}
 ol.prio li{max-width:65ch}
-ol.prio b{font-family:var(--display);font-weight:700}
-.pill{display:inline-block;font-size:11px;border-radius:6px;padding:1px 7px;margin-left:6px;background:var(--accent-soft);color:var(--accent);font-weight:700;vertical-align:1px}
-.pill.ok{background:var(--free-soft);color:var(--free)}
-.pill.warn{background:var(--blue-soft);color:var(--blue)}
-code{font-size:13px;background:var(--blue-soft);padding:1px 5px;border-radius:4px}
-.card .when,.card .kind{display:none}
+ol.prio b{font-family:var(--police-titre);font-weight:700}
+.pill{display:inline-block;font-size:11px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;border:1.5px solid var(--encre);border-radius:var(--coin-pilule);padding:0 var(--espace-2);margin-left:var(--espace-2);vertical-align:2px}
+.pill.ok{background:var(--accent-doux)}
+.pill.warn{border-style:dashed;color:var(--encre-douce);border-color:var(--encre-douce)}
+code{font-size:13px;background:var(--type-atelier);padding:1px 5px;border-radius:var(--coin-bouton)}
 
+/* Filtres mobiles : recherche, Quand / Quoi / Où, raccourcis */
+.mob{display:none}
 #more{display:none}
 .row.more{display:contents}
-h2.day{grid-column:1/-1;font-family:var(--display);font-size:18px;margin:14px 0 0;display:flex;align-items:center;gap:10px}
-h2.day:first-child{margin-top:0}
-h2.day::after{content:"";flex:1;height:3px;border-radius:3px;background:var(--line)}
+
 @media (max-width:640px){
-  #more{display:inline-flex}
-  .row.more{display:none;width:100%;flex-wrap:wrap;gap:8px}
+  body{padding-bottom:calc(var(--nav-h) + env(safe-area-inset-bottom,0px))}
+  .wrap{padding-left:max(var(--espace-4),env(safe-area-inset-left,0px));padding-right:max(var(--espace-4),env(safe-area-inset-right,0px))}
+  header.top{padding-block:var(--espace-6) var(--espace-2)}
+  header.top>div{width:100%}
+  h1{font-size:var(--texte-titre)}
+  .sub{margin-top:var(--espace-3)}
+  /* la navigation devient la barre du bas */
+  .views{position:fixed;left:0;right:0;bottom:0;z-index:20;border-radius:0;padding:0 env(safe-area-inset-right,0px) env(safe-area-inset-bottom,0px) env(safe-area-inset-left,0px)}
+  .views button{flex:1;min-width:0;min-height:var(--nav-h);flex-direction:column;justify-content:center;gap:var(--espace-1);padding:0 var(--espace-1);font-size:13px}
+  .views svg.ic{width:22px;height:22px}
+  .views .long{display:none}
+  .views .short{display:inline}
+  .toast{bottom:calc(var(--nav-h) + var(--espace-3) + env(safe-area-inset-bottom,0px))}
+  .bar{position:static;border-bottom:0;padding-block:var(--espace-2) 0}
+  #periods,#chips,.bar>.wrap>.row:not(.range){display:none}
+  .mob{display:grid;gap:var(--espace-3)}
+  .msearch{display:flex;align-items:center;gap:var(--espace-3);border:var(--trait);border-radius:var(--coin-pilule);padding:0 var(--espace-4);min-height:52px}
+  .msearch input{border:0;background:transparent;font:inherit;font-size:17px;color:var(--encre);flex:1;min-width:0;padding:0;outline:none;min-height:48px}
+  .msearch:focus-within{outline:3px solid var(--encre);outline-offset:2px}
+  .qqo{display:grid;grid-template-columns:1fr 1fr 1fr;border:var(--trait);border-radius:var(--coin-ligne);overflow:hidden}
+  .qqo label{position:relative;padding:var(--espace-2) var(--espace-3);min-width:0;display:block;min-height:56px}
+  .qqo label+label{border-left:var(--trait-fin)}
+  .qqo span{display:block;font-size:11px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--encre-douce);pointer-events:none;position:relative;z-index:1}
+  /* le menu couvre toute la case : on peut toucher n'importe où */
+  .qqo select{position:absolute;inset:0;appearance:none;-webkit-appearance:none;border:0;background:transparent;padding:26px var(--espace-3) var(--espace-2);min-height:0;font:inherit;font-weight:700;font-size:15px;color:var(--encre);width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;border-radius:0}
+  .qqo select:focus-visible{outline:none}
+  .qqo label:focus-within{background:var(--accent-doux)}
+  .sc-title{font-size:var(--texte-etiquette);font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--encre-douce);margin-top:var(--espace-1)}
+  .shortcuts{display:flex;gap:var(--espace-2);overflow-x:auto;scrollbar-width:none;margin:0 calc(-1 * var(--espace-4));padding:var(--espace-1) var(--espace-4)}
+  .shortcuts::-webkit-scrollbar{display:none}
+  .sc{flex:none;font-size:15px}
+  #more{display:inline-flex;align-self:flex-start}
+  .row.more{display:none;width:100%;flex-wrap:wrap;gap:var(--espace-2)}
   .row.more.open{display:flex}
-  .grid{gap:10px}
-  .card .band,.card .actions,.card .src{display:none}
-  .card .when{display:flex;flex-direction:column;gap:6px;align-items:flex-start;flex:none;width:68px;padding:12px 0 12px 10px;font-size:13px;font-variant-numeric:tabular-nums}
-  .card .when b{font-family:var(--display);font-size:13px;line-height:1.2}
-  .card .when .free-tag{font-size:10px;padding:1px 5px}
-  .card .body{padding:10px 12px 12px 6px;gap:3px}
-  .card .kind{display:inline-block;align-self:flex-start;max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;box-sizing:border-box;background:var(--c);color:var(--ink-on-color);font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.04em;border-radius:5px;padding:1px 7px}
-  .card h3{font-size:15px}
-  .card .info .free-tag,.card .info .h{display:none}
-  .card .info:not(:has(span:not(.h):not(.free-tag))){display:none}
-  h2.day{font-size:16px;position:sticky;top:0;z-index:2;background:var(--bg);padding:8px 0;margin:6px 0 0}
-}
-@media (max-width:640px){
-  .bar{position:static}
-  .views button{padding:5px 12px;font-size:14px}
-  #chips,#periods{flex-wrap:nowrap;overflow-x:auto;padding-bottom:4px;scrollbar-width:none}
-  #chips .chip,#periods .tab{flex:none}
+  .count{margin:var(--espace-5) 0 0}
+  #share-we{display:none}
+  .msort{display:flex;gap:var(--espace-2);align-items:center;font-weight:500;color:var(--encre-douce)}
+  .msort select{border:0;background:transparent;font-weight:700;color:var(--encre);padding:0;min-height:var(--tactile)}
+  .grid{grid-template-columns:minmax(0,1fr);gap:var(--espace-2)}
+  h2.day{position:sticky;top:env(safe-area-inset-top,0px);z-index:2;background:var(--fond);padding:var(--espace-3) 0 var(--espace-2);margin:var(--espace-3) 0 0}
+  .card{padding:var(--espace-3) var(--espace-3) var(--espace-3) var(--espace-2)}
 }
 @media (prefers-reduced-motion:no-preference){
-  .card{transition:transform .15s ease, border-color .15s}
-  .card:hover{transform:translateY(-3px) rotate(-.4deg);border-color:var(--c)}
-  .sheet{animation:up .22s ease-out}
-  @keyframes up{from{transform:translateY(24px);opacity:.6}to{transform:none;opacity:1}}
-}
-.mob,.msort,.card .tile,.card .price{display:none}
-@media (max-width:640px) and (prefers-color-scheme: light){:root:not([data-theme="dark"]){--bg:#ffffff;--surface:#ffffff;--line:#e8e6e1}}
-@media (max-width:640px){
-  :root[data-theme="light"]{--bg:#ffffff;--surface:#ffffff;--line:#e8e6e1}
-  body{font-size:16px}
-  header.top{padding-block:18px 6px;gap:12px}
-  header.top>div{width:100%}
-  h1{font-size:30px;line-height:1.05}
-  .stickers{display:none}
-  .sub{font-size:13px;margin-top:6px}
-  .views{width:100%;display:grid;grid-template-columns:repeat(4,auto);justify-content:space-between;gap:0;background:var(--line);border-radius:999px;padding:4px}
-  .views button{border:0;background:transparent;padding:9px 10px;font-size:13px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-  .views button[aria-pressed="true"]{background:var(--fg);color:var(--bg)}
-  .bar{border-bottom:0;padding-block:6px 0}
-  #periods,#chips,.bar>.wrap>.row:not(.range){display:none}
-  .mob{display:grid;gap:12px}
-  .msearch{display:flex;align-items:center;gap:10px;border:2.5px solid var(--fg);border-radius:999px;padding:0 18px;height:54px}
-  .msearch input{border:0;background:transparent;font:inherit;font-size:17px;color:var(--fg);flex:1;min-width:0;padding:0;outline:none}
-  .msearch:focus-within{outline:3px solid var(--blue);outline-offset:2px}
-  .qqo{display:grid;grid-template-columns:1fr 1fr 1fr;border:2.5px solid var(--fg);border-radius:20px;overflow:hidden}
-  .qqo label{position:relative;padding:10px 12px;min-width:0;display:block}
-  .qqo label+label{border-left:1.5px solid var(--line)}
-  .qqo span{display:block;font-size:11px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
-  .qqo select{appearance:none;-webkit-appearance:none;border:0;background:transparent;padding:2px 0 0;font:inherit;font-weight:700;font-size:15px;color:var(--fg);width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;border-radius:0}
-  .qqo select:focus-visible{outline:none}
-  .qqo label:focus-within{background:var(--blue-soft)}
-  .sc-title{font-size:12px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);margin-top:4px}
-  .shortcuts{display:flex;flex-wrap:wrap;gap:8px}
-  .sc{font:inherit;font-weight:700;font-size:15px;border:2px solid var(--fg);background:transparent;color:var(--fg);border-radius:999px;padding:8px 16px;cursor:pointer}
-  .sc[aria-pressed="true"]{background:var(--fg);color:var(--bg)}
-  #more{display:inline-flex;align-self:flex-start}
-  .count{margin:18px 0 4px;font-size:15px;color:var(--fg);font-weight:700}
-  .count #count{font-family:var(--display);font-size:20px}
-  #share-we{display:none}
-  .msort{display:flex;gap:6px;align-items:center;font-weight:500;color:var(--muted);font-size:15px}
-  .msort select{border:0;background:transparent;font-weight:700;color:var(--fg);padding:0;font-size:15px}
-  .grid{gap:0}
-  .card{background:transparent;box-shadow:none;border:0;border-bottom:1.5px solid var(--line);border-radius:0;padding:16px 0;display:grid;grid-template-columns:62px 64px 1fr;gap:0 12px;align-items:start}
-  .card:hover{transform:none}
-  .card .tile{display:grid;place-items:center;grid-column:2;grid-row:1;width:64px;height:64px;border-radius:12px;background:var(--c);font-size:28px}
-  .card .when{grid-column:1;grid-row:1;width:auto;padding:4px 0 0;gap:4px}
-  .card .when b{font-family:var(--body);font-weight:700;font-size:15px}
-  .card .when .free-tag{display:none}
-  .card .body{grid-column:3;grid-row:1;padding:0;gap:4px;min-width:0}
-  .card .kind{background:none;color:var(--muted);padding:0;font-size:12px;letter-spacing:.14em;display:flex;align-items:center;gap:6px}
-  .card .kind::before{content:"";width:8px;height:8px;border-radius:50%;background:var(--c);flex:none}
-  .card h3{font-family:var(--body);font-weight:700;font-size:17px;line-height:1.3}
-  .card .place{font-size:15px}
-  .card .place b{font-weight:500;color:var(--muted)}
-  .card .price{display:inline-block;align-self:flex-start;border:2px solid var(--fg);border-radius:999px;padding:2px 12px;font-weight:700;font-size:14px;margin-top:4px}
-  .card .info{display:none}
-  h2.day{font-family:var(--body);font-weight:800;font-size:22px;padding:14px 0 6px;margin:8px 0 0;border-bottom:0}
-  h2.day::after{display:none}
-  details.long summary{font-size:20px}
+  .plus,.tab,.chip,.sc,.btn,.views button{transition:background-color var(--duree) var(--courbe),color var(--duree) var(--courbe),transform 120ms var(--courbe)}
+  .plus:active,.tab:active,.chip:active,.sc:active,.btn:active{transform:scale(.96)}
+  .sheet{animation:up var(--duree) var(--courbe)}
+  .overlay{animation:fade var(--duree) var(--courbe)}
+  .toast{animation:fade var(--duree) var(--courbe)}
+  @keyframes up{from{transform:translateY(16px)}to{transform:none}}
+  @keyframes fade{from{opacity:0}to{opacity:1}}
 }
 </style>
 </head><body>
@@ -221,14 +219,12 @@ h2.day::after{content:"";flex:1;height:3px;border-radius:3px;background:var(--li
   <header class="top">
     <div>
       <h1>Sorties en <span class="hl">Alsace</span></h1>
-      <div class="stickers" aria-hidden="true"><span class="sticker">Alsace</span><span class="sticker">Bâle</span><span class="sticker">Fribourg</span><span class="sticker">Lörrach</span></div>
       <p class="sub" id="sub">Les agendas d'Alsace et des villes frontalières réunis au même endroit, pour ne plus rien rater.</p>
     </div>
     <nav class="views" aria-label="Vues">
-      <button id="v-agenda" aria-pressed="true">Agenda</button>
-      <button id="v-prog" aria-pressed="false">Mon programme <span id="favn"></span></button>
-      <button id="v-sources" aria-pressed="false">Sources</button>
-      <button id="v-ideas" aria-pressed="false">Pistes</button>
+      <button id="v-agenda" aria-pressed="true" data-ic="calendar">Agenda</button>
+      <button id="v-prog" aria-pressed="false" data-ic="bookmark"><span><span class="long">Mon programme</span><span class="short">Programme</span> <span id="favn"></span></span></button>
+      <button id="v-sources" aria-pressed="false" data-ic="layers">Sources</button>
     </nav>
   </header>
 </div>
@@ -236,14 +232,14 @@ h2.day::after{content:"";flex:1;height:3px;border-radius:3px;background:var(--li
 <section id="agenda">
   <div class="bar"><div class="wrap">
     <div class="mob" id="mob">
-      <label class="msearch"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2.4"/><path d="M16.5 16.5 21 21" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg><input type="search" id="mq" placeholder="Concert, artiste, lieu…" aria-label="Rechercher"></label>
+      <label class="msearch" data-ic="search"><input type="search" id="mq" placeholder="Concert, artiste, lieu…" aria-label="Rechercher"></label>
       <div class="qqo">
         <label><span>Quand</span><select id="m-when"></select></label>
         <label><span>Quoi</span><select id="m-what"></select></label>
         <label><span>Où</span><select id="m-where"></select></label>
       </div>
-      <div class="sc-title">Raccourcis</div>
-      <div class="shortcuts" id="shortcuts"></div>
+      <div class="sc-title" id="sc-title">Raccourcis</div>
+      <div class="shortcuts" id="shortcuts" role="group" aria-labelledby="sc-title"></div>
     </div>
     <div class="row" id="periods" role="group" aria-label="Période"></div>
     <div class="row range" id="range" hidden>
@@ -252,12 +248,12 @@ h2.day::after{content:"";flex:1;height:3px;border-radius:3px;background:var(--li
     </div>
     <div class="row">
       <input type="search" id="q" placeholder="Rechercher un titre, une ville, un lieu…" aria-label="Rechercher">
-      <button class="btn" id="more" aria-expanded="false" aria-controls="morefilters">Filtres</button>
+      <button class="btn" id="more" aria-expanded="false" aria-controls="morefilters" data-ic="sliders">Plus de filtres</button>
       <div class="row more" id="morefilters">
       <label class="small">Autour de
         <select id="ref"><option>Mulhouse</option><option>Colmar</option><option>Strasbourg</option><option>Sélestat</option><option>Haguenau</option><option>Saint-Louis</option></select>
       </label>
-      <label class="small"><input type="range" id="radius" min="10" max="150" step="10" value="150"> <span id="rlab">toute l'Alsace</span></label>
+      <label class="small"><input type="range" id="radius" min="10" max="150" step="10" value="150" aria-label="Rayon"> <span id="rlab">toute l'Alsace</span></label>
       <label class="small">Tri
         <select id="sort"><option value="date">Date</option><option value="dist">Plus proche</option><option value="commune">Commune</option><option value="title">A → Z</option></select>
       </label>
@@ -272,7 +268,7 @@ h2.day::after{content:"";flex:1;height:3px;border-radius:3px;background:var(--li
     <div class="row" id="chips" role="group" aria-label="Thèmes"></div>
   </div></div>
   <div class="wrap">
-    <div class="count"><span id="count"></span><label class="msort">Trier par <select id="m-sort"><option value="date">Horaire</option><option value="dist">Distance</option><option value="commune">Commune</option><option value="title">A → Z</option></select></label><button class="btn" id="share-we">Copier le programme du week-end</button></div>
+    <div class="count"><span id="count" aria-live="polite"></span><label class="msort">Trier par <select id="m-sort"><option value="date">Horaire</option><option value="dist">Distance</option><option value="commune">Commune</option><option value="title">A → Z</option></select></label><button class="btn" id="share-we" data-ic="copy">Copier le programme du week-end</button></div>
     <div class="grid" id="list"></div>
     <details class="long" id="longwrap" open>
       <summary>Expositions en cours <small id="longn"></small></summary>
@@ -298,54 +294,6 @@ h2.day::after{content:"";flex:1;height:3px;border-radius:3px;background:var(--li
   </div>
 </section>
 
-<section id="ideas" hidden>
-  <div class="wrap panel">
-    <div>
-      <h2>Ce que font les autres agendas</h2>
-      <p>Comparaison faite le 15 novembre 2026 avec JDS Mulhouse, Visit Alsace, Coze, Made in Alsace, Pass'Alsace et l'office de tourisme de Colmar.</p>
-    </div>
-    <div class="tbl"><table>
-      <thead><tr><th>Fonction</th><th>JDS</th><th>Visit Alsace</th><th>Coze</th><th>Made in Alsace</th><th>Pass'Alsace</th><th>Colmar</th><th>Cette appli</th></tr></thead>
-      <tbody>
-        <tr><td>Aujourd'hui, demain, week-end, semaine</td><td class="y">Oui</td><td class="y">Oui</td><td class="y">Oui</td><td class="y">Oui</td><td class="n">Non</td><td class="n">Non</td><td class="y">Oui</td></tr>
-        <tr><td>Dates libres Du / Au</td><td class="n">Non</td><td class="y">Oui</td><td class="y">Oui</td><td class="y">Oui</td><td class="y">Oui</td><td class="y">Oui</td><td class="y">Oui</td></tr>
-        <tr><td>Filtre gratuit</td><td class="n">Non</td><td class="y">Oui</td><td class="y">Oui</td><td class="y">Oui</td><td class="n">Non</td><td class="y">Oui</td><td class="y">Oui</td></tr>
-        <tr><td>Famille / enfants</td><td class="y">Rubrique</td><td class="n">Non</td><td class="y">Oui</td><td class="n">Non</td><td class="y">Oui</td><td class="n">Non</td><td class="y">Oui</td></tr>
-        <tr><td>Marchés de Noël, brocantes</td><td class="y">Oui</td><td>Types</td><td class="y">Oui</td><td class="y">Oui</td><td class="y">Noël</td><td class="y">Oui</td><td class="y">Oui</td></tr>
-        <tr><td>Rayon / distance</td><td class="n">Non</td><td class="y">Oui</td><td class="n">Non</td><td class="n">Non</td><td class="n">Non</td><td class="y">Tri</td><td class="y">Oui</td></tr>
-        <tr><td>Tri date / distance / commune</td><td class="n">Non</td><td class="n">Non</td><td>Horaire, prix</td><td class="n">Non</td><td class="n">Non</td><td class="y">Oui</td><td class="y">Oui</td></tr>
-        <tr><td>Expositions longues à part</td><td class="n">Non</td><td class="n">Non</td><td class="y">Oui</td><td class="n">Non</td><td class="n">Non</td><td class="n">Non</td><td class="y">Oui</td></tr>
-        <tr><td>Horaire et prix sur la liste</td><td>Extrait</td><td class="n">Non</td><td class="y">Oui</td><td>?</td><td>Horaire</td><td class="n">Non</td><td>Si une source les donne</td></tr>
-        <tr><td>Carte</td><td class="n">Non</td><td class="y">Oui</td><td class="y">Oui</td><td class="y">Oui</td><td class="n">Non</td><td class="y">Oui</td><td class="n">Non</td></tr>
-        <tr><td>Programme imprimable / à partager</td><td>Newsletter</td><td class="n">Non</td><td>Newsletter</td><td>Newsletter</td><td>Newsletter</td><td class="y">PDF 7 jours</td><td class="y">Week-end à copier</td></tr>
-        <tr><td>Plusieurs sources réunies</td><td class="n">Non</td><td class="n">Non</td><td class="n">Non</td><td class="n">Non</td><td class="n">Non</td><td class="n">Non</td><td class="y">20 sites, 3 pays</td></tr>
-        <tr><td>Favoris et ajout à l'agenda</td><td class="n">Non</td><td class="n">Non</td><td class="n">Non</td><td class="n">Non</td><td class="n">Non</td><td class="n">Non</td><td class="y">Oui</td></tr>
-      </tbody>
-    </table></div>
-    <div>
-      <h2>Ajouté dans cette version</h2>
-      <ol class="prio">
-        <li><b>Cinq sources fusionnées</b><span class="pill ok">ajouté</span><br>Visit Alsace, Coze, Pass'Alsace et l'office de tourisme de Colmar. Les doublons sont regroupés et chaque carte indique où l'événement a été vu.</li>
-        <li><b>Filtre gratuit, dates libres, tri par commune</b><span class="pill ok">ajouté</span><br>Repris de Coze, Visit Alsace et Colmar.</li>
-        <li><b>Thèmes du quotidien</b><span class="pill ok">ajouté</span><br>Marchés de Noël et fêtes, brocantes, famille et enfants, sport et nature, comme JDS et Coze.</li>
-        <li><b>Expositions en cours à part</b><span class="pill ok">ajouté</span><br>Comme le bloc « Les expositions du moment » de Coze, pour que les expos de plusieurs mois ne noient pas les sorties du jour.</li>
-        <li><b>Programme du week-end à copier</b><span class="pill ok">ajouté</span><br>L'équivalent du PDF 7 jours de Colmar ou d'une newsletter, à coller dans un message.</li>
-      </ol>
-    </div>
-    <div>
-      <h2>Encore à faire</h2>
-      <ol class="prio">
-        <li><b>Made in Alsace</b><span class="pill warn">bloqué</span><br>Sa liste est chargée en JavaScript : impossible à lire sans navigateur. Il faudra trouver son flux de données ou passer par un navigateur automatisé.</li>
-        <li><b>Lörrach et Breisach</b><span class="pill warn">bloqué</span><br>Le calendrier de Lörrach s'affiche en JavaScript et son site touristique interdit la lecture automatique ; aucune page d'agenda lisible trouvée pour Breisach. Fribourg ne montre que ses grands événements sans accord cookies.</li>
-        <li><b>JDS Mulhouse comme source</b><span class="pill">à faire</span><br>C'est l'agenda le plus complet pour le Sud Alsace.</li>
-        <li><b>Plus de pages par source</b><span class="pill">à faire</span><br>Seules les premières pages sont lues : Colmar annonce 889 événements, Visit Alsace plus de 30 000.</li>
-        <li><b>Horaires et prix depuis les fiches</b><span class="pill">à faire</span><br>Visit Alsace et Colmar ne les montrent pas dans leur liste.</li>
-        <li><b>Carte</b><span class="pill">à faire</span><br>Les fonds de carte en ligne ne sont pas autorisés dans cette page ; il faudrait une version hébergée ailleurs.</li>
-      </ol>
-    </div>
-  </div>
-</section>
-
 <div class="overlay" id="overlay" hidden><div class="sheet" id="sheet" role="dialog" aria-modal="true" aria-labelledby="d-title"></div></div>
 <div class="toast" id="toast" hidden></div>
 
@@ -362,9 +310,26 @@ const GEO={"Spechbach":[47.682,7.229],"Pfaffenheim":[47.986,7.29],"Pays de Thann
 "Bâle":[47.559,7.588],"Riehen":[47.588,7.652],"Lörrach":[47.615,7.661],"Lörrach (Brombach)":[47.633,7.709],"Lörrach (Hauingen)":[47.637,7.672],"Lörrach (Tumringen)":[47.627,7.664],"Weil am Rhein":[47.594,7.621],"Fribourg-en-Brisgau":[47.999,7.842],"Titisee-Neustadt":[47.912,8.215],"Bad Dürrheim":[48.022,8.533],"Breisach":[48.029,7.580],"Huningue":[47.592,7.583],"Village-Neuf":[47.606,7.569],"Hégenheim":[47.562,7.523],"Bartenheim":[47.634,7.477],"Blotzheim":[47.603,7.497],"Buschwiller":[47.561,7.506],"Leymen":[47.497,7.484],"Ranspach-le-Bas":[47.588,7.454],"Sierentz":[47.658,7.454],"Allschwil":[47.551,7.536],"Birsfelden":[47.553,7.623]};
 const PAYS={FR:"France",CH:"Suisse",DE:"Allemagne"};
 const HAUT_RHIN=new Set(["Brunstatt-Didenheim","Marckolsheim","Pays de Thann-Cernay","Pfaffenheim","Spechbach","Kunheim","Hésingue","Seppois-le-Haut","Reiningue","Masevaux-Niederbruck","Mittelwihr","Kaysersberg","Riedisheim","Riquewihr","Algolsheim","Hattstatt","Volgelsheim","Stosswihr","Heiteren","Mulhouse","Colmar","Ammerschwihr","Beblenheim","Breitenbach-Haut-Rhin","Durrenentzen","Gueberschwihr","Haut-Soultzbach","Kaysersberg Vignoble","Kembs","Logelheim","Metzeral","Neuf-Brisach","Oderen","Orbey","Ribeauvillé","Rixheim","Roderen","Thann","Turckheim","Ungersheim","Wattwiller","Illzach","Cernay","Guebwiller","Saint-Louis","Altkirch","Munster","Eguisheim","Rouffach","Huningue","Village-Neuf","Hégenheim","Bartenheim","Blotzheim","Buschwiller","Leymen","Ranspach-le-Bas","Sierentz"]);
-const THEME_COLOR={"Marchés de Noël & fêtes":"noel","Brocantes & marchés":"broc","Concerts & festivals":"concert","Spectacles & cinéma":"spectacle","Expos & salons":"expo","Famille & enfants":"famille","Vin & gastronomie":"vin","Sport & nature":"sport","Visites & patrimoine":"visite","Ateliers":"atelier","Culture & vie locale":"culture"};
-const tc=t=>`var(--t-${THEME_COLOR[t]||"culture"})`;
-const THEME_ICON={"Marchés de Noël & fêtes":"🎄","Brocantes & marchés":"🧺","Concerts & festivals":"🎸","Spectacles & cinéma":"🎭","Expos & salons":"🖼️","Famille & enfants":"🧸","Vin & gastronomie":"🍷","Sport & nature":"🌲","Visites & patrimoine":"🏰","Ateliers":"✂️","Culture & vie locale":"✨"};
+const THEME_COLOR={"Marchés de Noël & fêtes":"noel","Brocantes & marchés":"brocante","Concerts & festivals":"concert","Spectacles & cinéma":"spectacle","Expos & salons":"expo","Famille & enfants":"famille","Vin & gastronomie":"vin","Sport & nature":"sport","Visites & patrimoine":"visite","Ateliers":"atelier","Culture & vie locale":"culture"};
+const tc=t=>`var(--type-${THEME_COLOR[t]||"culture"})`;
+const tcf=t=>`var(--type-${THEME_COLOR[t]||"culture"}-fonce)`;
+const ICONS={
+  calendar:'<rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/>',
+  bookmark:'<path d="M6 3h12v18l-6-4-6 4z"/>',
+  layers:'<path d="m12 2 10 5-10 5L2 7z"/><path d="m2 17 10 5 10-5M2 12l10 5 10-5"/>',
+  search:'<circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/>',
+  plus:'<path d="M12 5v14M5 12h14"/>',
+  check:'<path d="M20 6 9 17l-5-5"/>',
+  x:'<path d="M18 6 6 18M6 6l12 12"/>',
+  ext:'<path d="M15 3h6v6M10 14 21 3"/><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>',
+  pin:'<path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/>',
+  route:'<path d="m3 11 19-9-9 19-2-8z"/>',
+  copy:'<rect x="9" y="9" width="12" height="12" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/>',
+  calplus:'<rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4M12 13v5M9.5 15.5h5"/>',
+  sliders:'<path d="M4 6h10M18 6h2M4 12h4M12 12h8M4 18h12M20 18h0"/><circle cx="16" cy="6" r="2"/><circle cx="10" cy="12" r="2"/><circle cx="18" cy="18" r="2"/>',
+  refresh:'<path d="M3 12a9 9 0 0 1 15.5-6.2L21 8M21 3v5h-5M21 12a9 9 0 0 1-15.5 6.2L3 16M3 21v-5h5"/>'
+};
+const ic=n=>`<svg class="ic" viewBox="0 0 24 24" aria-hidden="true">${ICONS[n]||""}</svg>`;
 const MOB_CITIES=["Mulhouse","Colmar","Strasbourg","Sélestat","Saint-Louis","Bâle","Lörrach","Fribourg-en-Brisgau"];
 const SHORTCUTS=[["free","Gratuit"],["fam","En famille"],["today","Aujourd'hui"],["tomorrow","Demain"],["weekend","Ce week-end"],["week","Cette semaine"],["expo","Expositions"],["near","À 15 km"]];
 const THEMES=["Marchés de Noël & fêtes","Brocantes & marchés","Concerts & festivals","Spectacles & cinéma","Expos & salons","Famille & enfants","Vin & gastronomie","Sport & nature","Visites & patrimoine","Ateliers","Culture & vie locale"];
@@ -442,23 +407,27 @@ function gcal(e){
 function placeLine(e){
   return `${e.lieu?esc(e.lieu)+" · ":""}<b>${esc(e.commune||"Commune non précisée")}</b>${e.commune?` (${(e.pays||"FR")!=="FR"?PAYS[e.pays]:HAUT_RHIN.has(e.commune)?"68":"67"})`:""}`;
 }
-function card(e){
+function dayBox(e){
+  if(isLong(e)&&e.date_debut<=TODAY){const d=new Date(e.date_fin+"T12:00:00");return `<small>fin</small><b>${d.getDate()}</b><span>${d.toLocaleDateString("fr-FR",{month:"short"}).replace(".","")}</span>`}
+  const k=e.date_debut<TODAY?TODAY:e.date_debut, d=new Date(k+"T12:00:00");
+  return `<b>${d.getDate()}</b><span>${d.toLocaleDateString("fr-FR",{weekday:"short"}).replace(".","")}</span>`;
+}
+function favBtn(e){
   const fav=S.favs.has(e.id);
-  return `<article class="card" style="--c:${tc(e.theme)}" data-open="${e.id}" tabindex="0" aria-label="${esc(e.titre)} : voir la fiche">
-    <div class="band"><span class="d">${dateLabel(e)}</span><span class="k">${esc(e.theme)}</span></div>
-    <div class="tile" aria-hidden="true">${THEME_ICON[e.theme]||"✨"}</div>
-    <div class="when" aria-hidden="true"><b>${e.horaires?esc(e.horaires.split(/\s*[-–]\s*/)[0]):isLong(e)?"Expo":"Journée"}</b>${e.gratuit?'<span class="free-tag">Gratuit</span>':""}</div>
+  return `<button class="plus" data-fav="${e.id}" aria-pressed="${fav}" aria-label="${fav?"Retirer de mon programme":"Ajouter à mon programme"} : ${esc(e.titre)}">${ic(fav?"check":"plus")}</button>`;
+}
+function card(e){
+  const hour=e.horaires?esc(e.horaires.split(/\s*[-–]\s*/)[0]):"";
+  const multi=e.date_fin&&e.date_fin!==e.date_debut;
+  const extra=[multi&&!isLong(e)?dateLabel(e).replace(/^J/,"j"):"",hour?`<b>${hour}</b>`:"",e.gratuit?"<b>Gratuit</b>":""].filter(Boolean).join(" · ");
+  return `<article class="card" style="--c:${tc(e.theme)};--cf:${tcf(e.theme)}" data-open="${e.id}" tabindex="0" aria-label="${esc(e.titre)}, ${esc(dateLabel(e))} : voir la fiche">
+    <div class="day" aria-hidden="true">${dayBox(e)}</div>
     <div class="body">
-    <span class="kind">${esc(e.categorie||e.theme)}</span>
-    <h3>${esc(e.titre)}</h3>
-    <div class="place">${placeLine(e)}${e.dist!==null?` · ≈ ${e.dist} km`:""}</div>
-    ${e.gratuit||e.prix?`<div class="price">${e.gratuit?"Gratuit":esc(e.prix)}</div>`:""}
-    ${(e.horaires||e.prix)?`<div class="info">${e.horaires?`<span class="h">🕒 ${esc(e.horaires)}</span>`:""}${e.gratuit?'<span class="free-tag">Gratuit</span>':e.prix?`<span>${esc(e.prix)}</span>`:""}</div>`:""}
-    <div class="src">Vu sur ${e.sources.map(s=>esc(s.nom)).join(" · ")}</div>
-    <div class="actions">
-      <button class="btn primary" data-open="${e.id}">Voir la fiche</button>
-      <button class="btn fav" data-fav="${e.id}" aria-pressed="${fav}">${fav?"★ Gardé":"☆ Garder"}</button>
-    </div></div>
+      <span class="kind"><span>${esc(e.categorie||e.theme)}</span></span>
+      <h3>${esc(e.titre)}</h3>
+      <div class="place">${[e.lieu?esc(e.lieu):"",esc(e.commune||"Commune non précisée")].filter(Boolean).join(" · ")}${e.dist!==null?` · ${e.dist} km`:""}${extra?" · "+extra:""}</div>
+    </div>
+    ${favBtn(e)}
   </article>`;
 }
 function autoDesc(e){
@@ -472,26 +441,26 @@ function openDetail(id){
   const fav=S.favs.has(e.id);
   const desc=e.description||e.description_courte;
   const maps="https://www.google.com/maps/search/?api=1&query="+encodeURIComponent([e.lieu,e.commune].filter(Boolean).join(", "));
-  $("sheet").style.setProperty("--c",tc(e.theme));
-  $("sheet").innerHTML=`<div class="head"><div class="k">${esc(e.theme)}${e.gratuit?" · Gratuit":""}</div><h2 id="d-title">${esc(e.titre)}</h2>${e.titre_original?`<div class="orig">Titre original : <span lang="${e.pays==="FR"?"fr":"de"}">${esc(e.titre_original)}</span></div>`:""}
-      <button class="close" data-close="1" aria-label="Fermer">×</button></div>
+  $("sheet").style.setProperty("--c",tc(e.theme));$("sheet").style.setProperty("--cf",tcf(e.theme));
+  $("sheet").innerHTML=`<div class="head"><span class="kind"><span>${esc(e.theme)}${e.gratuit?" · Gratuit":""}</span></span><h2 id="d-title">${esc(e.titre)}</h2>${e.titre_original?`<div class="orig">Titre original : <span lang="${e.pays==="FR"?"fr":"de"}">${esc(e.titre_original)}</span></div>`:""}
+      <button class="close" data-close="1" aria-label="Fermer la fiche">${ic("x")}</button></div>
     <div class="content">
       <div><p class="desc">${esc(desc||autoDesc(e))}</p>${desc?"":`<p class="desc-note">Résumé automatique : le programme complet, les tarifs et la réservation sont sur le site de l'événement.</p>`}</div>
       <dl class="facts">
-        <dt>Quand</dt><dd>${dateLabel(e)}${e.horaires?` · ${esc(e.horaires)}`:""}</dd>
+        <dt>Quand</dt><dd>${dateLabel(e)}${e.horaires?` · <b>${esc(e.horaires)}</b>`:""}</dd>
         <dt>Où</dt><dd>${placeLine(e)}${e.dist!==null?` · ≈ ${e.dist} km de ${esc(S.ref)}`:""}</dd>
         <dt>Prix</dt><dd>${e.gratuit?"Gratuit":e.prix?esc(e.prix):"Non indiqué"}</dd>
         <dt>Type</dt><dd>${esc(e.categorie||e.theme)}</dd>
         <dt>Sources</dt><dd>${e.sources.map(s=>esc(s.nom)).join(", ")}</dd>
       </dl>
       <div class="links">
-        ${e.sources.filter(s=>s.url).map((s,i)=>`<a class="btn ${i?"":"primary"}" href="${esc(s.url)}" target="_blank" rel="noopener">Site de l'événement${e.sources.length>1?` (${esc(s.nom)})`:""} ↗</a>`).join("")}
+        ${e.sources.filter(s=>s.url).map((s,i)=>`<a class="btn ${i?"":"primary"}" href="${esc(s.url)}" target="_blank" rel="noopener">${ic("ext")}Site de l'événement${e.sources.length>1?` (${esc(s.nom)})`:""}</a>`).join("")}
       </div>
       <div class="links">
-        <button class="btn fav" data-fav="${e.id}" aria-pressed="${fav}">${fav?"★ Gardé":"☆ Garder"}</button>
-        <a class="btn" href="${gcal(e)}" target="_blank" rel="noopener">+ Agenda</a>
-        <a class="btn" href="${maps}" target="_blank" rel="noopener">Itinéraire</a>
-        <button class="btn" data-copy="${esc(e.sources[0].url)}">Copier le lien</button>
+        <button class="btn" data-fav="${e.id}" aria-pressed="${fav}">${ic(fav?"check":"bookmark")}${fav?"Dans mon programme":"Ajouter à mon programme"}</button>
+        <a class="btn" href="${gcal(e)}" target="_blank" rel="noopener">${ic("calplus")}Ajouter à Google Agenda</a>
+        <a class="btn" href="${maps}" target="_blank" rel="noopener">${ic("route")}Itinéraire</a>
+        <button class="btn" data-copy="${esc(e.sources[0].url)}">${ic("copy")}Copier le lien</button>
       </div>
     </div>`;
   $("overlay").hidden=false; document.body.style.overflow="hidden";
@@ -509,11 +478,11 @@ function renderList(){
     ? `${main.length} événement${main.length>1?"s":""} dans mon programme`
     : `${main.length} sortie${main.length>1?"s":""} · ${p.k==="custom"?`du ${fmt(p.from)} au ${fmt(p.to)}`:p.label.toLowerCase()}`;
   const dayKey=e=>e.date_debut<TODAY?TODAY:e.date_debut;
-  const dayHead=d=>{const t=new Date(d+"T12:00:00").toLocaleDateString("fr-FR",{weekday:"long",day:"numeric",month:"long"});return `<h2 class="day">${d===TODAY?"Aujourd'hui · ":d===addDays(TODAY,1)?"Demain · ":""}${t.charAt(0).toUpperCase()+t.slice(1)}</h2>`};
+  const dayHead=d=>{const t=new Date(d+"T12:00:00").toLocaleDateString("fr-FR",{weekday:"long",day:"numeric",month:"long"});const tag=d===TODAY?"Aujourd'hui":d===addDays(TODAY,1)?"Demain":"";return `<h2 class="day">${t.charAt(0).toUpperCase()+t.slice(1)}${tag?`<small>${tag}</small>`:""}</h2>`};
   const withDays=list=>S.sort!=="date"?list.map(card).join(""):list.map((e,i)=>(i===0||dayKey(e)!==dayKey(list[i-1])?dayHead(dayKey(e)):"")+card(e)).join("");
   $("list").innerHTML=main.length?withDays(main):`<div class="empty">${S.view==="prog"
-    ?"Aucun favori pour l'instant. Touchez « Garder » sur un événement pour l'ajouter à votre programme."
-    :DATA.events.length?"Rien ne correspond à ces filtres. Élargissez le rayon, la période ou retirez un thème.":"Les événements se chargent…"}</div>`;
+    ?`<p>Ton programme est vide. Touche le bouton ${ic("plus")} d'une sortie pour l'ajouter ici.</p><button class="btn" data-go="agenda">${ic("calendar")}Voir l'agenda</button>`
+    :DATA.events.length?`<p>Rien ne correspond à ces filtres.</p><button class="btn" data-reset="1">Voir toutes les sorties</button>`:"<p>Les sorties se chargent…</p>"}</div>`;
   $("longwrap").hidden=S.view==="prog"||!long.length;
   $("longn").textContent=`${long.length} en cours sur la période`;
   $("longlist").innerHTML=long.map(card).join("");
@@ -526,20 +495,20 @@ function renderBar(){
   $("range").hidden=S.period!=="custom";
   const counts={};DATA.events.forEach(e=>counts[e.theme]=(counts[e.theme]||0)+1);
   $("chips").innerHTML=`<button class="chip free" data-free="1" aria-pressed="${S.free}"><span class="dot"></span>Gratuit</button>`+
-    THEMES.filter(t=>counts[t]).map(t=>`<button class="chip" style="--c:${tc(t)}" data-t="${esc(t)}" aria-pressed="${S.themes.has(t)}"><span class="dot"></span>${esc(t)}</button>`).join("");
+    THEMES.filter(t=>counts[t]).map(t=>`<button class="chip" style="--cf:${tcf(t)}" data-t="${esc(t)}" aria-pressed="${S.themes.has(t)}"><span class="dot"></span>${esc(t)}</button>`).join("");
 }
 function renderMobile(){
   const all=base();
   $("m-when").innerHTML=periods().filter(p=>p.k!=="custom").map(p=>`<option value="${p.k}"${S.period===p.k?" selected":""}>${p.label}</option>`).join("")+(S.period==="custom"?`<option value="custom" selected>Dates choisies</option>`:"");
   const counts={};DATA.events.forEach(e=>counts[e.theme]=(counts[e.theme]||0)+1);
   const one=S.themes.size===1?[...S.themes][0]:"";
-  $("m-what").innerHTML=`<option value="">Toutes</option>`+THEMES.filter(t=>counts[t]).map(t=>`<option value="${esc(t)}"${one===t?" selected":""}>${THEME_ICON[t]} ${esc(t)}</option>`).join("")+(S.themes.size>1?`<option selected>${S.themes.size} types</option>`:"");
+  $("m-what").innerHTML=`<option value="">Toutes</option>`+THEMES.filter(t=>counts[t]).map(t=>`<option value="${esc(t)}"${one===t?" selected":""}>${esc(t)}</option>`).join("")+(S.themes.size>1?`<option selected>${S.themes.size} types</option>`:"");
   const wv=S.radius>=150?"":`${S.ref}|${S.radius}`;
   const cities=MOB_CITIES.includes(S.ref)?MOB_CITIES:[S.ref,...MOB_CITIES];
   $("m-where").innerHTML=`<option value="">Partout</option>`+cities.map(c=>[15,30,50].map(r=>`<option value="${esc(c)}|${r}"${wv===c+"|"+r?" selected":""}>${esc(c.replace("Fribourg-en-Brisgau","Fribourg"))} · ${r} km</option>`).join("")).join("");
   if(wv&&!$("m-where").value) $("m-where").insertAdjacentHTML("beforeend",`<option selected>${esc(S.ref)} · ${S.radius} km</option>`);
   const on={free:S.free,fam:S.themes.size===1&&S.themes.has("Famille & enfants"),expo:S.themes.size===1&&S.themes.has("Expos & salons"),near:S.radius<150&&S.radius<=15,today:S.period==="today",tomorrow:S.period==="tomorrow",weekend:S.period==="weekend",week:S.period==="week"};
-  $("shortcuts").innerHTML=SHORTCUTS.map(([k,l])=>`<button class="sc" data-sc="${k}" aria-pressed="${!!on[k]}">${k==="near"?"📍 ":""}${l}</button>`).join("");
+  $("shortcuts").innerHTML=SHORTCUTS.map(([k,l])=>`<button class="sc" data-sc="${k}" aria-pressed="${!!on[k]}">${k==="near"?ic("pin"):""}${l}</button>`).join("");
   $("m-sort").value=S.sort; if($("mq").value!==S.q) $("mq").value=S.q;
 }
 function renderSources(){
@@ -554,14 +523,14 @@ function renderSources(){
 }
 function renderAll(){
   $("favn").textContent=S.favs.size?`(${S.favs.size})`:"";
-  ["agenda","prog","sources","ideas"].forEach(v=>$("v-"+v).setAttribute("aria-pressed",S.view===v));
+  ["agenda","prog","sources"].forEach(v=>$("v-"+v).setAttribute("aria-pressed",S.view===v));
   $("agenda").hidden=!(S.view==="agenda"||S.view==="prog");
-  $("sources").hidden=S.view!=="sources"; $("ideas").hidden=S.view!=="ideas";
+  $("sources").hidden=S.view!=="sources";
   $("periods").hidden=S.view==="prog"; $("share-we").hidden=S.view==="prog";
   $("rlab").textContent=S.radius>=150?"toute l'Alsace":`${S.radius} km max`;
   renderBar(); renderMobile(); renderList(); renderSources();
 }
-function toast(m){const t=$("toast");t.textContent=m;t.hidden=false;clearTimeout(toast.h);toast.h=setTimeout(()=>t.hidden=true,2000)}
+function toast(m,ok){const t=$("toast");t.innerHTML=(ok?ic("check"):"")+esc(m);t.hidden=false;clearTimeout(toast.h);toast.h=setTimeout(()=>t.hidden=true,2000)}
 function copy(text,ok){
   if(navigator.clipboard) navigator.clipboard.writeText(text).then(()=>toast(ok),()=>toast("Copie refusée par le navigateur"));
   else toast("Copie indisponible ici");
@@ -579,6 +548,8 @@ document.addEventListener("click",ev=>{
   const b=ev.target.closest("button");
   if(!b){ if(ev.target.closest("a")) return; const c=ev.target.closest(".card[data-open]"); if(c) openDetail(c.dataset.open); return; }
   if(b.dataset.close){closeDetail();return}
+  if(b.dataset.reset){Object.assign(S,{period:"all",q:"",themes:new Set(),free:false,radius:150,src:"",pays:""});$("q").value="";$("radius").value=150;$("srcsel").value="";$("pays").value="";renderAll();return}
+  if(b.dataset.go){S.view=b.dataset.go;location.hash="";renderAll();window.scrollTo(0,0);return}
   if(b.dataset.sc){const k=b.dataset.sc;
     if(k==="free") S.free=!S.free;
     else if(k==="fam"||k==="expo"){const t=k==="fam"?"Famille & enfants":"Expos & salons";const was=S.themes.size===1&&S.themes.has(t);S.themes=new Set(was?[]:[t]);}
@@ -590,7 +561,7 @@ document.addEventListener("click",ev=>{
   if(b.dataset.p){S.period=b.dataset.p;renderAll()}
   else if(b.dataset.free){S.free=!S.free;renderAll()}
   else if(b.dataset.t){S.themes.has(b.dataset.t)?S.themes.delete(b.dataset.t):S.themes.add(b.dataset.t);renderAll()}
-  else if(b.dataset.fav){const id=b.dataset.fav;S.favs.has(id)?(S.favs.delete(id),toast("Retiré du programme")):(S.favs.add(id),toast("Ajouté à mon programme"));store.set("favs",[...S.favs]);renderAll();if(S.openId)openDetail(S.openId)}
+  else if(b.dataset.fav){const id=b.dataset.fav;S.favs.has(id)?(S.favs.delete(id),toast("Retiré de ton programme")):(S.favs.add(id),toast("Ajouté à ton programme",true));store.set("favs",[...S.favs]);renderAll();if(S.openId)openDetail(S.openId)}
   else if(b.dataset.copy){copy(b.dataset.copy,"Lien copié")}
   else if(b.id==="share-we"){copy(weekendText(),"Programme du week-end copié")}
   else if(b.id&&b.id.startsWith("v-")){S.view=b.id.slice(2);location.hash=S.view==="agenda"?"":S.view;renderAll();window.scrollTo(0,0)}
@@ -612,8 +583,9 @@ $("srcsel").addEventListener("change",e=>{S.src=e.target.value;renderAll()});
 $("pays").addEventListener("change",e=>{S.pays=e.target.value;renderAll()});
 $("from").addEventListener("change",e=>{S.from=e.target.value;if(!S.to||S.to<S.from){S.to=S.from;$("to").value=S.to}renderAll()});
 $("to").addEventListener("change",e=>{S.to=e.target.value;renderAll()});
+document.querySelectorAll("[data-ic]").forEach(el=>el.insertAdjacentHTML("afterbegin",ic(el.dataset.ic)));
 $("ref").value=S.ref;
-const h=location.hash.slice(1); if(["prog","sources","ideas"].includes(h)) S.view=h;
+const h=location.hash.slice(1); if(["prog","sources"].includes(h)) S.view=h;
 renderAll();
 
 fetch("events.json").then(r=>{if(!r.ok)throw new Error(r.status);return r.json()}).then(d=>{
@@ -623,6 +595,6 @@ fetch("events.json").then(r=>{if(!r.ok)throw new Error(r.status);return r.json()
   $("from").value=TODAY;$("to").value=TODAY;
   $("sub").textContent=`${d.events.length} sorties réunies depuis ${d.sources.filter(s=>s.nb).length} agendas d'Alsace et des villes frontalières · mis à jour le ${fmtLong(d.genere_le)}`;
   renderAll();
-}).catch(()=>{$("list").innerHTML='<div class="empty">Impossible de charger les événements. Rechargez la page.</div>'});
+}).catch(()=>{$("list").innerHTML=`<div class="empty"><p>Impossible de charger les sorties. Vérifie ta connexion puis réessaie.</p><button class="btn" onclick="location.reload()">${ic("refresh")}Réessayer</button></div>`});
 </script>
 </body></html>
