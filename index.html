@@ -485,7 +485,7 @@ function openDetail(id){
         <dt>Sources</dt><dd>${e.sources.map(s=>esc(s.nom)).join(", ")}</dd>
       </dl>
       <div class="links">
-        ${e.sources.map((s,i)=>`<a class="btn ${i?"":"primary"}" href="${esc(s.url)}" target="_blank" rel="noopener">Site de l'événement${e.sources.length>1?` (${esc(s.nom)})`:""} ↗</a>`).join("")}
+        ${e.sources.filter(s=>s.url).map((s,i)=>`<a class="btn ${i?"":"primary"}" href="${esc(s.url)}" target="_blank" rel="noopener">Site de l'événement${e.sources.length>1?` (${esc(s.nom)})`:""} ↗</a>`).join("")}
       </div>
       <div class="links">
         <button class="btn fav" data-fav="${e.id}" aria-pressed="${fav}">${fav?"★ Gardé":"☆ Garder"}</button>

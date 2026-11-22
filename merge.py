@@ -98,7 +98,11 @@ def merge(today):
             end = e.get("date_fin") or e.get("date_debut")
             if end and end < today:
                 continue
-            ref = {"source": src["source"], "nom": src["nom"], "url": e.pop("url")}
+            url = e.pop("url", None)
+            if not url:  # pas de lien par événement : renvoyer vers la page lue
+                m = re.search(r"https?://\S+", " ".join(src.get("pages") or []))
+                url = m.group(0) if m else None
+            ref = {"source": src["source"], "nom": src["nom"], "url": url}
             dup = next((m for m in merged if same_commune(m["commune"], e["commune"]) and overlap(m, e) and similar(m, e)), None)
             if dup:
                 if ref["source"] not in {s["source"] for s in dup["sources"]}:
