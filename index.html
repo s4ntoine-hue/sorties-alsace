@@ -189,9 +189,9 @@ code{font-size:13px;background:var(--type-atelier);padding:1px 5px;border-radius
   .qqo select:focus-visible{outline:none}
   .qqo label:focus-within{background:var(--accent-doux)}
   .sc-title{font-size:var(--texte-etiquette);font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--encre-douce);margin-top:var(--espace-1)}
-  .shortcuts{display:flex;gap:var(--espace-2);overflow-x:auto;scrollbar-width:none;margin:0 calc(-1 * var(--espace-4));padding:var(--espace-1) var(--espace-4)}
-  .shortcuts::-webkit-scrollbar{display:none}
-  .sc{flex:none;font-size:15px}
+  /* tous les raccourcis visibles d'un coup, sur plusieurs lignes */
+  .shortcuts{display:flex;flex-wrap:wrap;gap:var(--espace-2)}
+  .sc{font-size:var(--texte-detail);padding:0 var(--espace-3)}
   #more{display:inline-flex;align-self:flex-start}
   .row.more{display:none;width:100%;flex-wrap:wrap;gap:var(--espace-2)}
   .row.more.open{display:flex}
