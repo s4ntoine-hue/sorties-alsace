@@ -2,7 +2,7 @@
  "source": "foretnoire-magique",
  "nom": "Forêt-Noire magique",
  "pays": "DE",
- "lu_le": "2026-11-21",
+ "lu_le": "2026-11-22",
  "pages": [
   "https://www.foretnoire-magique.fr/lexperience/evenements"
  ],
@@ -22,7 +22,7 @@
    "pays": "DE"
   },
   {
-   "titre": "48. Bad Dürrheimer Christkindlemarkt",
+   "titre": "51. Bad Dürrheimer Christkindle-markt",
    "date_debut": "2026-11-28",
    "date_fin": "2026-11-29",
    "horaires": null,
@@ -41,7 +41,7 @@
    "horaires": null,
    "lieu": null,
    "commune": "Titisee-Neustadt",
-   "categorie": "Sport",
+   "categorie": null,
    "prix": null,
    "url": "https://www.schwarzwald-tourismus.info/veranstaltungen/fis-skisprung-weltcup-titisee-neustadt-514aef0824",
    "description": null,

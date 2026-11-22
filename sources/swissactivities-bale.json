@@ -2,12 +2,84 @@
  "source": "swissactivities-bale",
  "nom": "Swiss Activities (Bâle)",
  "pays": "CH",
- "lu_le": "2026-11-21",
+ "lu_le": "2026-11-22",
  "pages": [
   "https://www.swissactivities.com/fr-fr/ville-de-b-le/evenements/ (20 premiers sur 939, bouton « Afficher plus » non lisible)"
  ],
  "note": "Dates de début lues comme « dim15 » sans mois : à vérifier.",
  "events": [
+  {
+   "titre": "Sonntagsbrunch in der Markthalle",
+   "date_debut": "2026-11-22",
+   "date_fin": "2026-12-27",
+   "horaires": "09:00–15:00",
+   "lieu": "Markthalle",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": "CHF 42 pro Person, Kinder 4 - 13 Jahre CHF 8 plus Alter",
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/zmorgeland-sonntagsbrunch-in-der-markthalle/",
+   "description": null
+  },
+  {
+   "titre": "À LA MAISON - EN VOYAGE - LA VIE À BORD",
+   "date_debut": "2026-11-22",
+   "date_fin": "2027-02-22",
+   "horaires": "10:00–17:00",
+   "lieu": "Hafenmuseum",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": "Eintrittspreis regulär: CHF 14 · Eintrittspreis reduziert: CHF 9",
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/zuhause-unterwegs-schifferleben/",
+   "description": null
+  },
+  {
+   "titre": "Vitrinenausstellung - Historisches Museum",
+   "date_debut": "2026-11-22",
+   "date_fin": "2027-04-19",
+   "horaires": "10:00–17:00",
+   "lieu": "Historisches Museum Basel: Barfüsserkirche",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/vitrinenausstellung-historisches-museum/",
+   "description": null
+  },
+  {
+   "titre": "«Nächstes Jahr in Krakau!» – Vernissage",
+   "date_debut": "2026-11-22",
+   "date_fin": "2027-01-31",
+   "horaires": "11:00–17:00",
+   "lieu": "Bellevue – Ort für Fotografie",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": "Entrée gratuite",
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/fotografie-ausstellung-fern-und-doch-so-nah/",
+   "description": null
+  },
+  {
+   "titre": "BelleVue «fern und doch so nah»",
+   "date_debut": "2026-11-22",
+   "date_fin": "2027-01-31",
+   "horaires": "11:00–18:00",
+   "lieu": "BelleVue - Ort für Fotografie",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/bellevue-fern-und-doch-so-nah/",
+   "description": null
+  },
+  {
+   "titre": "Frank Stella et les synagogues en bois détruites Exposition temporaire",
+   "date_debut": "2026-11-22",
+   "date_fin": "2027-01-31",
+   "horaires": "11:00–17:00",
+   "lieu": "Jüdisches Museum der Schweiz",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/frank-stella-und-die-zerstorten-holzsynagogen/",
+   "description": null
+  },
   {
    "titre": "Vitrinenausstellung - Universitätsbibliothek",
    "date_debut": "2026-11-20",
@@ -30,42 +102,6 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.swissactivities.com/fr-ch/events/allschwil/wochenmarkt-auf-dem-lindenplatz-allschwil/",
-   "description": null
-  },
-  {
-   "titre": "Vitrinenausstellung - Historisches Museum",
-   "date_debut": "2026-11-20",
-   "date_fin": "2027-04-19",
-   "horaires": "10:00–17:00",
-   "lieu": "Historisches Museum Basel: Barfüsserkirche",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.swissactivities.com/fr-ch/events/basel/vitrinenausstellung-historisches-museum/",
-   "description": null
-  },
-  {
-   "titre": "À LA MAISON - EN VOYAGE - LA VIE À BORD",
-   "date_debut": "2026-11-20",
-   "date_fin": "2027-02-22",
-   "horaires": "10:00–17:00",
-   "lieu": "Hafenmuseum",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": "Eintrittspreis regulär: CHF 14 · Eintrittspreis reduziert: CHF 9",
-   "url": "https://www.swissactivities.com/fr-ch/events/basel/zuhause-unterwegs-schifferleben/",
-   "description": null
-  },
-  {
-   "titre": "Frank Stella et les synagogues en bois détruites Exposition temporaire",
-   "date_debut": "2026-11-20",
-   "date_fin": "2027-01-31",
-   "horaires": "11:00–17:00",
-   "lieu": "Jüdisches Museum der Schweiz",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.swissactivities.com/fr-ch/events/basel/frank-stella-und-die-zerstorten-holzsynagogen/",
    "description": null
   },
   {

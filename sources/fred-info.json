@@ -2,7 +2,7 @@
  "source": "fred-info",
  "nom": "FRED (transfrontalier)",
  "pays": "DE",
- "lu_le": "2026-11-21",
+ "lu_le": "2026-11-22",
  "pages": [
   "https://fred.info/fr/evenements/"
  ],
@@ -22,28 +22,54 @@
    "pays": "DE"
   },
   {
-   "titre": "Forum Franco-Allemand",
-   "date_debut": "2026-11-20",
-   "date_fin": "2026-11-21",
-   "horaires": null,
-   "lieu": "Palais de la Musique et des Congrès",
-   "commune": "Strasbourg",
-   "categorie": null,
-   "prix": null,
-   "url": "https://fred.info/fr/events/forum-franco-allemand/",
-   "description": null,
-   "pays": "FR"
-  },
-  {
    "titre": "Inter.ART Strasbourg – 3e édition | Salon international d’art contemporain",
    "date_debut": "2026-11-20",
    "date_fin": "2026-11-22",
    "horaires": "10:00 - 19:00",
-   "lieu": "Münsterhof, 9 rue des Juifs",
+   "lieu": "Münsterhof, 9 rue des Juifs, Strasbourg",
    "commune": "Strasbourg",
    "categorie": null,
    "prix": null,
    "url": "https://fred.info/fr/events/inter-art-strasbourg-3e-edition-salon-international-dart-contemporain/",
+   "description": null,
+   "pays": "FR"
+  },
+  {
+   "titre": "Marchés de Noël dans la région Grand Est",
+   "date_debut": "2026-11-20",
+   "date_fin": "2027-01-03",
+   "horaires": null,
+   "lieu": "Grand Est",
+   "commune": null,
+   "categorie": null,
+   "prix": null,
+   "url": "https://fred.info/fr/events/marches-de-noel-dans-la-region-grand-est-copy/",
+   "description": null,
+   "pays": "FR"
+  },
+  {
+   "titre": "Marchés de Noël dans le Bade-Wurtemberg",
+   "date_debut": "2026-11-23",
+   "date_fin": "2027-01-06",
+   "horaires": null,
+   "lieu": "Bade-Wurtemberg",
+   "commune": null,
+   "categorie": null,
+   "prix": null,
+   "url": "https://fred.info/fr/events/marches-de-noel-dans-le-bade-wurtemberg-copy/",
+   "description": null,
+   "pays": "DE"
+  },
+  {
+   "titre": "Santé et frontières : une conférence le 24 novembre à Metz",
+   "date_debut": "2026-11-24",
+   "date_fin": null,
+   "horaires": "14:00 - 17:00",
+   "lieu": "Hémicycle de la Région Grand Est - Hôtel de Région, place Gabriel Hocquard, Metz",
+   "commune": "Metz",
+   "categorie": null,
+   "prix": null,
+   "url": "https://fred.info/fr/events/sante-et-frontieres-une-conference-le-24-novembre-a-metz/",
    "description": null,
    "pays": "FR"
   }
