@@ -2,35 +2,23 @@
  "source": "myswitzerland-bale",
  "nom": "MySwitzerland (Bâle)",
  "pays": "CH",
- "lu_le": "2026-11-22",
+ "lu_le": "2026-11-23",
  "pages": [
   "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/manifestations-rechercher/-/bale/ (page 1 sur 12, puis ?p=N)"
  ],
  "note": "Expositions permanentes des musées écartées.",
  "events": [
   {
-   "titre": "À LA MAISON - EN VOYAGE - LA VIE À BORD",
-   "date_debut": "2026-10-22",
-   "date_fin": "2027-02-21",
+   "titre": "Vitrinenausstellung - Universitätsbibliothek",
+   "date_debut": "2026-09-15",
+   "date_fin": "2027-03-16",
    "horaires": null,
    "lieu": null,
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
-   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/a-la-maison-en-voyage-la-vie-a-bord/",
-   "description": "Le bateau est à la fois un lieu de travail, un foyer et un espace de vie."
-  },
-  {
-   "titre": "Magrée: Magic Moments - Geheimnisse",
-   "date_debut": "2026-11-17",
-   "date_fin": "2027-05-22",
-   "horaires": null,
-   "lieu": null,
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/magree-magic-moments-geheimnisse/",
-   "description": "Die 8. Show-Produktion von Star-Magier «Magrée» live und hautnah am grossen runden Tisch."
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/vitrinenausstellung-universitaetsbibliothek/",
+   "description": "Eine Ausstellung im Rahmen der Veranstaltungsreihe \"Freiheit des Denkens. Castellio in Basel.\""
   },
   {
    "titre": "Verner Panton: Form, Colour, Space",
@@ -42,7 +30,67 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/verner-panton-form-colour-space/",
-   "description": "L'exposition présente l'œuvre visionnaire de Verner Panton en matière de design, d'architecture et d'installations spatiales."
+   "description": null
+  },
+  {
+   "titre": "Frank Stella et les synagogues en bois détruites Exposition temporaire",
+   "date_debut": "2025-11-30",
+   "date_fin": "2027-01-31",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/frank-stella-et-les-synagogues-en-bois-detruites-exposition-temporaire/",
+   "description": "Frank Stella et les synagogues en bois détruites. Exposition spéciale"
+  },
+  {
+   "titre": "Schlemmer-Markt",
+   "date_debut": "2026-08-17",
+   "date_fin": "2026-12-28",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/schlemmer-markt/",
+   "description": null
+  },
+  {
+   "titre": "Palazzo Colombino Basel",
+   "date_debut": "2026-11-20",
+   "date_fin": "2027-01-10",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/palazzo-colombino-basel/",
+   "description": null
+  },
+  {
+   "titre": "\"Goht's no? Open Mic\"",
+   "date_debut": "2026-07-13",
+   "date_fin": "2026-12-28",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/gohts-no-open-mic/",
+   "description": "Goht's No? ist eine Show, in der Komiker*innen ihr Material testen und üben können."
+  },
+  {
+   "titre": "Wildlife Photographer of the Year",
+   "date_debut": "2026-11-20",
+   "date_fin": "2027-06-27",
+   "horaires": null,
+   "lieu": "Musée d'histoire naturelle de Bâle",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/wildlife-photographer-of-the-year/",
+   "description": null
   },
   {
    "titre": "Vitrinenausstellung - Basler Papiermühle",
@@ -54,18 +102,6 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/vitrinenausstellung-basler-papiermuehle/",
-   "description": "Eine Ausstellung im Rahmen der Veranstaltungsreihe \"Freiheit des Denkens. Castellio in Basel.\""
-  },
-  {
-   "titre": "Vitrinenausstellung - Universitätsbibliothek",
-   "date_debut": "2026-09-15",
-   "date_fin": "2027-03-16",
-   "horaires": null,
-   "lieu": null,
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/vitrinenausstellung-universitaetsbibliothek/",
    "description": "Eine Ausstellung im Rahmen der Veranstaltungsreihe \"Freiheit des Denkens. Castellio in Basel.\""
   },
   {
@@ -81,52 +117,28 @@
    "description": "Eine Ausstellung im Rahmen der Veranstaltungsreihe \"Freiheit des Denkens. Castellio in Basel.\""
   },
   {
-   "titre": "Fauteuil-Komödie - Heimspiel",
-   "date_debut": "2026-11-06",
-   "date_fin": "2027-01-02",
+   "titre": "Die Impronauten",
+   "date_debut": "2026-06-02",
+   "date_fin": "2026-12-22",
    "horaires": null,
    "lieu": null,
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
-   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/fauteuil-komoedie-heimspiel/",
-   "description": "Die neue Fauteuil-Dialektkomödie aus der Feder des Schweizer Erfolgsautors Charles Lewinsky."
-  },
-  {
-   "titre": "Frank Stella et les synagogues en bois détruites Exposition temporaire",
-   "date_debut": "2025-11-30",
-   "date_fin": "2027-01-31",
-   "horaires": null,
-   "lieu": null,
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/frank-stella-et-les-synagogues-en-bois-detruites-exposition-temporaire/",
-   "description": "Frank Stella et les synagogues en bois détruites. Exposition spéciale"
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/die-impronauten/",
+   "description": null
   },
   {
    "titre": "Nicolas Darrot. Fuzzy Logic Museum Tinguely",
    "date_debut": "2026-03-05",
    "date_fin": "2027-03-07",
    "horaires": null,
-   "lieu": null,
+   "lieu": "Museum Tinguely",
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/nicolas-darrot-fuzzy-logic-museum-tinguely/",
-   "description": null
-  },
-  {
-   "titre": "Basel auf dem Teller – Kulinarische Stadtgeschichte(n)",
-   "date_debut": "2026-05-23",
-   "date_fin": "2027-03-21",
-   "horaires": null,
-   "lieu": null,
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/basel-auf-dem-teller-kulinarische-stadtgeschichten/",
-   "description": null
+   "description": "La logique floue et les personnages de Darrot représentent une pensée humaine floue, pleine de spontanéité et d'imperfections."
   },
   {
    "titre": "Christoph Voy \"My Degeneration\"",
@@ -141,63 +153,39 @@
    "description": "Christoph Voy fotografiert nicht einfach Menschen. Er geht ihnen auf die Pelle."
   },
   {
-   "titre": "Bier Tour Basel",
-   "date_debut": "2026-05-06",
-   "date_fin": "2026-12-16",
+   "titre": "Fauteuil-Komödie - Heimspiel",
+   "date_debut": "2026-11-18",
+   "date_fin": "2027-01-02",
    "horaires": null,
-   "lieu": null,
+   "lieu": "Theater Fauteuil",
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
-   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/bier-tour-basel/",
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/fauteuil-komoedie-heimspiel/",
+   "description": "Die neue Fauteuil-Dialektkomödie aus der Feder des Schweizer Erfolgsautors Charles Lewinsky."
+  },
+  {
+   "titre": "À LA MAISON - EN VOYAGE - LA VIE À BORD",
+   "date_debut": "2026-10-22",
+   "date_fin": "2027-02-21",
+   "horaires": null,
+   "lieu": "Musée portuaire",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/a-la-maison-en-voyage-la-vie-a-bord/",
    "description": null
   },
   {
-   "titre": "Marcel Schaffner. Ein Querschnitt. Arbeiten von 1950 - 2009",
-   "date_debut": "2026-10-08",
-   "date_fin": "2027-01-14",
+   "titre": "Schneewittchen",
+   "date_debut": "2026-11-21",
+   "date_fin": "2027-02-28",
    "horaires": null,
    "lieu": null,
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
-   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/marcel-schaffner-ein-querschnitt-arbeiten-von-1950-2009/",
-   "description": "Modern and Contemporary Art. Paintings, Sculptures, Installations, Performance, Video Art."
-  },
-  {
-   "titre": "Schlemmer-Markt",
-   "date_debut": "2026-08-17",
-   "date_fin": "2026-12-28",
-   "horaires": null,
-   "lieu": null,
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/schlemmer-markt/",
-   "description": null
-  },
-  {
-   "titre": "Goht's no? Open Mic",
-   "date_debut": "2026-07-13",
-   "date_fin": "2026-12-28",
-   "horaires": null,
-   "lieu": null,
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/gohts-no-open-mic/",
-   "description": "Goht's No? ist eine Show, in der Komiker*innen ihr Material testen und üben können."
-  },
-  {
-   "titre": "Die Impronauten",
-   "date_debut": "2026-06-02",
-   "date_fin": "2026-12-22",
-   "horaires": null,
-   "lieu": null,
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/die-impronauten/",
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/schneewittchen/",
    "description": null
   },
   {
@@ -229,12 +217,24 @@
    "date_debut": "2026-11-26",
    "date_fin": "2026-12-23",
    "horaires": null,
-   "lieu": null,
+   "lieu": "Bac « Vogel Gryff » de Klingental",
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/le-ferry-de-noel/",
    "description": null
+  },
+  {
+   "titre": "Marcel Schaffner. Ein Querschnitt. Arbeiten von 1950 - 2009",
+   "date_debut": "2026-10-08",
+   "date_fin": "2027-01-14",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/marcel-schaffner-ein-querschnitt-arbeiten-von-1950-2009/",
+   "description": "Modern and Contemporary Art. Paintings, Sculptures, Installations, Performance, Video Art."
   },
   {
    "titre": "Schiffsführungssimulator",
@@ -253,7 +253,7 @@
    "date_debut": "2026-11-26",
    "date_fin": "2026-12-23",
    "horaires": null,
-   "lieu": null,
+   "lieu": "Kunsthalle (cour intérieure)",
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
@@ -277,7 +277,7 @@
    "date_debut": "2026-11-26",
    "date_fin": "2026-12-23",
    "horaires": null,
-   "lieu": null,
+   "lieu": "Vieille ville, vitrines le long du « Krippenweg »",
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
@@ -289,11 +289,23 @@
    "date_debut": "2026-10-08",
    "date_fin": "2026-12-17",
    "horaires": null,
-   "lieu": null,
+   "lieu": "Brennerei Aktienmühle Basel",
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/gin-workshop-eigenen-gin-entwickeln-in-der-brennerei/",
+   "description": null
+  },
+  {
+   "titre": "Architecture of Memory – Recollecting Spaces",
+   "date_debut": "2026-11-26",
+   "date_fin": "2027-01-08",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/architecture-of-memory-recollecting-spaces/",
    "description": null
   },
   {
@@ -313,7 +325,7 @@
    "date_debut": "2026-11-26",
    "date_fin": "2026-12-23",
    "horaires": null,
-   "lieu": "Bâle",
+   "lieu": null,
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
@@ -321,15 +333,39 @@
    "description": null
   },
   {
-   "titre": "Architecture of Memory – Recollecting Spaces",
-   "date_debut": "2026-11-26",
-   "date_fin": "2027-01-08",
+   "titre": "Magrée: Magic Moments - Geheimnisse",
+   "date_debut": "2026-11-17",
+   "date_fin": "2027-05-22",
    "horaires": null,
    "lieu": null,
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
-   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/architecture-of-memory-recollecting-spaces/",
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/magree-magic-moments-geheimnisse/",
+   "description": "Die 8. Show-Produktion von Star-Magier «Magrée» live und hautnah am grossen runden Tisch."
+  },
+  {
+   "titre": "Basel auf dem Teller – Kulinarische Stadtgeschichte(n)",
+   "date_debut": "2026-05-23",
+   "date_fin": "2027-03-21",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/basel-auf-dem-teller-kulinarische-stadtgeschichten/",
+   "description": null
+  },
+  {
+   "titre": "Bier Tour Basel",
+   "date_debut": "2026-05-06",
+   "date_fin": "2026-12-16",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/bier-tour-basel/",
    "description": null
   },
   {
@@ -357,18 +393,6 @@
    "description": null
   },
   {
-   "titre": "Palazzo Colombino Basel",
-   "date_debut": "2026-11-20",
-   "date_fin": "2027-01-10",
-   "horaires": null,
-   "lieu": null,
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/palazzo-colombino-basel/",
-   "description": null
-  },
-  {
    "titre": "Durst! Basler Bierführung – Stadtrundgang zu Biergeschichte und Kneipen",
    "date_debut": "2026-10-23",
    "date_fin": "2026-12-18",
@@ -391,30 +415,6 @@
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/simon-enzler-zmetztinne-2/",
    "description": null
-  },
-  {
-   "titre": "Wildlife Photographer of the Year",
-   "date_debut": "2026-11-20",
-   "date_fin": "2027-06-27",
-   "horaires": null,
-   "lieu": null,
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/wildlife-photographer-of-the-year/",
-   "description": null
-  },
-  {
-   "titre": "Cesar Rodriguez präsentiert FRAGMENTOS",
-   "date_debut": "2026-11-20",
-   "date_fin": "2026-11-22",
-   "horaires": null,
-   "lieu": null,
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/cesar-rodriguez-praesentiert-fragmentos/",
-   "description": "Cesar Rodriguez presents \"Fragmentos\": Art from the Streets of Basel."
   },
   {
    "titre": "Rhypark Dinner Show",
@@ -475,18 +475,6 @@
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/bmt-dr-zauberer-vo-oz/",
    "description": "Nach dem Kinderbuch von L. Frank Baum auf Baseldeutsch."
-  },
-  {
-   "titre": "Schneewittchen",
-   "date_debut": "2026-11-21",
-   "date_fin": "2027-02-28",
-   "horaires": null,
-   "lieu": null,
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/schneewittchen/",
-   "description": null
   },
   {
    "titre": "Flohmarkt Petersplatz",

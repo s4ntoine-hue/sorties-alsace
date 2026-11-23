@@ -2,7 +2,7 @@
  "source": "foretnoire-magique",
  "nom": "Forêt-Noire magique",
  "pays": "DE",
- "lu_le": "2026-11-22",
+ "lu_le": "2026-11-23",
  "pages": [
   "https://www.foretnoire-magique.fr/lexperience/evenements"
  ],
@@ -13,20 +13,20 @@
    "date_debut": "2026-11-19",
    "date_fin": "2026-12-23",
    "horaires": null,
-   "lieu": null,
+   "lieu": "Freiburg",
    "commune": "Fribourg-en-Brisgau",
    "categorie": null,
    "prix": null,
    "url": "https://weihnachtsmarkt.freiburg.de/fr/",
-   "description": null,
+   "description": "Marché de Noël de Fribourg",
    "pays": "DE"
   },
   {
-   "titre": "51. Bad Dürrheimer Christkindle-markt",
+   "titre": "48. Bad Dürrheimer Christkindlemarkt",
    "date_debut": "2026-11-28",
    "date_fin": "2026-11-29",
    "horaires": null,
-   "lieu": null,
+   "lieu": "Bad Dürrheim",
    "commune": "Bad Dürrheim",
    "categorie": null,
    "prix": null,
@@ -39,12 +39,12 @@
    "date_debut": "2026-12-11",
    "date_fin": "2026-12-13",
    "horaires": null,
-   "lieu": null,
+   "lieu": "Titisee-Neustadt",
    "commune": "Titisee-Neustadt",
    "categorie": null,
    "prix": null,
    "url": "https://www.schwarzwald-tourismus.info/veranstaltungen/fis-skisprung-weltcup-titisee-neustadt-514aef0824",
-   "description": null,
+   "description": "Coupe du monde FIS de saut à ski à Titisee-Neustadt",
    "pays": "DE"
   }
  ]

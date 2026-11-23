@@ -1,36 +1,12 @@
 {
  "source": "pass-alsace",
  "nom": "Pass'Alsace",
- "lu_le": "2026-11-22",
+ "lu_le": "2026-11-23",
  "pages": [
   "https://www.pass-alsace.com/agenda-des-evenements (pages 1 à 4)"
  ],
  "note": "12 événements Halloween déjà terminés (fin au 01/11/2026) écartés.",
  "events": [
-  {
-   "titre": "Week-end Retrogaming",
-   "date_debut": "2026-11-21",
-   "date_fin": "2026-11-22",
-   "horaires": null,
-   "lieu": "Musée Electropolis",
-   "commune": "Mulhouse",
-   "categorie": "Événement exceptionnel",
-   "prix": null,
-   "url": "https://www.pass-alsace.com/fr/evenement/1317-week-end-retrogaming",
-   "description": null
-  },
-  {
-   "titre": "Exposition « Ceci n’est pas une tuile »",
-   "date_debut": "2026-11-01",
-   "date_fin": "2026-11-22",
-   "horaires": null,
-   "lieu": "Maison Rurale de l’Outre-Forêt",
-   "commune": "Kutzenhausen",
-   "categorie": "Exposition temporaire",
-   "prix": null,
-   "url": "https://www.pass-alsace.com/fr/evenement/1276-exposition-ceci-n-est-pas-une-tuile",
-   "description": null
-  },
   {
    "titre": "Conférence – Avant l’horreur : un autre Struthof",
    "date_debut": "2026-11-24",
@@ -192,7 +168,7 @@
    "date_debut": "2026-10-21",
    "date_fin": "2026-12-16",
    "horaires": null,
-   "lieu": "Musée Du Jouet De Colmar",
+   "lieu": "Musée du Jouet",
    "commune": "Colmar",
    "categorie": "Visite guidée",
    "prix": null,
@@ -228,7 +204,7 @@
    "date_debut": "2026-12-22",
    "date_fin": null,
    "horaires": "08:00",
-   "lieu": "Musée Du Jouet De Colmar",
+   "lieu": "Musée du Jouet",
    "commune": "Colmar",
    "categorie": "Visite guidée",
    "prix": null,
@@ -420,7 +396,7 @@
    "date_debut": "2026-02-01",
    "date_fin": "2027-01-04",
    "horaires": null,
-   "lieu": "Musée du Jouet De Colmar",
+   "lieu": "Musée du Jouet",
    "commune": "Colmar",
    "categorie": "Exposition temporaire",
    "prix": null,
@@ -444,7 +420,7 @@
    "date_debut": "2025-09-19",
    "date_fin": "2027-05-23",
    "horaires": null,
-   "lieu": "Musée zoologique",
+   "lieu": "Musée zoologique Strasbourg",
    "commune": "Strasbourg",
    "categorie": "Autour des animaux, Exposition temporaire",
    "prix": null,

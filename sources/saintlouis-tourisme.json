@@ -2,63 +2,15 @@
  "source": "saintlouis-tourisme",
  "nom": "Saint-Louis Tourisme",
  "pays": "FR",
- "lu_le": "2026-11-22",
+ "lu_le": "2026-11-23",
  "pages": [
   "https://www.saintlouis-tourisme.fr/sortir/agenda/ (pages 1 à 3 sur environ 65)"
  ],
  "note": "Couvre Saint-Louis Agglomération (Huningue, Hégenheim, Blotzheim, Kembs…). Le site propose aussi un filtre Bâle, Lörrach, Weil am Rhein.",
  "events": [
   {
-   "titre": "Course de la Petite Camargue Alsacienne",
-   "date_debut": "2026-11-22",
-   "date_fin": null,
-   "horaires": "09h00",
-   "lieu": null,
-   "commune": "Saint-Louis",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/course-de-la-petite-camargue-alsacienne/",
-   "description": null
-  },
-  {
-   "titre": "Salon des 40",
-   "date_debut": "2026-11-22",
-   "date_fin": null,
-   "horaires": "10h00",
-   "lieu": null,
-   "commune": "Saint-Louis",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/salon-des-40/",
-   "description": null
-  },
-  {
-   "titre": "Marché de Noël",
-   "date_debut": "2026-11-22",
-   "date_fin": null,
-   "horaires": "10h00",
-   "lieu": null,
-   "commune": "Hégenheim",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/marche-de-noel-2/",
-   "description": null
-  },
-  {
-   "titre": "Marché de Noël",
-   "date_debut": "2026-11-22",
-   "date_fin": null,
-   "horaires": "10h30",
-   "lieu": null,
-   "commune": "Blotzheim",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/marche-de-noel-9/",
-   "description": null
-  },
-  {
    "titre": "Exposition « Aurora Király. Parcours de regards » – Fondation Fernet-Branca",
-   "date_debut": "2026-11-22",
+   "date_debut": "2026-11-23",
    "date_fin": "2026-11-26",
    "horaires": "12h00",
    "lieu": null,
@@ -117,7 +69,7 @@
    "description": null
   },
   {
-   "titre": "Atelier cirque",
+   "titre": "Ateliers cirque",
    "date_debut": "2026-11-25",
    "date_fin": null,
    "horaires": "10h30",
@@ -201,18 +153,6 @@
    "description": null
   },
   {
-   "titre": "Marché",
-   "date_debut": "2026-11-26",
-   "date_fin": null,
-   "horaires": "08h00",
-   "lieu": null,
-   "commune": "Hégenheim",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/marche-6/",
-   "description": null
-  },
-  {
    "titre": "Marché de Noël",
    "date_debut": "2026-11-26",
    "date_fin": null,
@@ -222,6 +162,18 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/marche-de-noel/",
+   "description": null
+  },
+  {
+   "titre": "Marché",
+   "date_debut": "2026-11-26",
+   "date_fin": null,
+   "horaires": "08h00",
+   "lieu": null,
+   "commune": "Hégenheim",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/marche-6/",
    "description": null
   },
   {
