@@ -2,27 +2,87 @@
  "source": "swissactivities-bale",
  "nom": "Swiss Activities (Bâle)",
  "pays": "CH",
- "lu_le": "2026-11-23",
+ "lu_le": "2026-11-24",
  "pages": [
   "https://www.swissactivities.com/fr-fr/ville-de-b-le/evenements/ (20 premiers sur 939, bouton « Afficher plus » non lisible)"
  ],
  "note": "Dates de début lues comme « dim15 » sans mois : à vérifier.",
  "events": [
   {
-   "titre": "Sonntagsbrunch in der Markthalle",
-   "date_debut": "2026-11-22",
-   "date_fin": "2026-12-27",
-   "horaires": "09:00–15:00",
-   "lieu": "Markthalle",
+   "titre": "Vitrinenausstellung - Universitätsbibliothek",
+   "date_debut": "2026-11-24",
+   "date_fin": "2027-03-16",
+   "horaires": "08:00–20:00",
+   "lieu": "Universitätsbibliothek (UB)",
    "commune": "Bâle",
    "categorie": null,
-   "prix": "CHF 42 pro Person, Kinder 4 - 13 Jahre CHF 8 plus Alter",
-   "url": "https://www.swissactivities.com/fr-ch/events/basel/zmorgeland-sonntagsbrunch-in-der-markthalle/",
+   "prix": null,
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/vitrinenausstellung-universitatsbibliothek/",
+   "description": null
+  },
+  {
+   "titre": "Workshop Adventskränze für den Bazar",
+   "date_debut": "2026-11-24",
+   "date_fin": "2026-11-25",
+   "horaires": "09:00–16:00",
+   "lieu": "Ref. KGH",
+   "commune": "Münchenstein",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.swissactivities.com/fr-ch/events/munchenstein/workshop-adventskranze-fur-den-bazar/",
+   "description": null
+  },
+  {
+   "titre": "Adventskranzen. Workshop.",
+   "date_debut": "2026-11-24",
+   "date_fin": "2026-11-25",
+   "horaires": "09:00–16:00",
+   "lieu": "Ref. KGH",
+   "commune": "Münchenstein",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.swissactivities.com/fr-ch/events/munchenstein/adventskranzen-workshop/",
+   "description": null
+  },
+  {
+   "titre": "City Walk Basel by blindekuh Basel",
+   "date_debut": "2026-11-24",
+   "date_fin": null,
+   "horaires": "09:00–18:00",
+   "lieu": "Restaurant Blindekuh",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/city-walk-basel-by-blindekuh-basel/",
+   "description": null
+  },
+  {
+   "titre": "Harry P.Otter und die Zauberprüfung",
+   "date_debut": "2026-11-24",
+   "date_fin": null,
+   "horaires": "09:00–23:00",
+   "lieu": "Basel - Startpunkt frei wählbar innerhalb der Stadt",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": "ab CHF 4.90",
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/harry-p-otter-und-die-zauberprufung/",
+   "description": null
+  },
+  {
+   "titre": "Sonderausstellung: Wildlife Photographer of the Year",
+   "date_debut": "2026-11-24",
+   "date_fin": null,
+   "horaires": "10:00–17:00",
+   "lieu": "Naturhistorisches Museum Basel",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/sonderausstellung-wildlife-photographer-of-the-year/",
    "description": null
   },
   {
    "titre": "À LA MAISON - EN VOYAGE - LA VIE À BORD",
-   "date_debut": "2026-11-22",
+   "date_debut": "2026-11-24",
    "date_fin": "2027-02-22",
    "horaires": "10:00–17:00",
    "lieu": "Hafenmuseum",
@@ -33,8 +93,20 @@
    "description": null
   },
   {
+   "titre": "Fragile Masterpieces",
+   "date_debut": "2026-11-24",
+   "date_fin": null,
+   "horaires": "10:00–17:00",
+   "lieu": "Pharmaziemuseum Basel",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/fragile-masterpieces/",
+   "description": null
+  },
+  {
    "titre": "Vitrinenausstellung - Historisches Museum",
-   "date_debut": "2026-11-22",
+   "date_debut": "2026-11-24",
    "date_fin": "2027-04-19",
    "horaires": "10:00–17:00",
    "lieu": "Historisches Museum Basel: Barfüsserkirche",
@@ -42,6 +114,90 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.swissactivities.com/fr-ch/events/basel/vitrinenausstellung-historisches-museum/",
+   "description": null
+  },
+  {
+   "titre": "Alles lebt – mehr als menschliche Welten",
+   "date_debut": "2026-11-24",
+   "date_fin": "2029-01-21",
+   "horaires": "10:00–17:00",
+   "lieu": "Museum der Kulturen Basel",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/alles-lebt-mehr-als-menschliche-welten/",
+   "description": null
+  },
+  {
+   "titre": "Frank Stella et les synagogues en bois détruites Exposition temporaire",
+   "date_debut": "2026-11-24",
+   "date_fin": "2027-01-31",
+   "horaires": "11:00–17:00",
+   "lieu": "Jüdisches Museum der Schweiz",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/frank-stella-und-die-zerstorten-holzsynagogen/",
+   "description": null
+  },
+  {
+   "titre": "BelleVue «fern und doch so nah»",
+   "date_debut": "2026-11-24",
+   "date_fin": "2027-01-31",
+   "horaires": "11:00–18:00",
+   "lieu": "BelleVue - Ort für Fotografie",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/bellevue-fern-und-doch-so-nah/",
+   "description": null
+  },
+  {
+   "titre": "Vitrinenausstellung - Basler Papiermühle",
+   "date_debut": "2026-11-24",
+   "date_fin": "2026-12-18",
+   "horaires": "11:00–17:00",
+   "lieu": "Basler Papiermühle",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/vitrinenausstellung-basler-papiermuhle/",
+   "description": null
+  },
+  {
+   "titre": "Literatur am Mittag: Alfonsina Storni",
+   "date_debut": "2026-11-24",
+   "date_fin": null,
+   "horaires": "12:15–13:00",
+   "lieu": "GGG Stadtbibliothek Schmiedenhof",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/literatur-am-mittag-alfonsina-storni/",
+   "description": null
+  },
+  {
+   "titre": "Alfonsina Storni",
+   "date_debut": "2026-11-24",
+   "date_fin": null,
+   "horaires": "12:15–13:00",
+   "lieu": "GGG Schmiedenhof",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/alfonsina-storni/",
+   "description": null
+  },
+  {
+   "titre": "Sonntagsbrunch in der Markthalle",
+   "date_debut": "2026-11-22",
+   "date_fin": "2026-12-27",
+   "horaires": "09:00–15:00",
+   "lieu": "Markthalle",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": "CHF 42 pro Person, Kinder 4 - 13 Jahre CHF 8 plus Alter",
+   "url": "https://www.swissactivities.com/fr-ch/events/basel/zmorgeland-sonntagsbrunch-in-der-markthalle/",
    "description": null
   },
   {
@@ -57,42 +213,6 @@
    "description": null
   },
   {
-   "titre": "BelleVue «fern und doch so nah»",
-   "date_debut": "2026-11-22",
-   "date_fin": "2027-01-31",
-   "horaires": "11:00–18:00",
-   "lieu": "BelleVue - Ort für Fotografie",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.swissactivities.com/fr-ch/events/basel/bellevue-fern-und-doch-so-nah/",
-   "description": null
-  },
-  {
-   "titre": "Frank Stella et les synagogues en bois détruites Exposition temporaire",
-   "date_debut": "2026-11-22",
-   "date_fin": "2027-01-31",
-   "horaires": "11:00–17:00",
-   "lieu": "Jüdisches Museum der Schweiz",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.swissactivities.com/fr-ch/events/basel/frank-stella-und-die-zerstorten-holzsynagogen/",
-   "description": null
-  },
-  {
-   "titre": "Vitrinenausstellung - Universitätsbibliothek",
-   "date_debut": "2026-11-20",
-   "date_fin": "2027-03-16",
-   "horaires": "08:00–20:00",
-   "lieu": "Universitätsbibliothek (UB)",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.swissactivities.com/fr-ch/events/basel/vitrinenausstellung-universitatsbibliothek/",
-   "description": null
-  },
-  {
    "titre": "Marché hebdomadaire sur la Lindenplatz d'Allschwil",
    "date_debut": "2026-11-20",
    "date_fin": "2026-11-27",
@@ -102,18 +222,6 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.swissactivities.com/fr-ch/events/allschwil/wochenmarkt-auf-dem-lindenplatz-allschwil/",
-   "description": null
-  },
-  {
-   "titre": "Vitrinenausstellung - Basler Papiermühle",
-   "date_debut": "2026-11-20",
-   "date_fin": "2026-12-18",
-   "horaires": "11:00–17:00",
-   "lieu": "Basler Papiermühle",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.swissactivities.com/fr-ch/events/basel/vitrinenausstellung-basler-papiermuhle/",
    "description": null
   },
   {
@@ -186,18 +294,6 @@
    "categorie": null,
    "prix": "45 Min: 18.- · 60 Min: 20.- · 90 Min 28.- · Semesterweise zahlbar",
    "url": "https://www.swissactivities.com/fr-ch/events/allschwil/zirkuskurse-fur-kinder-in-allschwil/",
-   "description": null
-  },
-  {
-   "titre": "Alles lebt – mehr als menschliche Welten",
-   "date_debut": "2026-11-17",
-   "date_fin": "2029-01-21",
-   "horaires": "10:00–17:00",
-   "lieu": "Museum der Kulturen Basel",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.swissactivities.com/fr-ch/events/basel/alles-lebt-mehr-als-menschliche-welten/",
    "description": null
   },
   {

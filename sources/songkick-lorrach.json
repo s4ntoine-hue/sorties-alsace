@@ -2,7 +2,7 @@
  "source": "songkick-lorrach",
  "nom": "Songkick (Marktplatz Lörrach)",
  "pays": "DE",
- "lu_le": "2026-11-23",
+ "lu_le": "2026-11-24",
  "pages": [
   "https://www.songkick.com/fr/venues/886706-marktplatz-lorrach"
  ],
@@ -15,7 +15,7 @@
    "horaires": null,
    "lieu": "Marktplatz Lörrach",
    "commune": "Lörrach",
-   "categorie": null,
+   "categorie": "Concert",
    "prix": null,
    "url": "https://www.songkick.com/fr/concerts/43491879-clueso-at-marktplatz-lorrach",
    "description": null,
@@ -28,7 +28,7 @@
    "horaires": null,
    "lieu": "Marktplatz Lörrach",
    "commune": "Lörrach",
-   "categorie": null,
+   "categorie": "Concert",
    "prix": null,
    "url": "https://www.songkick.com/fr/concerts/43502849-jan-delay-and-disko-no-1-at-marktplatz-lorrach",
    "description": null,

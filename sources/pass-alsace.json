@@ -1,7 +1,7 @@
 {
  "source": "pass-alsace",
  "nom": "Pass'Alsace",
- "lu_le": "2026-11-23",
+ "lu_le": "2026-11-24",
  "pages": [
   "https://www.pass-alsace.com/agenda-des-evenements (pages 1 à 4)"
  ],
@@ -168,7 +168,7 @@
    "date_debut": "2026-10-21",
    "date_fin": "2026-12-16",
    "horaires": null,
-   "lieu": "Musée du Jouet",
+   "lieu": "Musée Du Jouet De Colmar",
    "commune": "Colmar",
    "categorie": "Visite guidée",
    "prix": null,
@@ -204,7 +204,7 @@
    "date_debut": "2026-12-22",
    "date_fin": null,
    "horaires": "08:00",
-   "lieu": "Musée du Jouet",
+   "lieu": "Musée Du Jouet De Colmar",
    "commune": "Colmar",
    "categorie": "Visite guidée",
    "prix": null,
@@ -396,7 +396,7 @@
    "date_debut": "2026-02-01",
    "date_fin": "2027-01-04",
    "horaires": null,
-   "lieu": "Musée du Jouet",
+   "lieu": "Musée Du Jouet De Colmar",
    "commune": "Colmar",
    "categorie": "Exposition temporaire",
    "prix": null,

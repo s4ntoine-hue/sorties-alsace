@@ -2,15 +2,51 @@
  "source": "baselland-tourismus",
  "nom": "Baselland Tourismus",
  "pays": "CH",
- "lu_le": "2026-11-23",
+ "lu_le": "2026-11-24",
  "pages": [
   "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements (page 1 sur 5, 2713 manifestations)"
  ],
  "note": "Format des pages suivantes inconnu : seule la page 1 est lue.",
  "events": [
   {
+   "titre": "Basler Stadtmarkt",
+   "date_debut": "2026-11-24",
+   "date_fin": "2027-12-31",
+   "horaires": null,
+   "lieu": "Marktplatz",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/stadtmarkt-eve_wt1_jgdjffggb",
+   "description": null
+  },
+  {
+   "titre": "Vitrinenausstellung - Universitätsbibliothek",
+   "date_debut": "2026-11-24",
+   "date_fin": "2027-03-16",
+   "horaires": null,
+   "lieu": "Universitätsbibliothek (UB)",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/vitrinenausstellung---universitätsbibliothek-eve_wt1_bdcciebegd",
+   "description": null
+  },
+  {
+   "titre": "Fix it! Vom Glück des Reparierens",
+   "date_debut": "2026-11-24",
+   "date_fin": "2027-01-03",
+   "horaires": null,
+   "lieu": "Museum.BL",
+   "commune": "Liestal",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/fix-it-vom-glück-des-reparierens-eve_wt1_bbcaeebajh",
+   "description": null
+  },
+  {
    "titre": "Harry P.Otter und die Zauberprüfung",
-   "date_debut": "2026-11-22",
+   "date_debut": "2026-11-24",
    "date_fin": "2026-12-31",
    "horaires": null,
    "lieu": "St. Johanns-Park",
@@ -105,18 +141,6 @@
    "description": null
   },
   {
-   "titre": "Basler Stadtmarkt",
-   "date_debut": "2026-11-20",
-   "date_fin": "2026-12-31",
-   "horaires": null,
-   "lieu": "Marktplatz",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/stadtmarkt-eve_wt1_jgdjffggb",
-   "description": null
-  },
-  {
    "titre": "Fragile Masterpieces",
    "date_debut": "2026-11-19",
    "date_fin": "2027-01-31",
@@ -186,18 +210,6 @@
    "categorie": "Exposition",
    "prix": null,
    "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/badekuren-im-entdeckerland-eve_uv7_heciagjgcgicjjahdic",
-   "description": null
-  },
-  {
-   "titre": "Vitrinenausstellung - Universitätsbibliothek",
-   "date_debut": "2026-11-17",
-   "date_fin": "2027-03-16",
-   "horaires": null,
-   "lieu": "Universitätsbibliothek (UB), Basel",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/vitrinenausstellung---universitätsbibliothek-eve_wt1_bdcciebegd",
    "description": null
   },
   {
