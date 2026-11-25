@@ -2,11 +2,63 @@
  "source": "denkmal-bale",
  "nom": "Denkmal (concerts et soirées à Bâle)",
  "pays": "CH",
- "lu_le": "2026-11-23",
+ "lu_le": "2026-11-25",
  "pages": [
   "https://denkmal.org/fr/basel/<AAAA-MM-JJ> (une page par jour : lire aujourd'hui + 6 jours)"
  ],
  "events": [
+  {
+   "titre": "Nicola Caminiti Quartet",
+   "date_debut": "2026-12-01",
+   "date_fin": null,
+   "horaires": "21 - 23h",
+   "lieu": "Bird's Eye",
+   "commune": "Bâle",
+   "categorie": "jazz",
+   "prix": null,
+   "url": "https://denkmal.org/fr/basel/2026-12-01/740f9223-5094-4119-b5af-a2733742c349",
+   "description": null,
+   "pays": "CH"
+  },
+  {
+   "titre": "Silvan-Zingg-Trio & Gäste",
+   "date_debut": "2026-12-01",
+   "date_fin": null,
+   "horaires": "20h",
+   "lieu": "Fauteuil",
+   "commune": "Bâle",
+   "categorie": "jazz,piano",
+   "prix": null,
+   "url": "https://denkmal.org/fr/basel/2026-12-01/2580047d-e27a-4495-bfcd-92b029ce7391",
+   "description": null,
+   "pays": "CH"
+  },
+  {
+   "titre": "Dimikio: Beau Soir",
+   "date_debut": "2026-12-01",
+   "date_fin": null,
+   "horaires": "12 - 13h",
+   "lieu": "kHaus",
+   "commune": "Bâle",
+   "categorie": "klassik",
+   "prix": null,
+   "url": "https://denkmal.org/fr/basel/2026-12-01/49e17df4-bc19-4170-a4cf-81f55aa68649",
+   "description": null,
+   "pays": "CH"
+  },
+  {
+   "titre": "Bubble Buster Jam",
+   "date_debut": "2026-12-01",
+   "date_fin": null,
+   "horaires": "19h",
+   "lieu": "Sommercasino Club",
+   "commune": "Bâle",
+   "categorie": "jamsession",
+   "prix": null,
+   "url": "https://denkmal.org/fr/basel/2026-12-01/1adc93a6-0883-4afc-a4f3-4ce8bcc552ff",
+   "description": null,
+   "pays": "CH"
+  },
   {
    "titre": "Einstimmung auf die Adventszeit",
    "date_debut": "2026-11-29",
@@ -771,19 +823,6 @@
    "categorie": "progressive metal",
    "prix": null,
    "url": "https://denkmal.org/fr/basel/2026-11-25/bac9cb7a-3670-4d09-b703-61b96de29feb",
-   "description": null,
-   "pays": "CH"
-  },
-  {
-   "titre": "A.Alavi's All-Star Funk Band",
-   "date_debut": "2026-11-24",
-   "date_fin": null,
-   "horaires": "21 h",
-   "lieu": "Schall und Rauch",
-   "commune": "Bâle",
-   "categorie": "funk,pop",
-   "prix": null,
-   "url": "https://denkmal.org/fr/basel/2026-11-24/dea27fd9-810f-47f9-b301-fc459d4136cf",
    "description": null,
    "pays": "CH"
   }

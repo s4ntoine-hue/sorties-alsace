@@ -2,12 +2,72 @@
  "source": "baselland-tourismus",
  "nom": "Baselland Tourismus",
  "pays": "CH",
- "lu_le": "2026-11-24",
+ "lu_le": "2026-11-25",
  "pages": [
   "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements (page 1 sur 5, 2713 manifestations)"
  ],
  "note": "Format des pages suivantes inconnu : seule la page 1 est lue.",
  "events": [
+  {
+   "titre": "Weihnachtsprogramm 2026",
+   "date_debut": "2026-11-25",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": "Freizeithaus Allschwil",
+   "commune": "Allschwil",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/weihnachtsprogramm-2026-eve_wt1_bdddbedfei",
+   "description": null
+  },
+  {
+   "titre": "Die Sammlung: europaweit einzigartig",
+   "date_debut": "2026-11-25",
+   "date_fin": "2099-12-31",
+   "horaires": null,
+   "lieu": "Spielzeug Welten Museum Basel",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/die-sammlung-europaweit-einzigartig-eve_wt1_jhdadifbf",
+   "description": null
+  },
+  {
+   "titre": "Konomi Festival",
+   "date_debut": "2026-11-25",
+   "date_fin": "2027-05-02",
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/konomi-festival-eve_wt1_bbeeiadaef",
+   "description": null
+  },
+  {
+   "titre": "Melt Trio",
+   "date_debut": "2026-11-25",
+   "date_fin": "2026-11-25",
+   "horaires": null,
+   "lieu": "the bird's eye jazz club",
+   "commune": "Bâle",
+   "categorie": "Musik",
+   "prix": null,
+   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/melt-trio-eve_wt1_bdcgedcffa",
+   "description": null
+  },
+  {
+   "titre": "Schabbes, Schnitzel, Mehrbettzimmer",
+   "date_debut": "2026-11-25",
+   "date_fin": "2027-01-04",
+   "horaires": null,
+   "lieu": "MUKS - Museum Kultur & Spiel",
+   "commune": "Riehen",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/schabbes-schnitzel-mehrbettzimmer-eve_wt1_bcebdgjhag",
+   "description": null
+  },
   {
    "titre": "Basler Stadtmarkt",
    "date_debut": "2026-11-24",
@@ -114,18 +174,6 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/alles-lebt-mehr-als-menschliche-welten-eve_wt1_babidchjch",
-   "description": null
-  },
-  {
-   "titre": "Konomi Festival",
-   "date_debut": "2026-11-21",
-   "date_fin": "2027-05-02",
-   "horaires": null,
-   "lieu": "Basel, 4000, Schweiz, Basel",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/konomi-festival-eve_wt1_bbeeiadaef",
    "description": null
   },
   {
