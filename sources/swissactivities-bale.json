@@ -2,7 +2,7 @@
  "source": "swissactivities-bale",
  "nom": "Swiss Activities (Bâle)",
  "pays": "CH",
- "lu_le": "2026-11-25",
+ "lu_le": "2026-11-26",
  "pages": [
   "https://www.swissactivities.com/fr-fr/ville-de-b-le/evenements/ (20 premiers sur 939, bouton « Afficher plus » non lisible)"
  ],
@@ -21,66 +21,6 @@
    "description": null
   },
   {
-   "titre": "Adventskranzen. Workshop.",
-   "date_debut": "2026-11-25",
-   "date_fin": null,
-   "horaires": "09:00–16:00",
-   "lieu": "Ref. KGH",
-   "commune": "Münchenstein",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.swissactivities.com/fr-ch/events/munchenstein/adventskranzen-workshop/",
-   "description": null
-  },
-  {
-   "titre": "Workshop Adventskränze für den Bazar",
-   "date_debut": "2026-11-25",
-   "date_fin": null,
-   "horaires": "09:00–16:00",
-   "lieu": "Ref. KGH",
-   "commune": "Münchenstein",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.swissactivities.com/fr-ch/events/munchenstein/workshop-adventskranze-fur-den-bazar/",
-   "description": null
-  },
-  {
-   "titre": "City Walk Basel by blindekuh Basel",
-   "date_debut": "2026-11-25",
-   "date_fin": null,
-   "horaires": "09:00–18:00",
-   "lieu": "Restaurant Blindekuh",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.swissactivities.com/fr-ch/events/basel/city-walk-basel-by-blindekuh-basel/",
-   "description": null
-  },
-  {
-   "titre": "Harry P.Otter und die Zauberprüfung",
-   "date_debut": "2026-11-25",
-   "date_fin": null,
-   "horaires": "09:00–23:00",
-   "lieu": "Basel - Startpunkt frei wählbar innerhalb der Stadt",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": "ab CHF 4.90",
-   "url": "https://www.swissactivities.com/fr-ch/events/basel/harry-p-otter-und-die-zauberprufung/",
-   "description": null
-  },
-  {
-   "titre": "Théâtre de marionnettes Kasperli à la bibliothèque Niederholz",
-   "date_debut": "2026-11-25",
-   "date_fin": null,
-   "horaires": "09:30–10:00",
-   "lieu": "Bibliothek Niederholz",
-   "commune": "Riehen",
-   "categorie": null,
-   "prix": "Entrée gratuite",
-   "url": "https://www.swissactivities.com/fr-ch/events/riehen/kasperlitheater-in-der-bibliothek-niederholz/",
-   "description": null
-  },
-  {
    "titre": "À LA MAISON - EN VOYAGE - LA VIE À BORD",
    "date_debut": "2026-11-25",
    "date_fin": "2027-02-22",
@@ -90,30 +30,6 @@
    "categorie": null,
    "prix": "Eintrittspreis regulär: CHF 14 · Eintrittspreis reduziert: CHF 9",
    "url": "https://www.swissactivities.com/fr-ch/events/basel/zuhause-unterwegs-schifferleben/",
-   "description": null
-  },
-  {
-   "titre": "Fragile Masterpieces",
-   "date_debut": "2026-11-25",
-   "date_fin": null,
-   "horaires": "10:00–17:00",
-   "lieu": "Pharmaziemuseum Basel",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.swissactivities.com/fr-ch/events/basel/fragile-masterpieces/",
-   "description": null
-  },
-  {
-   "titre": "Sonderausstellung: Wildlife Photographer of the Year",
-   "date_debut": "2026-11-25",
-   "date_fin": null,
-   "horaires": "10:00–17:00",
-   "lieu": "Naturhistorisches Museum Basel",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.swissactivities.com/fr-ch/events/basel/sonderausstellung-wildlife-photographer-of-the-year/",
    "description": null
   },
   {
@@ -165,7 +81,7 @@
    "description": null
   },
   {
-   "titre": "Exposition « <Figuren für die Ewigkeit> » de Peter Moilliet",
+   "titre": "Exposition « Figuren für die Ewigkeit » de Peter Moilliet",
    "date_debut": "2026-11-25",
    "date_fin": "2026-12-13",
    "horaires": "12:00–17:00",
@@ -177,19 +93,7 @@
    "description": null
   },
   {
-   "titre": "L’éthique de l’IA",
-   "date_debut": "2026-11-25",
-   "date_fin": null,
-   "horaires": "12:30–12:45",
-   "lieu": null,
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.swissactivities.com/fr-ch/events/basel/the-ethics-of-ai/",
-   "description": null
-  },
-  {
-   "titre": "<Grounds for Reconstruction>",
+   "titre": "Grounds for Reconstruction",
    "date_debut": "2026-11-25",
    "date_fin": "2026-11-29",
    "horaires": "13:00–18:00",
@@ -198,18 +102,6 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.swissactivities.com/fr-ch/events/basel/grounds-for-reconstruction/",
-   "description": null
-  },
-  {
-   "titre": "Time Out - Advent",
-   "date_debut": "2026-11-25",
-   "date_fin": null,
-   "horaires": "13:30–15:30",
-   "lieu": "Calvinhaus, Grosser Saal",
-   "commune": "Allschwil",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.swissactivities.com/fr-ch/events/allschwil/time-out-advent-d907be/",
    "description": null
   },
   {

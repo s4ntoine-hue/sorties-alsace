@@ -2,7 +2,7 @@
  "source": "visit-freiburg",
  "nom": "Visit Freiburg",
  "pays": "DE",
- "lu_le": "2026-11-25",
+ "lu_le": "2026-11-26",
  "pages": [
   "https://visit.freiburg.de/fr/evenements/top-10-des-evenements"
  ],
@@ -10,9 +10,9 @@
  "events": [
   {
    "titre": "Marché de Noël de Freiburg",
-   "date_debut": "2026-11-25",
+   "date_debut": "2026-11-26",
    "date_fin": null,
-   "horaires": "10:00 heure",
+   "horaires": "10:00",
    "lieu": "Vieille ville de Freiburg",
    "commune": "Fribourg-en-Brisgau",
    "categorie": null,
@@ -25,7 +25,7 @@
    "titre": "Circolo",
    "date_debut": "2026-12-19",
    "date_fin": null,
-   "horaires": "15:00 heure",
+   "horaires": "15:00",
    "lieu": "Messe Freiburg - Nouvelle place de foire",
    "commune": "Fribourg-en-Brisgau",
    "categorie": null,
@@ -38,7 +38,7 @@
    "titre": "caravan live",
    "date_debut": "2027-09-30",
    "date_fin": null,
-   "horaires": "10:00 heure",
+   "horaires": "10:00",
    "lieu": "Foire commerciale de Freiburg",
    "commune": "Fribourg-en-Brisgau",
    "categorie": null,

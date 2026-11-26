@@ -1,7 +1,7 @@
 {
  "source": "tourisme-colmar",
  "nom": "Office de tourisme de Colmar",
- "lu_le": "2026-11-25",
+ "lu_le": "2026-11-26",
  "pages": [
   "https://www.tourisme-colmar.com/fr/loisirs-fr/evenements/agenda (pages 1 et 2 sur 45)"
  ],
@@ -9,8 +9,8 @@
  "events": [
   {
    "titre": "14ème Festival d'Humour de Colmar",
-   "date_debut": "2026-11-24",
-   "date_fin": "2026-11-25",
+   "date_debut": "2026-11-25",
+   "date_fin": "2026-11-26",
    "horaires": null,
    "lieu": null,
    "commune": "Colmar",
@@ -20,123 +20,15 @@
    "description": null
   },
   {
-   "titre": "Les enfants chantent Noël sur les barques - Les pinsons du vignoble de l'Ecole de Niedermoschwihr",
-   "date_debut": "2026-11-25",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Colmar",
-   "categorie": "Concert",
-   "prix": null,
-   "url": "https://www.tourisme-colmar.com/loisirs-fr/evenements/agenda/F235015167_les-enfants-chantent-noel-sur-les-barques-ecole-de-niedermoschwihr-colmar",
-   "description": null
-  },
-  {
-   "titre": "Cook show du marché gourmand",
-   "date_debut": "2026-11-25",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Colmar",
-   "categorie": "Dégustation de produits du terroir",
-   "prix": null,
-   "url": "https://www.tourisme-colmar.com/loisirs-fr/evenements/agenda/F235015995_cook-show-du-marche-gourmand-colmar",
-   "description": null
-  },
-  {
-   "titre": "Spectacle - Ce que le ventre dit",
-   "date_debut": "2026-11-25",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Colmar",
-   "categorie": "Concert",
-   "prix": null,
-   "url": "https://www.tourisme-colmar.com/loisirs-fr/evenements/agenda/F235018532_concert-ce-que-le-ventre-dit-colmar",
-   "description": null
-  },
-  {
-   "titre": "Festival d'Humour de Colmar - Marine Leonardi",
-   "date_debut": "2026-11-25",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Colmar",
-   "categorie": "Spectacle",
-   "prix": null,
-   "url": "https://www.tourisme-colmar.com/loisirs-fr/evenements/agenda/F235018954_festival-dhumour-de-colmar-marine-leonardi-colmar",
-   "description": null
-  },
-  {
    "titre": "Exposition - Haïku, une esthétique de l'instant",
    "date_debut": "2026-11-25",
-   "date_fin": null,
+   "date_fin": "2026-11-26",
    "horaires": null,
    "lieu": null,
    "commune": "Colmar",
    "categorie": "Exposition",
    "prix": null,
    "url": "https://www.tourisme-colmar.com/loisirs-fr/evenements/agenda/F235018988_exposition-haiku-une-esthetique-de-linstant-colmar",
-   "description": null
-  },
-  {
-   "titre": "Petites histoires pour petites oreilles",
-   "date_debut": "2026-11-25",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Kaysersberg Vignoble",
-   "categorie": "Conte/histoire",
-   "prix": null,
-   "url": "https://www.tourisme-colmar.com/loisirs-fr/evenements/agenda/F230109276_petites-histoires-pour-petites-oreilles-kaysersberg-vignoble",
-   "description": null
-  },
-  {
-   "titre": "Spectacle - Jahoba",
-   "date_debut": "2026-11-25",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Lapoutroie",
-   "categorie": "Spectacle",
-   "prix": null,
-   "url": "https://www.tourisme-colmar.com/loisirs-fr/evenements/agenda/F230115230_spectacle-jahoba-lapoutroie",
-   "description": null
-  },
-  {
-   "titre": "ateliers créatifs de Couronnes de l’Avent",
-   "date_debut": "2026-11-25",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Ribeauvillé",
-   "categorie": "Artisanat/démonstration de savoir faire",
-   "prix": null,
-   "url": "https://www.tourisme-colmar.com/loisirs-fr/evenements/agenda/F229010364_ateliers-creatifs-de-couronnes-de-l-avent-ribeauville",
-   "description": null
-  },
-  {
-   "titre": "Dans la cuisine de Claire : confectionnez vos Bredla",
-   "date_debut": "2026-11-25",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Stosswihr",
-   "categorie": "Stage, atelier, cours d'oenologie, cours de cuisine",
-   "prix": null,
-   "url": "https://www.tourisme-colmar.com/loisirs-fr/evenements/agenda/F231012723_dans-la-cuisine-de-claire-confectionnez-vos-bredla-stosswihr",
-   "description": null
-  },
-  {
-   "titre": "Les mercredis gourmands du Domaine Schoenheitz",
-   "date_debut": "2026-11-25",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Wihr-au-Val",
-   "categorie": "Dégustation de produits du terroir",
-   "prix": null,
-   "url": "https://www.tourisme-colmar.com/loisirs-fr/evenements/agenda/F231012361_les-mercredis-gourmands-du-domaine-schoenheitz-wihr-au-val",
    "description": null
   },
   {
@@ -161,6 +53,54 @@
    "categorie": "Evenement gastronomique, oenologique",
    "prix": null,
    "url": "https://www.tourisme-colmar.com/loisirs-fr/evenements/agenda/F235008947_cave-de-noel-noel-vins-et-chocolats-domaine-karcher-fils-colmar",
+   "description": null
+  },
+  {
+   "titre": "Festival d'Humour de Colmar - Jeanfi Janssens",
+   "date_debut": "2026-11-26",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": null,
+   "commune": "Colmar",
+   "categorie": "Spectacle",
+   "prix": null,
+   "url": "https://www.tourisme-colmar.com/loisirs-fr/evenements/agenda/F235018955_festival-dhumour-de-colmar-jeanfi-janssens-colmar",
+   "description": null
+  },
+  {
+   "titre": "Cave de Noël : Mission Réveillon : à chaque plat son vin !",
+   "date_debut": "2026-11-26",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": null,
+   "commune": "Gueberschwihr",
+   "categorie": "Dégustation de produits du terroir",
+   "prix": null,
+   "url": "https://www.tourisme-colmar.com/loisirs-fr/evenements/agenda/F253005122_cave-de-noel-mission-reveillon-a-chaque-plat-son-vin-gueberschwihr",
+   "description": null
+  },
+  {
+   "titre": "Atelier couronne de l'Avent / Apéritif",
+   "date_debut": "2026-11-26",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": null,
+   "commune": "Ribeauvillé",
+   "categorie": "Artisanat/démonstration de savoir faire",
+   "prix": null,
+   "url": "https://www.tourisme-colmar.com/loisirs-fr/evenements/agenda/F229010227_atelier-couronne-de-lavent-special-adulte-ribeauville",
+   "description": null
+  },
+  {
+   "titre": "Ciné-Débat : cultivons la pluie",
+   "date_debut": "2026-11-26",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": null,
+   "commune": "Ribeauvillé",
+   "categorie": "Cinéma",
+   "prix": null,
+   "url": "https://www.tourisme-colmar.com/loisirs-fr/evenements/agenda/F229010350_cine-debat-cultivons-la-pluie-ribeauville",
    "description": null
   },
   {

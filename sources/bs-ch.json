@@ -2,7 +2,7 @@
  "source": "bs-ch",
  "nom": "Canton de Bâle-Ville",
  "pays": "CH",
- "lu_le": "2026-11-25",
+ "lu_le": "2026-11-26",
  "pages": [
   "https://www.bs.ch/veranstaltungen (pages 1 et 2 sur 46)"
  ],
@@ -11,7 +11,7 @@
   {
    "titre": "Palazzo Colombino und Cirque Noël de Bâle",
    "date_debut": "2026-11-25",
-   "date_fin": null,
+   "date_fin": "2026-11-28",
    "horaires": "Ganztags",
    "lieu": "Rosentalanlage",
    "commune": "Bâle",
@@ -23,7 +23,7 @@
   {
    "titre": "Sonderausstellung «Van Gogh, Hodler und ein Cabriolet»",
    "date_debut": "2026-11-25",
-   "date_fin": null,
+   "date_fin": "2026-11-28",
    "horaires": "Ganztags",
    "lieu": "Kunstmuseum",
    "commune": "Bâle",
@@ -35,8 +35,8 @@
   {
    "titre": "August bis November: Ausstellung «Auf immer und ewig» auf dem Wolfgottesacker",
    "date_debut": "2026-11-25",
-   "date_fin": null,
-   "horaires": "Mi. 7:30 - Fr. 17:30 Uhr (25.11.), Do. 7:30 - Sa. 17:30 Uhr (26.11.), Fr. 7:30 - So. 17:30 Uhr (27.11.), Sa. 7:30 - Mo. 17:30 Uhr (28.11.)",
+   "date_fin": "2026-11-28",
+   "horaires": "Mi. 7:30 - Fr. 17:30 Uhr (25.11.); Do. 7:30 - Sa. 17:30 Uhr (26.11.); Fr. 7:30 - So. 17:30 Uhr (27.11.); Sa. 7:30 - Mo. 17:30 Uhr (28.11.)",
    "lieu": "Wolfgottesacker",
    "commune": "Bâle",
    "categorie": null,
@@ -47,8 +47,8 @@
   {
    "titre": "Basler Stadtmarkt",
    "date_debut": "2026-11-25",
-   "date_fin": null,
-   "horaires": "Mi. 8:00 - Mi. 14:00 Uhr (25.11.), Do. 8:00 - Do. 14:00 Uhr (26.11.), Fr. 8:00 - Do. 17:00 Uhr (27.11.), Sa. 8:00 - Fr. 17:00 Uhr (28.11.)",
+   "date_fin": "2026-11-28",
+   "horaires": "Mi. 8:00 - Mi. 14:00 Uhr (25.11.); Do. 8:00 - Do. 14:00 Uhr (26.11.); Fr. 8:00 - Do. 17:00 Uhr (27.11.); Sa. 8:00 - Fr. 17:00 Uhr (28.11.)",
    "lieu": "Marktplatz",
    "commune": "Bâle",
    "categorie": null,
@@ -57,21 +57,9 @@
    "description": null
   },
   {
-   "titre": "Café Dialogue - Gemeinsam nachdenken und diskutieren",
-   "date_debut": "2026-11-25",
-   "date_fin": null,
-   "horaires": "14:00 - 15:30 Uhr",
-   "lieu": "Quartierzentrum Union",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.bs.ch/veranstaltungen/cafe-dialogue-gemeinsam-nachdenken-und-diskutieren-39",
-   "description": null
-  },
-  {
-   "titre": "Basler Weihnacht (Basler Weihnachtsmarkt Münsterplatz)",
+   "titre": "Basler Weihnacht",
    "date_debut": "2026-11-26",
-   "date_fin": null,
+   "date_fin": "2026-11-28",
    "horaires": "Ganztags",
    "lieu": "Münsterplatz",
    "commune": "Bâle",
