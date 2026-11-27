@@ -2,7 +2,7 @@
  "source": "bs-ch-grands",
  "nom": "Bâle – grands événements",
  "pays": "CH",
- "lu_le": "2026-11-26",
+ "lu_le": "2026-11-27",
  "pages": [
   "https://www.bs.ch/fr/schwerpunkte/portrait/evenements-bale"
  ],
@@ -60,8 +60,8 @@
    "date_debut": "2027-01-31",
    "date_fin": "2027-05-17",
    "horaires": null,
-   "lieu": null,
-   "commune": "Bâle",
+   "lieu": "Fondation Beyeler",
+   "commune": null,
    "categorie": null,
    "prix": null,
    "url": "https://www.bs.ch/fr/evenements/fondation-beyeler-exposition-frida-kahlo",

@@ -2,22 +2,70 @@
  "source": "baselland-tourismus",
  "nom": "Baselland Tourismus",
  "pays": "CH",
- "lu_le": "2026-11-26",
+ "lu_le": "2026-11-27",
  "pages": [
   "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements (page 1 sur 5, 2713 manifestations)"
  ],
  "note": "Format des pages suivantes inconnu : seule la page 1 est lue.",
  "events": [
   {
-   "titre": "Basel Jazz Orchestra plays BJO",
-   "date_debut": "2026-11-26",
+   "titre": "deb. Album Release Show | Support: Tiramisadness",
+   "date_debut": "2026-11-27",
    "date_fin": null,
    "horaires": null,
-   "lieu": "the bird's eye jazz club",
+   "lieu": "Sommercasino",
    "commune": "Bâle",
    "categorie": "Musik",
    "prix": null,
-   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/basel-jazz-orchestra-plays-bjo-eve_wt1_bdcgedcfef",
+   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/deb.-album-release-show-support-tiramisadness-eve_wt1_bchhihjgej",
+   "description": null
+  },
+  {
+   "titre": "Basler Stadtmarkt",
+   "date_debut": "2026-11-27",
+   "date_fin": "2027-12-31",
+   "horaires": null,
+   "lieu": "Marktplatz",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/stadtmarkt-eve_wt1_jgdjffggb",
+   "description": null
+  },
+  {
+   "titre": "Vitrinenausstellung - Universitätsbibliothek",
+   "date_debut": "2026-11-27",
+   "date_fin": "2027-03-16",
+   "horaires": null,
+   "lieu": "Universitätsbibliothek (UB)",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/vitrinenausstellung---universitätsbibliothek-eve_wt1_bdcciebegd",
+   "description": null
+  },
+  {
+   "titre": "City Walk Basel by blindekuh Basel",
+   "date_debut": "2026-11-27",
+   "date_fin": "2026-12-23",
+   "horaires": null,
+   "lieu": "Restaurant Blindekuh",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/city-walk-basel-by-blindekuh-basel-eve_uv7_hefieffgbjgffcbijgi-ggcfjbeaabbbjchhdih",
+   "description": null
+  },
+  {
+   "titre": "Erzgebirgischer Weihnachtsmarkt",
+   "date_debut": "2026-11-27",
+   "date_fin": "2026-12-20",
+   "horaires": null,
+   "lieu": "Bachlettenstrasse 16",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/erzgebirgischer-weihnachtsmarkt-eve_uv7_hfcgbjdejahcbfbbjfj-hcfjfjeeeejjehecijd",
    "description": null
   },
   {
@@ -102,30 +150,6 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/schabbes-schnitzel-mehrbettzimmer-eve_wt1_bcebdgjhag",
-   "description": null
-  },
-  {
-   "titre": "Basler Stadtmarkt",
-   "date_debut": "2026-11-24",
-   "date_fin": "2027-12-31",
-   "horaires": null,
-   "lieu": "Marktplatz",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/stadtmarkt-eve_wt1_jgdjffggb",
-   "description": null
-  },
-  {
-   "titre": "Vitrinenausstellung - Universitätsbibliothek",
-   "date_debut": "2026-11-24",
-   "date_fin": "2027-03-16",
-   "horaires": null,
-   "lieu": "Universitätsbibliothek (UB)",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/vitrinenausstellung---universitätsbibliothek-eve_wt1_bdcciebegd",
    "description": null
   },
   {
@@ -294,18 +318,6 @@
    "categorie": "Exposition",
    "prix": null,
    "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/badekuren-im-entdeckerland-eve_uv7_heciagjgcgicjjahdic",
-   "description": null
-  },
-  {
-   "titre": "City Walk Basel by blindekuh Basel",
-   "date_debut": "2026-11-17",
-   "date_fin": "2026-12-23",
-   "horaires": null,
-   "lieu": "Restaurant Blindekuh, Basel",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": "Billets en ligne (montant non indiqué)",
-   "url": "https://www.baselland-tourismus.ch/fr/calendrier-des-evenements/city-walk-basel-by-blindekuh-basel-eve_uv7_hefieffgbjgffcbijgi-ggcfjbeaabbbjchhdih",
    "description": null
   },
   {

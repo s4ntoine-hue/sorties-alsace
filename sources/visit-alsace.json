@@ -1,7 +1,7 @@
 {
  "source": "visit-alsace",
  "nom": "Visit Alsace",
- "lu_le": "2026-11-26",
+ "lu_le": "2026-11-27",
  "pages": [
   "https://www.visit.alsace/agenda-sorties-evenements/",
   "…/page/2/",
@@ -9,32 +9,32 @@
  ],
  "events": [
   {
-   "titre": "Rencontre autour du photographe Charles David Winter",
-   "date_debut": "2026-11-26",
+   "titre": "R’âges",
+   "date_debut": "2026-11-27",
    "date_fin": null,
    "horaires": null,
-   "lieu": null,
-   "commune": "Strasbourg",
-   "categorie": "Exposition",
+   "lieu": "Espace Malraux",
+   "commune": "Geispolsheim",
+   "categorie": "Bal/danse",
    "prix": null,
-   "url": "https://www.visit.alsace/sit/205093113-rencontre-autour-du-photographe-charles-david-winter/",
+   "url": "https://www.visit.alsace/sit/205093483-rages/",
    "description": null
   },
   {
-   "titre": "Exposition collective | NEO-ANALOG",
-   "date_debut": "2026-11-26",
+   "titre": "Strasbourg, capitale de Noël",
+   "date_debut": "2026-11-27",
    "date_fin": null,
    "horaires": null,
    "lieu": null,
    "commune": "Strasbourg",
-   "categorie": "Exposition",
+   "categorie": "Marché ponctuel (à thème, estival, Noël …)",
    "prix": null,
-   "url": "https://www.visit.alsace/sit/205092683-exposition-collective-neo-analog/",
+   "url": "https://www.visit.alsace/sit/223012607-strasbourg-capitale-de-noel/",
    "description": null
   },
   {
    "titre": "Centenaire des travaux de restauration du pilier de la tour de la cathédrale",
-   "date_debut": "2026-11-26",
+   "date_debut": "2026-11-27",
    "date_fin": null,
    "horaires": null,
    "lieu": null,
@@ -45,8 +45,32 @@
    "description": null
   },
   {
-   "titre": "Fais peter les ouates",
-   "date_debut": "2026-11-26",
+   "titre": "Une photographe révélée",
+   "date_debut": "2026-11-27",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": null,
+   "commune": "Strasbourg",
+   "categorie": "Exposition",
+   "prix": null,
+   "url": "https://www.visit.alsace/sit/205093082-une-photographe-revelee/",
+   "description": null
+  },
+  {
+   "titre": "La littérature jeunesse soviétique, entre distraction et propagande",
+   "date_debut": "2026-11-27",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": null,
+   "commune": "Strasbourg",
+   "categorie": "Animation littéraire",
+   "prix": null,
+   "url": "https://www.visit.alsace/sit/205093294-la-litterature-jeunesse-sovietique-entre-distraction-et-propagande/",
+   "description": null
+  },
+  {
+   "titre": "Fais péter les ouates",
+   "date_debut": "2026-11-27",
    "date_fin": null,
    "horaires": null,
    "lieu": null,
@@ -58,7 +82,7 @@
   },
   {
    "titre": "Noël au Pays de Thann Cernay",
-   "date_debut": "2026-11-26",
+   "date_debut": "2026-11-27",
    "date_fin": null,
    "horaires": null,
    "lieu": null,
@@ -70,7 +94,7 @@
   },
   {
    "titre": "Visites guidée de Mittelbergheim et son musée viticole",
-   "date_debut": "2026-11-26",
+   "date_debut": "2026-11-27",
    "date_fin": null,
    "horaires": null,
    "lieu": null,
@@ -81,8 +105,20 @@
    "description": null
   },
   {
+   "titre": "Midi-sandwich",
+   "date_debut": "2026-11-27",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": "Le Maillon — Théâtre de Strasbourg",
+   "commune": "Strasbourg",
+   "categorie": "Théâtre",
+   "prix": null,
+   "url": "https://www.visit.alsace/sit/205090382-midi-sandwich/",
+   "description": null
+  },
+  {
    "titre": "A la découverte du Grand Cru Sonnenglanz - Visite et dégustation au cœur du vignoble",
-   "date_debut": "2026-11-26",
+   "date_debut": "2026-11-27",
    "date_fin": null,
    "horaires": null,
    "lieu": null,
@@ -93,8 +129,20 @@
    "description": null
   },
   {
+   "titre": "La Vie Parisienne",
+   "date_debut": "2026-11-27",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": "L'Illiade",
+   "commune": "Illkirch-Graffenstaden",
+   "categorie": "Concert",
+   "prix": null,
+   "url": "https://www.visit.alsace/sit/205090384-la-vie-parisienne/",
+   "description": null
+  },
+  {
    "titre": "NOUVELLE EXPOSITION SUR L’HISTOIRE DE L’IRLANDE",
-   "date_debut": "2026-11-26",
+   "date_debut": "2026-11-27",
    "date_fin": null,
    "horaires": null,
    "lieu": null,
@@ -102,30 +150,6 @@
    "categorie": "Culture",
    "prix": null,
    "url": "https://www.visit.alsace/sit/205090045-nouvelle-exposition-sur-lhistoire-de-lirlande/",
-   "description": null
-  },
-  {
-   "titre": "Nature morte à la tête de veau de Carlo Magini",
-   "date_debut": "2026-11-26",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Strasbourg",
-   "categorie": "Culture",
-   "prix": null,
-   "url": "https://www.visit.alsace/sit/205090614-nature-morte-a-la-tete-de-veau-de-carlo-magini/",
-   "description": null
-  },
-  {
-   "titre": "Parenthèse Vigneronne : Les terroirs de Grands Crus",
-   "date_debut": "2026-11-26",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Kaysersberg Vignoble",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.visit.alsace/sit/230110384-parenthese-vigneronne-les-terroirs-de-grands-crus/",
    "description": null
   }
  ]

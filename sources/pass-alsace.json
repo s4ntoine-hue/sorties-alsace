@@ -1,24 +1,12 @@
 {
  "source": "pass-alsace",
  "nom": "Pass'Alsace",
- "lu_le": "2026-11-26",
+ "lu_le": "2026-11-27",
  "pages": [
   "https://www.pass-alsace.com/agenda-des-evenements (pages 1 à 4)"
  ],
  "note": "12 événements Halloween déjà terminés (fin au 01/11/2026) écartés.",
  "events": [
-  {
-   "titre": "Atelier main à la pâte adulte : Spécialités de Noël",
-   "date_debut": "2026-11-26",
-   "date_fin": null,
-   "horaires": "14:00",
-   "lieu": "La Maison du Pain d’Alsace",
-   "commune": "Sélestat",
-   "categorie": "Festivités de Noël",
-   "prix": null,
-   "url": "https://www.pass-alsace.com/fr/evenement/1298-atelier-main-a-la-pate-adulte-specialites-de-noel",
-   "description": null
-  },
   {
    "titre": "Le château à la lampe de poche",
    "date_debut": "2026-11-20",
@@ -60,7 +48,7 @@
    "date_debut": "2026-12-03",
    "date_fin": null,
    "horaires": "19:00",
-   "lieu": "Mémorial du camp de concentration de Natzweiler-Struthof",
+   "lieu": "Mémorial du camp de concentration de Natzweiler-Struthof, Salle Polyvalente De La Broque",
    "commune": "La Broque",
    "categorie": "Mémoire",
    "prix": null,
@@ -128,6 +116,18 @@
    "description": null
   },
   {
+   "titre": "Les contes d'hiver du Colporteur",
+   "date_debut": "2026-12-06",
+   "date_fin": null,
+   "horaires": "15:00",
+   "lieu": "La Maison du Fromage - Vallée de Munster",
+   "commune": "Gunsbach",
+   "categorie": "Festivités de Noël",
+   "prix": null,
+   "url": "https://www.pass-alsace.com/fr/evenement/1329-les-contes-d-hiver-du-colporteur",
+   "description": null
+  },
+  {
    "titre": "Saint-Nicolas",
    "date_debut": "2026-12-05",
    "date_fin": "2026-12-06",
@@ -168,7 +168,7 @@
    "date_debut": "2026-10-21",
    "date_fin": "2026-12-16",
    "horaires": null,
-   "lieu": "Musée du Jouet",
+   "lieu": "Musée Du Jouet De Colmar",
    "commune": "Colmar",
    "categorie": "Visite guidée",
    "prix": null,
@@ -204,7 +204,7 @@
    "date_debut": "2026-12-22",
    "date_fin": null,
    "horaires": "08:00",
-   "lieu": "Musée Du Jouet",
+   "lieu": "Musée Du Jouet De Colmar",
    "commune": "Colmar",
    "categorie": "Visite guidée",
    "prix": null,
@@ -432,7 +432,7 @@
    "date_debut": "2026-06-25",
    "date_fin": "2027-05-30",
    "horaires": null,
-   "lieu": "Musée Electropolis Mulhouse",
+   "lieu": "Musée Electropolis",
    "commune": "Mulhouse",
    "categorie": "Exposition temporaire",
    "prix": null,

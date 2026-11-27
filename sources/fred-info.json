@@ -2,7 +2,7 @@
  "source": "fred-info",
  "nom": "FRED (transfrontalier)",
  "pays": "DE",
- "lu_le": "2026-11-26",
+ "lu_le": "2026-11-27",
  "pages": [
   "https://fred.info/fr/evenements/"
  ],
@@ -15,7 +15,7 @@
    "horaires": "10:00 - 16:00",
    "lieu": "Centre Culturel Français Freiburg e.V.",
    "commune": "Fribourg-en-Brisgau",
-   "categorie": "Allemand, Bade-Wurtemberg, Français, Région de Fribourg",
+   "categorie": null,
    "prix": null,
    "url": "https://fred.info/fr/events/mois-daction-ensemble-dans-la-bibliotheque/",
    "description": null,
@@ -26,9 +26,9 @@
    "date_debut": "2026-11-20",
    "date_fin": "2027-01-03",
    "horaires": null,
-   "lieu": "Grand Est",
+   "lieu": null,
    "commune": null,
-   "categorie": "Grand Est",
+   "categorie": null,
    "prix": null,
    "url": "https://fred.info/fr/events/marches-de-noel-dans-la-region-grand-est-copy/",
    "description": null,
@@ -39,26 +39,26 @@
    "date_debut": "2026-11-23",
    "date_fin": "2027-01-06",
    "horaires": null,
-   "lieu": "Bade-Wurtemberg",
+   "lieu": null,
    "commune": null,
-   "categorie": "Allemand, Bade-Wurtemberg",
+   "categorie": null,
    "prix": null,
    "url": "https://fred.info/fr/events/marches-de-noel-dans-le-bade-wurtemberg-copy/",
    "description": null,
    "pays": "DE"
   },
   {
-   "titre": "Forum franco-allemand: Nouveau dans le métier : Bien démarrer en sécurité",
-   "date_debut": "2026-11-26",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": "1 place Adrien Zeller - Strasbourg",
-   "commune": "Strasbourg",
-   "categorie": "Allemand, Bas-Rhin, Français, Grand Est",
+   "titre": "10e marché de Noël sans gluten",
+   "date_debut": "2026-11-27",
+   "date_fin": "2026-12-06",
+   "horaires": "14:00 - 18:00",
+   "lieu": "Kurpark in Sasbachwalden",
+   "commune": "Sasbachwalden",
+   "categorie": null,
    "prix": null,
-   "url": "https://fred.info/fr/events/forum-franco-allemand-nouveau-dans-le-metier-bien-demarrer-en-securite/",
+   "url": "https://fred.info/fr/events/10e-marche-de-noel-sans-gluten/",
    "description": null,
-   "pays": "FR"
+   "pays": "DE"
   }
  ]
 }
