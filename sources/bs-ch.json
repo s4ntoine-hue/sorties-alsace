@@ -2,22 +2,82 @@
  "source": "bs-ch",
  "nom": "Canton de Bâle-Ville",
  "pays": "CH",
- "lu_le": "2026-11-27",
+ "lu_le": "2026-11-28",
  "pages": [
   "https://www.bs.ch/veranstaltungen (pages 1 et 2 sur 46)"
  ],
  "note": "Pour les événements « en continu », la date affichée est celle de la lecture.",
  "events": [
   {
+   "titre": "Palazzo Colombino und Cirque Noël de Bâle",
+   "date_debut": "2026-11-28",
+   "date_fin": null,
+   "horaires": "Ganztags",
+   "lieu": "Rosentalanlage",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.bs.ch/veranstaltungen/palazzo-colombino-und-cirque-noel-de-bale",
+   "description": null
+  },
+  {
+   "titre": "Sonderausstellung «Van Gogh, Hodler und ein Cabriolet»",
+   "date_debut": "2026-11-28",
+   "date_fin": null,
+   "horaires": "Ganztags",
+   "lieu": "Kunstmuseum",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.bs.ch/veranstaltungen/sonderausstellung-van-gogh-hodler-und-ein-cabriolet",
+   "description": null
+  },
+  {
+   "titre": "Basler Weihnacht",
+   "date_debut": "2026-11-28",
+   "date_fin": null,
+   "horaires": "Ganztags",
+   "lieu": "Münsterplatz",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.bs.ch/veranstaltungen/basler-weihnacht",
+   "description": null
+  },
+  {
    "titre": "Flohmarkt Petersplatz",
    "date_debut": "2026-11-28",
    "date_fin": null,
-   "horaires": "7:30 - 16:00 Uhr",
+   "horaires": "Sa. 7:30 - Fr. 16:00 Uhr",
    "lieu": "Petersplatz",
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
    "url": "https://www.bs.ch/veranstaltungen/flohmarkt-petersplatz",
+   "description": null
+  },
+  {
+   "titre": "Ausstellung «Auf immer und ewig»",
+   "date_debut": "2026-11-28",
+   "date_fin": null,
+   "horaires": "Sa. 7:30 - Mo. 17:30 Uhr",
+   "lieu": "Wolfgottesacker",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.bs.ch/veranstaltungen/httpswwwbschbvdstadtgaertnerei-7",
+   "description": null
+  },
+  {
+   "titre": "Basler Stadtmarkt",
+   "date_debut": "2026-11-28",
+   "date_fin": null,
+   "horaires": "Sa. 8:00 - Fr. 17:00 Uhr",
+   "lieu": "Marktplatz",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.bs.ch/veranstaltungen/basler-stadtmarkt",
    "description": null
   },
   {
@@ -33,27 +93,27 @@
    "description": null
   },
   {
-   "titre": "Palazzo Colombino und Cirque Noël de Bâle",
-   "date_debut": "2026-11-25",
-   "date_fin": "2026-11-28",
-   "horaires": "Ganztags",
-   "lieu": "Rosentalanlage",
+   "titre": "Schlemmer-Markt",
+   "date_debut": "2026-11-30",
+   "date_fin": null,
+   "horaires": "Mo. 8:00 - Mo. 14:00 Uhr",
+   "lieu": "Marktplatz",
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
-   "url": "https://www.bs.ch/veranstaltungen/palazzo-colombino-und-cirque-noel-de-bale",
+   "url": "https://www.bs.ch/veranstaltungen/schlemmer-markt",
    "description": null
   },
   {
-   "titre": "Sonderausstellung «Van Gogh, Hodler und ein Cabriolet»",
-   "date_debut": "2026-11-25",
-   "date_fin": "2026-11-28",
-   "horaires": "Ganztags",
-   "lieu": "Kunstmuseum",
+   "titre": "KlimaDräff im Gundeli - Gespräche über das Heute und Morgen",
+   "date_debut": "2026-11-30",
+   "date_fin": null,
+   "horaires": "17:00 - 18:00 Uhr",
+   "lieu": "Theater Bau3, Gundeldinger Feld",
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
-   "url": "https://www.bs.ch/veranstaltungen/sonderausstellung-van-gogh-hodler-und-ein-cabriolet",
+   "url": "https://www.bs.ch/veranstaltungen/klimadraeff-im-gundeli-gespraeche-ueber-das-heute-und-morgen",
    "description": null
   },
   {
@@ -66,30 +126,6 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.bs.ch/veranstaltungen/httpswwwbschbvdstadtgaertnerei-7",
-   "description": null
-  },
-  {
-   "titre": "Basler Stadtmarkt",
-   "date_debut": "2026-11-25",
-   "date_fin": "2026-11-28",
-   "horaires": "Mi. 8:00 - Mi. 14:00 Uhr (25.11.); Do. 8:00 - Do. 14:00 Uhr (26.11.); Fr. 8:00 - Do. 17:00 Uhr (27.11.); Sa. 8:00 - Fr. 17:00 Uhr (28.11.)",
-   "lieu": "Marktplatz",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.bs.ch/veranstaltungen/basler-stadtmarkt",
-   "description": null
-  },
-  {
-   "titre": "Basler Weihnacht",
-   "date_debut": "2026-11-26",
-   "date_fin": "2026-11-28",
-   "horaires": "Ganztags",
-   "lieu": "Münsterplatz",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.bs.ch/veranstaltungen/basler-weihnacht",
    "description": null
   }
  ]

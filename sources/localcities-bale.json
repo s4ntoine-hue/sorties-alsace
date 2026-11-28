@@ -2,14 +2,26 @@
  "source": "localcities-bale",
  "nom": "Localcities (Bâle)",
  "pays": "CH",
- "lu_le": "2026-11-27",
+ "lu_le": "2026-11-28",
  "pages": [
   "https://www.localcities.ch/de/veranstaltungen/basel/3681 (jour même uniquement)"
  ],
  "events": [
   {
+   "titre": "Flohmarkt Petersplatz",
+   "date_debut": "2026-11-28",
+   "date_fin": null,
+   "horaires": "07:30-16:00",
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4651557",
+   "description": null
+  },
+  {
    "titre": "Stadtmarkt",
-   "date_debut": "2026-11-27",
+   "date_debut": "2026-11-28",
    "date_fin": null,
    "horaires": "08:00-17:00",
    "lieu": null,
@@ -21,7 +33,7 @@
   },
   {
    "titre": "Vitrinenausstellung - Universitätsbibliothek",
-   "date_debut": "2026-11-27",
+   "date_debut": "2026-11-28",
    "date_fin": null,
    "horaires": "08:00-20:00",
    "lieu": "Universitätsbibliothek (UB)",
@@ -32,20 +44,8 @@
    "description": null
   },
   {
-   "titre": "maxi.musik: Der Josa mit der Zauberfiedel",
-   "date_debut": "2026-11-27",
-   "date_fin": null,
-   "horaires": "09:00-10:00",
-   "lieu": "Theater Basel",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4850487",
-   "description": null
-  },
-  {
    "titre": "Volta Pong",
-   "date_debut": "2026-11-27",
+   "date_debut": "2026-11-28",
    "date_fin": null,
    "horaires": "09:00-00:00",
    "lieu": "Volta Pong",
@@ -56,20 +56,8 @@
    "description": null
   },
   {
-   "titre": "maxi.musik",
-   "date_debut": "2026-11-27",
-   "date_fin": null,
-   "horaires": "09:00-10:00",
-   "lieu": "Theater Basel",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4712611",
-   "description": null
-  },
-  {
    "titre": "Kreativbox",
-   "date_debut": "2026-11-27",
+   "date_debut": "2026-11-28",
    "date_fin": null,
    "horaires": "10:00-17:00",
    "lieu": "Museum der Kulturen Basel",
@@ -81,7 +69,7 @@
   },
   {
    "titre": "GOLD – Glanz und Schattenseiten",
-   "date_debut": "2026-11-27",
+   "date_debut": "2026-11-28",
    "date_fin": null,
    "horaires": "10:00-17:00",
    "lieu": "Museum der Kulturen Basel",
@@ -93,7 +81,7 @@
   },
   {
    "titre": "Die Eule ist pink – farbige Geschichten",
-   "date_debut": "2026-11-27",
+   "date_debut": "2026-11-28",
    "date_fin": null,
    "horaires": "10:00-17:00",
    "lieu": "Museum der Kulturen Basel",
@@ -104,20 +92,32 @@
    "description": null
   },
   {
-   "titre": "Architecture of Memory – Recollecting Spaces",
-   "date_debut": "2026-11-27",
+   "titre": "COL-ART",
+   "date_debut": "2026-11-28",
    "date_fin": null,
-   "horaires": "10:00-18:00",
-   "lieu": "Domushaus EG",
+   "horaires": "10:00-14:00",
+   "lieu": "Galerie NUMAS IGRA",
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
-   "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4908669",
+   "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4912295",
+   "description": null
+  },
+  {
+   "titre": "Bazar der Rudolf Steiner Schule Basel",
+   "date_debut": "2026-11-28",
+   "date_fin": null,
+   "horaires": "10:00-18:00",
+   "lieu": "Rudolf Steiner Schule Basel",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4913029",
    "description": null
   },
   {
    "titre": "Tie-dye: gefaltet, genäht, gefärbt",
-   "date_debut": "2026-11-27",
+   "date_debut": "2026-11-28",
    "date_fin": null,
    "horaires": "10:00-17:00",
    "lieu": "Museum der Kulturen Basel",
@@ -129,7 +129,7 @@
   },
   {
    "titre": "ZUHAUSE - UNTERWEGS - SCHIFFERLEBEN",
-   "date_debut": "2026-11-27",
+   "date_debut": "2026-11-28",
    "date_fin": null,
    "horaires": "10:00-17:00",
    "lieu": "Hafenmuseum",
@@ -140,8 +140,32 @@
    "description": null
   },
   {
+   "titre": "Kunst Handwerk Design Markt Basel",
+   "date_debut": "2026-11-28",
+   "date_fin": null,
+   "horaires": "10:00-19:00",
+   "lieu": "Bürgerliches Waisenhaus Basel",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4897097",
+   "description": null
+  },
+  {
+   "titre": "Bewegliches Vorstellen und Denken durch projektive Geometrie",
+   "date_debut": "2026-11-28",
+   "date_fin": null,
+   "horaires": "10:00-16:00",
+   "lieu": "Philosophicum im Ackermannshof",
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4896937",
+   "description": null
+  },
+  {
    "titre": "Vitrinenausstellung - Historisches Museum",
-   "date_debut": "2026-11-27",
+   "date_debut": "2026-11-28",
    "date_fin": null,
    "horaires": "10:00-17:00",
    "lieu": "Historisches Museum Basel: Barfüsserkirche",
@@ -153,7 +177,7 @@
   },
   {
    "titre": "Dino & Saurier – Lebendige Bilder vergangener Tage",
-   "date_debut": "2026-11-27",
+   "date_debut": "2026-11-28",
    "date_fin": null,
    "horaires": "10:00-17:00",
    "lieu": "Naturhistorisches Museum Basel",
@@ -165,7 +189,7 @@
   },
   {
    "titre": "Freundschaft, Sammeln, Kunstsinn",
-   "date_debut": "2026-11-27",
+   "date_debut": "2026-11-28",
    "date_fin": null,
    "horaires": "10:00-18:00",
    "lieu": "Kunstmuseum Basel | Hauptbau",
@@ -177,7 +201,7 @@
   },
   {
    "titre": "Grafik grenzenlos",
-   "date_debut": "2026-11-27",
+   "date_debut": "2026-11-28",
    "date_fin": null,
    "horaires": "10:00-18:00",
    "lieu": "Kunstmuseum Basel | Hauptbau",
@@ -189,7 +213,7 @@
   },
   {
    "titre": "Van Gogh, Hodler und ein Cabriolet",
-   "date_debut": "2026-11-27",
+   "date_debut": "2026-11-28",
    "date_fin": null,
    "horaires": "10:00-18:00",
    "lieu": "Kunstmuseum Basel",
@@ -201,7 +225,7 @@
   },
   {
    "titre": "Roy Lichtenstein",
-   "date_debut": "2026-11-27",
+   "date_debut": "2026-11-28",
    "date_fin": null,
    "horaires": "10:00-18:00",
    "lieu": "Kunstmuseum Basel",
@@ -209,18 +233,6 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/4594869",
-   "description": null
-  },
-  {
-   "titre": "Alles lebt – mehr als menschliche Welten",
-   "date_debut": "2026-11-27",
-   "date_fin": null,
-   "horaires": "10:00-17:00",
-   "lieu": "Museum der Kulturen Basel",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.localcities.ch/de/veranstaltungen/basel/3681/3075470",
    "description": null
   }
  ]

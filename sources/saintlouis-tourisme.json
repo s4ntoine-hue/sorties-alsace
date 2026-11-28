@@ -2,168 +2,12 @@
  "source": "saintlouis-tourisme",
  "nom": "Saint-Louis Tourisme",
  "pays": "FR",
- "lu_le": "2026-11-27",
+ "lu_le": "2026-11-28",
  "pages": [
   "https://www.saintlouis-tourisme.fr/sortir/agenda/ (pages 1 à 3 sur environ 65)"
  ],
  "note": "Couvre Saint-Louis Agglomération (Huningue, Hégenheim, Blotzheim, Kembs…). Le site propose aussi un filtre Bâle, Lörrach, Weil am Rhein.",
  "events": [
-  {
-   "titre": "Marché",
-   "date_debut": "2026-11-27",
-   "date_fin": null,
-   "horaires": "08h00",
-   "lieu": null,
-   "commune": "Huningue",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/marche/",
-   "description": null
-  },
-  {
-   "titre": "Exposition – Noël en Alsace",
-   "date_debut": "2026-11-27",
-   "date_fin": "2026-11-28",
-   "horaires": "09h00",
-   "lieu": null,
-   "commune": "Huningue",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/exposition-noel-en-alsace/",
-   "description": null
-  },
-  {
-   "titre": "Marché de Noël",
-   "date_debut": "2026-11-27",
-   "date_fin": "2026-11-29",
-   "horaires": "11h00",
-   "lieu": null,
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/marche-de-noel/",
-   "description": null
-  },
-  {
-   "titre": "Exposition « Aurora Király. Parcours de regards » – Fondation Fernet-Branca",
-   "date_debut": "2026-11-27",
-   "date_fin": "2026-11-28",
-   "horaires": "12h00",
-   "lieu": null,
-   "commune": "Saint-Louis",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/exposition-aurora-kiraly-parcours-de-regards-fondation-fernet-branca/",
-   "description": null
-  },
-  {
-   "titre": "Exposition – Les mecs",
-   "date_debut": "2026-11-27",
-   "date_fin": null,
-   "horaires": "13h30",
-   "lieu": null,
-   "commune": "Huningue",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/exposition-les-mecs/",
-   "description": null
-  },
-  {
-   "titre": "Marché",
-   "date_debut": "2026-11-27",
-   "date_fin": null,
-   "horaires": "14h30",
-   "lieu": null,
-   "commune": "Blotzheim",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/marche-5/",
-   "description": null
-  },
-  {
-   "titre": "Marché",
-   "date_debut": "2026-11-27",
-   "date_fin": null,
-   "horaires": "16h00",
-   "lieu": null,
-   "commune": "Leymen",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/marche-7/",
-   "description": null
-  },
-  {
-   "titre": "Marché de Noël",
-   "date_debut": "2026-11-27",
-   "date_fin": "2026-11-29",
-   "horaires": "16h00 (27 et 28 nov.) ; 11h00 (29 nov.)",
-   "lieu": null,
-   "commune": "Rosenau",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/marche-de-noel-12/",
-   "description": null
-  },
-  {
-   "titre": "Marché de Noël",
-   "date_debut": "2026-11-27",
-   "date_fin": "2026-11-28",
-   "horaires": "17h00 (27 nov.) ; 14h00 (28 nov.)",
-   "lieu": null,
-   "commune": "Weil am Rhein",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/marche-de-noel-10/",
-   "description": null
-  },
-  {
-   "titre": "Marché",
-   "date_debut": "2026-11-27",
-   "date_fin": null,
-   "horaires": "17h30",
-   "lieu": null,
-   "commune": "Buschwiller",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/marche-9/",
-   "description": null
-  },
-  {
-   "titre": "Marché de Noël",
-   "date_debut": "2026-11-27",
-   "date_fin": null,
-   "horaires": "19h00",
-   "lieu": null,
-   "commune": "Attenschwiller",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/marche-de-noel-11/",
-   "description": null
-  },
-  {
-   "titre": "Dîner-spectacle – Flashback",
-   "date_debut": "2026-11-27",
-   "date_fin": null,
-   "horaires": "19h30",
-   "lieu": null,
-   "commune": "Blotzheim",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/diner-spectacle-flashback/",
-   "description": null
-  },
-  {
-   "titre": "Cirque – Wolf",
-   "date_debut": "2026-11-27",
-   "date_fin": null,
-   "horaires": "20h00",
-   "lieu": null,
-   "commune": "Saint-Louis",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/cirque-wolf/",
-   "description": null
-  },
   {
    "titre": "Marché",
    "date_debut": "2026-11-28",
@@ -174,6 +18,18 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/marche-3/",
+   "description": null
+  },
+  {
+   "titre": "Exposition – Noël en Alsace",
+   "date_debut": "2026-11-28",
+   "date_fin": null,
+   "horaires": "09h00",
+   "lieu": null,
+   "commune": "Huningue",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/exposition-noel-en-alsace/",
    "description": null
   },
   {
@@ -203,8 +59,32 @@
   {
    "titre": "Marché de Noël",
    "date_debut": "2026-11-28",
-   "date_fin": null,
-   "horaires": "14h00",
+   "date_fin": "2026-12-01",
+   "horaires": "11h00",
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/marche-de-noel/",
+   "description": null
+  },
+  {
+   "titre": "Exposition « Aurora Király. Parcours de regards » – Fondation Fernet-Branca",
+   "date_debut": "2026-11-28",
+   "date_fin": "2026-12-01",
+   "horaires": "12h00",
+   "lieu": null,
+   "commune": "Saint-Louis",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/exposition-aurora-kiraly-parcours-de-regards-fondation-fernet-branca/",
+   "description": null
+  },
+  {
+   "titre": "Marché de Noël",
+   "date_debut": "2026-11-28",
+   "date_fin": "2026-11-29",
+   "horaires": "28 nov. 14h00 ; 29 nov. 11h30",
    "lieu": null,
    "commune": "Landser",
    "categorie": null,
@@ -213,11 +93,23 @@
    "description": null
   },
   {
+   "titre": "Marché de Noël",
+   "date_debut": "2026-11-28",
+   "date_fin": "2026-11-29",
+   "horaires": "28 nov. 14h00 ; 29 nov. 12h00",
+   "lieu": null,
+   "commune": "Weil am Rhein",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/marche-de-noel-10/",
+   "description": null
+  },
+  {
    "titre": "Marché de Noël au château du Landskron",
    "date_debut": "2026-11-28",
    "date_fin": null,
    "horaires": "14h00",
-   "lieu": null,
+   "lieu": "château du Landskron",
    "commune": "Leymen",
    "categorie": null,
    "prix": null,
@@ -234,6 +126,18 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/marche-de-noel-6/",
+   "description": null
+  },
+  {
+   "titre": "Marché de Noël",
+   "date_debut": "2026-11-28",
+   "date_fin": "2026-11-29",
+   "horaires": "28 nov. 16h00 ; 29 nov. 11h00",
+   "lieu": null,
+   "commune": "Rosenau",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/marche-de-noel-12/",
    "description": null
   },
   {
@@ -258,6 +162,30 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/marche-de-noel-7/",
+   "description": null
+  },
+  {
+   "titre": "Concert de l’Avent – Les Amis de l’Orgue",
+   "date_debut": "2026-11-29",
+   "date_fin": null,
+   "horaires": "17h00",
+   "lieu": null,
+   "commune": "Village-Neuf",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/concert-de-lavent-les-amis-de-lorgue/",
+   "description": null
+  },
+  {
+   "titre": "Exposition – Les mecs",
+   "date_debut": "2026-12-01",
+   "date_fin": null,
+   "horaires": "13h30",
+   "lieu": null,
+   "commune": "Huningue",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.saintlouis-tourisme.fr/fete-manifestation/exposition-les-mecs/",
    "description": null
   }
  ]

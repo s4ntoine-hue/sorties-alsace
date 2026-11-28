@@ -1,7 +1,7 @@
 {
  "source": "pass-alsace",
  "nom": "Pass'Alsace",
- "lu_le": "2026-11-27",
+ "lu_le": "2026-11-28",
  "pages": [
   "https://www.pass-alsace.com/agenda-des-evenements (pages 1 à 4)"
  ],
@@ -48,7 +48,7 @@
    "date_debut": "2026-12-03",
    "date_fin": null,
    "horaires": "19:00",
-   "lieu": "Mémorial du camp de concentration de Natzweiler-Struthof, Salle Polyvalente De La Broque",
+   "lieu": "Mémorial du camp de concentration de Natzweiler-Struthof",
    "commune": "La Broque",
    "categorie": "Mémoire",
    "prix": null,

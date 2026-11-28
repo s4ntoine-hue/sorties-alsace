@@ -2,7 +2,7 @@
  "source": "myswitzerland-bale",
  "nom": "MySwitzerland (Bâle)",
  "pays": "CH",
- "lu_le": "2026-11-27",
+ "lu_le": "2026-11-28",
  "pages": [
   "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/manifestations-rechercher/-/bale/ (page 1 sur 12, puis ?p=N)"
  ],
@@ -39,22 +39,10 @@
    "horaires": null,
    "lieu": null,
    "commune": "Bâle",
-   "categorie": null,
+   "categorie": "Exposition temporaire",
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/frank-stella-et-les-synagogues-en-bois-detruites-exposition-temporaire/",
    "description": null
-  },
-  {
-   "titre": "HeavySecond Konzert - Second Self",
-   "date_debut": "2026-11-27",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/heavysecond-konzert-second-self/",
-   "description": "Das Konzert Second Self von HeavySecond verbindet Keyboards, Video, Elektronik, Licht und Musiktheater."
   },
   {
    "titre": "Keep Cool – Comedy Musical",
@@ -97,7 +85,7 @@
    "date_debut": "2026-11-26",
    "date_fin": "2026-12-23",
    "horaires": null,
-   "lieu": "Kunsthalle (cour intérieure)",
+   "lieu": null,
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
@@ -147,7 +135,7 @@
    "horaires": null,
    "lieu": null,
    "commune": "Bâle",
-   "categorie": null,
+   "categorie": "Kabarett",
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/martin-zingsheim-irgendwas-mach-ich-falsch/",
    "description": "Gewitztes und tiefgründiges Kabarett mit einer Brise Musik."
@@ -157,7 +145,7 @@
    "date_debut": "2026-11-27",
    "date_fin": "2026-11-29",
    "horaires": null,
-   "lieu": "Villa, Hardstrasse",
+   "lieu": "la Villa, Hardstrasse",
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
@@ -181,7 +169,7 @@
    "date_debut": "2026-11-20",
    "date_fin": "2027-06-27",
    "horaires": null,
-   "lieu": "Musée d'histoire naturelle",
+   "lieu": "Musée d'histoire naturelle de Bâle",
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
@@ -201,18 +189,6 @@
    "description": "Sur l'arbre à souhaits de la Rümelinsplatz, vous pouvez noter vos vœux de Noël."
   },
   {
-   "titre": "Das Musikzimmer 2026 - Umbesetzt | \"à trois, ou avec tout l'orchestre\"",
-   "date_debut": "2026-11-27",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/das-musikzimmer-2026-umbesetzt-a-trois-ou-avec-tout-lorchestre/",
-   "description": null
-  },
-  {
    "titre": "Rhypark Dinner Show",
    "date_debut": "2026-11-20",
    "date_fin": "2027-01-10",
@@ -222,30 +198,6 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/rhypark-dinner-show/",
-   "description": null
-  },
-  {
-   "titre": "Discofox-Abend in Mila's Bistro – Tanzworkshop, Apéro & Party",
-   "date_debut": "2026-11-27",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": "Mila's Bistro",
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/discofoxabend-in-milas-bistro-tanzworkshop-apero-party/",
-   "description": null
-  },
-  {
-   "titre": "Filmfestival FRAUENSTARK 2026 - Truck Mama",
-   "date_debut": "2026-11-27",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/filmfestival-frauenstark-2026-truck-mama/",
    "description": null
   },
   {
@@ -265,7 +217,7 @@
    "date_debut": "2026-09-15",
    "date_fin": "2027-03-16",
    "horaires": null,
-   "lieu": "Universitätsbibliothek (UB)",
+   "lieu": null,
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
@@ -277,7 +229,7 @@
    "date_debut": "2026-10-19",
    "date_fin": "2027-04-18",
    "horaires": null,
-   "lieu": "Historisches Museum",
+   "lieu": null,
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
@@ -289,7 +241,7 @@
    "date_debut": "2026-08-28",
    "date_fin": "2026-12-18",
    "horaires": null,
-   "lieu": "Basler Papiermühle",
+   "lieu": null,
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
@@ -306,18 +258,6 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/christoph-voy-my-degeneration/",
-   "description": null
-  },
-  {
-   "titre": "Fredy Schär - UnverSchä®mt",
-   "date_debut": "2026-11-27",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/fredy-schaer-unverschaemt/",
    "description": null
   },
   {
@@ -349,7 +289,7 @@
    "date_debut": "2026-11-18",
    "date_fin": "2027-01-02",
    "horaires": null,
-   "lieu": "Fauteuil",
+   "lieu": null,
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
@@ -361,7 +301,7 @@
    "date_debut": "2026-11-20",
    "date_fin": "2027-01-10",
    "horaires": null,
-   "lieu": "Rosentalanlage",
+   "lieu": null,
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
@@ -381,23 +321,11 @@
    "description": "Stadtführung durch Basel zu Herkunft, Einfluss und Eigenheiten des «Basler Daigs»."
   },
   {
-   "titre": "Dégustation de champagnes et de vins mousseux",
-   "date_debut": "2026-11-27",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/liquid-tasting-champagner-schaumweine/",
-   "description": null
-  },
-  {
    "titre": "Basler Wienachtsdorf am Theaterplatz",
    "date_debut": "2026-11-26",
    "date_fin": "2027-01-03",
    "horaires": null,
-   "lieu": "Theaterplatz",
+   "lieu": null,
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
@@ -429,18 +357,6 @@
    "description": null
   },
   {
-   "titre": "Bach & Händel vielsaitig Stimme als Instrument, Instrument als Stimme",
-   "date_debut": "2026-11-27",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/bach-haendel-vielsaitig-stimme-als-instrument-instrument-als-stimme/",
-   "description": null
-  },
-  {
    "titre": "LivingArt",
    "date_debut": "2026-11-27",
    "date_fin": "2026-11-29",
@@ -465,40 +381,16 @@
    "description": null
   },
   {
-   "titre": "JAPANISCHER WEIHNACHTSMARKT IN BASEL 2026 「一日だけのにほんクリスマスマーケット」",
-   "date_debut": "2026-11-28",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/japanischer-weihnachtsmarkt-in-basel-2026/",
-   "description": null
-  },
-  {
    "titre": "Zauberhof Haus zum Kirschgarten - Le jardin des contes",
    "date_debut": "2026-11-28",
    "date_fin": "2026-12-23",
    "horaires": null,
-   "lieu": "Haus zum Kirschgarten",
+   "lieu": null,
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/zauberhof-haus-zum-kirschgarten-le-jardin-des-contes/",
    "description": "Au « Zauberhof Haus zum Kirschgarten », les histoires prennent vie."
-  },
-  {
-   "titre": "Appetizer! Konzerte laden ein: Fantastischer César Franck",
-   "date_debut": "2026-11-28",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/appetizer-konzerte-laden-ein-fantastischer-cesar-franck/",
-   "description": "« Appetizer ! » : des concerts à l'orgue pour l'apéritif."
   },
   {
    "titre": "Appetizer! Konzerte zum Apéro auf der Orgel am letzten Samstag des Monats",
@@ -510,18 +402,6 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/appetizer-konzerte-zum-apero-auf-der-orgel-am-letzten-samstag-des-monats-1/",
-   "description": null
-  },
-  {
-   "titre": "Konzert - Streichorchester trifft Marimba",
-   "date_debut": "2026-11-28",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/konzert-streichorchester-trifft-marimba/",
    "description": null
   },
   {
@@ -561,18 +441,6 @@
    "description": null
   },
   {
-   "titre": "Comedy Kiss Presents: Dan Pulzello - Comedy in US English",
-   "date_debut": "2026-11-28",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/comedy-kiss-presents-dan-pulzello-comedy-in-us-english-1/",
-   "description": null
-  },
-  {
    "titre": "Wenn ich hier bin",
    "date_debut": "2026-11-28",
    "date_fin": "2027-03-21",
@@ -597,18 +465,6 @@
    "description": null
   },
   {
-   "titre": "Filmfestival FRAUENSTARK 2026 - Mother's Baby",
-   "date_debut": "2026-11-28",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/filmfestival-frauenstark-2026-mothers-baby/",
-   "description": null
-  },
-  {
    "titre": "«Nächstes Jahr in Krakau!» – Vernissage",
    "date_debut": "2026-11-21",
    "date_fin": "2027-01-31",
@@ -618,18 +474,6 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/naechstes-jahr-in-krakau-vernissage/",
-   "description": null
-  },
-  {
-   "titre": "Wenn Frau will, steht alles still",
-   "date_debut": "2026-11-28",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/wenn-frau-will-steht-alles-still/",
    "description": null
   },
   {
@@ -661,7 +505,7 @@
    "date_debut": "2026-10-24",
    "date_fin": "2027-02-06",
    "horaires": null,
-   "lieu": "Fauteuil",
+   "lieu": null,
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
@@ -673,35 +517,11 @@
    "date_debut": "2026-11-28",
    "date_fin": "2026-11-29",
    "horaires": null,
-   "lieu": "Cathédrale de Bâle",
+   "lieu": null,
    "commune": "Bâle",
    "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/basler-gospelnacht/",
-   "description": null
-  },
-  {
-   "titre": "Jenseits – Basel Sinfonietta",
-   "date_debut": "2026-11-28",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/basel-sinfonietta-1/",
-   "description": null
-  },
-  {
-   "titre": "Big Sound Orchestra featuring Ludwig Nuss & Dave Horler",
-   "date_debut": "2026-11-28",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Bâle",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/big-sound-orchestra-featuring-ludwig-nuss-dave-horler-1/",
    "description": null
   },
   {
@@ -726,6 +546,102 @@
    "categorie": null,
    "prix": null,
    "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/basel-auf-dem-teller-kulinarische-stadtgeschichten/",
+   "description": null
+  },
+  {
+   "titre": "JAPANISCHER WEIHNACHTSMARKT IN BASEL 2026 「一日だけのにほんクリスマスマーケット」",
+   "date_debut": "2026-11-28",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/japanischer-weihnachtsmarkt-in-basel-2026/",
+   "description": null
+  },
+  {
+   "titre": "Appetizer! Konzerte laden ein: Fantastischer César Franck",
+   "date_debut": "2026-11-28",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/appetizer-konzerte-laden-ein-fantastischer-cesar-franck/",
+   "description": "« Appetizer ! » : des concerts à l'orgue pour l'apéritif."
+  },
+  {
+   "titre": "Konzert - Streichorchester trifft Marimba",
+   "date_debut": "2026-11-28",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/konzert-streichorchester-trifft-marimba/",
+   "description": null
+  },
+  {
+   "titre": "Comedy Kiss Presents: Dan Pulzello - Comedy in US English",
+   "date_debut": "2026-11-28",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/comedy-kiss-presents-dan-pulzello-comedy-in-us-english-1/",
+   "description": null
+  },
+  {
+   "titre": "Filmfestival FRAUENSTARK 2026 - Mother's Baby",
+   "date_debut": "2026-11-28",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/filmfestival-frauenstark-2026-mothers-baby/",
+   "description": null
+  },
+  {
+   "titre": "Wenn Frau will, steht alles still",
+   "date_debut": "2026-11-28",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/wenn-frau-will-steht-alles-still/",
+   "description": null
+  },
+  {
+   "titre": "Jenseits – Basel Sinfonietta",
+   "date_debut": "2026-11-28",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/basel-sinfonietta-1/",
+   "description": null
+  },
+  {
+   "titre": "Big Sound Orchestra featuring Ludwig Nuss & Dave Horler",
+   "date_debut": "2026-11-28",
+   "date_fin": null,
+   "horaires": null,
+   "lieu": null,
+   "commune": "Bâle",
+   "categorie": null,
+   "prix": null,
+   "url": "https://www.myswitzerland.com/fr-fr/decouvrir/manifestations/big-sound-orchestra-featuring-ludwig-nuss-dave-horler-1/",
    "description": null
   },
   {

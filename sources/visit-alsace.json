@@ -1,7 +1,7 @@
 {
  "source": "visit-alsace",
  "nom": "Visit Alsace",
- "lu_le": "2026-11-27",
+ "lu_le": "2026-11-28",
  "pages": [
   "https://www.visit.alsace/agenda-sorties-evenements/",
   "…/page/2/",
@@ -9,20 +9,8 @@
  ],
  "events": [
   {
-   "titre": "R’âges",
-   "date_debut": "2026-11-27",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": "Espace Malraux",
-   "commune": "Geispolsheim",
-   "categorie": "Bal/danse",
-   "prix": null,
-   "url": "https://www.visit.alsace/sit/205093483-rages/",
-   "description": null
-  },
-  {
    "titre": "Strasbourg, capitale de Noël",
-   "date_debut": "2026-11-27",
+   "date_debut": "2026-11-28",
    "date_fin": null,
    "horaires": null,
    "lieu": null,
@@ -30,126 +18,6 @@
    "categorie": "Marché ponctuel (à thème, estival, Noël …)",
    "prix": null,
    "url": "https://www.visit.alsace/sit/223012607-strasbourg-capitale-de-noel/",
-   "description": null
-  },
-  {
-   "titre": "Centenaire des travaux de restauration du pilier de la tour de la cathédrale",
-   "date_debut": "2026-11-27",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Strasbourg",
-   "categorie": "Exposition",
-   "prix": null,
-   "url": "https://www.visit.alsace/sit/223014110-centenaire-des-travaux-de-restauration-du-pilier-de-la-tour-de-la-cathedrale/",
-   "description": null
-  },
-  {
-   "titre": "Une photographe révélée",
-   "date_debut": "2026-11-27",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Strasbourg",
-   "categorie": "Exposition",
-   "prix": null,
-   "url": "https://www.visit.alsace/sit/205093082-une-photographe-revelee/",
-   "description": null
-  },
-  {
-   "titre": "La littérature jeunesse soviétique, entre distraction et propagande",
-   "date_debut": "2026-11-27",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Strasbourg",
-   "categorie": "Animation littéraire",
-   "prix": null,
-   "url": "https://www.visit.alsace/sit/205093294-la-litterature-jeunesse-sovietique-entre-distraction-et-propagande/",
-   "description": null
-  },
-  {
-   "titre": "Fais péter les ouates",
-   "date_debut": "2026-11-27",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Strasbourg",
-   "categorie": "Animation littéraire",
-   "prix": null,
-   "url": "https://www.visit.alsace/sit/205089714-fais-peter-les-ouates/",
-   "description": null
-  },
-  {
-   "titre": "Noël au Pays de Thann Cernay",
-   "date_debut": "2026-11-27",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Pays de Thann-Cernay",
-   "categorie": "Fête traditionnelle alsacienne",
-   "prix": null,
-   "url": "https://www.visit.alsace/sit/239006382-noel-au-pays-de-thann-cernay/",
-   "description": null
-  },
-  {
-   "titre": "Visites guidée de Mittelbergheim et son musée viticole",
-   "date_debut": "2026-11-27",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Mittelbergheim",
-   "categorie": "Visite guidée",
-   "prix": null,
-   "url": "https://www.visit.alsace/sit/213012602-visites-guidee-de-mittelbergheim-et-son-musee-viticole/",
-   "description": null
-  },
-  {
-   "titre": "Midi-sandwich",
-   "date_debut": "2026-11-27",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": "Le Maillon — Théâtre de Strasbourg",
-   "commune": "Strasbourg",
-   "categorie": "Théâtre",
-   "prix": null,
-   "url": "https://www.visit.alsace/sit/205090382-midi-sandwich/",
-   "description": null
-  },
-  {
-   "titre": "A la découverte du Grand Cru Sonnenglanz - Visite et dégustation au cœur du vignoble",
-   "date_debut": "2026-11-27",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Beblenheim",
-   "categorie": null,
-   "prix": null,
-   "url": "https://www.visit.alsace/sit/229008331-a-la-decouverte-du-grand-cru-sonnenglanz-visite-et-degustation-au-coeur-du-vignoble/",
-   "description": null
-  },
-  {
-   "titre": "La Vie Parisienne",
-   "date_debut": "2026-11-27",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": "L'Illiade",
-   "commune": "Illkirch-Graffenstaden",
-   "categorie": "Concert",
-   "prix": null,
-   "url": "https://www.visit.alsace/sit/205090384-la-vie-parisienne/",
-   "description": null
-  },
-  {
-   "titre": "NOUVELLE EXPOSITION SUR L’HISTOIRE DE L’IRLANDE",
-   "date_debut": "2026-11-27",
-   "date_fin": null,
-   "horaires": null,
-   "lieu": null,
-   "commune": "Strasbourg",
-   "categorie": "Culture",
-   "prix": null,
-   "url": "https://www.visit.alsace/sit/205090045-nouvelle-exposition-sur-lhistoire-de-lirlande/",
    "description": null
   }
  ]

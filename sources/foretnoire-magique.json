@@ -2,20 +2,20 @@
  "source": "foretnoire-magique",
  "nom": "Forêt-Noire magique",
  "pays": "DE",
- "lu_le": "2026-11-27",
+ "lu_le": "2026-11-28",
  "pages": [
   "https://www.foretnoire-magique.fr/lexperience/evenements"
  ],
  "note": "Grands événements de la Forêt-Noire ; seuls ceux du sud (Fribourg, Hochschwarzwald, Bad Dürrheim) sont gardés.",
  "events": [
   {
-   "titre": "51. Bad Dürrheimer Christkindlemarkt",
+   "titre": "51. Bad Dürrheimer Christkindle-markt",
    "date_debut": "2026-11-28",
    "date_fin": "2026-11-29",
    "horaires": null,
    "lieu": null,
    "commune": "Bad Dürrheim",
-   "categorie": null,
+   "categorie": "Marché de Noël",
    "prix": null,
    "url": "https://www.schwarzwald-tourismus.info/veranstaltungen/51.-bad-duerrheimer-christkindlemarkt-d1de014244",
    "description": null,
@@ -28,14 +28,14 @@
    "horaires": null,
    "lieu": null,
    "commune": "Fribourg-en-Brisgau",
-   "categorie": null,
+   "categorie": "Marché de Noël",
    "prix": null,
    "url": "https://weihnachtsmarkt.freiburg.de/fr/",
    "description": null,
    "pays": "DE"
   },
   {
-   "titre": "Weltcup Skispringen Hochschwarzwald (Coupe du monde FIS de saut à ski à Titisee-Neustadt)",
+   "titre": "Weltcup Skispringen Hochschwarzwald",
    "date_debut": "2026-12-11",
    "date_fin": "2026-12-13",
    "horaires": null,
